@@ -14,16 +14,6 @@ Metaphilosophical Criteria for Worldview Comparison Clément Vidal
 
 
 
-> "4. How Is Attention Switched between Objects?
->
-> 4.1. Active Inference Requires Attention
->
-> Active inference, at its most basic, is a trade-off between acting on the environment to meet expectations and learning from the environment to modify expectations. Even with only a single stimulus, and hence a single component for which environmental variational free energy (VFE) is measured, the importance—encoded in the theory as Bayesian precision—placed on input versus expected values affects the balance between expectation-meeting and expectation-updating. Action on the environment can, moreover, include both exploitative actions that meet current expectations and exploratory actions that increase the probability of learning. Enacting these distinctions requires a prioritization or attention system. Spreading VFE across multiple distinguishable stimuli increases the need for attention to allocate exploitative, exploratory, or passive learning resources. Even in E. coli, competition among chemoreceptors for control of flagellar motion implements a rudimentary form of attention.
->
-> ... 5.2. Experiential Memories and Learning
->
-> Learning is ubiquitous in animals. It has also been demonstrated in paramecia and in slime molds such as physarum, and possibly in plants; hence learning does not require neurons, let alone networks of neurons. Learning can adjust the salience of stimuli, modify the responses to stimuli, and at least in birds and mammals, introduce novel categories and hence induce the construction of novel RFs. While in many cases learning requires multiple exposures or extended experience with a stimulus, birds and mammals at least are also capable of one-shot learning. Episodic memories in humans, for example, are all results of one-shot learning: each records a single, specific event." - [How Do Living Systems Create Meaning? by Chris Fields & Michael Levin](https://www.mdpi.com/2409-9287/5/4/36)
-
 
 > "We need to update “put yourself in their shoes” to “put yourself in their algorithm”" - [Liv Boeree](https://x.com/Liv_Boeree/status/1956468468905070783)
 
@@ -6973,15 +6963,6 @@ distributed cognition and self-organization
 
 
 
-> "... there are no dumb parts in biology, because it is cognition all the way down. Biology does not obey the dualistic, binary distinctions that have held back both mechanist and organicist thought for centuries. We show how life has agency all the way down, and every level of organization not only accommodates but actively exploits the agential nature of its components... we cannot engineer living materials the way we have been engineering passive matter for thousands of years – living matter has agendas, and competencies. That leads to the good news: instead of the impossible task of micromanaging cells and tissues, we can exploit and extend their innate capabilities, making use of the same co-creative strategies that underlie the multiscale competency architecture of life.
->
-> ... Life functions as a multiscale competency architecture which is not merely nested structurally into different scales, but has active agendas at each level; their autonomy is harnessed and integrated toward the goals of larger levels of which the parts have no knowledge by bending the energy landscape of parts to serve a collective.
->
-> ... Information processed by the electrical network of neurons is widely understood as providing the “cognitive glue” – mechanisms and policies of interactions between cells that allow animals to have goals, preferences, and memories that do not belong to any of the individual cells. In other words, it enables coordination and alignment of components toward a whole that operates in new problem spaces... Crucially, bioelectric networks are not just a communication medium for cells: much as they do in both cognitive science and computer architectures, they establish an excitable medium within which instructive information patterns can interact and compete for the opportunity to express as phenotypic outputs... This battle of anatomical models of the future (morphogenetic goal states) can be seen as a communication and signaling process between groups of cells, or, as competition between patterns encoding goal states within a medium.
->
-> ... The creative interpretation of physically encoded information is a key part of the cognition all the way down formalism, unifying the plasticity of brain-based behaviors in 3D space with that of generic cell groups in anatomical space in developmental contexts. In all such cases, living material is simultaneously solving problems at several levels of organization and scale, which requires higher levels to distort the option landscape for their parts so that active agents at the lower scale are aligned and act toward setpoints in the higher level’s space. The relationship between one level and the next is precisely the kind of compression/decompression that involves a degree of context-sensitive confabulation, and a degree of locally-mechanistic necessity." - [Machines All the Way Up and Cognition All the Way Down: Updating the machine metaphor in biology, by Michael Levin & Richard Watson](https://osf.io/preprints/osf/jwhr7_v2)
-
-
 on our irrationality and broken pre-scientific epistemology that is the default in society
 
 > "**The truth is not the default**
@@ -7016,7 +6997,7 @@ on our irrationality and broken pre-scientific epistemology that is the default 
 
 > "Musk now controls that which mediates attention, encodes memory, establishes relevance, and shapes emotion for a substantial proportion of the human biological substrate." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1965881866508275784)
 
-
+> "We need better tools for *self-organization* and durable knowledge production, not opaque background shuffling with a facade of continuously hollow promises used to extract our attention and data, leaving us little to show for it other than the weights in Grok’s neural net. More emergent catalysis. Less transformation of the user base into data livestock." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1969082717976609195)
 
 
 

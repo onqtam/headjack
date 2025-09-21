@@ -3,11 +3,17 @@ START HERE
 
 # How to read this book
 
-This book presents itself to you as a fractal - nested levels of detail depending on your interests and time
+## The Fractal Nature of This Book
+
+This book presents itself to you as a fractal - nested levels of detail depending on your interests and time.
+    Even putting parts of quotes in bold helps to guide one's attention to the most important bits first, but then you get curious why the other parts were not put in bold and you read them you'll realize they're just as important.
+
+
+
 
 make a diagram with all the titles and how some of them connect to different aspects of the last chapter "as a service"
 
-> "Unfortunately, no one can be told what the *~~Matrix~~* **Global Brain** is. You have to *~~see~~* **read** it for yourself." - [Morpheus, The Matrix](https://www.imdb.com/title/tt0133093/quotes/?item=qt0324246&ref_=ext_shr_lnk), probably
+> "Unfortunately, no one can be told what the *~~Matrix~~* **WHATEVER THIS THING IS** is. You have to *~~see~~* **read** it for yourself." - [Morpheus, The Matrix](https://www.imdb.com/title/tt0133093/quotes/?item=qt0324246&ref_=ext_shr_lnk), probably
 
 This is going to provoke you. Feel free to stop reading the moment you see some actual inconsistency or something very illogical, but unless you encounter such a thing, keep reading. We will deliver on every single one of these titles - no exception. By the time you're done with the book you'll agree with all of them too.
 
