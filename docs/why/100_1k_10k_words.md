@@ -207,10 +207,12 @@ Solve [Collective] Intelligence, and then use that to solve everything else
 Organizing the world's information, but for real
     Google failed - they merely indexed it, but not organize it
     google have failed with their mission - they have not organized the world's information - they have merely ranked it - organization is much deeper and more profound - the internet is a cacophony and a mess as much as ever
-Cultural (R)Evolution
+Cultural *~~(R)~~*Evolution
 Cultural Enlightenment or Bust
     > "It's cultural enlightenment or bust, as far as I'm concerned." - [Daniel Schmachtenberger](https://youtu.be/YPJug0s2u4w?t=6760)
 The One
+A Dent in the Universe
+    > "We’re here to put a dent in the universe. Otherwise why else even be here?" - [Steve Jobs](https://www.goodreads.com/quotes/950437-we-re-here-to-put-a-dent-in-the-universe-otherwise)
 The Greatest Reset
 E pluribus unum - From many, one
 Signal from noise

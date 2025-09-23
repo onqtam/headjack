@@ -145,8 +145,6 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
 > "Don’t you see how much you have to offer? And yet you still settle for less." - [Marcus Aurelius](https://twitter.com/dailystoic/status/1712226590820884674)
 
-> "We’re here to put a dent in the universe. Otherwise why else even be here?" - [Steve Jobs](https://www.goodreads.com/quotes/950437-we-re-here-to-put-a-dent-in-the-universe-otherwise)
-
 > "We are called to be the architects of the future, not its victims." - [R. Buckminster Fuller](https://www.goodreads.com/quotes/7799934-we-are-called-to-be-the-architects-of-the-future)
 
 > "When you get a new worldview you get a new world. It's like the shift from medieval Christianity to the Renaissance and enlightenment." - [Barbara Marx Hubbard](https://www.azquotes.com/quote/1468497)

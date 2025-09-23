@@ -75,6 +75,10 @@ Because there's nothing we could add to the discussion. We stay in our lane of c
 
 What we can do, however, is help shift the conversation more towards an architecture for collective intelligence. We're interested in a system to better make sense of situations such as the one we find ourselves in regards to AI. We're interested in the meta solution for social problems & organization.
 
+## Why isn't there more on the negatives of current social media?
+
+Because that horse has been beaten to death (and yet is still alive and kicking!). Plenty of people have covered the topic extensively - The Social Dilemma, Tristan Harris, The Age of Surveillance Capitalism, Jaron Lanier, etc.
+
 ## This can't possibly work! How will X work?
 
 Will this work? No clue. But what we can say with 100% confidence that we must try to create a better system than the current one.

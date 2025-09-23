@@ -492,6 +492,11 @@ Forgiveness as part of the optimal game-theoretic strategy
 > "" - [, by Gregg Henriques]()
 
 
+> "... info finance is a discipline where you (i) start from a fact that you want to know, and then (ii) deliberately design a market to optimally elicit that information from market participants.
+>
+> One example of this is prediction markets: you want to know a specific fact that will take place in the future, and so you set up a market for people to bet on that fact. Another example is decision markets: you want to know whether decision A or decision B will produce a better outcome according to some metric M. To achieve this, you set up conditional markets: you ask people to bet on (i) which decision will be chosen, (ii) value of M if decision A is chosen, otherwise zero, (iii) value of M if decision B is chosen, otherwise zero. Given these three variables, you can figure out if the market thinks decision A or decision B is more bullish for the value of M." - [From prediction markets to info finance, by Vitalik Buterin](https://vitalik.eth.limo/general/2024/11/09/infofinance.html)
+
+
 
 > "" - []()
 
@@ -503,6 +508,8 @@ Forgiveness as part of the optimal game-theoretic strategy
 
 > "" - []()
 
+
+“Not everything that is faced can be changed, but nothing can be changed until it is faced.” – James Baldwin
 
 
 preserving health, increasing integration & freedom
