@@ -485,6 +485,10 @@ not sure this is important enough
 
 > "Your brain naturally filters possibilities through what cognitive scientists call "structure of possibility"—a framework that helps you focus on scenarios that are both relevant and probable." - [John Vervaeke](https://x.com/DrJohnVervaeke/status/1880985033319633314)
 
+opportunity overload
+
+> "Whatever the type of action you are considering, the number of possibilities has in practice become endless. This makes it ever more difficult to make a motivated choice among the alternatives. We may call this the problem of opportunity overload." - [Complexity and Information Overload in Society: why increasing efficiency leads to decreasing control, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Info-overload.pdf)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Agency
 ██████████████████████████████████████████████████████████████████

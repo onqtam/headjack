@@ -222,6 +222,12 @@ https://unchartedterritories.tomaspueyo.com/p/history-network-effects
 
 
 
+deep and broad causal chains, information overload
+
+> "**If causal chains travel more far and wide, we also need to keep more broadly informed about the remote causes of those chains.** So, although we may wish to limit our intake of information, ephemeralization forces us to pay attention to ever more data. The problem is that people have clear limits in the amount of information they can process. To use Simon’s well-known phrase, they have bounded rationality. The best known limitation is the "magical number" that governs short-term memory: the psychologist Miller has shown that people can only keep some seven items at once in their working memory." - [Complexity and Information Overload in Society: why increasing efficiency leads to decreasing control, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Info-overload.pdf)
+
+
+
 
 > "And, worse yet, we have the cows now in Kansas on these CAFOs, concentrated animal feeding operations where all the cattle are basically in pens and can't move. And so, they're all lying in their own excrement and they're eating corn, which is not high in legumes, is not high in some of the compounds that are needed for immunologic competency. So, these cows get sick very easily. And so what happens? The cattlemen have to give the cows shots of antibiotics. So, virtually all of the CAFO-treated meat that we consume in this country is all antibiotic laden. So, what are those antibiotics doing? Does that carry over into our gut microbiome and disrupt it? Absolutely. And it disrupts the cow's microbiome. So, it kills off the good beneficial bacteria in the cow's microbiome and allows the methanogens, the methane-producing bacteria to basically take over. So, each cow today is making six times the methane than they did in 1968." - [Robert Lustig](https://youtu.be/onVqjZOYlQs?t=3599)
 

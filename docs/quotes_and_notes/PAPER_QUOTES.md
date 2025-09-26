@@ -213,14 +213,6 @@ Massachusetts Institute of Technology
 
 
 
-Self-organizing communities of knowledge can be aided with better analysis (clustering, hubs, average distances). This would help both with detecting what's currently most authoritative and what might be in the future. We can consciously guide and influence the direction of the emergent regulation.
-
-> "The emergence of a new scientific domain is a good example of the self-organization of such a community of knowledge, where people from initially diverse backgrounds find each other around a common interest, which gradually coalesces into a new paradigm. This process could be observed by mapping the network of authors, publications and keywords in a particular domain at regular intervals (e.g. every 2-5 years), and analyzing it in terms of clustering, hubs, average distances, etc. The change of these features over time may show processes of self-organization taking place. A good theory of the self-organization of knowledge communities would propose a number of processes and parameters that allow us to predict where, when and how such self-organization is most likely to take place. Such a theory would help us to find not only the presently most authoritative concepts, publications or authors (hubs), but those that are likely to become so in the future. This would provide a very powerful instrument to uncover emerging trends and to direct attention and investment towards the most promising people, ideas and information sources.
->
-> ... While we cannot truly control a complex system, it tends to self-organize to a state where it regulates itself. This state tends to increase the utility or fitness of the system’s active components or agents, by coordinating their interactions so as to maximize synergy. The resulting organization is distributed over all the agents and their interactions, and thus much more robust and flexible than any centralized design. Moreover, it determines a number of emergent, global properties that cannot be reduced to the properties of the individual components. By understanding the underlying mechanisms, we may be able to facilitate and stimulate such self-organization, or to drive it in one direction rather than another." - [Complexity and Self-organization, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ELIS-complexity.pdf)
-
-
-
 > "When synergy is symmetric, meaning that it benefits both parties to a similar degree, we will call the interaction cooperation. When it is asymmetric, in the sense that one party derives benefit more systematically than the other, we may call it cultivation: the “cultivator” farms, breeds or cultures the other party in order to directly extract benefit from it, but at the same time indirectly helping it to prosper." - [Mediator Evolution: a general scenario for the origin of dynamical hierarchies, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/MediatorEvolution.pdf)
 
 the problem of free riders and the need for control
@@ -263,10 +255,6 @@ TODO continue 3rd paragraph...
 
 
 
-
-> "If causal chains travel more far and wide, we also need to keep more broadly informed about the remote causes of those chains. So, although we may wish to limit our intake of information, ephemeralization forces us to pay attention to ever more data. The problem is that people have clear limits in the amount of information they can process. To use Simon’s well-known phrase, they have bounded rationality. The best known limitation is the "magical number" that governs short-term memory: the psychologist Miller has shown that people can only keep some seven items at once in their working memory." - [Complexity and Information Overload in Society: why increasing efficiency leads to decreasing control, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Info-overload.pdf)
-
-> "Whatever the type of action you are considering, the number of possibilities has in practice become endless. This makes it ever more difficult to make a motivated choice among the alternatives. We may call this the problem of opportunity overload." - [Complexity and Information Overload in Society: why increasing efficiency leads to decreasing control, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Info-overload.pdf)
 
 > "Problems of scarcity are fundamentally addressed by economics, which is the study of how scarce resources can be allocated most efficiently. At the most basic level, “economy” means simply the careful management of resources, so that as little as possible is wasted. From this point of view, individuals should learn to optimally spend the limited amount of attention they have, by investing it only in the most worthwhile items." - [Tackling Complexity and Information Overload: intelligence amplification, attention economy and the global brain, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Info-overload.pdf)
 
