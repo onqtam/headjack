@@ -2,12 +2,6 @@
 
 ~~Bitcoin~~ Headjack fixes this.
 
-<!--
-alternative titles:
-"Crowds and power"
-
--->
-
 > "The body cannot live without the mind." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/1158662-the-body-cannot-live-without-the-mind-morpheus-the-matrix)
 
 Symbiotic intelligence = collective + artificial
@@ -152,21 +146,13 @@ https://www.goodreads.com/book/show/32336635-the-enigma-of-reason
 
 > "... the besetting danger is not so much of embracing falsehood for truth, as of mistaking part of the truth for the whole. It might be plausibly maintained that in almost every one of the leading controversies, past or present, in social philosophy, both sides were in the right in what they affirmed, though wrong in what they denied; and that if either could have been made to take the other’s views in addition to its own, little more would have been needed to make its doctrine correct." - [John Stuart Mill](https://www.goodreads.com/quotes/7916323-all-students-of-man-and-society-who-possess-that-first)
 
-██████████████████████████████████████████████████████████████████
-# SECTION: group think
-██████████████████████████████████████████████████████████████████
-
-> "In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule." - [Friedrich Nietzsche](https://www.goodreads.com/quotes/2137-in-individuals-insanity-is-rare-but-in-groups-parties-nations)
-
-> "The only way to test a hypothesis is to look for all the information that disagrees with it." - [Karl Popper](https://www.azquotes.com/quote/1407281)
-
-> "The growth of knowledge depends entirely upon disagreement." - [Karl Popper](https://www.azquotes.com/quote/1268891)
-
 
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Multiperspectival viewing
 ██████████████████████████████████████████████████████████████████
+
+> "We need to update “put yourself in their shoes” to “put yourself in their algorithm”" - [Liv Boeree](https://x.com/Liv_Boeree/status/1956468468905070783)
 
 Jainism’s anekantavada (non-absolutism), which teaches that no single perspective can reveal the full truth
 
@@ -206,6 +192,8 @@ We need to define the language of the internet so that we may aggregate and inte
 # SECTION: Causality
 ██████████████████████████████████████████████████████████████████
 
+"Things are the way they are because they got that way." - Gerald Weinberg
+
 > "All models are wrong, but some are useful." - [George E. P. Box](https://en.wikipedia.org/wiki/All_models_are_wrong)
 
 > "The complexity and noise permeating any real causal nexus generates a fog of uncertainty. Slight biases in causal attribution, or in blameworthiness (e.g., sins of commission are worse than sins of omission) allow a stable niche for extracting undeserved credit or targeting undeserved blame. If the patient recovers, it was due to my heroic efforts; if not, the underlying disease was too severe. If it weren't for my macroeconomic policy, the economy would be even worse. The abandonment of moral warfare, and a wider appreciation of nexus causality and misattribution arbitrage would help us all shed at least some of the destructive delusions that cost humanity so much." - [John Tooby](https://www.edge.org/response-detail/11211#:~:text=The%20complexity%20and,humanity%20so%20much.)
@@ -218,8 +206,6 @@ influence, incenives & causality throughout our societies need to be mapped out 
 the better we causally map reality, the better we'd navigate and realize what is relevant
 
 we need a holistic view of the inerconnectedness of our civilization
-
-> "Of course, our failures are a consequence of many factors, but possibly one of the most important is the fact that society operates on the theory that specialization is the key to success, not realizing that specialization precludes comprehensive thinking." - [R. Buckminster Fuller](https://www.azquotes.com/quote/826673)
 
 > "Ecology is the science of understanding consequences." - [somebody](http://www.sinanvural.com/seksek/inien/tvd/tvd2.htm#:~:text=ecology%20is%20the%20science%20of%20understanding%20consequences.)
 
@@ -249,8 +235,7 @@ https://unchartedterritories.tomaspueyo.com/p/history-network-effects
 > "If there’s one perspective we desperately need in today’s world, it’s a systemic view. But what exactly is a systemic view? In simple terms, it’s the opportunity to truly understand a system — its components, interactions, and underlying patterns. It’s not just about the elements within a system, but what happens in the dynamic relationships between these elements." - [The State of the World - Designing the Third Attractor, by Ernesto van Peborgh](https://ernesto-87727.medium.com/designing-the-third-attractor-93a76bc6800b#:~:text=If%20there%E2%80%99s%20one,between%20these%20elements.)
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Neuron
-You’re a Neuron
+# SECTION: You’re a Neuron
 ██████████████████████████████████████████████████████████████████
 
 <img src="/img/you_are_a_neuron_by_tomas_pueyo.png"/>
@@ -401,7 +386,7 @@ accelerating evolution
 </p></details>
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Self-organization in Communicating Groups
+# SECTION: Self-Organization in Communicating Groups
 ██████████████████████████████████████████████████████████████████
 
 
@@ -457,7 +442,7 @@ accelerating evolution
 >
 > The averaging method only works for quantitative decisions. Some of the most common methods, such as discussion in committee meetings, do not obey the criteria of independence and decentralization, and therefore may lead to poor results. The result can be improved if the different members express their opinions independently and anonymously (e.g. on a computersupported discussion system) before they start responding to the opinions of others, and if the discussion is guided by a neutral moderator, who ensures that everybody duly answers all the important questions, and responds to criticisms of their previous answers. The anonymity makes sure that everybody’s ideas are given equal attention (instead of the discussion being dominated by the more authoritative people). This is the basis of the so-called Delphi method that aggregates the ideas of a panel of experts, via several rounds of anonymous, mediated discussion." - [Self-organization in Communicating Groups: the emergence of coordination, shared references and collective intelligence, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Barcelona-LanguageSO.pdf)
 
-> "To shift from individual intelligence to collective intelligence, we need to make intentionality collective as well. Words and other symbols can only be used for effective communication if the conversation partners understand them in the same way, that is if they agree about wat the word refers to. Developing such shared references is a problem of what we have called alignment. We have defined alignment as the unification or merging of the targets of different actions or agents. As long as there is no “director” agent to impose a target on the others, this problem can only be solved through selforganization, that is, spontaneous, reciprocal adaptation of the agents’ targets." - [Self-organization in Communicating Groups: the emergence of coordination, shared references and collective intelligence, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Barcelona-LanguageSO.pdf)
+> "To shift from individual intelligence to collective intelligence, we need to make intentionality collective as well. Words and other symbols can only be used for effective communication if the conversation partners understand them in the same way, that is if they agree about wat the word refers to. Developing such shared references is a problem of what we have called alignment. We have defined alignment as the unification or merging of the targets of different actions or agents. As long as there is no “director” agent to impose a target on the others, this problem can only be solved through self-organization, that is, spontaneous, reciprocal adaptation of the agents’ targets." - [Self-organization in Communicating Groups: the emergence of coordination, shared references and collective intelligence, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Barcelona-LanguageSO.pdf)
 
 > "This is the same mechanism of alignment that underlies all self-organization: by reducing the friction that is otherwise caused by the need to recognize and interpret a novel form and because of the high probability of confusion that arises if the conversation partners use different forms, alignment on the same forms makes communication more efficient. As shown by many experiments and observations, one-to-one alignment is a very quick and automatic process that makes conversation much easier than it would be if the partners would have to explicitly agree about how they refer to the different items in their shared context Conversational alignment will not only produce shared references; it will moreover tend to make those references simpler and more efficient." - [Self-organization in Communicating Groups: the emergence of coordination, shared references and collective intelligence, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Barcelona-LanguageSO.pdf)
 
@@ -477,30 +462,6 @@ accelerating evolution
 
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Group Agency
-██████████████████████████████████████████████████████████████████
-
-<!--
-> "... suitably organized collectives can be intentional agents in their own right, over and above their individual members. Examples of group agents include commercial corporations, collegial courts, non-governmental organizations, even states in their entirety. Like an individual human being, a group agent has purposes and intentions and pursues these through its actions. In doing so, it can be as rational as an individual rational agent, at least when we understand rationality in the way decision theorists do. For example, a firm’s behaviour in the market place can be well understood by modeling it as a rational utility maximizer, and corporations often fit the model of homo economicus better – and to a scarier extent – than most individual human beings do..." - [What is it like to be a group agent? by Christian List](https://philarchive.org/rec/LISWII)
--->
-
-> "What is a group agent? ... it may be tempting to define a group agent ... by specifying how several individuals must act together in order to form a group agent. However, a more parsimonious approach is to begin with a general definition of an agent, and then to apply it to the case of groups. A group agent, on that approach, is a collective that qualifies as an agent. The practical question of how a collective can achieve this status – organizationally, institutionally, behaviourally – is separate from the definitional question of what a group agent is.
->
-> So, what is an agent? It is helpful to use a functionalist definition, based on the traditional belief-desire model. Functionalism about agency, in very rough terms, is the view that what makes a system an agent – and what generates its intentional states – is nothing heavily metaphysically loaded, but simply the way the system functions... an agent is a system that has:
->
-> • representational states or “beliefs”, whose functional role is to depict certain features of the environment as the system “takes them to be”;
->
-> • motivational states or “desires”, whose functional role is to depict certain features of the environment as the system “would like them to be”; and
->
-> • a capacity to intervene in the environment on the basis of these states, i.e., to “act” in pursuit of its “desires” in line with its “beliefs”.
->
-> ... the conditions are quite minimal, and the systems satisfying them may vary greatly in agential capacities and sophistication. In principle, even a thermostat might qualify as an agent in a very basic sense: it has “beliefs” about the actual temperature, “desires” about the target temperature, and a capacity to “act” by regulating the heating (a well-known observation at least since Dennett’s 1987 work on the “intentional stance”). But nothing much is gained from viewing it this way, since a more straightforward mechanistic explanation is available.
->
-> Now, whether a group can meet the conditions for agency depends on how it is organized. A random collective – say the collection of shoppers who happen to be in the supermarket at this moment – lacks the required structure. But a suitably organized collective can in principle meet the conditions. The examples I have mentioned – firms, courts, NGOs, and so on – are all of this kind. Whichever states of an organized collective play the functional roles of beliefs and desires will then qualify as the collective’s intentional states: the corporate beliefs and desires.
->
-> ... it is important to distinguish the phenomenon of group agency from the related phenomenon of joint agency. We speak of joint agency whenever two or more individuals engage in some joint action. For example, they go for a walk together, carry a piano downstairs together, or undertake some common project. Clearly, some shared or joint intentions (or intentions that are suitably collectively directed) need to be present among the participants in order to make joint actions possible... joint agency is not the same as group agency... Two or more individuals who engage in a joint action do not necessarily bring into existence a group agent. We can make sense of joint actions without ascribing a single “centre” of belief, desire, and agency to the group in its entirety. It is sufficient for a joint action that the bearers of the underlying intentions are individuals; no group-level intentional states are needed. Of course, there may be joint actions within the context of a group agent. The practical mechanisms of forming a group agent may often include shared or joint intentions among the individual members. But joint agency is neither sufficient, nor (from purely logical perspective) even necessary, for group agency." - [What is it like to be a group agent? by Christian List](https://philarchive.org/rec/LISWII)
-
-██████████████████████████████████████████████████████████████████
 # SECTION: Challenge Propagation & Offer Networks
 ██████████████████████████████████████████████████████████████████
 
@@ -515,6 +476,8 @@ digital marketplaces: from closed centralized walled gardens to merging them all
 > "Electronic marketplaces are built to resemble real marketplaces structurally. Consequently, they are centralized systems, walled gardens with an intrinsic tendency to lock merchants and clients in. We argue that this structure is not necessary on the Web and that **all online marketplaces could merge into one global medium for exchange**. In this paper, we propose an architecture for such a medium based on semantic Web standards, encompassing the functionalities of publishing an intention to buy or sell, finding transaction partners, and conducting transactions." - [A Linked Data Based Messaging Architecture for the Web of Needs](https://publik.tuwien.ac.at/files/publik_266970.pdf)
 
 traditionally supply is explicit and can be pointed to, while demand is implicit and does not have a representation - an asymmetry. We can make demand explicit as well and have it represented by an object with a standard interface so that we can better match supply with demand and matchmakers can compete.
+
+Kickstarter is a very simple version of expressing and aggregating demand before supply exists
 
 > "Marketplaces have been known to man for several thousand years. Their historically consistent overall form, a collection of kiosks with goods being offered, and many independent clients buying there, is due to the fundamental asymmetry at the basis of all trade: the asymmetry between its two poles, between supply and demand. **Although, conceptually, supply and demand can be said to be of the same kind, namely intentions of taking part in a resource transfer, they differ substantially. Supply appears as the thing being offered, it is thus concrete, can be searched and found, measured and compared. Individual demand, in contrast, denotes the absence of something, thus it does not appear as a physical thing in a traditional marketplace. The same asymmetry pertains to supply and demand on the Web: supply is mostly explicit, has its own representation, such as a product landing page, whereas demand is rarely published as an individual resource.** The work at hand aims for reducing this asymmetry. The first step in this direction is to **represent both, supply and demand, explicitly as distinct objects on the Web, and to provide a standardized way for them to communicate**. Given these prerequisites, **the problem of finding a suitable partner for a resource transfer is equivalent to finding a suitable combination of one supply and one demand object.** The search for such combinations can be performed manually or automatically by participants from the demand side as well as from the supply side. Moreover, independent entities can assume the role of a matchmaker and inform the participants involved. In order to allow for independent matchmaking, a standardized way of informing supply and demand objects of a possibly interesting combination is required. This set of functions (publishing the intention, performing search or matchmaking, and establishing a communication channel) provides a symmetric base for resource transfer on the Web. This set is minimal and necessary, as no function could be removed without losing the overall functionality." - [A Linked Data Based Messaging Architecture for the Web of Needs](https://publik.tuwien.ac.at/files/publik_266970.pdf)
 
@@ -715,7 +678,7 @@ traditionally supply is explicit and can be pointed to, while demand is implicit
 
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Collective intelligence & sensemaking
+# SECTION: Collective Intelligence
 ██████████████████████████████████████████████████████████████████
 
 <!-- > "Collective intelligence: Collective intelligence is the degree to which the agents in a system together make better decisions or solve more complex problems than any of them individually. For example, individual ants have very limited intelligence, but the ant colony as a whole can make surprisingly good decisions, such as developing a map with paths of pheromone indicating the shortest routes to various sources of food." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary) -->
@@ -996,7 +959,7 @@ We need to sort those who stand out in helping others stand out and raising the 
 
 
 
-## the wisdom of crowds and how group dynamics can deteriorate it
+## the wisdom of crowds and how group think can deteriorate it
 
 how polarization and distortion of the perception of reality happens (staying in tune with your group to not stand out, simply adopting the opinion of others, extreme positions are often louder) - the order in which people speak affects the course of a discussion - forming an information cascade. The most-informed speaker is rarely the most influential (not loud or first).
 
@@ -1006,43 +969,50 @@ Talkative == listened to & influential (even if not liked). Feedback: the more s
 
 > "Talkativeness may seem like a curious thing to worry about, but in fact talkativeness has a major impact on the kinds of decisions small groups reach. If you talk a lot in a group, people will tend to think of you as influential almost by default. Talkative people are not necessarily well liked by other members of the group, but they are listened to. And talkativeness feeds on itself. Studies of group dynamics almost always show that the more someone talks, the more he is talked to by others in the group. So people at the center of the group tend to become more important over the course of a discussion. This might be okay if people only spoke when they had expertise in a particular matter. And in many cases, if someone's talking a lot, it's a good sign that they have something valuable to add. But the truth is that there is no clear correlation between talkativeness and expertise." - [The Wisdom of Crowds, by James Surowiecki](https://www.sweetstudy.com/files/jamessurowiecki-thewisdomofcrowds-anchor2005-pdf#:~:text=Talkativeness%20may%20seem,tiveness%20and%20expertise.)
 
+> "In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule." - [Friedrich Nietzsche](https://www.goodreads.com/quotes/2137-in-individuals-insanity-is-rare-but-in-groups-parties-nations)
 
 
 
+## Group Agency
 
+<!--
+> "... suitably organized collectives can be intentional agents in their own right, over and above their individual members. Examples of group agents include commercial corporations, collegial courts, non-governmental organizations, even states in their entirety. Like an individual human being, a group agent has purposes and intentions and pursues these through its actions. In doing so, it can be as rational as an individual rational agent, at least when we understand rationality in the way decision theorists do. For example, a firm’s behaviour in the market place can be well understood by modeling it as a rational utility maximizer, and corporations often fit the model of homo economicus better – and to a scarier extent – than most individual human beings do..." - [What is it like to be a group agent? by Christian List](https://philarchive.org/rec/LISWII)
+-->
 
-## all intelligence is collective intelligence
+> "What is a group agent? ... it may be tempting to define a group agent ... by specifying how several individuals must act together in order to form a group agent. However, a more parsimonious approach is to begin with a general definition of an agent, and then to apply it to the case of groups. **A group agent... is a collective that qualifies as an agent.** The practical question of how a collective can achieve this status – organizationally, institutionally, behaviourally – is separate from the definitional question of what a group agent is.
+>
+> So, what is an agent? It is helpful to use a functionalist definition, based on the traditional belief-desire model. Functionalism about agency, in very rough terms, is the view that **what makes a system an agent** – and what generates its intentional states – is nothing heavily metaphysically loaded, but **simply the way the system functions... an agent is a system that has:**
+>
+> • **representational states or “beliefs”**, whose functional role is to depict certain features of the environment as the system “takes them to be”;
+>
+> • **motivational states or “desires”**, whose functional role is to depict certain features of the environment as the system “would like them to be”; and
+>
+> • **a capacity to intervene in the environment on the basis of these states**, i.e., to “act” in pursuit of its “desires” in line with its “beliefs”.
+>
+> ... the conditions are quite minimal, and the systems satisfying them may vary greatly in agential capacities and sophistication. In principle, even a thermostat might qualify as an agent in a very basic sense: it has “beliefs” about the actual temperature, “desires” about the target temperature, and a capacity to “act” by regulating the heating (a well-known observation at least since Dennett’s 1987 work on the “intentional stance”). But nothing much is gained from viewing it this way, since a more straightforward mechanistic explanation is available.
+>
+> Now, whether a group can meet the conditions for agency depends on how it is organized. **A random collective – say the collection of shoppers who happen to be in the supermarket at this moment – lacks the required structure. But a suitably organized collective can in principle meet the conditions.** The examples I have mentioned – firms, courts, NGOs, and so on – are all of this kind. Whichever states of an organized collective play the functional roles of beliefs and desires will then qualify as the collective’s intentional states: the corporate beliefs and desires.
+>
+> ... **it is important to distinguish the phenomenon of group agency from the related phenomenon of joint agency. We speak of joint agency whenever two or more individuals engage in some joint action.** For example, they go for a walk together, carry a piano downstairs together, or undertake some common project. Clearly, some shared or joint intentions (or intentions that are suitably collectively directed) need to be present among the participants in order to make joint actions possible... **joint agency is not the same as group agency... Two or more individuals who engage in a joint action do not necessarily bring into existence a group agent.** We can make sense of joint actions without ascribing a single “centre” of belief, desire, and agency to the group in its entirety. **It is sufficient for a joint action that the bearers of the underlying intentions are individuals; no group-level intentional states are needed.** Of course, there may be joint actions within the context of a group agent. The practical mechanisms of forming a group agent may often include shared or joint intentions among the individual members. But **joint agency is neither sufficient, nor (from purely logical perspective) even necessary, for group agency.**" - [What is it like to be a group agent? by Christian List](https://philarchive.org/rec/LISWII)
 
-> "The collective cognition and decision-making of the colony is determined by the interactions between the individuals, resembling mobile neural networks, and the algorithms that determine their output." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
-
-> "The evolution of brains is a story of increasingly coordinated collective behavior, driven by the emergence of more efficient forms of intercellular communication, increasing differentiation and specialization of cell types, increasing interdependence, and progressive refinement of organization. At each stage, the benefits achieved through cooperation must have outweighed the costs of increased competition for resources that comes with sharing territory. Thus, we view brains as one end of a continuum of collective behavior wherein the collective has become especially coordinated and complex in organization." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
-
-> "Neural structure is not hard-coded into the genes — indeed, there couldn’t possibly be enough information in the human genome to encode neural structure — but instead is robustly reproduced time and again through these competitive dynamics. Malfunction of these processes (i.e., overproduction of neurons or lack of pruning) is associated with a number of brain disorders. Along these lines, proponents of “Neural Darwinism” and related views suggest that brain development, and intelligence more generally, can be understood as analogous to the evolution of a species through variation and selection." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
-
-> "Competitive dynamics are crucial both in brain development and in “online” cognition and behavior. We suggest that it is the precise parameterization of such competition dynamics that contributes to the intelligence of the brain. As such, we believe these mechanisms are best understood as a form of collective decision-making." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
-
-> "Functional networks are known to form and dissipate rapidly — on the order of milliseconds in visual processing, or on the timescale of minutes in skill acquisition — in a process that is often called “soft-assembly”. This process is best understood as a form of selforganization, in that the best functional network for a task or context comes online through distributed interactions, rather than by virtue of a central executive that assembles the best neural partners after assessing a situation." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
-
-> "We suggest that the dynamic reorganization of functional subnetworks in the brain and the massive interactivity of the brain is best understood through the lens of collective intelligence, akin to a crowd that efficiently forms an effective committee for each task on the fly." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
-
-> "The intelligence of brains is due not to precisely designed neural circuits that implement specific computations, but instead due to an intrinsic capacity for collections of neurons to spontaneously organize in service of survival of the group." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
-
-> "The structure and development of the brain is characterized by highly efficient and robust mechanisms of competition, cooperation, consensus building, and dynamic reconfiguration of neural coalitions." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
-
-> "Humans may have much to learn from neurons about constructing harmonious societies." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
-
-> "Collective intelligence in humans actually has little to do with how intelligent we are as individuals, and instead to the extent to which we are evolutionarily prepared for spontaneous interpersonal coordination." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
-
-> "Any question about adaptation on a population level becomes one of collective intelligence." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
-
-> "In a formulation of the “local knowledge problem,” Hayek argued that local, dispersed, and incomplete knowledge held by individuals within a market system allow for the rapid adaptation of the market to inputs and outputs in the economy. Hayek saw the emergence of a central intelligence, in the form of the price system, as being one way in which distributed systems create the appearance of a central actor." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
-
-> "There is little reason to expect collective intelligence to be restricted to any particular species or spatio-temporal scale of activity." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
-
-> "A brain is a collection of living cells struggling for survival. By virtue of mechanisms of competition, such as synaptogenesis/pruning and mutual inhibition, and mechanisms of cooperation, such as energysharing through spiking behavior, these collections of cells are able to rapidly self-organize into different patterns of functional connectivity that are adaptive at the group level with respect to a current task and context." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
-
+## All Intelligence is Collective Intelligence
 
 > "The great cognitive scientist and artificial intelligence researcher Marvin Minsky observed that what we call “intelligence” is not a singular thing; rather, it is an emergent phenomenon that arises from the collective interactions of many individual parts. The magic of intelligence is that when those parts are organized in a particular way, they can do things that no individual part could do on its own. Minsky called this description of intelligence “the society of mind.”" - [The Origin of Wealth, Eric D. Beinhocker](https://www.goodreads.com/book/show/22456.The_Origin_of_Wealth)
+
+> "The evolution of brains is a story of increasingly coordinated collective behavior, driven by the emergence of more efficient forms of intercellular communication, increasing differentiation and specialization of cell types, increasing interdependence, and progressive refinement of organization. At each stage, the benefits achieved through cooperation must have outweighed the costs of increased competition for resources that comes with sharing territory. Thus, we view brains as one end of a continuum of collective behavior wherein the collective has become especially coordinated and complex in organization.
+>
+> ... **Neural structure is not hard-coded into the genes — indeed, there couldn’t possibly be enough information in the human genome to encode neural structure — but instead is robustly reproduced time and again through these competitive dynamics.** Malfunction of these processes (i.e., overproduction of neurons or lack of pruning) is associated with a number of brain disorders. Along these lines, proponents of “Neural Darwinism” and related views suggest that **brain development, and intelligence more generally, can be understood as analogous to the evolution of a species through variation and selection.**
+>
+> ... Competitive dynamics are crucial both in brain development and in “online” cognition and behavior. We suggest that **it is the precise parameterization of such competition dynamics that contributes to the intelligence of the brain.** As such, we believe these mechanisms are best understood as a form of collective decision-making.
+>
+> ... **Functional networks are known to form and dissipate rapidly** — on the order of milliseconds in visual processing, or on the timescale of minutes in skill acquisition — in a process that is often called “soft-assembly”. This process is best understood as **a form of self-organization, in that the best functional network for a task or context comes online through distributed interactions, rather than by virtue of a central executive that assembles the best neural partners after assessing a situation... We suggest that the dynamic reorganization of functional subnetworks in the brain and the massive interactivity of the brain is best understood through the lens of collective intelligence, akin to a crowd that efficiently forms an effective committee for each task on the fly... The intelligence of brains is due not to precisely designed neural circuits that implement specific computations, but instead due to an intrinsic capacity for collections of neurons to spontaneously organize in service of survival of the group... The structure and development of the brain is characterized by highly efficient and robust mechanisms of competition, cooperation, consensus building, and dynamic reconfiguration of neural coalitions**... Humans may have much to learn from neurons about constructing harmonious societies... **Collective intelligence in humans actually has little to do with how intelligent we are as individuals, and instead to the extent to which we are evolutionarily prepared for spontaneous interpersonal coordination**... Any question about adaptation on a population level becomes one of collective intelligence.
+>
+> ... In a formulation of the “local knowledge problem,” Hayek argued that local, dispersed, and incomplete knowledge held by individuals within a market system allow for the rapid adaptation of the market to inputs and outputs in the economy. Hayek saw the emergence of a central intelligence, in the form of the price system, as being one way in which distributed systems create the appearance of a central actor.
+>
+> ... **There is little reason to expect collective intelligence to be restricted to any particular species or spatio-temporal scale of activity.**
+>
+> ... **A brain is a collection of living cells struggling for survival. By virtue of mechanisms of competition, such as synaptogenesis/pruning and mutual inhibition, and mechanisms of cooperation, such as energy sharing through spiking behavior, these collections of cells are able to rapidly self-organize into different patterns of functional connectivity that are adaptive at the group level with respect to a current task and context.**" - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
 
 
 
@@ -1090,13 +1060,6 @@ Everything boils down to aggregating/integrating and aligning pockets of intelli
 > ... Type 2 thinking can come to any conclusion and does not reliably converge. If type 2 thinking is like using an "equation", one can use any equation, one can plug any information into the equation, and individuals can differ in capacity to evaluate the equation. That this reasoning is “methodical” does not equate with it being correct. One can use the wrong equation, one can plug the wrong information into the equation, and one can evaluate the equation incorrectly. Where type 1 thinking reliably creates a path to a single conclusion type 2 reasoning can end up anywhere. Anecdotally, some common hallmarks of type 1 thinking are trying to insert what the group might consider fringe opinions or even "misinformation" into the conversation.
 >
 > ... If it is true that all conclusions must be biased towards type 1 or type 2 reasoning, then since this bias is innate, the only way to eliminate this bias is to embrace it, make better use of it. Increasing our collective intelligence means being able to consider what some would call fake information because the information that is eventually considered mainstream might often emerge on the fringes. But increasing our collective intelligence also means being able to rely on consensus, which completely discards information on the fringe. In collective cognition, groups must be able to apply type 1 reasoning where it is optimal and to apply type 2 reasoning where it is optimal, just as within an individual mind, thereby creating the capacity to reliably converge on a single optimal solution to each problem and to do so for problems of far greater complexity. If able to do so, GCI introduces the possibility of bridging the cognitive bias divide (which also reflects a left-right or in the US a democrat-republican political divide). Case studies in other domains suggest GCI has the potential to significantly increase the impact on collective outcomes per program dollar, as compared with any current or proposed policies, whether proposed by those having a left-leaning cognitive bias, or those having a right-leaning cognitive bias. For all these reasons General Collective Intelligence might be one of the most important areas of research in public health today." - [General Collective Intelligence and Systemic Error in Groups, by Gregg Henriques & Andy Williams](https://www.psychologytoday.com/us/blog/theory-knowledge/202106/general-collective-intelligence-and-systemic-error-in-groups)
-
-TODO INTERNET:
-Andy Williams
-http://nobeahfoundation.org/
-https://doi.org/10.31234/osf.io/dr8qn
-https://doi.org/10.31235/osf.io/r2dxq
-Williams, A. E., Defining a Continuum from Individual, to Swarm, to Collective Intelligence, to General Collective Intelligence, International Journal of Collaborative Intelligence, In print (2021)
 
 </p></details>
 
@@ -1309,7 +1272,7 @@ Niche construction describes how organisms can change their environment, creatin
 
 > "The hottest new programming *~~language~~* **paradigm** is *~~English~~* **society's incentives**." - [Andrej Karpathy](https://x.com/karpathy/status/1617979122625712128), probably
 
-> "you can just *~~do things~~* **vibe code society & the hivemind**" - [Sam Altman](https://x.com/sama/status/1870527558783218106)
+> "you can just *~~do things~~* **vibe code society & the hivemind**." - [Sam Altman](https://x.com/sama/status/1870527558783218106)
 
 > "To *~~hold a pen~~* **tune society's incentives in public with skin in the game** is to be at war." - [Voltaire](https://www.goodreads.com/quotes/30874-to-hold-a-pen-is-to-be-at-war), probably
 
@@ -1500,10 +1463,7 @@ https://arxiv.org/pdf/1911.08774.pdf
 # SECTION: Evaluation, curation & labelling
 ██████████████████████████████████████████████████████████████████
 
-> "“What is the new literacy of the 21st Century?” My answer is that the new literacy is “evaluation”." - [The Wellbeing Economy, by Jordan Hall](https://medium.com/emergent-culture/the-wellbeing-economy-89c67b625ac2#.gp23w8db2:~:text=%E2%80%9CWhat%20is%20the%20new%20literacy%20of%20the%2021st%20Century%3F%E2%80%9D%20My%20answer%20is%20that%20is%20that%20the%20new%20literacy%20is%20%E2%80%9Cevaluation%E2%80%9D.)
-
-> "It is my proposition that the ability to provide honest and discerning evaluation of your experiences is going to become a primary economic contribution in the 21st Century." - [The Wellbeing Economy, by Jordan Hall](https://medium.com/emergent-culture/the-wellbeing-economy-89c67b625ac2#.gp23w8db2:~:text=It%20is%20my%20proposition%20that%20the%20ability%20to%20provide%20honest%20and%20discerning%20evaluation%20of%20your%20experiences%20is%20going%20to%20become%20a%20primary%20economic%20contribution%20in%20the%2021st%20Century.)
-
+> "“What is the new literacy of the 21st Century?” My answer is that the new literacy is “evaluation”... It is my proposition that the ability to provide honest and discerning evaluation of your experiences is going to become a primary economic contribution in the 21st Century." - [The Wellbeing Economy, by Jordan Hall](https://medium.com/emergent-culture/the-wellbeing-economy-89c67b625ac2)
 
 > "If we can activate individuals to surface and share the products that they think are special (worthy, important) and/or would “swear by” — depending on their idiosyncratic values — and to invest some time and energy in crafting rich media expressions of these products, we can do to “Leviathan” what Wikipedia did to Britannica." - [A Theoretical Case for “Swell”, by Jordan Hall](https://medium.com/swell-considerations/a-theoretical-case-for-swell-112cbfca4cf4#:~:text=if%20we%20can,did%20to%20Britannica.)
 
@@ -1733,11 +1693,7 @@ https://consilienceproject.org/the-endgames-of-bad-faith-communication/#accordio
 
 > "Because instant and credible information has to be given [by the press], it becomes necessary to resort to guesswork, rumors, and suppositions to fill in the voids, and none of them will ever be rectified; they will stay on in the readers' memories." [Solzhenitsyn](https://twitter.com/AI_Solzhenitsyn/status/1590055302371500032)
 
-> "Instead of echo-chambers of fact-checkers who get all their opinions from the Washington Post and New York Times, one could implement a system of adversarial fact-checking in which people of different opinions work together on establishing the facts" - [Fact-Checking the Fact-Checkers](https://gurwinder.substack.com/p/why-you-cant-trust-fact-checks#:~:text=instead%20of%20echo%2Dchambers%20of%20fact%2Dcheckers%20who%20get%20all%20their%20opinions%20from%20the%20Washington%20Post%20and%20New%20York%20Times%2C%20one%20could%20implement%20a%20system%20of%20adversarial%20fact%2Dchecking%20in%20which%20people%20of%20different%20opinions%20work%20together%20on%20establishing%20the%20facts)
-
-> "fact-checkers would be more careful if they weren't anonymous; having reputational skin in the game, like lawyers and journalists, would incentivize them not to cheat" - [Fact-Checking the Fact-Checkers](https://gurwinder.substack.com/p/why-you-cant-trust-fact-checks#:~:text=fact%2Dcheckers%20would%20be%20more%20careful%20if%20they%20weren%27t%20anonymous%3B%20having%20reputational%20skin%20in%20the%20game%2C%20like%20lawyers%20and%20journalists%2C%20would%20incentivize%20them%20not%20to%20cheat)
-
-> "We have no choice but to become our own fact-checkers." - [Fact-Checking the Fact-Checkers](https://gurwinder.substack.com/p/why-you-cant-trust-fact-checks#:~:text=we%20have%20no%20choice%20but%20to%20become%20our%20own%20fact%2Dcheckers.)
+> "Instead of echo-chambers of fact-checkers who get all their opinions from the Washington Post and New York Times, one could implement a system of adversarial fact-checking in which people of different opinions work together on establishing the facts... fact-checkers would be more careful if they weren't anonymous; having reputational skin in the game, like lawyers and journalists, would incentivize them not to cheat... We have no choice but to become our own fact-checkers." - [Fact-Checking the Fact-Checkers](https://gurwinder.substack.com/p/why-you-cant-trust-fact-checks)
 
 > "While no one can achieve perfect objectivity and fair-mindedness, those who strive for it get far closer than those who do not. This is true at both the scale of an individual and the scale of a society." - [Where Arguments Come From - The Consilience Project](https://consilienceproject.org/where-arguments-come-from/)
 

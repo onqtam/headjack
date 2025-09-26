@@ -496,6 +496,10 @@ not sure this is important enough
 EMBED THIS
 The Evolution of Agency
 https://www.youtube.com/watch?v=gxpbvE8V0Dg
+or better this newer version by Kevin Mitchell
+The evolution of free will - with Kevin Mitchell
+https://www.youtube.com/watch?v=QXwRjb7WF7E
+<!-- ^^ the only quibble with this presentation: he says how its impossible to encode all future states of the universe into it at the big bang but they don't need to be encoded in it for it to be deterministic - just like a cellular automata doesn't "contain" every possible unfolding of it in its tiny definition - and yet the system is deterministic and would produce the same pattern if it was ran many times with the same rule -->
 
 > "The minimal definition of agency is a feedback loop." - [Gordon Brander](https://twitter.com/gordonbrander/status/1640781342559313927)
 

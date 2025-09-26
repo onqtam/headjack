@@ -322,6 +322,8 @@ Memetic Supremacy
     The answers aren't in [Xi Jinping Thought](https://en.wikipedia.org/wiki/Xi_Jinping_Thought) or [The Art of the Deal](https://en.wikipedia.org/wiki/The_Art_of_the_Deal). The current world "leaders" are merely players dancing to the tune of the incentives of a centuries old paradigm they've inherited / found themselves in. They don't have a real vision, understanding & plan for what their countries and our whole civilization should do. The highest form of leadership is improving the system for everyone more than anyone - that’s the definition
 The open source participatory/democratic GCP (global communist party)
 Open (Source) Society
+    > "We could do a Manhattan Project to take the AI and blockchain and all of the types of digital technology to build the next phase of open society, recognizing that open societies are being eroded and are almost totally gone, and they're being eroded by the same tech because the tech is making corporations exponentially more powerful that are actually eroding democracy... and are unable to be regulated by democracy because they're getting more powerful" - [Daniel Schmachtenberger](https://youtu.be/2YgNYdL7HTk?t=2896)
+    ... I want to see open societies take on the role of innovating not one type of tech but the whole suite of digital tech to make better open societies because I don't see them surviving otherwise.
 Industrial Society and Its (BRIGHT) Future - ala ted kazynsky's unabomber manifesto
 Human Lives Matter - how to keep humanity relevant and vibrant
 Rules Without Rulers
@@ -431,6 +433,7 @@ Extending the Multiscale Competency Architecture
 The great replacement theory/project - what do you want to be replaced with?
 OpenCI - Open by Design, Forever
     Collective Intelligence can only be open
+    open not by decree but by necessity - by design/definition
 The akashic records
 Democratic programming
 Thermodynamic Integration/Optimization

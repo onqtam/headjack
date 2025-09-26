@@ -348,4 +348,5 @@ the exciting times we are going through... agree, but not sure where to put it
 
 > "Who we are cannot be separated from where we're from." - [Malcolm Gladwell](https://www.goodreads.com/quotes/133262-who-we-are-cannot-be-separated-from-where-we-re-from)
 
+> "Of course, our failures are a consequence of many factors, but possibly one of the most important is the fact that society operates on the theory that specialization is the key to success, not realizing that specialization precludes comprehensive thinking." - [R. Buckminster Fuller](https://www.azquotes.com/quote/826673)
 

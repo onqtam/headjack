@@ -780,7 +780,7 @@ concluding remarks - game theory, rational choice theory
 > "Bullshit is also fragile--it relies on common knowledge to maintain--so it can collapse at any moment. Bullshit bubbles can burst pretty easily (assuming there’s not a state apparatus to prevent the bubble from bursting)." - [You Will Find This Interesting, by David Pinsof](https://open.substack.com/pub/everythingisbullshit/p/you-will-find-this-interesting?r=7omg8&utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=17264686)
 -->
 
-
+We should make common knowledge the importance of common knowledge.
 
 
 

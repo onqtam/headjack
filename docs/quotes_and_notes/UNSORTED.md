@@ -6,16 +6,26 @@ https://sci-hub.se/10.1111/j.1467-9973.2012.01749.x
 Metaphilosophical Criteria for Worldview Comparison Clément Vidal
 
 
+TODO INTERNET:
+Andy Williams
+http://nobeahfoundation.org/
+https://doi.org/10.31234/osf.io/dr8qn
+https://doi.org/10.31235/osf.io/r2dxq
+Williams, A. E., Defining a Continuum from Individual, to Swarm, to Collective Intelligence, to General Collective Intelligence, International Journal of Collaborative Intelligence, In print (2021)
+
+
+
+alignment requires theory of mind - by emmet shear from #47 ep of win win podcast - and the better and more unambiguously and concretely we express our collective goals and requirements with skin in the game in a contractual way where defection has a real cost - the better
 
 
 
 
+> "The only way to test a hypothesis is to look for all the information that disagrees with it." - [Karl Popper](https://www.azquotes.com/quote/1407281)
+
+> "The growth of knowledge depends entirely upon disagreement." - [Karl Popper](https://www.azquotes.com/quote/1268891)
 
 
 
-
-
-> "We need to update “put yourself in their shoes” to “put yourself in their algorithm”" - [Liv Boeree](https://x.com/Liv_Boeree/status/1956468468905070783)
 
 
 Reputationalizing expertise instead of simply monetizing
