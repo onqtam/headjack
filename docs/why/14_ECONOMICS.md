@@ -570,6 +570,42 @@ we waste so much government scientific money in the quest to appear like we're n
 > • **Open source removes opportunities for vendor lock-in**. If something is open source, then the manufacturer cannot render it useless by remotely removing features, or simply by going bankrupt (eg. see concerns about highly computerized/networked cars [no longer working if the manufacturer shuts down](https://restofworld.org/2024/ev-company-shutdowns-china/)). You always have the [right to repair](https://en.wikipedia.org/wiki/Right_to_repair) things yourself (or by asking a different provider)." - ["I support it only if it's open source" should be a more common viewpoint, by Vitalik Buterin](https://vitalik.eth.limo/general/2025/08/12/onlyopensource.html)
 
 
+## Open Access System
+
+intellectual property dogma in market economies, the benefits of open access, the philosophy of science, reputation and recognition
+
+> "These developments are revolutionizing our society. On the one hand, they **put into question one of the foundations of the present-day market economy, the idea that intellectual property is necessary to stimulate innovation**. On the other hand, they open up **huge opportunities, which include: freely providing software, technical know-how, scientific knowledge and general education to the countries and people that need it most, but can least afford to pay for it; empowering and stimulating ordinary people to be intellectually creative and thus help others; reducing the danger of commercial monopolies that control software standards or news distribution; and creating and distributing information much more quickly and widely than before, when it is needed and where it is needed.**
+>
+> ... **The early Internet users were mostly researchers, who found it obvious that they would make the results of their efforts publicly available, without demanding any money.** In that, they merely followed the basic philosophy that has made science the most important driver of social, technological and economical progress: **publish your data and ideas as widely as possible, so that others can use them, criticize them, and improve on them.**
+>
+> ... **Open access development not only contravenes common business wisdom, but some of the most fundamental assumptions of economic theory.**
+>
+> ... If the opportunity of getting a better product and becoming better yourself is not enough of an incentive, **there is an even stronger motivation for contributing to the collective. Indeed, doing so makes you visible within the community, earning you recognition for your expertise, activity, and altruism. Psychologists have proposed that earning esteem, status, or a good reputation within your community is a fundamental human drive.** From the point of view of evolutionary psychology, it is probably even more basic than gaining wealth, since during most of (pre)history the person with the highest status in the group would anyway get the best access to material resources—in addition to other resources, such as mates, friends, help, or information." - [Why Is Open Access Development so Successful? Stigmergic Organization and the Economics of Information, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/OpenSourceStigmergy.pdf)
+
+on tacit/implicit knowledge and that there will always be demand for experts even if they've published everything for free, which actually increases their reputation and recognition - just like in science
+
+> "Such intuitive knowledge will only come to the surface when it is used to tackle a particular problem or question. Since a person has only a limited time, energy or attention to spend on any particular issue, this implicit knowledge does not obey the property of non-rivalry or unlimited replicability that characterizes explicit information. Therefore, the laws of economics dictate that people will be willing to pay in order to get access to the personal attention of an expert.
+>
+> However, **if you want to sell your advice to others for good money, you will have to convince them of your authority in the matter. Here reputation becomes a major factor. An even more direct way to get recognition for your expertise is by making its products publicly (and preferably freely) available, so that people can judge for themselves how good you are.** This is much more difficult if you work for a firm, since outsiders can only get a dim view of who contributed what within a closed organization. A similar mechanism is already used in the academic world: scientists’ level of expertise is judged primarily by the quantity and quality of their publications, while their eventual income is largely dependent on that perceived level of expertise. Research has shown that **making a publication open access increases the number of citations it gets, which is the most direct measure of the visibility and reputation of its author.**" - [Why Is Open Access Development so Successful? Stigmergic Organization and the Economics of Information, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/OpenSourceStigmergy.pdf)
+
+stigmergy, positive feedback, mechanisms to make what's most important stand out (Relevance Realization), 
+
+> "Like stigmergic organization in insects, **the process is self-reinforcing or autocatalytic: the more high quality material is already available on the community site, the more people will be drawn to check it out, and thus the more people are available to improve it further. Thus, open access can profit from a positive feedback cycle that boosts successful projects.** This explains the explosive growth of systems such as Wikipedia or Linux. (A possible disadvantage of such “rich get richer” dynamics is that equally valuable, competing projects, because of random fluctuations or sequence effects, may fail to get the critical mass necessary to “take off”.)
+>
+> ... Applied to open access development, this means that **we need adaptive mechanisms to make the most important requests stand out.** An example of such mechanism can be found in Wikipedia. When a contributor marks a word as a hyperlink, but there is no article discussing this concept yet, an empty page is created inviting other contributors to fill in its content. This is direct stigmergy: whenever people look for that concept, they are directed immediately to the work that still needs to be done. But when there are many thousands of as yet incomplete entries, priorities must be established. Rather than having a central committee decide which entries are most important, **Wikipedia implements a simple form of collective decision-making: the entries that have most hyperlinks pointing to them are listed first in an automatically generated list of “most wanted articles”.**
+>
+> **Such a mechanism to display collective demand can be seen as the non-proprietary analog of the market... open access tasks could be ranked on a website according to independent stigmergic criteria, such as urgency, difficulty, expected utility, required expertise, etc.** In that way, potential contributors would be helped in finding the task that suits them best.
+>
+> ... **It could be theoretically envisaged that most economic value would eventually be produced under an open-access system.**" - [Why Is Open Access Development so Successful? Stigmergic Organization and the Economics of Information, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/OpenSourceStigmergy.pdf)
+
+
+
+
+
+
+
+
+
 
 
 > "If we exchange one dollar, we both have one dollar each. But if we exchange one good thought, we both have two good thoughts." - [Abraham Lincoln](https://www.azquotes.com/quote/873058)

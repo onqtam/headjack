@@ -12,50 +12,7 @@ Intelligence is the capacity to gain capacities. It is doing more with less.
 
 also make a version of it where at the lower level are NPCs with their firmware/chip being changed?
 
-██████████████████████████████████████████████████████████████████
-# SECTION: You’re a Neuron
-██████████████████████████████████████████████████████████████████
-
-<img src="/img/you_are_a_neuron_by_tomas_pueyo.png"/>
-<!-- https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F784da033-0b6c-4f65-a420-7cf490e68d3c_1078x818.png -->
-
-> "Think about it. You get information inputs from journalists, from friends, from those you follow, from the websites you visit, the shows you watch, the conversations you participate on… You then process that information, by either thinking or intuition. And you output your own information signal by talking, writing, drawing… Others then go on and consume your output, to form their own thoughts, and create their own output.
->
-> ... Some edges (connections between nodes, between neurons, between you and other people) are stronger than others, like the people you follow more closely and with whom you exchange the longest posts. Others are weaker, like the person that appears on your feed every now to post a vacation picture you end up “liking”. Some neurons are more broadcasters: they have unidirectional connections to millions of other people who listen to what they have to say, but they don’t listen much in return. Others might be the opposite: they follow plenty of people, but don’t never participate, so they don’t influence other neurons much.
->
-> ... TikTok creates a brain that uniformizes neurons at an ever-accelerating speed, creates superbroadcasting neurons, and makes the rest of neurons ever more addicted to interacting with the rest of the brain.
->
-> ... Twitter: It shows first the tweets from those you follow, and it decays their importance very quickly with time: a tweet from 2 days ago will be buried in somebody’s feed. That promotes people coming back very frequently so they’re in the know. It also pushes people to post content superfrequently. And that makes Twitter more a real-time network than, say, LinkedIn. Responses are much more prominent than on TikTok, which invites debate—there’s very little debate on TikTok, so it’s more a broadcasting site. But the debate on Twitter is very linear: all the responses to a tweet are nested into the first tweet, ranked mostly by recency, which doesn’t invite for thoughtful conversation, but rather fast conversation. You can’t have thoughtful and fast conversations at the same time, so conversations on Twitter tend to quickly descend into chaos. You have 3 ways of getting distribution on Twitter: through more Likes, Retweets, and Responses. Which means that different behaviors are incentivized. For Retweets, you want soundbites that people feel good about endorsing with their own identity. That is great to spur identity politics, for example. Lots of Responses also get your tweet distribution: another way to incentivize debate and polarization. Getting only likes is the weakest of the 3. Meanwhile, Likes don’t get you as much distribution. But Likes are by far the thing that people do most when they want to show compassion, for example. As a result, Twitter fosters more debate and polemic than compassion. That’s why it is a fast, aggressive, noisy brain. It’s impossible to use this brain for thoughtful debate.
->
-> ... Humans are humans. We’re able of the best and the worst, and most of that is simply defined by the environment. Our brains are the same as those of Homo Sapiens killing each other 50,000 years ago in Africa. What changes is the influences that surround us. We’re neurons in a brain. Change how we’re connected to each other, you’ll change the brain.
->
-> ... You’re also a neuron for your company whenever you do knowledge work in it. Each person is a neuron in this brain. You bring information from outside and from inside of the company, process it in your individual work, and communicate it back with your deliverables. In the process, you coordinate with many other neurons—people. Each meeting can be seen as a group of neurons lighting together, exchanging information. Your dendrites (your sources of information) go to all the people you hang out with or meet. Your work network. Your axones (the channel with information you send out) go to all the people you share information with—which might not always be the same group. Through these processes emerge the big decisions that companies make: what other companies to buy, what strategy to follow, how to spend their money, who to hire (=what neurons to add to the network), their product design, their marketing…
->
-> ... The role of a manager is not to understand each one of the neural connections, but rather to look at the patterns in the network, and correct them when they are incomplete. For example, when some teams don’t talk to each other—or when they talk too much—, when a group doesn’t have enough autonomy, when a group of neurons doesn’t have enough knowledge about certain disciplines to process their signals proficiently…
->
-> ... Our bodies don’t optimize for every cell. They optimize for the overall body. Individual cells are dispensable. What does that say about our focus on individual rights? How much do they cost societies overall?" - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron)
-
-> "I perceive twitter as a brain. Everyone is a neuron, growing a dendritic tree into our environment to select messages from other neurons, passing them on, recomposing them. Conflict is part of error correction, but we have to figure out how to minimize the need for it.
->
-> I wish I could zoom out to understand my far neighborhood, gain greater understanding and control about where I am located in the global brain, and how I can improve the harmonic function of my environment. The current tools for this are crude or non-existent.
->
-> For a brain to function, each neuron needs to receive messages from thousands of others, sometimes directly, and sometimes filtered and curated upstream. But more importantly, it needs to be *separated* from billions of other neurons that would disrupt its function.
->
-> The tools for separation should minimize unnecessary conflict while maintaining the integrity of communication in the network. Block, mute and unfollow are not very good at this. How about intelligent moderation (eg. letting thread starters moderate the discussion in the thread)?
->
-> Twitter should support its denizens in discovering the right neighborhood for them. Every participant is the center of their own TPOT, a cloud of like minded individuals who connect them to the rest of the universe. Twitter should support the construction of optimal topology." - [Joscha Bach](https://twitter.com/Plinz/status/1781786438641885643)
-
-> "In brains, the more a neuron pays attention to another neuron, the more likely it is to propagate its message. Even if it doesn’t pay that much attention to a neuron, if it receives the same message from many other neurons, it will propagate it too. On Twitter, you're more likely to retweet something from somebody you pay attention to, or if many have retweeted it already. In a brain, the more a certain pathway between neurons fires up, the stronger it will become. The axons and dendrites strengthen. Eventually, some groups of neurons start firing up very close to each other, following each other's behavior. They form a brain subsystem. On Twitter, the more you like somebody's tweets, the more you're likely to follow them. You'll tend to form groups with the ppl who follow the same ppl and topics & have the same opinions. You'll RT each other. You form a Twitter subsystem." - [The Democracy of the Future, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/future-of-democracy-decentralized)
-
-the current host-centric world (where platforms own our data which is siloed) is preventing us as a giant global brain to wire optimally
-
-> "You affect the world by what you browse." - [Tim Berners-Lee](https://www.azquotes.com/quote/171729)
-
-<!-- > "I think of twitter users as neurons that pass on ideas, and strengthen or weaken their connections, forming clusters of collective intelligence." - [Joscha Bach](https://twitter.com/Plinz/status/1682436092425805836) -->
-
-██████████████████████████████████████████████████████████████████
-# SECTION: Collective Intelligence
-██████████████████████████████████████████████████████████████████
+# Collective Intelligence
 
 <!-- > "Collective intelligence: Collective intelligence is the degree to which the agents in a system together make better decisions or solve more complex problems than any of them individually. For example, individual ants have very limited intelligence, but the ant colony as a whole can make surprisingly good decisions, such as developing a map with paths of pheromone indicating the shortest routes to various sources of food." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary) -->
 
@@ -395,7 +352,44 @@ Talkative == listened to & influential (even if not liked). Feedback: the more s
 even if we achieve a 1000x more powerful reasoning model than what we currently have, it would still benefit from a distributed architecture for interaction and incentive alignment with copies of itself - because of energy/space/time limits it would benefit from breaking down tasks into subtasks that it delegates and orchestrates. All intelligence is collective intelligence
 Everything boils down to aggregating/integrating and aligning pockets of intelligence
 
+## You’re a Neuron
 
+<img src="/img/you_are_a_neuron_by_tomas_pueyo.png"/>
+<!-- https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F784da033-0b6c-4f65-a420-7cf490e68d3c_1078x818.png -->
+
+> "Think about it. You get information inputs from journalists, from friends, from those you follow, from the websites you visit, the shows you watch, the conversations you participate on… You then process that information, by either thinking or intuition. And you output your own information signal by talking, writing, drawing… Others then go on and consume your output, to form their own thoughts, and create their own output.
+>
+> ... Some edges (connections between nodes, between neurons, between you and other people) are stronger than others, like the people you follow more closely and with whom you exchange the longest posts. Others are weaker, like the person that appears on your feed every now to post a vacation picture you end up “liking”. Some neurons are more broadcasters: they have unidirectional connections to millions of other people who listen to what they have to say, but they don’t listen much in return. Others might be the opposite: they follow plenty of people, but don’t never participate, so they don’t influence other neurons much.
+>
+> ... TikTok creates a brain that uniformizes neurons at an ever-accelerating speed, creates superbroadcasting neurons, and makes the rest of neurons ever more addicted to interacting with the rest of the brain.
+>
+> ... Twitter: It shows first the tweets from those you follow, and it decays their importance very quickly with time: a tweet from 2 days ago will be buried in somebody’s feed. That promotes people coming back very frequently so they’re in the know. It also pushes people to post content superfrequently. And that makes Twitter more a real-time network than, say, LinkedIn. Responses are much more prominent than on TikTok, which invites debate—there’s very little debate on TikTok, so it’s more a broadcasting site. But the debate on Twitter is very linear: all the responses to a tweet are nested into the first tweet, ranked mostly by recency, which doesn’t invite for thoughtful conversation, but rather fast conversation. You can’t have thoughtful and fast conversations at the same time, so conversations on Twitter tend to quickly descend into chaos. You have 3 ways of getting distribution on Twitter: through more Likes, Retweets, and Responses. Which means that different behaviors are incentivized. For Retweets, you want soundbites that people feel good about endorsing with their own identity. That is great to spur identity politics, for example. Lots of Responses also get your tweet distribution: another way to incentivize debate and polarization. Getting only likes is the weakest of the 3. Meanwhile, Likes don’t get you as much distribution. But Likes are by far the thing that people do most when they want to show compassion, for example. As a result, Twitter fosters more debate and polemic than compassion. That’s why it is a fast, aggressive, noisy brain. It’s impossible to use this brain for thoughtful debate.
+>
+> ... Humans are humans. We’re able of the best and the worst, and most of that is simply defined by the environment. Our brains are the same as those of Homo Sapiens killing each other 50,000 years ago in Africa. What changes is the influences that surround us. We’re neurons in a brain. Change how we’re connected to each other, you’ll change the brain.
+>
+> ... You’re also a neuron for your company whenever you do knowledge work in it. Each person is a neuron in this brain. You bring information from outside and from inside of the company, process it in your individual work, and communicate it back with your deliverables. In the process, you coordinate with many other neurons—people. Each meeting can be seen as a group of neurons lighting together, exchanging information. Your dendrites (your sources of information) go to all the people you hang out with or meet. Your work network. Your axones (the channel with information you send out) go to all the people you share information with—which might not always be the same group. Through these processes emerge the big decisions that companies make: what other companies to buy, what strategy to follow, how to spend their money, who to hire (=what neurons to add to the network), their product design, their marketing…
+>
+> ... The role of a manager is not to understand each one of the neural connections, but rather to look at the patterns in the network, and correct them when they are incomplete. For example, when some teams don’t talk to each other—or when they talk too much—, when a group doesn’t have enough autonomy, when a group of neurons doesn’t have enough knowledge about certain disciplines to process their signals proficiently…
+>
+> ... Our bodies don’t optimize for every cell. They optimize for the overall body. Individual cells are dispensable. What does that say about our focus on individual rights? How much do they cost societies overall?" - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron)
+
+> "I perceive twitter as a brain. Everyone is a neuron, growing a dendritic tree into our environment to select messages from other neurons, passing them on, recomposing them. Conflict is part of error correction, but we have to figure out how to minimize the need for it.
+>
+> I wish I could zoom out to understand my far neighborhood, gain greater understanding and control about where I am located in the global brain, and how I can improve the harmonic function of my environment. The current tools for this are crude or non-existent.
+>
+> For a brain to function, each neuron needs to receive messages from thousands of others, sometimes directly, and sometimes filtered and curated upstream. But more importantly, it needs to be *separated* from billions of other neurons that would disrupt its function.
+>
+> The tools for separation should minimize unnecessary conflict while maintaining the integrity of communication in the network. Block, mute and unfollow are not very good at this. How about intelligent moderation (eg. letting thread starters moderate the discussion in the thread)?
+>
+> Twitter should support its denizens in discovering the right neighborhood for them. Every participant is the center of their own TPOT, a cloud of like minded individuals who connect them to the rest of the universe. Twitter should support the construction of optimal topology." - [Joscha Bach](https://twitter.com/Plinz/status/1781786438641885643)
+
+> "In brains, the more a neuron pays attention to another neuron, the more likely it is to propagate its message. Even if it doesn’t pay that much attention to a neuron, if it receives the same message from many other neurons, it will propagate it too. On Twitter, you're more likely to retweet something from somebody you pay attention to, or if many have retweeted it already. In a brain, the more a certain pathway between neurons fires up, the stronger it will become. The axons and dendrites strengthen. Eventually, some groups of neurons start firing up very close to each other, following each other's behavior. They form a brain subsystem. On Twitter, the more you like somebody's tweets, the more you're likely to follow them. You'll tend to form groups with the ppl who follow the same ppl and topics & have the same opinions. You'll RT each other. You form a Twitter subsystem." - [The Democracy of the Future, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/future-of-democracy-decentralized)
+
+the current host-centric world (where platforms own our data which is siloed) is preventing us as a giant global brain to wire optimally
+
+> "You affect the world by what you browse." - [Tim Berners-Lee](https://www.azquotes.com/quote/171729)
+
+<!-- > "I think of twitter users as neurons that pass on ideas, and strengthen or weaken their connections, forming clusters of collective intelligence." - [Joscha Bach](https://twitter.com/Plinz/status/1682436092425805836) -->
 
 
 ## more collective intelligence in governance instead of increasing "democracy"
@@ -690,9 +684,8 @@ The future of science is a global multi-perspectival bayesian network of opinion
 
 
 
-██████████████████████████████████████████████████████████████████
-# SECTION: What is the Self
-██████████████████████████████████████████████████████████████████
+
+# What is the Self
 
 > "The self is a repeatedly reconstructed biological state." - [Antonio Damasio](https://www.goodreads.com/quotes/7656886-the-self-is-a-repeatedly-reconstructed-biological-state)
 
@@ -969,6 +962,109 @@ The individual within the crowd：how individual forecasters contribute to ideal
 https://www.youtube.com/watch?v=xXaRqSKdQnU
 talks about the wisdom of crowds, weighted averaging & how to optimally give weights
 
+## Mobilization Systems
+
+> "A mobilization system can then be defined as: a socio-technological system that motivates and coordinates people to work towards a given objective—thus efficiently rallying their efforts... the underlying ICT techniques have been explored... under labels such as “persuasive technology”, “collaborative technology”, “user experience”, and “gamification”.
+>
+> ... **Games and gamification** ... What these communities have in common is that they collectively produce very useful—and typically high-quality—applications and information, but this without any financial compensation or legal organization. In other words, these communities consist purely of volunteers contributing on an informal basis to a common project. From the perspective of traditional economics and organizational theory, this is paradoxical (Heylighen, 2007): why would anyone provide such valuable services to others without being either paid or ordered to do so? Several authors have investigated the motives that incite people to contribute to such communities (Ghosh, 2005; Lerner & Tirole, 2002; Weber, 2004). These include curiosity, altruism, free expression, need for belonging, desire for status and recognition, and the hope for future financial rewards for private consultancy after being publicly recognized for one’s expertise. More interesting for our purpose than these individual motivations, though, are the structures and processes that encourage individuals to take part in such a collective enterprise, i.e. the underlying mobilization system. A first analysis (Heylighen, 2007) points at two fundamental mechanisms: feedback and stigmergy. By contributing a question, comment, answer, program, photo or any other input, participants hope to get a reaction from the other community members, because that would give them an indication of whether they are on the right path, or need to make some correction. Such feedback provides valuable information that allows participants to get better in whatever they are interested in. For example, a programmer who contributed a piece of code will benefit if a user points out a bug in that code, suggests a way to extend it, or simply confirms that the job was well done.
+>
+> ... gamification applies a variety of game mechanics, i.e. techniques that help to produce a compelling, engaging experience for the user or game player. They include:
+>
+> • challenges or quests, in which the player is incited to achieve some difficult objective, which the player has not reached before (i.e. novelty),
+>
+> • scores or points, to quantify all the small, step-by-step advances accumulated by the player, so that players get a continuous feedback about how well they are doing
+>
+> • levels, which represent larger, discontinuous transitions to a higher degree of game difficulty or status
+>
+> • competitions or leaderboards, where players can compare their achievements with those of other players, so that they are incited to do better than they did up to now
+>
+> • narratives, in which the challenges are situated within a concrete context or storyline, so that individual actions become part of an extended course of action within a meaningful environment
+>
+> • epic meaning, in which the impression is created that the player is working to achieve a goal that is particularly important or awe-inspiring
+>
+> • trophies or virtual goods, in which players receive virtual presents as a reward for their achievement
+>
+> • gifting, in which players get the opportunity to give virtual presents to other players, thus tightening links of friendship or cooperation.
+>
+> **Persuasive technology and the user experience**
+>
+> To be fully effective, the mostly social dynamics within communities and games needs to be supported by a good individual interface: users of a computer application should feel an intuitive understanding and control of what is happening, and be stimulated to explore and extend their mastery of the system. In other words, a good application should feel like a favorite tool or toy: easy and fun to manipulate. This essentially subjective appraisal is what is usually denoted by the rather ambiguous phrase of user experience... Some of the elements of well-designed user experiences are:
+>
+> • simplicity: the number of components or options on a given screen are limited, and common actions can be performed with a minimum number of steps
+>
+> • esthetics: color schemes and designs are calm, elegant and pleasant; images, sounds and movements are not coarse, grainy or jerky
+>
+> • interactivity: the tool responds clearly, distinctly and immediately to different user actions
+>
+> • intuitiveness: user actions have as much as possible the effects that a naïve user would expect them to have (Spool, 2005)
+>
+> • transparency: functions are self-explanatory, or can be understood after a minimal investigation
+>
+> • consistency: the same actions or interface elements always produce the same effects
+>
+> • richness: the tool offers an unlimited variety of content or applications to explore
+>
+> A good user interface will compel the user to extensively use the technology. The next step is a technology that compels the user to do something beyond the technology itself. Fogg has defined persuasive technology as “any interactive computing system designed to change people's attitudes or behaviors”... More generally, a persuasive system can be seen as an implementation of what has been called the extended will. This is a generalization of the idea that we use various information technologies as external memories, so as to “extend our mind” into the environment. But mind encompasses more than memory and information processing capability: it also includes the motivation, concentration and determination needed to act effectively—i.e. what is conventionally called “will”. In our present environment full of distractions and temptations, our willpower is heavily taxed. Therefore, in general we need external support if we want to make sure that we stick to our intentions... A good support will not only keep reminders of what needs to be done, but provide the right stimuli at the right moments to incite us to act in the right manner... Persuasive technologies will be more effective if they:
+>
+> • tap into real needs (e.g. combating the dangers of obesity)
+>
+> • present clear goals (e.g. realistic weight targets)
+>
+> • make it easy to do what is needed (e.g. prepare healthy meals)
+>
+> • give feedback about the progress made so far (e.g. compare your present weight with your initial and ideal weights)
+>
+> • provide clear visualizations of potential means or ends, so that users can easily imagine the effect of their future actions (e.g. a computer-generated photo of how you would look after losing all that weight)
+>
+> • make use of social pressure (e.g. by pointing out the achievements of others)
+>
+> • provide timely triggers to stimulate their users to do something (e.g. alarms to remind you to
+exercise)
+>
+> **Principles of Mobilization**
+>
+> Now that we have reviewed a variety of specific technologies, it is worth trying to extract the general principles behind the mobilization of action. A first step is to split the problem into its two aspects: individual and collective. Individuals first of all need to be stimulated or motivated to act effectively. Then, their actions need to be coordinated so that they help rather than hinder each other, and collectively achieve an optimal result. Let us discuss these aspects in turn.
+>
+> **Individual motivation**
+>
+> Possibly the most useful paradigm to understand individual drive is the psychological concept of flow, which was derived from numerous observations of how people feel while performing different types of activity. “Flow” refers to the pleasurable state experienced when the activity, while intensely focused, proceeds in a seemingly effortless, flowing manner—because every action immediately elicits the next action, without any hesitation, worry or self-consciousness. In such a state, continuing the activity becomes the only real concern, while everything else is pushed to the back of the mind. That is exactly the kind of focus and commitment that we expect from a good mobilization system... The basic conditions needed to generate flow are:
+>
+> • the activity has clear goals;
+>
+> • every action produces an immediate feedback.
+>
+> • the degree of difficulty or challenge of the task remains in balance with the level of skill.
+>
+> The formulation of goals seems the most obvious requirement for focus and commitment: the goal functions like a target or “attractor” for the course of action, determining the direction for all future activity... An important aspect missing in typical flow models is that in order to produce enduring commitment a goal should correspond to something truly valuable... A more pragmatic list of motives relevant for mobilization systems could be the following:
+>
+> • (material) reward (e.g. receiving money or presents)
+>
+> • learning (acquiring new knowledge and experience)
+>
+> • belonging (being accepted as member of a community)
+>
+> • altruism (helping others)
+>
+> • status (being esteemed at least as high as others)
+>
+> • achievement (being able to look back with pride on what you did)
+>
+> The second component of the flow model is feedback. Knowing the general direction in which your actions should lead is not sufficient to effectively get there: you should make sure that every action has the intended effect. If the effect is not exactly what you expected, you will deviate from the planned course of action. Even tiny deviations will gradually accumulate into a large deviation, so that you may completely miss the target. The only thing that allows you to correct such deviations is feedback: a response signal that informs you to what degree and in what direction you have deviated from the intended path... The flow paradigm emphasizes the immediacy of such feedback. Indeed, if a feedback signal would only arrive after a finite interval, deviations could grow during that interval. Even when the actual deviation would remain small, the absence of feedback would create a growing sense of uncertainty about whether you are following the right course of action. And this uncertainty is precisely what feeds the anxiety, hesitation and procrastination that we would like to avoid. Vice-versa, each feedback signal is either a confirmation that you are on the right track, or an indication of how you can get back on the right track. Therefore, any feedback signal, even if negative, boosts your effectiveness, and therefore self-confidence, in continuing your activity, adding to the sense of flow... Not just the immediacy, but the richness of the feedback helps to maximize flow... Complex activities can go wrong in many different aspects. Each aspect defines a dimension or degree of freedom in which the course of action can vary. Effective feedback would inform you about the precise degree and direction of the deviation in each of these dimensions, so that you know what correction to make.
+>
+> The final requirement for flow is the balance between challenges and skills. This means that the task should not be too difficult for the level of skills available, but not too easy either... There are two ways to control the balance between challenges and skills: changing the intrinsic difficulty of the task, and changing the person’s ability to cope with the task... limited skills applied to limited challenges merely produce apathy, as there is not much to create interest. This means that a good mobilization system not only should present goals that are difficult to reach, but provide the additional abilities necessary to handle that difficulty. This is the “new skills” feature that characterizes a truly compelling technology: you will feel most stimulated to use a tool if it allows you to tackle challenges that you could not tackle without it—albeit in such a way that its use is fully intuitive and transparent. Eventually, a good tool should start to feel like an augmentation or extension of yourself...
+>
+> **Coordination**
+>
+> When several people work together, their actions need to be coordinated. This means, minimally, that the actions do not obstruct or oppose each other (conflict, friction); ideally, that the actions complement each other in such a way that together they achieve more than separately (cooperation, synergy). In other words, coordination can be defined as the arrangement of actions across people, places and times so as maximize synergy and minimize friction. In earlier work (Heylighen, 2012b), we have analyzed coordination into four components: alignment, division of labor, workflow and aggregation. *Alignment* is the most obvious requirement for synergetic action: the different actions and agents should point towards the same target(s). This means that the overall goals or values of the participants should be consensual rather than conflicting. Consensus can be achieved explicitly or implicitly. The simplest explicit method is voting: of the different objectives proposed, the ones that gather most votes within the community are chosen as priorities... A better method lets dissenters propose arguments for why they like or dislike certain options, so as to allow a more reasoned (and in general more broadly supported) consensus to emerge... Alignment can also happen implicitly or spontaneously, like in a conversation where people mutually adjust their way of communicating without being aware of it. Such self-organization is typically driven by a positive feedback, where the more alignment there already is, the more the remaining people are incited to align to that emerging standard... When the target is not as simple as a time and place for meeting, alignment on a common outcome tends to be a slower and more complex process. Here too, technology can facilitate what is in essence a self-organizing process... The underlying coordination mechanism here is *stigmergy*: contributors are in general not arguing with each other, but with the aggregated “trace” of all previous contributions, by making what they consider improvements here or there... Except for the most controversial issues, this back-and-forth editing tends to converge to a version that is acceptable to all. Stigmergy is also an excellent mechanism for achieving a *division of labor*: different people normally have different abilities. Therefore, the most efficient organization of a collaborative work is to let every person do that part of the work that s/he is best able to do... *Workflow* is the serial complement to the parallel division of labor: a complex activity must in general be decomposed not only in tasks done simultaneously by different people, but in tasks that have to be done in a particular order or sequence. The “flow” in this case denotes the smooth transmission of a partially finished work from person to person along the sequence. Workflow too can be implemented in a simple manner using stigmergy: as soon as someone has finished part of the work, s/he leaves the result in the shared medium, ready to be picked up and continued by the next person capable and willing to work on it... The final requirement for effective coordination is *aggregation*: the assembly of all the different contributions into a coherent end product. Aggregation of results in a communal memory is the essence of collective intelligence, as it synthesizes the diverse points of view, experiences and knowledge of a group of individuals into a “wisdom of the crowd”. Again, stigmergy provides a robust default mechanism: people add their contributions to a shared, structured workspace... thus ensuring that they become part of an articulated whole. In the case of voting or other quantifiable actions, averages or distributions can be calculated automatically by the system so as to reflect the collective wisdom of the community...
+>
+> **Synergy between individual and collective mobilization**
+>
+> At first sight, (individual) motivation and (collective) coordination may appear like independent functions that are better implemented in separate systems. However, some further thought makes it clear that the one directly reinforces the other. Committed and focused individuals are more dependable. Therefore, it will be easier for them to collaborate in an efficient, coordinated manner. Moreover, committed individuals will be more enthusiastic and persuasive in getting others to join the cause, thus extending the group of “aligned” people. Vice versa, when individuals feel aligned in their goals with others, they become more motivated to work towards these goals. This can be explained by the universal motives of belonging and altruism. When others want the same as you, you will feel a sense of group solidarity or kinship with them, so that you become more committed to work for that community. Furthermore, the more people around you are already aligned in their goals, the more you will be inclined to adjust your own goals and values to theirs and thus join the group. Indeed, one of the most effective ways to motivate people to do something is to point out that others already do it. This can be understood from the universal drive to imitate others and to conform to group norms. In conclusion, motivation boosts alignment, while alignment boosts motivation. Additionally, coordination boosts the sense of achievement: the more efficiently you collaborate with others (e.g. because of good workflow, division of labor and aggregation), the more difficult the challenges you will be able to tackle, and therefore the more flow you will experience. This mutual reinforcement between individual and social stimulation explains why the most effective mobilization tends to be found in communities—although we must not forget that mobilization systems are also very effective for encouraging purely individual activities. Finally, it is worth noting that the basic mechanisms for motivation and coordination, respectively flow and stigmergy, are in essence two sides of the same coin. Both describe the close interaction between an agent (the user) and a medium (the system or technology), so that an action by the one incites an immediate response by the other. In the case of flow, the focus is on the feelings of the user, with the medium merely providing the targets and feedbacks needed to keep the user fully engaged. In the case of stigmergy, the focus is on the state (“trace”) of the medium, which develops through the subsequent user actions it incites, up to the point where it offers an aggregate solution to whatever challenges it started out with. The coordination between different user actions is merely the byproduct of the fact that all users share this stimulation by the medium, and thus effectively act in the same workspace on the same overall task. The upshot of this symmetry between flow and stigmergy is that a technology good for the one will in general also be good for the other: both require a medium that is very responsive, high-bandwidth, and multidimensional, so that it can aggregate plenty of fine-grained data while presenting clearly articulated challenges and feedbacks to its users. That is why the most effective mobilization systems will both incite individuals and coordinate communities.>
+> ... Mobilization technology may help us to align the scattered wishes, desires and intentions of millions of people, thus gathering the momentum, engagement and “political will” necessary to tackle truly global problems...
+>
+> **Conclusion**
+>
+> We have defined a mobilization system as an ICT-supported form of organization that stimulates or motivates people to work towards some goal(s), while efficiently coordinating their actions. The need for such systems follows from the overload of information, distractions and choices that we are confronted with. This bombardment with scattered stimuli produces anxiety, hesitation, and procrastination, while making it difficult to remain focused and committed. Collaboration between uncommitted, distractible and stressed individuals without clear objectives is highly inefficient. Working at cross-purposes in such an erratic, fragmented manner can only waste resources... The most critical question for the future, therefore, may be not so much how to create efficient mobilization systems, but how to control them and for what purposes to use them. Here too, stigmergy may come to our rescue, by supporting large-scale discussion of the issues and facilitating alignment on broadly supported goals, guidelines and regulations. A worldwide alignment on the most important values, targets, and strategies may even create the equivalent of a will for the emerging “global brain”—the collective intelligence formed by humanity supported by its information and communication technologies. Such a broad consensus on what to do next may well be the ultimate reward, as it would enable a coordinated attack on the most pressing problems of our age: climate change, war, poverty, disease..." - [Mobilization Systems: technologies for motivating and coordinating human action, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MobilizationSystems.pdf)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: voting & liquid democracy
@@ -1913,6 +2009,15 @@ https://www.youtube.com/watch?v=SBoW9as_JCM
 > "The earth has grown a nervous system, and it's us." - [Daniel Dennett](https://www.azquotes.com/quote/630909)
 
 </p></details>
+
+
+## guided self-organization instead of imposed organization & central planning
+
+> "If we zoom out and consider increasingly large distributed cognitive systems, we will notice that imposed organization plays an increasingly small role, while spontaneous networks become increasingly more important. The reason is simply that **the more complex the system, the more difficult it becomes to completely specify the rules about which component is to work with which other component in which way.** If we compare the poor results of central planning in communist societies with the effectiveness of the “invisible hand” of the market, then we can only conclude that self-organization must be the major driver of coordination in a system as complex as society.
+>
+> ... We must resign ourselves to the fact that we will never be able to fully control the process. Perhaps the most promising overall strategy is what has been called **“guided self-organization”: developing schemes, programs, institutions or environments that stimulate, facilitate and to some degree steer the self-organization of the global brain towards what appear to be the most fruitful directions, while leaving enough freedom for the system to explore a variety of unforeseen approaches.**" - [From human computation to the Global Brain: the self-organization of distributed intelligence, by Francis Heylighen](https://www.researchgate.net/publication/304113807_From_Human_Computation_to_the_Global_Brain_The_Self-Organization_of_Distributed_Intelligence)
+
+
 
 ## Noosphere
 

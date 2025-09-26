@@ -178,6 +178,12 @@ https://www.edge.org/response-detail/27098 -->
 
 > "To understand the actual world as it is, not as we should wish it to be, is the beginning of wisdom." - [Bertrand Russell](https://www.azquotes.com/quote/1081297)
 
+## Anticipation-Control Theory
+
+> "**A neural circuit that succesfully predicted what would happen gets reinforced; one that made a wrong prediction is weakened. In this way every experience of trying to anticipate phenomena leaves its trace in the organization of the brain, making it ever more effective at further anticipation.** This is how we implicitly learn our knowledge. A core tenet of the anticipation-control theory, as emphasized by Hawkins, is that **the brain is organized hierarchically, in different levels of invariance or control, whereby a higher level only becomes active when the lower levels fail to make a good prediction.** It is this hierarchical structure with massive feedback from the higher to the lower levels, allowing us to recognize and learn ever more complex invariances and covariances of patterns, that distinguishes the anticipation-control model from traditional neural network models.
+>
+> ... The very limited sensory input that an organism has leaves a great amount of uncertainty about the actual state of a complex and changeful world, and about the appropriate actions to take in that situation. **Any mechanism of anticipation or expectation that a priori reduces uncertainty will therefore have a large positive impact on the organism's capability for control, and thus on its fitness.** The essence of cognition is precisely to produce such a mechanism that can complement or fill in incomplete data. **To achieve optimal control, anticipation and perception, or feedforward and feedback, must go hand in hand, the one constantly correcting and extending the other.**" - [Towards an anticipation control theory of mind, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/AnticipationControl.pdf)
+
 
 ## OODA loop
 
