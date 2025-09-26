@@ -2,6 +2,10 @@
 
 Whistleblower friendly ecosystem
 
+
+Hotline bling meme: deep state vs transparent/open state
+
+
 > "Any book worth banning is a book worth reading." - [Isaac Asimov](https://www.goodreads.com/quotes/1228919-any-book-worth-banning-is-a-book-worth-reading)
 
 > "Freedom is self-determination." - [Baruch Spinoza](https://www.azquotes.com/quote/1395002)
@@ -161,7 +165,7 @@ https://whois.icann.org/en/domain-name-registration-process
 # Black boxes & algorithmic bias
 ██████████████████████████████████████████████████████████████████
 
-The recommendation algorithms & the social graph are the architecture of virality - the dynamics of amplification & interaction dictate how ideas surface, propagate, compound & evolve. The people writing the algorithmic feeds are the most powerful in the world - [@naval](https://youtu.be/3qHkcs3kG44?t=3616).
+> "The recommendation algorithms & the social graph are the architecture of virality - the dynamics of amplification & interaction dictate how ideas surface, propagate, compound & evolve. The people writing the algorithmic feeds are the most powerful in the world." - [@naval](https://youtu.be/3qHkcs3kG44?t=3616).
 
 Ephemeral experiences such as search suggestions & results leave no trace and it's extremely hard to prove bias as [Dr. Robert Epstein](https://en.wikipedia.org/wiki/Robert_Epstein#Contributions_to_Internet_Studies) would [attest](https://open.spotify.com/episode/4q0cNkAHQQMBTu4NmeNW7E) - there is 0 accountability.
 
@@ -245,4 +249,109 @@ https://twitter.com/pranshuverma_/status/1632397925908111360
 
 
 
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Preference falsification
+██████████████████████████████████████████████████████████████████
+
+> "Life is fraught with opportunities to keep your mouth shut." - [Winston Churchill](https://www.azquotes.com/quote/415384)
+
+> "Preference falsification is an information theory term for the tendency for people to express a public preference that is different from their private, interior preference. For various reasons, certain preferences may not be publicly acceptable to express; they may be punished by execution, or labor camps, or exile, or social exclusion, or at the very least suspicion and a risk of some of these things. When people do not express their true preferences, they are deprived of the opportunity to coordinate with each other to create a more preferable outcome for both. Preference falsification is not just a political phenomenon, but a product of our dual nature, experiencing ourselves on the one hand from the privileged first-person perspective, and on the other hand from the imagined perspective of others. Pretending to have different preferences than one really does may be necessary to maintain a sense of safety, social belonging, and status." - [Weaponized Sacredness, by Sarah Perry](https://www.ribbonfarm.com/2015/05/07/weaponized-sacredness/)
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Privacy & anonymity
+██████████████████████████████████████████████████████████████████
+
+> "Did ayahuasca yesterday and realized my purpose in this life is to make anonymous polling apps." - [Nikita Bier](https://twitter.com/nikitabier/status/1626624720128057345)
+
+
+> "To believe in something, and not to live it, is dishonest." - [Mahatma Gandhi](https://www.goodreads.com/quotes/8052-to-believe-in-something-and-not-to-live-it-is)
+
+
+> "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth." - [Oscar Wilde](https://www.goodreads.com/quotes/3736-man-is-least-himself-when-he-talks-in-his-own)
+
+> "Nowadays people know the price of everything and the value of nothing." - [Oscar Wilde](https://www.goodreads.com/quotes/77057-nowadays-people-know-the-price-of-everything-and-the-value)
+
+
+> "Hateful to me as the gates of Hades is that man who hides one thing in his heart and speaks another." - [Homer](https://www.goodreads.com/quotes/64305-hateful-to-me-as-the-gates-of-hades-is-that)
+
+
+Private opinions for polls - you might not want them public but still to be able to compare with those who are public
+
+Wikileaks - zkLeaks !!!
+
+anonymous social network: Whisper or Secret
+https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=Many%20of%20the%20things%20written%20on%20these%20networks%20were%20so%20toxic%20that%20to%20claim%20ownership%20of%20them%20would%20be%20social%20capital%20negative%20in%20the%20aggregate.
+WHAT IF WE COULD PORT SOCIAL CAPITAL THROUGH ZK?
+
+we can have an anonymized debate at scale between millenials vs boomers or gen X-ers
+
+> "To think in an environment infected with simulated thinking is almost to invite a witch hunt." - [On Thinking and Simulated Thinking, by Jordan Hall](https://medium.com/deep-code/on-thinking-and-simulated-thinking-5e434e92cf86#:~:text=To%20think%20in%20an%20environment%20infected%20with%20simulated%20thinking%20is%20almost%20to%20invite%20a%20witch%20hunt.)
+
+strength is in the numbers
+VS.
+We can reveal only what we don't think we'd be judged about, but still anonymously express concerns - this way the majority cannot silence any minority
+
+- https://a16z.com/2022/04/21/investing-in-spruce/
+- https://www.hello.coop/#user-faqs
+- https://www.sismo.io/
+- https://ethdos.xyz/blog
+
+SISMO !!! and ethdos !!!
+https://twitter.com/shreyjaineth/status/1590310990876659712
+
+https://twitter.com/identhree
+
+Zk affiliation/attestations/credentials
+
+anonymity - reducing the cost of defection
+
+Zero knowledge as a chapter
+https://twitter.com/pseudotheos/status/1603832650707370009
+
+voting ZK stuff
+https://research.aragon.org/
+TODO: sismo here
+https://twitter.com/Sismo_eth/status/1636371873377423361
+https://forum.aragon.org/t/we-present-ovote-offchain-voting-with-onchain-trustless-execution/3603
+https://forum.aragon.org/t/blind-ovote-ovote-with-blind-signatures-for-voter-anonymity/3881
+https://vitalik.ca/general/2022/06/15/using_snarks.html
+https://github.com/privacy-scaling-explorations/maci/
+Systems like MACI can prevent you from credibly selling your vote, by allowing you to later cast another vote that invalidates your previous vote, in such a way that no one can tell whether or not you in fact cast such a vote. However, if the briber controls which key you get at registration time, this does not help.
+https://vitalik.ca/general/2023/07/24/biometric.html#:~:text=Systems%20like%20MACI,does%20not%20help.
+https://x.com/zkMACI
+https://maci.pse.dev/
+https://w3c-ccg.github.io/ldp-bbs2020/
+https://link.springer.com/chapter/10.1007/3-540-36413-7_20
+what to want from voting: privacy, correct execution, coercion-resistance (not being able to prove how you voted) and censorship resistance to the voting context
+https://github.com/enricobottazzi/ZK-SBT
+quadratic voting? https://www.radicalxchange.org/concepts/plural-voting/
+
+we can bridge/bring along/transfer/extend VCs to the anonymized set of votes
+something could guide or estimate how deanonymizable we become depending on the ZK VCs we bridge
+
+secure multi-party computation
+https://github.com/sine-fdn/tandem
+https://sine.foundation/tandem
+
+Trusted Execution Environment: What It is, and What It is Not
+https://hal.science/hal-01246364/document
+
+Functional Encryption: Definitions and Challenges
+https://eprint.iacr.org/2010/543.pdf
+
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Transparency
+██████████████████████████████████████████████████████████████████
+
+> "I hold the maxim no less applicable to public than to private affairs, that honesty is always the best policy." - [George Washington](https://www.goodreads.com/quotes/103494-i-hold-the-maxim-no-less-applicable-to-public-than)
+
+> "The whole art of government consists in the art of being honest." - [Thomas Jefferson](https://www.goodreads.com/quotes/38795-the-whole-art-of-government-consists-in-the-art-of)
+
+
+
+> "The very word "secrecy" is repugnant in a free and open society; and we are as a people inherently and historically opposed to secret societies, to secret oaths and to secret proceedings. We decided long ago that the dangers of excessive and unwarranted concealment of pertinent facts far outweighed the dangers which are cited to justify it. Even today, there is little value in opposing the threat of a closed society by imitating its arbitrary restrictions. Even today, there is little value in insuring the survival of our nation if our traditions do not survive with it." - [John F. Kennedy](https://paulgraham.com/quo.html#:~:text=%22The%20very%20word,John%20F.%20Kennedy)
 

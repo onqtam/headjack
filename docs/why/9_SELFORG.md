@@ -387,7 +387,7 @@ RR as self-organizing, self-correcting and self-transforming
 
 ---
 
-One way to think about relevance realization when implementing something like it digitally in terms of mechanisms & algorithms: ranking/sorting/prioritizing - you don't necessarily need to rank/sort all elements (that might take too much time) but you should be able to answer queries of the sort: `"What are the top X elements"` and optionally get the result with weights (quantitative comparison) and not just as simple positional ordering.
+One way to think about relevance realization when implementing something like it digitally in terms of mechanisms & algorithms: ranking/sorting/prioritizing - you don't necessarily need to rank/sort all elements (that might take too much time) but you should be able to answer queries of the sort: `"What are the top X elements"` and optionally get the result with weights (quantitative comparison) and not just as simple positional ordering. Comparison/ordering/ranking give us the capacity for non-random choice - they are a necessary prerequisite.
 
 <details><summary>Quotes related to RR</summary><p>
 

@@ -1560,7 +1560,6 @@ Conscious pursuit of alignment is the most potent manifestations of conscious ev
 
 Why is curiosity good? Because it enhances focus
 
-Wikipedia, but incentivised (with something other than a claim on resources) and multi-perspectival and complete - all knowledge, all events. All human history.
 
 How do we give the best mental models in the most accessible way topologically sorted based on relevance and complexity to kids?
 
@@ -3788,8 +3787,6 @@ From starcraft to the world game - what if we could tap into that passion
 
 Humanity is crazy, unconscious and full of tumors at the same time.
 
-The future of science is a global multi-perspectival bayesian network of opinions and expressions relating to assertions - much more fine grained than whole papers
-
 You stumble upon an interesting podcast with a lot of episodes. You want to filter by topic or in some other way. But you can’t - you can only filter by date/length/views.
 
 We are grossly underestimating or completely ignorant of the level of interconnectedness, feedback loops and unpredicted/undesirable/surprising second/third/fourth/…-order effects in the biosphere. Here are two scary words: tipping point.
@@ -5705,8 +5702,6 @@ Our experience is the expression of the universe
 
 A creative act of expression
 
-We need to structure our incentives in our system such that it is most conducive to beneficial and positive outcomes
-
 Civilization is cultivated - it is grown and renewed and built upon
 
 A culture of praise and recognition
@@ -5742,8 +5737,6 @@ We should all wish to be able to talk to more people about more things in more d
 
 The engine/computational architecture of ideology
 
-This book is an invitation to a higher level of philosophy
-
 We can gradually start redirecting resources and incentives as such: how to feed better more poor, how to engage them in the whole enterprise such that they contribute and that they want it to succeed - they need to feel connected to something larger than themselves - an offer for transcendence - a way to leave a mark
 
 We need to point out which arguments are better and how we came to that conclusion - we need to justify what is true and why we should converge on it and how we think we know what is true - what is our epistemology
@@ -5756,10 +5749,6 @@ We need to enable the religions to converge on the ultimate truth
 
 We sculpt the psychologies of our kids
 The better we infuse them with relevance - the better
-
-The free to choose network
-Relevance is sacred
-Relevance is about choice and comparison - with comparison we also get choice - we get the ranking
 
 What does humanity stand for?
 
@@ -5898,8 +5887,6 @@ Not knowing your neighbours is whack
 
 If instead of physical protests we could protest digitally there wouldn’t be paid instigators and agitators and feds that are trying to escalate things such that cops shut the protest down. We are doing democracy like its the 18th century or something
 Also the media can’t simply not cover it because the aggregated signal is within the new media system that inherently can’t hide something that’s relevant and important because of the incentives and self-organising dynamics
-
-Hotline bling meme: deep state vs transparent/open state
 
 The perception of value has been corrupted
 
@@ -6139,8 +6126,6 @@ Overconsumption is a game theory failure
 
 What are women and men for? What are they good at, how can they become better and more useful to themselves and others?
 
-Postmodernism is too shallow - lacks capacity for recursion because it doesn’t erect something as a proposed vision forward which can thus be referenced
-
 You upload yourself to the entropic cloud through having children
 
 If you’ve read this book you’re already in the attractor basin
@@ -6222,7 +6207,7 @@ Applied RR
 
 
 
-> ""You think because you understand 'one' you must also understand 'two', because one and one make two. But you must also understand 'and'." - [Mawlana Jalal-al-Din Rumi](https://www.goodreads.com/quotes/245285-you-think-because-you-understand-one-you-must-also-understand)
+> "You think because you understand 'one' you must also understand 'two', because one and one make two. But you must also understand 'and'." - [Mawlana Jalal-al-Din Rumi](https://www.goodreads.com/quotes/245285-you-think-because-you-understand-one-you-must-also-understand)
 
 ^^ complexity science, emergence vs reductionism
 
