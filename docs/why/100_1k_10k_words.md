@@ -326,6 +326,7 @@ Open (Source) Society
     ... I want to see open societies take on the role of innovating not one type of tech but the whole suite of digital tech to make better open societies because I don't see them surviving otherwise.
 Industrial Society and Its (BRIGHT) Future - ala ted kazynsky's unabomber manifesto
 Human Lives Matter - how to keep humanity relevant and vibrant
+Rules Over Rulers
 Rules Without Rulers
     https://www.youtube.com/watch?v=rStL7niR7gs
     
@@ -378,7 +379,7 @@ Collectivism in the 21st century
 Theory of everything - stephan bodzin
 Solving the succession problem - the headless god
 Rules Over Rulers
-The infinite game
+The Infinite Game
 Emergence is eating the world
 The Organizational Imperative - from the categorical
 Thermodynamic Imperative - from the categorical

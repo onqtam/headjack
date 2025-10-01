@@ -10,10 +10,6 @@
 > In the same way the railroads, the central infrastructure of industrialism, were nationalized in the 20th century, the internet platforms that are at the center of the digital age ought to be, not nationalized—but transnationalized!" - [Hanzi Freinacht](https://twitter.com/HFreinacht/status/1764967015184220409)
 
 
-> "Reading a tweet is a bit like downloading an (attacker-controlled) executable that you instantly run on your brain. Each one elicits emotions, suggests knowledge, nudges world-view. In the future it might feel surprising that we allowed direct, untrusted information to brain." - [Andrej Karpathy](https://twitter.com/karpathy/status/1766509149297189274)
-
-
-
 
 
 > "Without improving the systems by which humans collectively navigate the problem of mapping values to actions under shared constraints, that better tech will primarily end up used to destroy humanity, rather than sustainably accelerate it. The belief that better / more capable technological artifacts will alone lead to a better society is just another form of utopian delusion." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1770602256901243331)

@@ -211,7 +211,7 @@ Massachusetts Institute of Technology
 
 
 
-
+symmetric vs asymmetric synergy: cooperation vs cultivation/farming
 
 > "When synergy is symmetric, meaning that it benefits both parties to a similar degree, we will call the interaction cooperation. When it is asymmetric, in the sense that one party derives benefit more systematically than the other, we may call it cultivation: the “cultivator” farms, breeds or cultures the other party in order to directly extract benefit from it, but at the same time indirectly helping it to prosper." - [Mediator Evolution: a general scenario for the origin of dynamical hierarchies, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/MediatorEvolution.pdf)
 
@@ -1176,7 +1176,7 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 >
 > My belief is that by constructing a system of communications that is architected and engineered to facilitate real human trust and conviviality, our users will be able to achieve a depth of connection and experiences which are simply not possible with centralized attention farms. In order to build the right system, we have to focus on solving the right problems, and understand them at their most fundamental level." - [Peter Wang](https://github.com/pzwang/lostweb/blob/master/2%20The%20Web%20We%20Lost.md#:~:text=what%20technology%20fix,most%20fundamental%20level.)
 
-> "Current "social platforms" use lack of portable identity and karma as a moat, and their business models revolve around monetizing attention, which requires very invasive surveillance technologies. (In an ideal world, before I consume your content and allow your meme to pass through my brain, I should be able to configure my code to require that your packet meets certain provenance requirements. You don’t get my attention unless it meets that. It’s an implicit contractual protocol for attention.)" - [Peter Wang](https://github.com/pzwang/lostweb/blob/master/4%20The%20Root%20Problems.md)
+> "Current "social platforms" use lack of portable identity and karma as a moat, and their business models revolve around monetizing attention, which requires very invasive surveillance technologies." - [Peter Wang](https://github.com/pzwang/lostweb/blob/master/4%20The%20Root%20Problems.md)
 
 > "Network intelligence requires attribution, and durability of long-term learning... the way the brain cements memory and learning is by applying it to action; to making predictions and when those predictions are right, it quickly reinforces the pathways that led to it. this suggests that: (1) we need a way to do the equivalent of "acting" or "predicting" in an information network, which is difficult because thus far we've conceived such networks primarily as information dissemination mechanisms (2) we need to keep a provenance and attribute chain for how we came upon certain knowledge, and when those things feed into the analogue of "correctly predicted action", they get bumped up." - [Peter Wang](https://github.com/pzwang/lostweb/blob/master/6%20The%20Humane%20Network.md)
 
@@ -1186,9 +1186,7 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 
 
 
-> "When employees participate in the decision-making process, they may improve understanding and perceptions among colleagues and superiors, and enhance personnel value in the organization...
->
-> Participatory decision-making can have a wide array of organizational benefits. Researchers have found that PDM may positively impact the following: Job satisfaction, Organizational commitment, Perceived organizational support, Organizational citizenship behavior, Labor-management relations, Job performance and organizational performance, Organizational profits" - [Participative decision-making in organizations, Wikipedia](https://en.wikipedia.org/wiki/Participative_decision-making_in_organizations#:~:text=When%20employees%20participate,Organizational%20profits)
+> "When employees participate in the decision-making process, they may improve understanding and perceptions among colleagues and superiors, and enhance personnel value in the organization... Participatory decision-making can have a wide array of organizational benefits. Researchers have found that PDM may positively impact the following: Job satisfaction, Organizational commitment, Perceived organizational support, Organizational citizenship behavior, Labor-management relations, Job performance and organizational performance, Organizational profits" - [Participative decision-making in organizations, Wikipedia](https://en.wikipedia.org/wiki/Participative_decision-making_in_organizations#:~:text=When%20employees%20participate,Organizational%20profits)
 
 
 

@@ -92,13 +92,11 @@ https://prnt.sc/K5nzWpUw8XJh
 https://prnt.sc/o5LZhIhNqIFX
 
 
-> "A cooperative enterprise. Co-, together + operari, work. Acting in concert. Coordinating individual behavior in pursuit of shared goals." - [Kevin Simler](https://meltingasphalt.com/minimum-viable-superorganism/#:~:text=a%20cooperative%20enterprise.%20Co%2D%2C%20together%20%2B%20operari%2C%20work.%20Acting%20in%20concert.%20Coordinating%20individual%20behavior%20in%20pursuit%20of%20shared%20goals.)
+> "A cooperative enterprise. Co-, together + operari, work. Acting in concert. Coordinating individual behavior in pursuit of shared goals." - [Kevin Simler](https://meltingasphalt.com/minimum-viable-superorganism/)
 
 > "Nature promotes cooperation, collaboration, and synergy because it is thermodynamically beneficial for all parties, and for that reason, synergistic collective configurations will eventually be discovered by any many-component system that is exploring various states or configurations through the blind-variation-and-selective-retention mechanism. Organisms only compete until they finally figure out that working together makes everyone’s task easier, and that goes for humans too." - [Bobby Azarian](https://twitter.com/BobbyAzarian)
 
-> "If a zero-sum mindset is what we're wired for, positive-sumness has to be learned." - [The Rise of Positive-Sum Thinking, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-rise-of-positive-sum-thinking#:~:text=If%20a%20zero%2Dsum%20mindset%20is%20what%20we%27re%20wired%20for%2C%20positive%2Dsumness%20has%20to%20be%20learned.)
-
-> "Non-zero-sumness (NZS) is the evolution of culture toward deeper and vaster social complexity—an increasing intertwining of our fates. In other words, the growing extent to which we become interdependent on each other." - [The Rise of Positive-Sum Thinking, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-rise-of-positive-sum-thinking#:~:text=Non%2Dzero%2Dsumness%20(NZS)%20is%20the%20evolution%20of%20culture%20toward%20deeper%20and%20vaster%20social%20complexity%E2%80%94an%20increasing%20intertwining%20of%20our%20fates.%20In%20other%20words%2C%20the%20growing%20extent%20to%20which%20we%20become%20interdependent%20on%20each%20other.)
+> "If a zero-sum mindset is what we're wired for, positive-sumness has to be learned.... Non-zero-sumness (NZS) is the evolution of culture toward deeper and vaster social complexity—an increasing intertwining of our fates. In other words, the growing extent to which we become interdependent on each other." - [The Rise of Positive-Sum Thinking, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-rise-of-positive-sum-thinking)
 
 
 > "Just as blueprints don't necessarily specify blue buildings, selfish genes don't necessarily specify selfish organisms. As we shall see, sometimes the most selfish thing a gene can do is build a selfless brain. Genes are a play within a play, not the interior monologue of the players." - [Steven pinker](https://www.goodreads.com/quotes/122032-just-as-blueprints-don-t-necessarily-specify-blue-buildings-selfish-genes)

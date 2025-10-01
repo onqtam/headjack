@@ -5,6 +5,9 @@ Being a Beast Machine: The Somatic Basis of Selfhood
 https://sci-hub.se/10.1111/j.1467-9973.2012.01749.x
 Metaphilosophical Criteria for Worldview Comparison Clément Vidal
 
+A Blueprint for a Better Digital Society
+https://eliassi.org/lanier_and_weyl_hbr2018.pdf
+
 
 TODO INTERNET:
 Andy Williams
@@ -504,7 +507,23 @@ Forgiveness as part of the optimal game-theoretic strategy
 
 > "... info finance is a discipline where you (i) start from a fact that you want to know, and then (ii) deliberately design a market to optimally elicit that information from market participants.
 >
-> One example of this is prediction markets: you want to know a specific fact that will take place in the future, and so you set up a market for people to bet on that fact. Another example is decision markets: you want to know whether decision A or decision B will produce a better outcome according to some metric M. To achieve this, you set up conditional markets: you ask people to bet on (i) which decision will be chosen, (ii) value of M if decision A is chosen, otherwise zero, (iii) value of M if decision B is chosen, otherwise zero. Given these three variables, you can figure out if the market thinks decision A or decision B is more bullish for the value of M." - [From prediction markets to info finance, by Vitalik Buterin](https://vitalik.eth.limo/general/2024/11/09/infofinance.html)
+> One example of this is prediction markets: you want to know a specific fact that will take place in the future, and so you set up a market for people to bet on that fact. Another example is decision markets: you want to know whether decision A or decision B will produce a better outcome according to some metric M. To achieve this, you set up conditional markets: you ask people to bet on (i) which decision will be chosen, (ii) value of M if decision A is chosen, otherwise zero, (iii) value of M if decision B is chosen, otherwise zero. Given these three variables, you can figure out if the market thinks decision A or decision B is more bullish for the value of M.
+>
+> ... Info finance for distilled human judgement
+>
+> Suppose that you have a human judgement mechanism that you trust, and that has the [legitimacy](https://vitalik.eth.limo/general/2021/03/23/legitimacy.html) of a whole community trusting it, but which takes a long time and a high cost to make a judgement. However, you want access to at least an approximate copy of that "costly mechanism" cheaply and in real time. Here is [Robin Hanson's idea](https://www.overcomingbias.com/p/meta-jury-markets) for what you can do: every time you need to make a decision, you set up a prediction market on what outcome the costly mechanism would make on the decision if it was called. You let the prediction market run, and put in a small amount of money to [subsidize market makers](https://www.lesswrong.com/posts/GxmfqKjs6ruxNxhqr/prediction-markets-explained#Subsidizing_Liquidity).
+>
+> 99.99% of the time, you don't actually call the costly mechanism: perhaps you "revert the trades" and give everyone back what they put in, or you just give everyone zero, or you see if the average price was closer to 0 or 1 and treat that as the ground truth. 0.01% of the time - perhaps randomly, perhaps for the highest-volume markets, perhaps some combination of both - you actually run the costly mechanism, and compensate participants based on that.
+>
+> This gives you a [credibly neutral](https://nakamoto.com/credible-neutrality/) fast and cheap "distilled version" of your original highly trustworthy but highly costly mechanism (using the word "distilled" as an analogy to [LLM distillation](https://www.datacamp.com/blog/distillation-llm)). Over time, this distilled mechanism roughly mirrors the original mechanism's behavior - because only the participants that help it have that outcome make money, and the others lose money.
+>
+> This has applications not just in social media, but also for DAOs. A major problem of DAOs is that there is such a large number of decisions that most people are not willing to participate in most of them, leading to either widespread use of delegation, with risk of the same kinds of centralization and principal-agent failures we see in representative democracy, or vulnerability to attack. A DAO where actual votes only happen very rarely, and most things are decided by prediction markets with some combination of humans and AI predicting the votes, could work well.
+>
+> Just as we saw in the decision markets example, info finance contains many potential paths to solving important problems in decentralized governance. The key is the balance between market and non-market: the market is the "engine", and some other non-financialized trustworthy mechanism is the "steering wheel".
+>
+> ... Other use cases of info finance
+>
+> ... Scientific peer review - there is an ongoing "[replication crisis](https://en.wikipedia.org/wiki/Replication_crisis)" in science where famous results that have in some cases become part of folk wisdom end up not being reproduced at all by newer studies. We can try to identify results that need re-checking with a prediction market. Before the re-checking is done, such a market would also give readers a quick estimate of how much they should trust any specific result. Experiments of this idea [have been done, and so far seem successful](https://www.pnas.org/doi/full/10.1073/pnas.1516179112)." - [From prediction markets to info finance, by Vitalik Buterin](https://vitalik.eth.limo/general/2024/11/09/infofinance.html)
 
 
 

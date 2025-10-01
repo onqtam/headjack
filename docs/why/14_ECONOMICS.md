@@ -100,6 +100,13 @@ Traits of property rights:
 
 
 
+companies don't have a reason to stop growing beyond a certain point
+and beurocracies - they always fill the budget and don't try to obsolete themselves
+imagine having a reward to fulfill a goal and be done with it instead of petpetuating the need to exist
+
+
+
+
 Problems with Capitalism and a few (simplistic) suggestions how to fix them
 
 > "**The Rich get Richer**
@@ -773,7 +780,6 @@ The most important thing to compute is the most optimal way to cooperate and coo
 
 "The Coorperation"
 The coorperative
-BeWe or WeBe - from WeWork
 
 
 
