@@ -364,6 +364,7 @@ imagine being able to pick your "wikipedia editors" - people who curate informat
 
 ██████████████████████████████████████████████████████████████████
 # querying & palantir foundry
+Palantir For All
 ██████████████████████████████████████████████████████████████████
 
 LLMs !!!

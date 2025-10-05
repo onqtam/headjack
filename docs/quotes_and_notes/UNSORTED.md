@@ -194,6 +194,105 @@ Palantir for all
 The end of nation states
 
 
+We have not even begun to explore the potential of enculturation in a conscious and intentional/deliverate and democratic way
+
+We accumulate associative patterns and how they match with other patterns
+
+Postmodern Horror: the return of grand narratives
+
+The better actors we become - the more emotive we could learn to make the raising of our children
+The better we display our morals in application (and the better they are) - the faster would they learn
+Not faster but more guided and edficient - ok so also and faster - by optimising for going through anything only once and strategically sorting the items - the better the cultural transmission
+Have you seen the cultural garbage that’s on television across the world? How do we detoxify it? How do we point towards progress? We need a theory about it
+Collective theory of progress
+The Global Paideia
+
+If we can’t get someone we care about to also join something amazing we’ve stumbled upon - then perhaps there’s no hope for us all after all
+
+If you’re not learning from a piece of art and yet its popular and entertaining - then it is cultural garbage - it can still exist but we get to label it and give it negative valence saying “avoid”
+
+We’re not communists - we are collectivists and syntropists
+
+The fact that we do our politics on the private social network owned and controlled and programmed by foreign states is insane - ceding that much autonomy and sovereignty is insane
+
+You are what you’re enculturated with
+
+The Unofficial Sequel
+Evolution’s arrow and the future of humanity
+
+Tv programming == brain programming
+
+Clumping the most explanatory and far-reaching and important theories together
+
+The god and scripture that’s actually worth submission - one for the new era - one with a built in error-correction so that it can never slide backwards and/or become stale
+
+We need to express what we’ve learned from a cultural artefact after consumption and to aggregate and rank our cultural produce based on usefulness along with the reasons for it - we need to sort/rank culture
+
+The complete integration of cultural causality
+Recursive/self-reflective culture - the cultural mirror
+Cultural Recursive Closure
+The Cultural Ouroboros
+
+The postmodern disease is the loss of relevance realization - the ability to compare and choose
+
+Go forth and self-organize: a message to the youth
+Instead of multiply
+And also yes, multiply
+
+The real and only regulatory arbitrage begins with a nation state adopting the next paradigm of governance
+
+The Cultural Assimilator - once the engine of progress gets going it will consume the entire world
+
+Good vs. Evil: Cultural Assimilator vs Incinerator
+
+Applying the defibrilator treatment to western civilization
+
+The 1000 page definition
+
+The real process and event: the event of beginning our collective application of process philosophy - referring to Alexander Bard’s book
+Process and Event: the process we’ll start following after the event that is this book
+
+This book is in the memory and honor of every human’s parents - to those who have come before us - our collective cultural efigee
+
+On the shoulders of giants - the selection of quotes
+If your favourite giant hasnt been mentioned it is perhaps our search function for giants was simply too limited - lets build a better search function for giants
+The search function
+Our mission: to sort the world’s giants - with scratched to organize the world’s information
+
+The Cultural Reactor
+Cultural Synthesis
+
+What’s the big brother for the best of our creative class? Where we document their attempt at cracking a hard problem? What if we programmed our culture and television and celebrity apparatus towards identifying and solving our biggest problems?
+Our credit assignment is broken
+Consciousness is distributed credit assignment
+
+Ricky gervais addressing celebrities to not spout opinions on matters they know nothing about
+
+What is good? That which helps others self-realize and aid in the betterment of functional organization
+
+Syntropic laws:
+- Seek the truth
+- Align the incentives
+- Implement CC
+- Strike the right balance between cooperation and competition
+- Minimize free energy
+- Exploit synergy
+
+Success is my/our only motherfucking option - failure’s not
+Eminem, lose yourself
+You only get one chance so do not miss your chance to blow because this opportunity goes once in a lifetime
+
+
+Betting against elon
+Unless he pivots and adopts the future of identity and content addressing as an open protocol
+
+Multiple Personality Dis NW Order
+Democratic aggregation and synthesis of diverse expressions, opinions & quotes
+And this book is the first version of it
+The aggregation and synthesis of diversity
+
+NWO as a service
+
 
 
 

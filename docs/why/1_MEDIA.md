@@ -332,6 +332,7 @@ The opposite is integration.
 
 > "Economics are the method; the object is to change the soul." - [Margaret Thatcher](https://www.azquotes.com/quote/665382)
 ^^ lol wtf
+how about the soul changing the economics
 
 
 > "If nonsatiety were the natural state of human nature then aggressive want-stimulating advertising would not be necessary, nor would the barrage of novelty aimed at promoting dissatisfaction with last year's model. The system attempts to remake people to fit its own presuppositions. If people's wants are not naturally insatiable we must make them so, in order to keep the system going." - [Herman E. Daly](https://www.goodreads.com/quotes/250277-if-nonsatiety-were-the-natural-state-of-human-nature-then)

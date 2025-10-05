@@ -123,6 +123,8 @@ dogfeeding the system: plugging the political insights from "the listning societ
 > "My number one predictor of whether or not a company will find product-market fit: High shipping cadence." - [Naval Ravikant](https://x.com/naval/status/1128346098362281984)
 
 
+Messaging apps (Telegram, whatsapp) and how they can transition to this
+
 
 Can this be funded like star citizen?
 

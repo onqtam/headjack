@@ -403,10 +403,22 @@ Capital allocation in the 21st century
 Post capitalism
 The new attention economy
 The sentient economy
+Making the Collective Unconscious Conscious
+What's our Telos/Protocol? A Self-Organization Book for Societies
+    What's Our Problem?: A Self-Help Book for Societies
+    https://www.goodreads.com/book/show/102146148-what-s-our-problem
 Wholesome economics
-The Epistemic Commons
+The omega point for all of telecommunication
+Highlights - Extracting the essence of great work (as quotes)
+Governing the Epistemic Commons (ref)
+    https://www.amazon.com/Governing-Commons-Evolution-Institutions-Collective/dp/1107569788
+The Trojan Horse - first in companies, then in society
+The End of Propaganda
+TemON - The even more Open Network - it can do a heck of a lot more
+    https://en.wikipedia.org/wiki/TON_(blockchain)
 Integrity
 Identity Politics 2.0
+The Latest Testament
 CiHKAL
     Complexity I Have Known And Loved
     [PiHKAL](https://en.wikipedia.org/wiki/PiHKAL) & [TiHKAL](https://en.wikipedia.org/wiki/TiHKAL) by [Alexander Shulgin](https://en.wikipedia.org/wiki/Alexander_Shulgin)
