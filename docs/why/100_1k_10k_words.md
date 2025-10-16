@@ -151,7 +151,9 @@ The Implementation of Humane Technology - what up Tristan
 We are a Strange Loop
 Connecting the world
     without the addiction and extraction
-Regrowth - degrowing the old economy and growing a new one
+*~~(De)~~* **Re**growth - degrowing the old economy and growing a new one
+In The Arena - Digital Colliseum of Ideas
+    The highest expression/manifestation of games and spectacle
 Breaking The Script
     The Livest Player on the global stage
 Betting Against Elon
@@ -358,6 +360,8 @@ The Final Master Plan - how to actually deliver sustainable abundance for all
 
 BUT WAIT - THERE'S MORE!
 
+Sun worship in the 3rd millenium - our thermodynamic imperative
+The Most consequential S-Curve - the adoption of a new global ideology
 
 The Meta Religion
     infrastructure for expressing/enacting/comparing/debating & evolving religions
@@ -408,7 +412,9 @@ What's our Telos/Protocol? A Self-Organization Book for Societies
     What's Our Problem?: A Self-Help Book for Societies
     https://www.goodreads.com/book/show/102146148-what-s-our-problem
 Wholesome economics
+Customer Obsession - addressing the biggest needs of humanity
 The omega point for all of telecommunication
+The rabbit hole - once you read this there’s no going back
 Highlights - Extracting the essence of great work (as quotes)
 Governing the Epistemic Commons (ref)
     https://www.amazon.com/Governing-Commons-Evolution-Institutions-Collective/dp/1107569788
@@ -464,8 +470,16 @@ mention the business plan search space for a 500-page book(s) from the book the 
 "The Book"
 Driving sociopathy at scale to extinction
 Closing the sociopathic niche
+The Holy Memetic War to End All Wars
+The Religion That Is A Religion - ala Vervaeke's "Religion that is not a religion" concept
+Socialist Market Economics with Syntropic/Democratic Characteristics
+    https://en.wikipedia.org/wiki/Socialism_with_Chinese_characteristics
 Real progressivism/progress
+    The progressive movement of the 21st century
 Civilization/Collectives from first principles
+N dimensional democracy - every aspect is its own dimension in the CI heterarchy
+The Real Meta - one which isnt simply VR & addictive adtech but actually does something meta
+    The meta upgrade
 Higher Power
 Agora
     a central public space in ancient Greek city-states. The literal meaning of the word "agora" is "gathering place" or "assembly". The agora was the center of the athletic, artistic, business, social, spiritual, and political life in the city. The Ancient Agora of Athens is the best-known example.
@@ -524,6 +538,7 @@ Valence as a service - what’s good and what’s bad - what to do - morals
 Religion as a service
 Religio as a Service
 Meaning as a service
+Community as a Service
 Virtue as a service
 Moral highground as a service
 God as a service

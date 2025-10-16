@@ -293,7 +293,12 @@ The aggregation and synthesis of diversity
 
 NWO as a service
 
+roles based leadership vs position based leadership - idea from hierarchy in the forest?
 
+Real feminism is about giving females access to the lever of morality
+They create life - they should aslo point it morally
+
+Burning man for the elite
 
 
 

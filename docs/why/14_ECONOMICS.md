@@ -9,6 +9,10 @@ As John Maynard Keynes wrote in the conclusion of his General Theory of Employme
 From John Maynard Keynes’s 1936 The General Theory of Employment, Interest and Money, ch 24, part V.
 
 
+Moral economics
+
+The sharing economy is not uber or airbnb - it is a new property system
+
 
 embed this:
 Faces of Capitalism with Liv Boeree

@@ -444,6 +444,24 @@ The demonization of saturated fat was started by scientists who were paid off ab
 Ancel Keys
 
 
+
+
+
+brat predstavi si 4e kogato edin paper cite-va drugi
+4e ima primerno 1000 credit points, i trqbva da gi razpredeli mejdu vsi4ko koeto cite-va kato relevance/contribution/importance
+i da re4em 4e paper A cite-va B koito cite-va C
+da re4em 4e A zavisi na 20% ot B (i ostanalite 80% ot vsi4ki drugi papers koito cite-va), a B na 3% ot C (i ostanalite 97% ot vsi4ki drugi papers koito cite-va)
+taka moje da se smetne ne6to po-blizko do pagerank algorituma otkolkoto tova sega 1 citation == 1 citation i da buta6 nagore H index-a i da vkarva6 nenujni i irrelevant ne6ta v papera si za da cite-ne6 drug paper i da napravi6 usluga na nqkoi
+importance-a na paper trqbva da se smqta na bazata na tova kolko drugi ne6ta sa downstream ot nego, i to kolko zavisqt ot nego
+v momenta tova mai se gleda samo 1 nivo nadolu, kolko citation-a ima6, no kakvo stava ako moje6e da ima zna4enie vseki ot paperite koito te cite-vat te samite kolko sa cite-vani i to s kakva tejest
+no more paper factoris & scams!
+
+
+
+
+
+
+
 Jupiter notebooks for decentralized social science?
 
 > "Society, business & money are downstream of technology, which is itself downstream of science. Science applied is the engine of humanity." - [@naval](https://twitter.com/naval/status/790443306886926337)

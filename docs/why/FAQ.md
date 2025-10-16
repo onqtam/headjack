@@ -69,11 +69,15 @@ put the response to Joscha here
 
 > "With great power comes great responsibility." - [Uncle Ben](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility)
 
+> "Storytelling is the most underrated skill… Companies that don’t have a clearly articulated story don’t have a clear and well thought-out strategy. The company story is the company strategy... The story must explain at a fundamental level why you exist. Why does the world need your company? Why do we need to be doing what we’re doing and why is it important?… You can have a great product, but a compelling story puts the company into motion. If you don’t have a great story it’s hard to get people motivated to join you, to work on the product, and to get people to invest in the product... The CEO must be the keeper of the story. The CEO is responsible for getting the story right, that it’s up to date, compelling, and can move the hearts of men and women. That’s the fundamental responsibility of the chief executive… The mistake people make is thinking the story is just about marketing. No, the story is the strategy. If you make your story better you make the strategy better." - [Don Valentine](https://x.com/StartupArchive_/status/1974141987193245871), Sequoia Capital founder
+
 ## Why is there so little about AI?
 
 Because there's nothing we could add to the discussion. We stay in our lane of competence. The most intelligent thing we can say is that anyone speaking with high confidence about what's going to happen with AI should not be taken too seriously.
 
 What we can do, however, is help shift the conversation more towards an architecture for collective intelligence. We're interested in a system to better make sense of situations such as the one we find ourselves in regards to AI. We're interested in the meta solution for social problems & organization.
+
+We can also simply point to people in the AI space we respect: Andrej Karpathy, etc.
 
 ## Why isn't there more on the negatives of current social media?
 

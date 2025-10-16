@@ -290,6 +290,12 @@ top10 institutions:
 top 10 things I wish I knew earlier:
 https://eriktorenberg.substack.com/p/35
 
+top10 computer science books
+- designing data intensive applications
+
+top10 most misunderstood pieces of software:
+- Palantir Foundry
+
 top 10 recommendations: The Century of the Self
 there should also be top 50/200/etc. - we should simply rank everything - vote with our actions in a global shared OS of events - events to which others can subscribe to
 
@@ -440,6 +446,9 @@ https://www.youtube.com/watch?v=0fkKnfk4k40
 
 The Evolution of Agency
 https://www.youtube.com/watch?v=gxpbvE8V0Dg
+The evolution of free will - with Kevin Mitchell
+https://www.youtube.com/watch?v=QXwRjb7WF7E
+
 
 top10 most important reads:
 - https://civilizationemerging.com/new-economics-series-3/

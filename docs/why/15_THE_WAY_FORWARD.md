@@ -304,6 +304,11 @@ https://www.youtube.com/watch?v=c1nYtX-NUsc
 
 > "I think we should really do our very best to become a multiplanet species and to extend consciousness beyond Earth and we should do it now." - [Elon Musk](https://www.upi.com/Science_News/2019/09/29/Musks-SpaceX-unveils-new-Starship-for-private-trips-in-space-then-moon/3771569765872/#:~:text=I%20think%20we%20should%20really%20do%20our%20very%20best%20to%20become%20a%20multiplanet%20species%20and%20to%20extend%20consciousness%20beyond%20Earth%20and%20we%20should%20do%20it%20now)
 
+
+
+<!-- When it comes to metaphysics ["A Minimum Viable Metaphysics"](https://jimrutt.substack.com/p/a-minimum-viable-metaphysics) by Jim Rutt is all we need - see [here](https://jimrutt.substack.com/p/what-i-mean-by-metaphysics) for what he means by "metaphysics". -->
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Terror Management Theory
 ██████████████████████████████████████████████████████████████████

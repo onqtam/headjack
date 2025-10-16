@@ -367,6 +367,44 @@ imagine being able to pick your "wikipedia editors" - people who curate informat
 Palantir For All
 ██████████████████████████████████████████████████████████████████
 
+Why is Foundry so much faster than the rest?
+https://www.youtube.com/watch?v=2NHgNBwTXRk
+
+Foundry's Object Lineage Explained
+https://www.youtube.com/watch?v=rYmCToxJHfc
+
+Foundry Applications Explained
+https://www.youtube.com/watch?v=jQwx5SjBN1Q
+
+Foundry in Action: Code Repositories
+https://www.youtube.com/watch?v=QJJn_R9QCh0
+
+Foundry vs The World
+https://www.youtube.com/watch?v=Vrz50lFTzAY
+
+Foundry in Action: Templates
+https://www.youtube.com/watch?v=OsmBRDx7SQI
+
+Foundry Orientation Part One
+https://www.youtube.com/watch?v=HO6r5ya4-9c
+
+Palantir and Coffee: Pipeline Builder
+https://www.youtube.com/watch?v=1q0EbYKsm5Q
+
+Foundry is the Future: We just don't know it yet.
+https://www.youtube.com/watch?v=so1BUmqVU0g
+
+Foundry 2022 Operating System Demo
+https://www.youtube.com/watch?v=uF-GSj-Exms
+
+
+https://www.youtube.com/watch?v=ZgokFqUAAsE
+
+interoperability base solution
+
+
+
+
 LLMs !!!
 
 what if we had an LLM that we could ask to find the right filters, inputs and weights to find the best of X, and they would construct us a search preset that is best suited for our needs.

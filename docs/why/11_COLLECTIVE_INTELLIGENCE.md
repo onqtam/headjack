@@ -811,6 +811,10 @@ https://www.youtube.com/watch?v=l7AWnfFRc7g
 >
 > ... Examples of altruism or collective problem solving, even at the cellular level suggest that collective CLCs may exist in diverse organisms and at multiple scales." - [Thoughts and thinkers: On the complementarity between objects and processes, by Chris Fields & Michael Levin](https://www.sciencedirect.com/science/article/pii/S1571064525000089?via%3Dihub)
 
+https://en.wikipedia.org/wiki/Bodhisattva_vow
+
+The Bodhisattva vow is a vow taken by some Mahāyāna Buddhists to achieve full buddhahood for the sake of all sentient beings. One who has taken the vow is nominally known as a bodhisattva (a being working towards buddhahood). This can be done by venerating all Buddhas and by cultivating supreme moral and spiritual perfection, to be placed in the service of others. In particular, bodhisattvas promise to practice the six perfections of giving, moral discipline, patience, effort, concentration and wisdom in order to fulfill their bodhicitta aim of attaining buddhahood for the sake of all beings.
+
 <!-- https://en.wikipedia.org/wiki/Default_mode_network
 what if we implemented something like the Default mode network in the GB? -->
 
@@ -1625,6 +1629,8 @@ What productivity looks like as a flywheel - causal relationships:
 taken from here:
 https://unchartedterritories.tomaspueyo.com/p/history-network-effects
 -->
+
+> "Systems fool us by presenting themselves as a series of events." - [Donella Meadows, 2008, Thinking in Systems](https://en.wikipedia.org/wiki/Thinking_In_Systems:_A_Primer)
 
 > "Deep understanding of causality sometimes requires the understanding of very large patterns and their abstract relationships and interactions, not just the understanding of microscopic objects interacting in microscopic time intervals." - [Douglas Hofstadter](https://www.goodreads.com/quotes/6879066-deep-understanding-of-causality-sometimes-requires-the-understanding-of-very)
 
