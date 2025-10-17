@@ -300,6 +300,126 @@ They create life - they should aslo point it morally
 
 Burning man for the elite
 
+A century of the expanded self
+The greatest documentary
+
+Strategy: how to take over the world
+
+The ultimate product is the ultimate system
+
+Our system fails in transmitting the explanation why others are important
+
+Shoving irrelevant shit like thats the type of soil in a specific part of your country in the heads of kids is a crime against agency, creativity, existence, and the spark of life
+
+In the current system the people who pushed for the offshoring of american manufacturing and who claimed that it was in the long term interest of america to do so - there's no accountability for them. They made their fortunes, they've aged and sailed into the sunset, and they'll leave it all to their descendants. There's no long-term accountability for bad decisions. TODO come up with a better example
+
+From product placement in culture
+To concept placement
+Drake hotline bling meme
+
+Resonance
+Frequency
+
+Jira as a service
+Salesforce as a service
+
+The Multi-dimensional Gradient
+
+The reverse panopticon pyramid staircase
+The reverse panopticon
+The great reversion of surveillance
+
+Fully automated meaningful conmunism
+
+The demo version or homework - apply the principles from the book on the book itself
+Homework for all
+
+We need a competitive advantage & demand for recycling and standartized containers for anything
+We need to enculturate ourselves to shift the demand in the market - conscious demand
+
+Peoples incentives should only be towards solving problems - not gaming the system
+Fixing the system should be a highly valued problem
+
+How to raise kids - as title
+There is a right way of raising mids in order to inculcate their proactive and positive testing of boundries and daring to explore - wothouy the negatives
+
+
+
+
+== what translates from one level of organization to another:
+consequence capture е едно което се
+знаеш ли какво друго транслира от едно ниво към следващото
+
+конструкцията на self model
+
+и то става все по-sophisticated нагоре по нивата които агрегират индивиди от по-ниско ниво
+Edited2:46 PM
+
+Майкъл левин бута и за идеята за cognitive light cones
+
+където с функционалната комплексификация се увеличава и далечината на планиране/спомени, както и за колко други неща ти пука и въобще мащаба на целите ти в бъдеще които въобще можеш да conceive-неш и за които да ти пука
+Edited2:48 PM
+
+ние сме йерархия от системи, и на всяко ниво тази концепция е директно приложима и дори мега полезна
+
+и всъщност с формализацията на идеята за CLCs човек може да сплеска много комплексност от много различни нива в едно ясно и компактно нещо/теория
+
+та реално е пълно с различни аспекти които транслират от едните нива то другите
+
+и религиите и христянството и римската империя не са навързали всички тези неща и не са ги извели от термодинамика, ами просто са набарали добър сет от принципи и т.н. които до голяма степен са ги intuit-нали (което въобще не е за подценяване), ама тия истории и мирогледи просто не са достатъчно добри на фона на всичко което знаем и имаме нужда от нов, компактен, кохерентен, логичен и мощен (обесняващ много) модел/worldview
+Edited2:51 PM
+
+един от тайтълите които обмислям е 2 birds with 1 stone защото толкова много от тези принципи в книгата ми хем ще обесняват на човек какво е той всъщност като индивид (вкл какво е съснанието до някаква степен, какво е интелекта, селф-а, и т.н.), а и също така какво сме ние като колективна система от самоорганизираща се материя
+
+Credit assignment
+
+V collective intelligence
+
+Nujdata za credit assignment
+
+Tova e sushto neshto koeto vaji i se translira mejdu razlichnite niva kato princip/necessity
+Edited3:25 PM
+
+Kakto v mozuka, kakto v AI, taka i in society
+
+Koeto e svurzano s feedback, s evoliuciq, konkurenciq, reputation, connectivity, skin in the game, accountability, ala bala
+
+Attention allocation i vruzkata mejdu attention, consciousness, coherence, the self, relevance realization - vsichki tezi neshta
+
+Na vsichki niva ima division of labor
+
+Ima specialization & integration kudeto the whole is more than the sum of the parts ala emergence
+Edited3:29 PM
+
+A za da mojesh da integrirash uspeshno trqbva da reshish cooperation problemite otkum game theory kudeto idva alignment i consequence capture
+3:29 PM
+
+Ideqta che higher level entity-to ne trqbva da micro manage-va dolnite si kompinenti, ami che ima po-high-level interfeis s koito da setva setpoints no da ne trqbva da specify-ne v detaili kak da se stigne celta
+
+I che to dori bi bilo neposilno da micro manage-va taka zashtoto cqlata ideq e specifikite da sa delegitani za da ne trqbva higher level entity-to da sudurja cqloto complexity na vsichkite si komponenty and then some, ami da e glavno nadgrajdane i integrirane
+
+Tova e sushto nachin na mislene koito se translira
+
+Michael levin za tova govori tolkova mnogo za multi scale competency architecture
+
+Ta ne, ne se translira krebs cycle-a na nz si kakvo v kletkite do ikonomikite ni v sveta, ami imenno tezi strukturni/systemic properties
+Edited3:37 PM
+
+Edin ot liubimite mi citati na Naval e
+
+The older the problem - the older the solution
+
+I moqta teza e che s takuv nachin na mislene ot purvi principi shte mojem i da si groundnem ethics & morality
+
+Vmesto da imame tezi incompatible schools of thought
+
+Levin govori za stress sharing mejdu kletki s bioelectricity i kak kletkite narochno evoliucionno ne mogat da razgranichat dali tozi stress koito chuvstvat e tehen direktno ili e ot neighbouring cell - i taka im se slivat identity-tata i celite do nqkakva stepen i rabotqt v edna posoka
+
+Tova naprimer ne e princip koito vijdam kak bi se transliral zashtoto nie imame infinitely richer self/identity/perspective/individuality/cognition/selfawareness
+Edited3:41 PM
+
+Toest sum mn selektiven - a ne prosto mother nature knows best za vsichko za navsqkude
+
 
 
 
