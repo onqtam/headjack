@@ -225,6 +225,7 @@ The Matrix part 2/4
     ALSO THIS BOOK HAS ONLY 1 TITLE AND EVERYTHING HERE IS FAKE TITLES
     The Matrix part 2 is not a movie but the source code of God
 Birthing Collective Consciousness
+    > "its not AI that has to become conscious" - [Amused Chimp](https://x.com/AmuseChimp/status/1979831060142739488)
 Embracing Complexity
 Self-Correcting Authority
 the fourth estate proper
@@ -374,6 +375,8 @@ The Riddle of Existence
     what we are, what we should do, and why
 THE Extended Mind
 Strategic Altruism
+    Obsoleted/Rewarded altruism
+    Incentive pilled altruism
 The Finest of Art
 Unified Theory of Society - UTOS
 Ground Perspective - ala news
@@ -391,7 +394,8 @@ Thermodynamic Imperative - from the categorical
 Beyond Markets
 In Search of Better Questions
 The Selfless Meme - from the selfish gene
-The Incentive Landscape from which we can derive the moral one
+The *~~Moral~~* Incentive Landscape
+    https://en.wikipedia.org/wiki/The_Moral_Landscape
 Nothing Stops This Train
 If Anyone Builds It, Everyone Thrives: Why Collective Intelligence Is The Answer To All Our Problems
     it is the highest adaptive capacity - to sync up with others and form something that’s greater than the sum of its parts
