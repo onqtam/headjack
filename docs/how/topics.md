@@ -51,6 +51,12 @@ TODO: find a way to have tooltips? so that I can paraphrase quotes and people ca
 <img src="/img/causal_map_example.webp"/>
 taken from here: https://www.sciencedirect.com/science/article/pii/S0301479720315930
 
+<img src="/img/nonduality.jpg"/>
+taken from here:
+https://www.reddit.com/r/nonduality/comments/16q7un9/is_this_basically_it/
+not sure what to do with it
+
+
 <img src="/img/meme_financial_speculation.jpg"/>
 
 <div style={{textAlign: "center"}}>

@@ -109,11 +109,16 @@ Programming accountability and expressivity into the system
 The Stoned Ape Hypothesis/Theory
     what a single stoned ape can come up with
 The problem solver
+*~~Center~~* Ideology for Humane Technology
+    https://en.wikipedia.org/wiki/Center_for_Humane_Technology
 What is a thing?
 The Gateway Insight
     > "None of our current socio-politico-economic operating system was brought down from Mt Sinai by Moses. We built it, we can change it. We own the moral responsibility for the nature of our society." - [Jim Rutt](https://x.com/jim_rutt/status/1783469872569082063)
     > "The thing I would say is, when you grow up, you tend to get told that the world is the way it is, and your life is just to live your life inside the world. Try not to bash into the walls too much. Try to have a nice family life, have fun, save a little money. But life, that's a very limited life. Life can be much broader once you discover one simple fact, and that is: Everything around you that you call life was made up by people that were no smarter than you. And you can change it. You can influence it. You can build your own things that other people can use. And the minute that you understand that you can poke life, and actually something will, you know, if you push in, something will pop out the other side, that you can change it. You can mold it. That's maybe the most important thing is to shake off this erroneous notion that life is there and you're just going to live in it, versus embrace it. Change it. Improve it. Make your mark upon it. I think that's very important. And however you learn that, once you learn it, you'll want to change life and make it better. Because it's kind of messed up in a lot of ways. Once you learn that, you'll never be the same again." - [Steve Jobs: Secrets of Life](https://www.youtube.com/watch?v=kYfNvmF0Bqw)
 The Eye of Sauron
+The Ledger of [Permanent] Record
+    https://x.com/balajis/status/1459140902144729088
+    https://en.wikipedia.org/wiki/Permanent_Record_(autobiography)
 Painting with Life
 Of the Cells, by the Cells, for the Cells
     https://en.wikipedia.org/wiki/Gettysburg_Address#%22Government_of_the_people,_by_the_people,_for_the_people%22

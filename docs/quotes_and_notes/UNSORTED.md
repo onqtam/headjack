@@ -86,8 +86,6 @@ Remaking Humanity
 
 Rebuilding Society
 
-We Takin Over
-
 Evolutionary alignment
 
 ARCINET Advanced Research Collective Intelligence Network
@@ -342,6 +340,31 @@ Fixing the system should be a highly valued problem
 
 How to raise kids - as title
 There is a right way of raising mids in order to inculcate their proactive and positive testing of boundries and daring to explore - wothouy the negatives
+
+If god is all powerful he doesnt really need us
+If we’re literally cells from his body then he is entirely dependent upon us. Failing an all powerful god is no failing at all (or just a disappointment), failing an emergent god is everything - it is existential for him
+
+When people can express what they care about and track the progress - when they’re more emotionally invested - that’s when they’re more likely to pay attention to what helps their goals. + skin in the game
+
+
+Full Stack Society 
+
+The future of our species
+
+Structured Interaction
+
+The upstream of the upstream
+
+The ontology is our IR (intermediate representation) and we’ll compile it to different form factors
+
+What if instead of some superficial twisted plot our thrillers revolved around communicating and displaying the top 100 most important concepts for society?
+
+When debating an issue, one should not only mark that they’ve read the opposition’s points but they should be explicit about which points they concede and which they dont agree with. That way the unreasonable will stand out as absurd and the others will become more moderate and willing to take a different perspective
+
+
+
+
+
 
 
 
