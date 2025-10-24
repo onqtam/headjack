@@ -437,6 +437,9 @@ https://www.youtube.com/playlist?list=PLZbbT5o_s2xodc2JI3R6Y4a0P8FradYZW
 The InterBrain - How Collective DreamWeaving Can Heal the World
 https://www.youtube.com/watch?v=v5dBRmjF8mc
 
+Terrence McKenna: Things are going to get weirder and WEIRDER
+https://www.youtube.com/watch?v=25HPlSOEGow
+
 Why America is Not An Open Society - Samo Burja
 https://www.youtube.com/watch?v=AP9p38-C2j4
 

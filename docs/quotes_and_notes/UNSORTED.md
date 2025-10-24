@@ -1558,7 +1558,7 @@ The philosopher king as an emergent egregore
 Competing egregores
 https://theosophy.wiki/en/Egregore
 > "Egregore: A causal closure over memetic catalysts, which drives its networked hosts to precipitate artifacts that further reinforce the autocatalytic growth of the network, thus increasingly cohering and scaling its global agency beyond the sum of its constituents' local agency." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1967696396255113243)
-
+> "Those who take egregores seriously, thus gain the capacity to harness their power, can, will, and typically have outcompeted those who argue about their material  / factual status." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1981452615746789803)
 
 > "We are good at identifying biases in others—and we do so with remarkable ease. But when it comes to ourselves (our own distortions and self-deceptive patterns) we are terrible at it. And this tells us something crucial: You are my best source of self-correction, and I am yours." - [John Vervaeke](https://x.com/DrJohnVervaeke/status/1967568899777679760)
 
