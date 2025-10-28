@@ -874,7 +874,9 @@ The only macro long-term prediction anyone can confidently make is that the futu
 
 ^^ prediction may be a requirement for understanding but is not sufficient. And in some complex chaotic systems we might even understand the dynamics and trends and yet we might not be able to predict. And yet, being able to predict is a useful signal for competence/understanding and in the cases when it's impossible - that's why we also be rating (good - a.k.a. hard to vary - all the parts of it should serve a purpose such that none of them are arbitrary and if any one of them is changed that would break the explanation - see The Beginning Of Infinity) explanations. Also if someone got some prediction right but their explanation is obviously (to us) wrong we might rule out their prediction in our subjective evaluation of their performance - we can simply discard it and not give them any credit.
 
-> "I *~~think~~* **predict**, therefore I am." - [René Descartes](https://en.wikipedia.org/wiki/Cogito,_ergo_sum)
+> "I *~~think~~* **predict**, therefore I am." - [René Descartes](https://en.wikipedia.org/wiki/Cogito,_ergo_sum), probably
+
+
 
 > "Any fool can tell a crisis when it arrives. The real service to the state is to detect it in embryo." - [Isaac Asimov](https://www.goodreads.com/quotes/6520660-any-fool-can-tell-a-crisis-when-it-arrives-the)
 

@@ -538,6 +538,8 @@ We need to define property rights and ownership and taxation through morality
 Independence through (inter)dependence
 Freedom through constraint
 
+Constraints are affordances.
+
 > "Freedom is the power to choose our own chains." - [Jean-Jacques Rousseau](https://www.azquotes.com/quote/371725)
 
 > "Seek freedom and become captive of your desires. Seek discipline and find your liberty." - [Frank Herbert](https://www.goodreads.com/quotes/222643-seek-freedom-and-become-captive-of-your-desires-seek-discipline)

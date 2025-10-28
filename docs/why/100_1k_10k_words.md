@@ -46,6 +46,8 @@ The six stages of comprehension
 
 # about the quote-heavy style of the book
 
+Collector’s Edition
+
 Could a lot of the quotes have been paraphrased and made shorter and clearer? Yes. But this is a philosophical statement: we must reuse and interlink and credit the work of others as much as possible.
 
 Faq: why so many quotes? Multiple reasons:
@@ -95,16 +97,21 @@ The Mind/Psychology of God
 Alignment is All You Need
     Consequence Capture is All You Need
 Emergent World Order
+Alignment towards the transcendant
+The Download
 The Real/Practical Matter With Things
     This book is literally an infinitely higher bang for your buck, not only because it's more practical/consequential (than left/right thinking), but because it's also free and accessible to all
 The Real Situational Assessment
     no, it doesn't have to be just about scaling compute & energy and to go brrr faster than the other guy
 The Hardest Problem of Consciousness
+    Real hard problem of consciousness: how to enact/manifest it collectively
     in depth, scale
     How to scale it up in every sence of the word - qualitatively, numerically, consequentially, and in aggregate - across space (distance) and time (future generations). How to get more people to introspect what it means to exist, to experience higher states and frequencies/depths/capacities of consciousness and to form a collective consciousness of a higher order. How to form aligned, introspective and intentional collectives. Extending the light of consciousness beyond merely copy-pasting our socio-political & spiritual poverty on Mars.
 The Map That Shapes The Territory
     Niche (co-)Construction
-THe Master Pattern of 
+THe Master Pattern
+Cultural Recursive Self-Improvement
+The Great Complexification/Integration
 Programming accountability and expressivity into the system
 The Stoned Ape Hypothesis/Theory
     what a single stoned ape can come up with
@@ -135,6 +142,7 @@ The Post-Liberal Synthesis
 The Final Major Evolutionary Transition
 [Summa](https://en.wikipedia.org/wiki/Summa_Theologica) / [Principia](https://en.wikipedia.org/wiki/Principia_Mathematica) Organizationa/Ideologica/Civilizaciona
 The God Protocol
+    God == Cultural Compression
     Alignment, Coherence, Integration, Self-Organization
 The Book of Synthesis
 Solving the [Meaning Crisis](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)

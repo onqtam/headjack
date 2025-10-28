@@ -361,7 +361,26 @@ What if instead of some superficial twisted plot our thrillers revolved around c
 
 When debating an issue, one should not only mark that they’ve read the opposition’s points but they should be explicit about which points they concede and which they dont agree with. That way the unreasonable will stand out as absurd and the others will become more moderate and willing to take a different perspective
 
+What is the infinite that we want to be striving towards? How do we figure it out? How do we express it and how do we enact/codify it into our co-created game of existence?
 
+Abstraction/Concept Escape Velocity
+
+The 2 week unpaid vacation - how long you’d need to take off work to fully digest this and be part of changing the world
+
+instead of making endless videos (or posts) commenting on events and requiring other people to watch them in order for your message to get across and have some influence - why not simply express your views in a structured, unambiguous, and aggregatable way such that this opinion of yours gets the full influence it deserves - based on your reputation?
+People shouldn't have to watch and read everything from everyone to be informed - we need to separate signal from noise
+
+
+how do we incentivise content creators to not simply rehash information and trying to "make it"  themselves but to actually point to the best current explanation for a topic - even if it is from someone else? Why do we reward them to rehash points from others?
+
+instead of youtubers making the same "complete guide" video for each year with a few changes what if it was possible to map out somehow which aspects have changed between year X and Y? like a diff? what if viewing such content was interactive somehow?
+
+If everything is open job interviews would be to simply fix something in the open
+
+
+what you lose as control you gain as vitality as a society - the pitch to governments
+
+> "I *~~think~~* **emerge**, therefore I am." - [René Descartes](https://en.wikipedia.org/wiki/Cogito,_ergo_sum), probably
 
 
 
@@ -1513,6 +1532,10 @@ The global reputation arena - the global skill exhibition arena
 Describe a perfect world and ask “Why don’t we crowdsource what we want, and after that how do we think we could get it?”
 Civilisational relevance realization
 
+
+> "Rationality is the capacity to reflectively become aware of self deception and systemically intervene it... use your intelligence to systemically (on many levels) overcome self deception." - [John Vervaeke](https://x.com/DrJohnVervaeke/status/1982477007280574963)
+
+
 If we export the competence of people in a trust-building and quantifiable way, we will get the best people. And people should want to compete to be the best
 
 Its alignment all the way down
@@ -1559,6 +1582,10 @@ Competing egregores
 https://theosophy.wiki/en/Egregore
 > "Egregore: A causal closure over memetic catalysts, which drives its networked hosts to precipitate artifacts that further reinforce the autocatalytic growth of the network, thus increasingly cohering and scaling its global agency beyond the sum of its constituents' local agency." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1967696396255113243)
 > "Those who take egregores seriously, thus gain the capacity to harness their power, can, will, and typically have outcompeted those who argue about their material  / factual status." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1981452615746789803)
+
+
+> "Markets amplify, they do not steer. By supplanting transcendent telos with faith in unconstrained amplification, we encourage the degradation of all restraint-dependent virtue... anything immanent produces self-destructive externalities when elevated above transcendent telos, and markets are no exception." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1982493902935560518)
+
 
 > "We are good at identifying biases in others—and we do so with remarkable ease. But when it comes to ourselves (our own distortions and self-deceptive patterns) we are terrible at it. And this tells us something crucial: You are my best source of self-correction, and I am yours." - [John Vervaeke](https://x.com/DrJohnVervaeke/status/1967568899777679760)
 

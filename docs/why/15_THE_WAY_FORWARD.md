@@ -1068,8 +1068,6 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 > "The Internet is to the USA as the Americas were to the UK: a wide open territory that ultimately gave birth to new states and ways of thinking." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=the%20Internet%20is%20to%20the%20USA%20as%20the%20Americas%20were%20to%20the%20UK%3A%20a%20wide%20open%20territory%20that%20ultimately%20gave%20birth%20to%20new%20states%20and%20ways%20of%20thinking.)
  -->
 
-> "Civilization advances by extending the number of important operations which we can perform without thinking of them." - [Alfred North Whitehead](https://www.goodreads.com/quotes/53970-civilization-advances-by-extending-the-number-of-important-operations-which)
-
 > "The nervous system, in organizing all the functions of the body, is dealing with thousands of variables at once, for the brain operates intelligently without having to stop to think." - [Alan Watts](https://www.organism.earth/library/topic/ontology#:~:text=The%20nervous%20system%2C%20in%20organizing%20all%20the%20functions%20of%20the%20body%2C%20is%20dealing%20with%20thousands%20of%20variables%20at%20once%2C%20for%20the%20brain%20operates%20intelligently%20without%20having%20to%20stop%20to%20think.)
 
 

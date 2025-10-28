@@ -4,6 +4,8 @@
 # SECTION: Argument maps / Debate Maps
 ██████████████████████████████████████████████████████████████████
 
+https://www.youtube.com/watch?v=kGgLlip_lvc
+
 not sure if this belongs here
 > "Modern forms of government are largely based on the idea that “the people” should be empowered to solve their own problems. While this ideal remains true, our civic processes and technologies of government have not really changed for hundreds of years. While the public sphere has gone digital, the practices of civic life within our communities have remained largely stuck in the 18th century, with campaigns, town halls, voting, and representatives sent to distant centers of power where we are told that the “real” conversations happen. There is no clarity about how to transform this situation and to reclaim community life as seat of decision making power. What does it look like to have conversations coherent enough to solve chronic community-level problems?" - [What is likely to be the future of civic life? EGP.Community](https://egp.community/)
 

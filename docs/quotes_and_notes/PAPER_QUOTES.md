@@ -963,6 +963,9 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 >
 > ... Putting it all together, U.S. manufacturing is hurting badly. It is decidedly not the case that American manufacturing is more productive than ever. It is an inexcusable failing that the U.S. does not have comprehensive numbers that track all essential output needed to maintain our quality of life, including not just the number of cars or microchips or refrigerators, but the percent of the components actually made in the USA, and the percent of the machine tools needed to build the components made in the USA. Until we have those numbers and they start going in the right direction, we need less boosterism and more grim resolve to reindustrialize." - [How GDP Hides Industrial Decline, Palladium Magazine](https://www.palladiummag.com/2025/10/03/how-gdp-hides-industrial-decline/)
 
+> "To understand GDP as a measure of economic productivity, it’s helpful to understand that China spending 350M to build the world’s tallest bridge is adding far less to national GDP than the US wasting 13Bn on the environmental review for a highspeed train that will never be built." - [Joscha Bach](https://x.com/Plinz/status/1981968927799591159)
+
+
 > "" - []()
 
 > "" - []()
