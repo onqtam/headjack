@@ -205,6 +205,7 @@ Civilization from first principles
 Aligning the WEF
 Perfect Competition
 Incentives all the way down
+*~~Rules~~* **Incentives** For Radicals
 Self-Organizing Culture
 Democratic Version Control
     The configuration of society
