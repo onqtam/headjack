@@ -108,6 +108,9 @@ video structure:
         - or add captions - but very selectively! only if emphasis is really required
         - guide the viewer's attention to parts of images - don't simply expect that they'll easily & quickly focus on the most relevant bits
         - animate the most important pieces of text/image/background, or also dim/darken/blur the rest of the screen
+        - whenever a graphic comes to the screen - it should be with at least some animation, or use a shutter/pop sound effect
+        - think about where the viewer is looking at - don't make him move his eyes too much between cuts - unimmersive
+        - breaking visual continuity from time to time is ok
     - problem-solution, problem-solution
     - not just linearly "and, and, and" (disorienting - doesn't specify how one thing is linked to the next)
         - every "and" is a point where the viewer can disengage
@@ -152,6 +155,8 @@ royalty free images & sounds
 https://freesound.org/
 https://www.epidemicsound.com/
 
+Steelseries GG sonar for AI background noise cancellation
+
 
 once enough data in audience tab:
 https://studio.youtube.com/channel/UCm9mrhKCtGgXEUwEfdvb4jA/analytics/tab-build_audience/period-default
@@ -163,6 +168,11 @@ https://pixabay.com/
 transition, ambient & foley sounds
 
 audio sound effects:
+editing: immersive audio:
+    https://youtu.be/sLgHqZSe2o0?t=630
+https://drive.google.com/drive/folders/1JvmqF4v9KxpmtTPp6H-c36aTvGV6QgvZ
+- shutter
+- pop
 - riser
 - hit
     https://pixabay.com/sound-effects/cinematic-impact-hit-352702/
@@ -225,6 +235,9 @@ the infinite game
 
 once you find/understand it you'll never think about anything else more than about this thing
 
+
+no ceiling for personal consumption
+the status game has no limits in resource use
 
 intro: this video is the culmination of 4 years of work
 
