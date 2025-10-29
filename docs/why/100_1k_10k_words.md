@@ -99,12 +99,13 @@ Alignment is All You Need
 Emergent World Order
 Alignment towards the transcendant
 The Download
+The Spire
 The Real/Practical Matter With Things
     This book is literally an infinitely higher bang for your buck, not only because it's more practical/consequential (than left/right thinking), but because it's also free and accessible to all
 The Real Situational Assessment
     no, it doesn't have to be just about scaling compute & energy and to go brrr faster than the other guy
 The Hardest Problem of Consciousness
-    Real hard problem of consciousness: how to enact/manifest it collectively
+    Real hard problem of consciousness: how to enact/manifest/engineer it collectively
     in depth, scale
     How to scale it up in every sence of the word - qualitatively, numerically, consequentially, and in aggregate - across space (distance) and time (future generations). How to get more people to introspect what it means to exist, to experience higher states and frequencies/depths/capacities of consciousness and to form a collective consciousness of a higher order. How to form aligned, introspective and intentional collectives. Extending the light of consciousness beyond merely copy-pasting our socio-political & spiritual poverty on Mars.
 The Map That Shapes The Territory
@@ -116,7 +117,8 @@ Programming accountability and expressivity into the system
 The Stoned Ape Hypothesis/Theory
     what a single stoned ape can come up with
 The problem solver
-*~~Center~~* Ideology for Humane Technology
+*~~Center~~* **Ideology** for Humane Technology
+    *~~Center for~~* **Implementation** of Humane Technology - what up Tristan
     https://en.wikipedia.org/wiki/Center_for_Humane_Technology
 What is a thing?
 The Gateway Insight
@@ -156,11 +158,9 @@ The Markov Carpet
     When a blanket is not enough - the most intentional, competent and selective social membrane in existence
 Flattening The (Right) Curve (personal consumption)
 Humanity's [last] business plan
-WeWork
 Minimum Viable Infinity
 The Next Game
 The Egregore
-The Implementation of Humane Technology - what up Tristan
 We are a Strange Loop
 Connecting the world
     without the addiction and extraction
@@ -168,7 +168,7 @@ Connecting the world
 In The Arena - Digital Colliseum of Ideas
     The highest expression/manifestation of games and spectacle
 Breaking The Script
-    The Livest Player on the global stage
+    The Livest Emergent Player on the global stage
 Betting Against Elon
     more specifically X
 Algorithms to Organize by
@@ -199,7 +199,7 @@ The Symbolic World
 Public Goods Funding
 Applied Relevance Realization at Scale
 The Most Non-Linear Book
-The implicate order
+The Implicate Order
     > "... we are instead piece by piece revealing what physicist David Bohm called an “implicate order” (in his philosophical, not his scientic, work). Things fit together, yes, but in highly complex and inherently non-obvious ways, ways that must be revealed by searching for the truth together and sharing a multitude of differing perspectives." - [3 Design Principles for Protopian Governance, by Hanzi Freinacht](https://metamoderna.org/3-design-principles-for-protopian-governance/)
 Civilization from first principles
 Aligning the WEF

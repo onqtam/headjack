@@ -236,6 +236,9 @@ the infinite game
 once you find/understand it you'll never think about anything else more than about this thing
 
 
+a new game the likes of which we could have never even conceived
+
+
 no ceiling for personal consumption
 the status game has no limits in resource use
 
@@ -323,7 +326,7 @@ baby/infant
 Attention regulation - respurce allocation
 Deepmind
 Unbundling the enlightenment
-Rebubdling
+Rebundling
 Variation and selection
 Democratically programmable currency, the end of fungibility
 Less than 1k nukes before the end of the century
@@ -355,11 +358,80 @@ a rules based order is an actual possibility for the first time in human history
 Every single concept & building block & social dynamic from this new system will be reviewed in future videos
 
 
+
+The highest leverage point
+
+
+I’ve been sitting on this architecture for more than 3 years because the most important thing is to get the ideology right
+
+A new reward function to compete and subjugate money
+
+Turning the attention economy from cognitive strip mining to actually economizing our most precious resource
+
+Reconceptualize property
+
+Cultural Recursive Self-Improvement
+
+Alignment is All We Need
+Attention is All We Have
+
+turning humanity into a giant neural net
+
+Incentives & credit assignment all the way down
+
+The Grandest Narrative
+The Next Game
+
+The Hard Problem of Consciousness is how to deepen it for everyone at scale and how to engineer it collectively
+
+Identity is bigger/deeper than money itself
+
+We will engineer money the likes of which you couldnt imagine
+
+Fine tuning every single aspect of society democratically
+
+The end of 1 man 1 vote - democratic inequality of influence, we all get an equal vote about what else to not have an equal vote on
+
+Intitially a parallel system - will not need to be voted in politically to start having effect
+
+Welcome to the final battle between good & evil - the trajectory of everything in this part of the galaxy that’s beautiful is at stake
+Or finish with “evil”
+The next 2 decades will determine the unfolding of life’s trajectory
+liberty vs tyranny / oppression
+cooperation vs defection
+functional complexification vs catastrophic simplification
+thriving vs decay
+meaning vs nihilism
+transcendence vs decadence
+emergence vs extinction
+transcendence/evolution/eternity vs extinction 
+!! grab the camera and talk to it from up close when finishing with good vs evil
+
+Signal from noise
+
+A new kind of Self-Correcting Authority
+
+this is how we make A Dent in the Universe
+
+our system wasn't consciously designed - it mostly evolved by happenstance & contingency
+
+solving the same thermodynamic imperative on each consecutive level
+
+better incentives to innovate, share, optimize, align
+less corruption & misalignment
+market discipline
+
+shared worldview
+inevitability
+we need a system of incentives & accountability & structured interaction to transcend our tribal nature and all the bias & corruption that comes with it
+
+
+
 ██████████████████████████████████████████████████████████████████
 # PLANNED FUTURE VIDEOS
 ██████████████████████████████████████████████████████████████████
 
-
+why/how google failed with their mission (not just the "don't be evil" one) - integration
 
 
 
