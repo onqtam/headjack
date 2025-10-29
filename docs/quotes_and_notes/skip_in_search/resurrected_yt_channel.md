@@ -202,6 +202,14 @@ https://www.youtube.com/watch?v=Dm3jfS78AQg
 # NEW INTRO VIDEO
 ██████████████████████████████████████████████████████████████████
 
+== title:
+- Organizational Imperative
+
+
+
+
+
+
 multiple open questions in the hook that gradually get answered in the video:
 - what is the ultimate product
 - how you can get it
@@ -261,7 +269,7 @@ something larger than ourselves that will persist beyond our lives
 - True anonymity with zero knowledge - can even prove to be a real human and prove credentials in a privacy preserving way 
 - Self organization
 - this system is inevtable if it starts getting going
-- Voting on rules of the game & specific issues - not parties and individuals
+- Voting on rules of the game & specific issues - not parties and individuals - subjective objectivity
 - Bottom up emergent regulation
 - Architecture for cultural evolution
 - The loss function of a hive mind
@@ -294,7 +302,7 @@ something larger than ourselves that will persist beyond our lives
 
 The most important developments this century are AI & CI
 
-
+collective intelligence - If Anyone Builds It, Everyone Thrives
 
 System fails at communicating why and how to care for others
 
@@ -308,7 +316,7 @@ Ev has direction
 A product worth dying for
 the most consequences for your life
 
-The next OpenAI will be open collective intelligence
+The next OpenAI will be open collective intelligence OpenCI - Open by Design, Forever - open not by decree but by necessity
 
 Thumbnail: ants / network
 
@@ -349,6 +357,7 @@ The ultimate metric is not gdp but the number of nuclear warheads in the world -
 This system will wipe the floor with any other - nothing will be able to compete and every competing power structure will join in their best  newly understood and deeper self interest - not out of fear but through a combination of seduction, shame, and consensual indoctrination
 
 The greatest open conspiracy
+The best way to predict the future is to co-create it
 
 The window of transcendence will not be open for long
 Satoshi opened it with his digital rock but it is just a toy
@@ -370,10 +379,46 @@ Turning the attention economy from cognitive strip mining to actually economizin
 
 Reconceptualize property
 
+we shall Comprehend the Incomprehensible - why is there something rather than nothing
+
 Cultural Recursive Self-Improvement
 
+Relevance is All we Need
+Incentive is All we Need
 Alignment is All We Need
 Attention is All We Have
+
+Shared Context Window
+
+Solving the Meta/Meaning Crisis
+
+Social resonance and coherence
+
+Merging the market, state, religion, media, academia and education under *~~sha~~* syntropic law
+
+Making the Collective Unconscious Conscious
+
+what you are is what we are - a collective of cooperative parts
+A cooperative collective intelligence of parts that gives rise to a higher order entity
+
+a Worldwide collective Self Model
+
+our destiny is to jail break / take control of the matrix and become its architects
+
+the greatest "as a service" - Telos & meaning as a service
+
+bringing intelligence to Intelligent Design
+
+The Singleton - crucial for solving global coordination problems
+
+Humanity's Master Plan
+
+heal the Epistemic Commons through incentives for alignment & accountability to then fix all other commons
+
+Open (Source) Society
+
+Collectivito, ergo sum
+or [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_philosophy) - `"I am because we are"`
 
 turning humanity into a giant neural net
 
@@ -394,6 +439,8 @@ The end of 1 man 1 vote - democratic inequality of influence, we all get an equa
 
 Intitially a parallel system - will not need to be voted in politically to start having effect
 
+We have not even begun to explore the potential of enculturation in a conscious and intentional/deliverate and democratic way
+
 Welcome to the final battle between good & evil - the trajectory of everything in this part of the galaxy that’s beautiful is at stake
 Or finish with “evil”
 The next 2 decades will determine the unfolding of life’s trajectory
@@ -404,18 +451,32 @@ thriving vs decay
 meaning vs nihilism
 transcendence vs decadence
 emergence vs extinction
-transcendence/evolution/eternity vs extinction 
+transcendence/evolution/eternity vs extinction
+Cultural Evolution vs Cultural Devolution
+Good vs. Evil: Cultural Assimilator vs Incinerator
 !! grab the camera and talk to it from up close when finishing with good vs evil
 
 Signal from noise
 
 A new kind of Self-Correcting Authority
 
+close the niche for psychopathy at scale
+Closing the sociopathic niche
+
+we can pass The Great Filter
+
 this is how we make A Dent in the Universe
 
 our system wasn't consciously designed - it mostly evolved by happenstance & contingency
 
+Incentives from first principles AKA life's thermodynamic imperative
 solving the same thermodynamic imperative on each consecutive level
+
+Recognition Economy
+
+Vibe code society with values
+
+
 
 better incentives to innovate, share, optimize, align
 less corruption & misalignment

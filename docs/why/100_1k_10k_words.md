@@ -137,6 +137,7 @@ TIAA - There Is An Alternative
     https://en.wikipedia.org/wiki/There_is_no_alternative
 Social Eventual Consistency
     https://en.wikipedia.org/wiki/Eventual_consistency
+The Eventual Majority
 H index 2.0
     rebuilding authority
 The Post-Liberal Synthesis
@@ -161,6 +162,10 @@ Humanity's [last] business plan
 Minimum Viable Infinity
 The Next Game
 The Egregore
+Multiple Personality *~~Dis~~* **New World** Order
+    Democratic aggregation and synthesis of diverse expressions, opinions & quotes
+    And this book is the first version of it
+    The aggregation and synthesis of diversity
 We are a Strange Loop
 Connecting the world
     without the addiction and extraction
@@ -171,6 +176,7 @@ Breaking The Script
     The Livest Emergent Player on the global stage
 Betting Against Elon
     more specifically X
+    Unless he pivots and adopts the future of identity and content addressing as an open protocol
 Algorithms to Organize by
 Revolution Cookbook
 Integrated "Why"
@@ -214,6 +220,7 @@ Self-Organizing Culture
 Democratic Version Control
     The configuration of society
 Deep Democracy
+Deep Causality
 The Deep Learning of Society
 Vibe Coding Society
 
@@ -289,7 +296,7 @@ The Biggest Picture
     It doesn't get any bigger than this
 “Penetrating ze cabinets”
     Ze great penetration
-    We got to penetrate the cabinets with young global leaders - picture of shwab
+    "We got to penetrate the cabinets with young global leaders" - picture of klaus schwab saying it
 The Allocator
     Of prestige, recognition, resources, attention (which is a resource)
     of behavioral investment
@@ -338,7 +345,8 @@ The World (Self) Model
 The ultimate product/service - the best of everything that’s worth a damn - meaning, community and prosperity
 Jailbreaking the Simulation - ala George Hotz
     Taking control and becoming architects of the incentives in the matrix
-Participatory Intelligent Design
+Bringing Intelligence to Intelligent Design
+Human System Design - designing the system that shapes us
 Memetic Supremacy
     The answers aren't in [Xi Jinping Thought](https://en.wikipedia.org/wiki/Xi_Jinping_Thought) or [The Art of the Deal](https://en.wikipedia.org/wiki/The_Art_of_the_Deal). The current world "leaders" are merely players dancing to the tune of the incentives of a centuries old paradigm they've inherited / found themselves in. They don't have a real vision, understanding & plan for what their countries and our whole civilization should do. The highest form of leadership is improving the system for everyone more than anyone - that’s the definition
 The open source participatory/democratic GCP (global communist party)
@@ -403,7 +411,6 @@ Collectivism in the 21st century
     Every collective is playing a multiplayer game and how the rules evolve should be of primary concern.
 Theory of everything - stephan bodzin
 Solving the succession problem - the headless god
-Rules Over Rulers
 The Infinite Game
 Emergence is eating the world
 The Organizational Imperative - from the categorical
@@ -414,7 +421,7 @@ In Search of Better Questions
 The Selfless Meme - from the selfish gene
 The *~~Moral~~* Incentive Landscape
     https://en.wikipedia.org/wiki/The_Moral_Landscape
-Nothing Stops This Train
+Nothing Stops This Train - add meme from breaking bad
 If Anyone Builds It, Everyone Thrives: Why Collective Intelligence Is The Answer To All Our Problems
     it is the highest adaptive capacity - to sync up with others and form something that’s greater than the sum of its parts
     If Anyone Builds It, Everyone Dies: Why Superhuman AI Would Kill Us All
@@ -430,10 +437,9 @@ Post capitalism
 The new attention economy
 The sentient economy
 Making the Collective Unconscious Conscious
-What's our Telos/Protocol? A Self-Organization Book for Societies
+What's Our *~~Problem~~* **Telos/Protocol**? A *~~Self-Help~~* **Self-Organization** Book for Societies
     What's Our Problem?: A Self-Help Book for Societies
     https://www.goodreads.com/book/show/102146148-what-s-our-problem
-Wholesome economics
 Customer Obsession - addressing the biggest needs of humanity
 The omega point for all of telecommunication
 The rabbit hole - once you read this there’s no going back
@@ -446,23 +452,28 @@ TemON - The even more Open Network - it can do a heck of a lot more
     https://en.wikipedia.org/wiki/TON_(blockchain)
 Integrity
 Identity Politics 2.0
-The Latest Testament
+The La(te)st Testament
 CiHKAL
     Complexity I Have Known And Loved
     [PiHKAL](https://en.wikipedia.org/wiki/PiHKAL) & [TiHKAL](https://en.wikipedia.org/wiki/TiHKAL) by [Alexander Shulgin](https://en.wikipedia.org/wiki/Alexander_Shulgin)
 What economising attention actually means
 Universal Basic Jarvis
 Finding God
-Immortality in every sense of the word
+The Real Don’t Die
+    Immortality in every sense of the word
+    How to leave a mark, how best to raise children and how humanity can best self-organize to achieve biological immortality and sustainability for all
+    And how to help civilization avoid extinction
+    Giving Samo Burja the immortal society he longs for
+    “There has never been an immortal society.”
+    https://samoburja.com
 Our Collective DNA
 Fame in the Brain
+    > "Consciousness is like fame in the brain." - Daniel Denett
 Exploring the high dimensional institutional/organizational space
 Bug fixing the world
 Collective Empiricism
 The self help book that’s the answer to all of our problems
 Theory of Hivemind
-Designing and becoming the homunculus of the hivemind
-    The Hivemind's Homunculus
 Game of Life 2.0
 The Greatest Justification/Story Ever Told
 The Consciousness Guide to the Galaxy
@@ -489,7 +500,6 @@ Greater Than 1
     this is what you'll do to at least 1 of your friends after you're done reading this - opened eyes from clockwork orange
 
 mention the business plan search space for a 500-page book(s) from the book the origin of wealth
-"The Book"
 Driving sociopathy at scale to extinction
 Closing the sociopathic niche
 The Holy Memetic War to End All Wars
@@ -503,6 +513,7 @@ N dimensional democracy - every aspect is its own dimension in the CI heterarchy
 The Real Meta - one which isnt simply VR & addictive adtech but actually does something meta
     The meta upgrade
 Higher Power
+The Big Beautiful Book / "The Book"
 Agora
     a central public space in ancient Greek city-states. The literal meaning of the word "agora" is "gathering place" or "assembly". The agora was the center of the athletic, artistic, business, social, spiritual, and political life in the city. The Ancient Agora of Athens is the best-known example.
     https://en.wikipedia.org/wiki/Agora
@@ -526,7 +537,7 @@ Comprehending the Incomprehensible
     We simply wanted to use this quote somewhere but it didnt fit anywhere else
     > "The most incomprehensible thing about the universe is that it is comprehensible." - [Albert Einstein](https://www.goodreads.com/quotes/9765974-the-most-incomprehensible-thing-about-the-universe-is-that-it)
 the sweet spot between Kolmogorov complexity reduction and consciousness expansion
-    reducing the [Kolmogorov complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity) of the description & definition of our system    
+    reducing the [Kolmogorov complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity) of the description & definition of our system
 The Operating System
 Pravda Bomba
     The Biggest Truth
@@ -554,7 +565,7 @@ Here are all of the new `"as a service"` you can climb onto:
 Right side of the history as a service
 
 
-Subreddits without feds and bots as a service
+Subreddits without bots & feds as a service
 
 Valence as a service - what’s good and what’s bad - what to do - morals
 Religion as a service
@@ -562,6 +573,7 @@ Religio as a Service
 Meaning as a service
 Community as a Service
 Virtue as a service
+NWO as a service
 Moral highground as a service
 God as a service
 palantir as a service
@@ -611,5 +623,11 @@ This as the section for matchmaking and with the leary quote
 
 
 ## The Global Brain in 10k words
+
+
+## meh
+
+Designing and becoming the homunculus of the hivemind
+    The Hivemind's Homunculus
 
 

@@ -2049,6 +2049,9 @@ Abrahamic religion and money itself are the only competitors
 
 The biggest question for humanity and its current trajectory is: bend or break?
 
+
+What would it look like to be 10x or 100x more customer-obsessed than Amazon? What is the ultimate product?
+The ultimate product is the ultimate system
 The ultimate product is the ultimate system which is responsible for every other product
 The purest manifestation of “give people what they want”
 Naval quote go big because we all go home

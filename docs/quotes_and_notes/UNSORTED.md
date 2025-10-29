@@ -61,24 +61,17 @@ God in the Internet age
 
 The death of capital’s fungibility
 
-Deep Causality
-Deep Democracy
-
 Designing Inequality
 
 Hyperdimensionality
 
 Revitalizing the Commons
 
-The Eventual Majority
-
 The Collective Singularity
-
-Cultural (R)Evolution
 
 Relevance is All You Need
 
-Incentives is All You Need
+Incentive is All You Need
 
 Our Shared Context Window
 
@@ -91,21 +84,9 @@ Evolutionary alignment
 ARCINET Advanced Research Collective Intelligence Network
 The Great Filter - separating signal from noise
 
-The Big Beautiful Book
-
 Cassandra as a service
 
-Human System Design - designing the system that shapes us
-
 Solving the Meta/Meaning Crisis
-
-The Real Don’t Die
-Immortality in every sense of the word
-How to leave a mark, how best to raise children and how humanity can best self-organize to achieve biological immortality and sustainability for all
-And how to help civilization avoid extinction
-Giving Samo Burja the immortal society he longs for
-“There has never been an immortal society.”
-https://samoburja.com
 
 Actually colonising Mars
 The prerequisite to colonising Mars is macro system change at home
@@ -281,16 +262,6 @@ Eminem, lose yourself
 You only get one chance so do not miss your chance to blow because this opportunity goes once in a lifetime
 
 
-Betting against elon
-Unless he pivots and adopts the future of identity and content addressing as an open protocol
-
-Multiple Personality Dis NW Order
-Democratic aggregation and synthesis of diverse expressions, opinions & quotes
-And this book is the first version of it
-The aggregation and synthesis of diversity
-
-NWO as a service
-
 roles based leadership vs position based leadership - idea from hierarchy in the forest?
 
 Real feminism is about giving females access to the lever of morality
@@ -302,8 +273,6 @@ A century of the expanded self
 The greatest documentary
 
 Strategy: how to take over the world
-
-The ultimate product is the ultimate system
 
 Our system fails in transmitting the explanation why others are important
 
@@ -2654,7 +2623,7 @@ Imagine we all had game points UBI for multiple “resources” and we got a con
 
 Global governance can be achieved through participatory cultural programming - “steering the ship” - playing the game of life consciously for the first time
 
-What would it look like to be 10x or 100x more customer-obsessed than Amazon? What is the ultimate product?
+
 
 Even never wearing torn-down clothes in public is a type of cultural norm that can be changed if some other option is better - we can collectively decide what that means.
 
