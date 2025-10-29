@@ -377,7 +377,6 @@ instead of youtubers making the same "complete guide" video for each year with a
 
 If everything is open job interviews would be to simply fix something in the open
 
-
 what you lose as control you gain as vitality as a society - the pitch to governments
 
 > "I *~~think~~* **emerge**, therefore I am." - [René Descartes](https://en.wikipedia.org/wiki/Cogito,_ergo_sum), probably

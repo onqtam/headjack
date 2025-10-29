@@ -205,7 +205,11 @@ Civilization from first principles
 Aligning the WEF
 Perfect Competition
 Incentives all the way down
+The *~~End~~* **Beginning** of History
+    cryptohistory & self-authenticating data
+    https://en.wikipedia.org/wiki/The_End_of_History_and_the_Last_Man
 *~~Rules~~* **Incentives** For Radicals
+    https://en.wikipedia.org/wiki/Rules_for_Radicals
 Self-Organizing Culture
 Democratic Version Control
     The configuration of society

@@ -1606,7 +1606,13 @@ We need to define the language of the internet so that we may aggregate and inte
 # SECTION: Causality
 ██████████████████████████████████████████████████████████████████
 
-"Things are the way they are because they got that way." - Gerald Weinberg
+
+The Field of Causation
+    the shared causal graph
+Swim and start a ripple in the field of causation
+
+
+> "Things are the way they are because they got that way." - [Gerald Weinberg](https://en.wikiquote.org/wiki/Gerald_Weinberg)
 
 > "All models are wrong, but some are useful." - [George E. P. Box](https://en.wikipedia.org/wiki/All_models_are_wrong)
 
