@@ -261,6 +261,7 @@ Success is my/our only motherfucking option - failure’s not
 Eminem, lose yourself
 You only get one chance so do not miss your chance to blow because this opportunity goes once in a lifetime
 
+Drawback of financial prediction markets: if the price is already set to what someone thinks it should be there’s no way for them to express agreement with that price without offsetting it
 
 roles based leadership vs position based leadership - idea from hierarchy in the forest?
 

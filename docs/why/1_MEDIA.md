@@ -352,6 +352,10 @@ how about the soul changing the economics
 > "Television is altering the meaning of 'being informed' by creating a species of information that might properly be called disinformation. I am using this world almost in the precise sense in which it is used by spies in the CIA or KGB. Disinformation does not mean false information. It means misleading information--misplace, irrelevant, fragmented or superficial information--information that creates the illusion of knowing something but which in fact leads one away from knowing. In saying this, I do not mean to imply that television news deliberately aims to deprive Americans of a coherent, contextual understanding of their world. I mean to say that when news is packaged as entertainment, that is the inevitable result. And in saying that the television news show entertains but does not inform, I am saying something far more serious than that we are being deprived of authentic information. I am saying we are losing our sense of what it means to be well informed. Ignorance is always correctable. But what shall we do if we take ignorance to be knowledge?" - [Neil Postman](https://www.goodreads.com/quotes/685783-in-america-everyone-is-entitled-to-an-opinion-and-it#:~:text=television%20is%20altering,to%20be%20knowledge%3F)
 
 
+https://www.instagram.com/reel/DQJIBowiCv6/
+Second screen viewing
+Purposefully dumbing down content so users can keep scrolling on their phone and following along whats on TV
+
 horrible prioritization by media
 https://x.com/Oliver_S_Curry/status/1863994675796812055
 https://en.wikipedia.org/wiki/Gregg_Wallace#Allegations_of_misconduct

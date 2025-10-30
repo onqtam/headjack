@@ -1,5 +1,9 @@
 
 
+!!!
+cut a few of the most interesting parts and put them in the front - LOOK FOR THEM!!!
+!!!
+
 
 00:00:00 Internet 2.0 & Digital Identity
 00:03:24 Multiple accounts, credentials, KYC & privacy
@@ -17,6 +21,9 @@ first clip:
 Emergent world order from scratch
 
 All over the place all at once - the coming emergent world order - 100% unscripted, #3
+
+
+fix YT channel - tags, banner, etc.
 
 ██████████████████████████████████████████████████████████████████
 # TODO
@@ -86,6 +93,11 @@ video structure:
     - first sentence matches the title, first shot matches the thumbnail
     - can use text & arrows/pointers in the first shot to describe the different elements
     - no need to be 1 for 1, but should be close enough to assure viewers that the T&T weren't clickbait
+    - contrast or comparison (current belief/state vs what it should be)
+        - current baseline vs contrarian offer - the distance between them is the contrast
+        - implied vs stated contrast - either state it explicitly or imply it indirectly ("this is 8x more effective" - baseline being ineffective is implied)
+    - 6 words in a hook:
+        - subject ("if you/I"), action ("had to grow a YT channel"), objective or end state change ("from 0 to 100k subs"), contrast (objective from current state, "0 to 100k subs"), proof ("again" - I've done it before), time/urgency ("in 5 months", "before EOY")
 - 10-30 sec intro after the hook
     - create 1 or more curiosity gaps
         - people should want closure to the open loops created
@@ -129,7 +141,11 @@ video structure:
 
 
 
+
+
+
 == thumbnail & title (T&T)
+- create 3 and give them to YT to A/B test and pick the best one
 - less is more
 - titles should be clear but don't spoil anything
 - most important part of titles should be closer to the start
@@ -185,6 +201,7 @@ https://www.youtube.com/@LearnByLeo/videos
 
 
 
+
 lighting:
 - close curtains - no natural light
 https://www.youtube.com/watch?v=Dm3jfS78AQg
@@ -203,11 +220,22 @@ https://www.youtube.com/watch?v=Dm3jfS78AQg
 ██████████████████████████████████████████████████████████████████
 
 == title:
-- Organizational Imperative
+- What should be our ULTIMATE desire? The Organizational Imperative
+
+== thumbnail:
+- intersection of digital ID (passport/ID), reputation & incentives (carrot & stick), & collective intelligence (ant colony?) - ven diagram + an ant colony - the third attractor in the intersection of them
 
 
 
+we fail at identifying and prioritising what's most important and relevant
 
+moving from adversarial zero-sum dynamics to synergistic positive-sum
+
+
+decouple resources for personal use from control over the economy
+prestige
+
+externalities
 
 
 multiple open questions in the hook that gradually get answered in the video:
@@ -218,8 +246,10 @@ ultimate desire
 
 the product that produces all products.
 
-What should our ultimate desire be?
-the ultimate social system
+What should be our ULTIMATE desire?
+the ultimate social system.
+But WHY?
+and why has this been too abstract or intractable for everyone - until now?
 
 the problem: primitive & outdated & (partially) misaligned & wasteful & corrupt & mindless system
 
@@ -229,6 +259,15 @@ its like the water - we don't see it, we don't question it, or if we do - we fee
 
 ultimate ==> most consequential, most important, most fundamental - second place is not even close
 
+
+The future belongs to those who can predict it and that’s why we should incentivise them to share their predictions openly with skin in the game and contribute to our commons
+
+global shared world model
+a Worldwide collective Self Model
+
+fundamentally uncensorable
+will replace email, 
+every single internet service in existence today will eventually migrate & merge with this architecture or fade into irrelevance
 
 the infinite game
     To desire the ultimate social system means wanting a form of collective organization that perfectly harmonizes individual and collective flourishing — a system that:
@@ -296,7 +335,7 @@ something larger than ourselves that will persist beyond our lives
     - Why others matter to us
     System fails at prioritisation which depends on accounting of contribution and causal links
 - Program or be programmed
-- As batman said…
+- As batman said… digital id is an inevitability
 - title: the hyper bull case for digital ID & Internet 2.0, the ultimate product? ultimate social system
 - title: the hyper bull case for digital ID & Internet 2.0, the ultimate product? ultimate social system
 
@@ -305,8 +344,26 @@ The most important developments this century are AI & CI
 collective intelligence - If Anyone Builds It, Everyone Thrives
 
 System fails at communicating why and how to care for others
+convincingly
 
 We have all the pieces if the puzzle because of the great unbundling - all we need to do is the great integration
+
+built-in error correction as the highest priority
+
+skin in the game
+
+New motivation/mobilization system
+
+Self justifying
+
+Prestige
+
+Choose life
+
+Regulating and steering desire and consumption through culture - redefining status
+
+
+
 
 Ev has direction
 - greater scales of differentiation, (thermodynamic) integration & cooperation
@@ -320,8 +377,9 @@ The next OpenAI will be open collective intelligence OpenCI - Open by Design, Fo
 
 Thumbnail: ants / network
 
-Nobody in the world has thought more about identity and reputation than me
+Nobody in the world has EVER thought more about the intersection of digital ID, incentives, reputation and collective intelligence than me
 No single person or group
+put this quite early
 
 Decentralized, infinitely scalable and with no UX limitations
 
@@ -348,13 +406,40 @@ Optimal synthesis between individualism and collectivism
 Current system is primitive, wasteful, misaligned and mindless - it is self-terminating
 
 
-The intersection of digital id, incentives and collective intelligence
+
+Moral high ground as a service
+Bottom up
+50% of carbon emissions from the richest 1%
+The other major carbon emitter is militarism - not to mention all the other negatives and wastefulnes and misallocation of human capital
+
+We can - and MUST - reinvent democracy for the digital age
+
+Ultimate desire and how to get it
+
+Mic drop at the end
+
+The highest leverage point is not the FEDs interest rate - it is our paradigm
+
+Infinity is within our grasp
+
+The most important thing is what the system puts in people’s heads
+Enculturation
+What is culture - gregg henriques definition
+
+Regulating consumption and redefining status through participatory culture and the intangible hand
+
+Topological sort of whats most important and what leads to what - 2nd, 3rd & 4th order effects
+Epistemic commons
+
+Picture of the mine in congo - study what is ok to use in videos
 
 If you’re watching this - you’re early to something truly big - the right side of history will unfold before you
 
 The ultimate metric is not gdp but the number of nuclear warheads in the world - we know with high certainty what happens in quasars millions of light years away and yet we can’t seem to figure out how to organize ourselves to not kill and cheat each other.
 
 This system will wipe the floor with any other - nothing will be able to compete and every competing power structure will join in their best  newly understood and deeper self interest - not out of fear but through a combination of seduction, shame, and consensual indoctrination
+
+universal colonizer of hearts & minds
 
 The greatest open conspiracy
 The best way to predict the future is to co-create it
@@ -400,8 +485,6 @@ Making the Collective Unconscious Conscious
 
 what you are is what we are - a collective of cooperative parts
 A cooperative collective intelligence of parts that gives rise to a higher order entity
-
-a Worldwide collective Self Model
 
 our destiny is to jail break / take control of the matrix and become its architects
 
@@ -483,8 +566,10 @@ less corruption & misalignment
 market discipline
 
 shared worldview
-inevitability
+
 we need a system of incentives & accountability & structured interaction to transcend our tribal nature and all the bias & corruption that comes with it
+
+stick around as we'll gradually explore the different aspects of the system - the earlier you familiarize yourself - the earlier you'd be a power user
 
 
 
@@ -492,7 +577,8 @@ we need a system of incentives & accountability & structured interaction to tran
 # PLANNED FUTURE VIDEOS
 ██████████████████████████████████████████████████████████████████
 
-why/how google failed with their mission (not just the "don't be evil" one) - integration
+why/how google failed with their core mission (not just the "don't be evil" one) - integration - and how we'll succeed
+
 
 
 
