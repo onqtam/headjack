@@ -371,9 +371,13 @@ convincingly
 
 We have all the pieces if the puzzle because of the great unbundling - all we need to do is the great integration
 
+frame control & manipulation
+
+meritocracy
+
 built-in error correction as the highest priority
 
-skin in the game
+engineered scarcity
 
 New motivation/mobilization system
 
@@ -421,8 +425,12 @@ We need to replace rhetoric with provable competence and skin in the game
 Those who can predict the future
 The extent to which those predictions are shared is the extent to which the future will be shared
 
-Not emotional but effective redistribution
 
+PROPERTY! That thing which we fight for
+Not emotional but effective redistribution
+and instead of simply taxing and taking we should be giving something in return for that surplus - in the current paradigm taxing one's wealth diminishes his power and influence, but we can have a different contract for personal wealth and still allow individuals to garner as much influence over the economy as they deserve, + other forms of prestige & engineered scarcity
+liquidity, fungibility
+Democratically programmable currency, the end of fungibility
 
 
 
@@ -456,7 +464,6 @@ Deepmind
 Unbundling the enlightenment
 Rebundling
 Variation and selection
-Democratically programmable currency, the end of fungibility
 Less than 1k nukes before the end of the century
 Opt-in, 0 violence
 We are multiple orders of magnitude away from our potential with our current resource consumption and human capital
@@ -492,6 +499,7 @@ Regulating consumption and redefining status through participatory culture and t
 
 Topological sort of whats most important and what leads to what - 2nd, 3rd & 4th order effects
 Epistemic commons
+heal the Epistemic Commons through incentives for alignment & accountability to then fix all other commons
 
 Picture of the mine in congo - study what is ok to use in videos
 
@@ -562,8 +570,6 @@ The Singleton - crucial for solving global coordination problems
 
 Humanity's Master Plan
 
-heal the Epistemic Commons through incentives for alignment & accountability to then fix all other commons
-
 Open (Source) Society
 
 Collectivito, ergo sum
@@ -573,12 +579,30 @@ turning humanity into a giant neural net
 
 Incentives & credit assignment all the way down
 
+error-correction in every aspect of the system - how it maintains itself, how it improves itself, how it recruits and expands
+
 The Grandest Narrative
 The Next Game
 
 The Hard Problem of Consciousness is how to deepen it for everyone at scale and how to engineer it collectively
 
 Identity is bigger/deeper than money itself
+
+incentives/identity - it doesn't get any deeper or more fundamental than that
+
+> "How does society work? Five words or less: Behavior is determined by incentives... The particular arrangement of incentives across time, space, and causality is called an incentive structure.
+>
+> ... What about free will? It’s the ability to respond to our incentives. Being a good person? It’s having an incentive to behave in ways we call “good”—that is, wanting to win the virtue game... Let’s give this worldview a name. Let’s call it incentive determinism. Incentive determinism is obvious. It’s just a bunch of tautologies: we are who we are, we want what we want, and we do what we’re caused to do. And yet, barely anybody thinks this way. It’s a cold, alien way of thinking... We spend very little time discussing which incentive structures are the best, and tons of time talking about which sets of words are the right words and which sets of people are the right people. It’s why we write words at all: we think we’re the right people with the right words, and if we just say those words loudly enough, we’ll improve the world.
+>
+> ... People don’t like incentive determinism because it’s disorienting. It tells us that our single greatest obsession, likability, is a distraction. It’s bullshit—a destroyer of insight, an enemy of understanding. It plays no special role in explaining how the world works. All it does is give us the illusion of understanding—the feeling of superiority to our apparently unlikable rivals (another big incentive for us)—while leaving us in ignorance of the causal structure of the world.
+>
+> And that causal structure is everything. If there are powerful incentives to help others, then even “evil” people will help others. If there are powerful incentives to hurt others, then even “good” people will hurt others. In fact, if being a “good” person just means being strongly incentivized by others’ moral approval (i.e., really wanting to win the virtue game), then good people are more likely to hurt people when it wins them moral approval. The “good” members of ISIS are the ones who bravely volunteer to commit suicide bombings, and the “bad” members of ISIS are the ones who cravenly fail to make the ultimate sacrifice. People are only as good as their incentives.
+>
+> But maybe there’s a way out. Maybe figuring out how this all works—understanding the machinery of society—can, itself, change our incentive structures. Insight is a thing in the world that human primates evolved to want, at least sometimes.
+>
+> If there’s any hope to be found in this cold, alien view of the world, it’s this: the more we all become aware of our incentive structures, the more incentivized we will be to choose them wisely... If we're collectively aware of our incentive structures, and aware that others know that we're aware, then we have an incentive to pick one that makes everyone better off, so that people won't judge us as selfish. So the key is achieving widespread awareness, or common knowledge, of our incentive structures... we're trying to explain the part of reality that is not random. That is all we can do. And when we look at that part, incentives are everything.
+>
+> ... I don't see incentive determinism as a "theory" so much as a different way of thinking, or a useful conceptual framework. It's honestly just a way of activating a different part of the brain--the tool-use part--to understand society as a machine of moving parts. It's more of a metatheory, really, or a useful way of coming up with other theories. It can give rise to more specific theories about the incentive structures we face, and how they work, which can then be tested. Insofar as the theories it gives rise to are always false, then, sure, it's false. But given that incentive-based thinking lies at the heart of economics and much of social science (not to mention evolutionary biology), it seems like a pretty damn good metatheory and I don't know of a better one. I cannot even conceive a better one, to be honest." - [Incentives Are Everything, by David Pinsof](https://open.substack.com/pub/everythingisbullshit/p/incentives-are-everything)
 
 We will engineer money the likes of which you couldnt imagine
 

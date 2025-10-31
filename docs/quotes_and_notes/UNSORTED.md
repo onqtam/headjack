@@ -27,9 +27,7 @@ alignment requires theory of mind - by emmet shear from #47 ep of win win podcas
 
 > "The growth of knowledge depends entirely upon disagreement." - [Karl Popper](https://www.azquotes.com/quote/1268891)
 
-
-
-
+instead of creators monetizing attention and competing with one another to say the same things but in a better packaged way, we should be pooling money in a common pool and then redistributing it based on simply voting who contributed the most with their weights in sorting the signal from the noise, and then either incentivise content creators to make videos on those crowdsourced rankings, or even use AI
 
 Reputationalizing expertise instead of simply monetizing
 

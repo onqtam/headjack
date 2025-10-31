@@ -1011,6 +1011,10 @@ Not everything has to make a profit - we can and should think of what truly need
 
 Meme: look at me - I’m the IMF/world bank now
 
+
+
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Concentrated power
 ██████████████████████████████████████████████████████████████████
@@ -1067,6 +1071,8 @@ Reputation is forever
 https://en.wikipedia.org/wiki/Diamonds_Are_Forever_(film)
 The iconic slogan "A diamond is forever" is intrinsically linked to the De Beers diamond company. It was created by copywriter Frances Gerety for De Beers in 1947 and has become one of the most recognizable and enduring slogans in advertising history.
 https://en.wikipedia.org/wiki/De_Beers#Marketing
+
+and instead of simply taxing and taking we should be giving something in return for that surplus - in the current paradigm taxing one's wealth diminishes his power and influence, but we can have a different contract for personal wealth and still allow individuals to garner as much influence over the economy as they deserve, + other forms of prestige & engineered scarcity
 
 
 property rights

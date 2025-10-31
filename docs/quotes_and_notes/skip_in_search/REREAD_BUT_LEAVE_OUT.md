@@ -351,3 +351,12 @@ maybe use this as an optional expandable section? or not...
 >
 > The real threat isn’t the person arguing for safety measures. It’s the memetic environment that makes it impossible to distinguish strategic narrative from sincere belief, that rewards defection over cooperation, and that allows powerful actors to mistake their own incentives for universal truth." - [Psyop, Insanity, or...? Peter Thiel, the Antichrist, and Our Collapsing Epistemic Commons, by Jim Rutt](https://jimrutt.substack.com/p/psyop-insanity-or-peter-thiel-the)
 
+
+> "The game of representative governance always generates a strategic niche for those willing to promise you more (of others' work products) for less (of your own work)... In order to extract political power at the expense of long term societal capacity, Psychopathic Parasites manipulate our evolved desire to get more for less... all wealth-producing relations exhibit a pattern of network-connectivity called "preferential attachment", whereby success begets further success, leading to a power law distribution of wealth.
+>
+> Combine the unavoidable fact of the power law... with the incentive of Psychopathic Parasites to frame this predictably emergent distribution as an arbitrary consequence of unfair abuse, and we see why Psychopathic Parasites possess every incentive to push enfranchisement as far down the distribution as possible: that's where their power base lives.
+>
+> Not only does extending enfranchisement down this curve procure more votes, it procures the ideological allegiance of those more likely to feel violently resentful about their life's course; it's the perfect demographic from which to recruit revolutionaries.
+>
+> Any civilization that implements representative governance therefore confronts an existential choice between franchise restriction, which pulls conflicts with the economic long-tail forward in time, or franchise expansion, which pushes out those same unavoidable conflicts in the hopes that it may perpetually delay the revolutionary potential that hangs like the sword of Damocles over its leaders' heads." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1983254335929942395)
+
