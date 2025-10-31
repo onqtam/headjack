@@ -815,6 +815,8 @@ https://en.wikipedia.org/wiki/Bodhisattva_vow
 
 The Bodhisattva vow is a vow taken by some Mahāyāna Buddhists to achieve full buddhahood for the sake of all sentient beings. One who has taken the vow is nominally known as a bodhisattva (a being working towards buddhahood). This can be done by venerating all Buddhas and by cultivating supreme moral and spiritual perfection, to be placed in the service of others. In particular, bodhisattvas promise to practice the six perfections of giving, moral discipline, patience, effort, concentration and wisdom in order to fulfill their bodhicitta aim of attaining buddhahood for the sake of all beings.
 
+<!-- > "every system that learns to pursue goals has a “cognitive light cone,” the slice of reality it can care about. A bacterium tracks sugar. A human plans for centuries. Life is matter expanding what it can care about." - [Michael Levin](https://x.com/vitrupo/status/1983509772679660007) -->
+
 <!-- https://en.wikipedia.org/wiki/Default_mode_network
 what if we implemented something like the Default mode network in the GB? -->
 
