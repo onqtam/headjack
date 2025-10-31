@@ -220,7 +220,7 @@ https://www.youtube.com/watch?v=Dm3jfS78AQg
 ██████████████████████████████████████████████████████████████████
 
 == title:
-- What should be our ULTIMATE desire? The Organizational Imperative
+- What should/MUST be our ULTIMATE desire? The Organizational Imperative
 
 == thumbnail:
 - intersection of digital ID (passport/ID), reputation & incentives (carrot & stick), & collective intelligence (ant colony?) - ven diagram + an ant colony - the third attractor in the intersection of them
@@ -242,7 +242,10 @@ multiple open questions in the hook that gradually get answered in the video:
 - what is the ultimate product
 - how you can get it
 
-ultimate desire
+Ultimate desire and how to get it
+
+There isn't a single issue in the world that wouldn't benefit from a more optimal system for coming up with a solution to it
+- Every problem would benefit from integration
 
 the product that produces all products.
 
@@ -282,6 +285,25 @@ the infinite game
 
 once you find/understand it you'll never think about anything else more than about this thing
 
+The more compelling and refined the story becomes - the sooner will the system reach a billion people
+
+I’ve been sitting on
+I don’t want to try
+I want to succeed
+Those who tell the stories rule the world
+Theoretically optimal solution - no other design can get even close to the optimal set of technical tradeoffs in my architecture
+
+Nervous system
+
+Differentiation and specialization coupled with alignment and integration
+
+Put your favourite pictures in the video
+
+This is the real situational assessment
+
+Aggregation
+
+We haven’t scratched the surface of the potential of enculturation
 
 a new game the likes of which we could have never even conceived
 
@@ -334,6 +356,7 @@ something larger than ourselves that will persist beyond our lives
     - why the wellbeing of others is in your best (expanded) self interest
     - Why others matter to us
     System fails at prioritisation which depends on accounting of contribution and causal links
+    Its time to start adressing the root of all problems instead of symptoms
 - Program or be programmed
 - As batman said… digital id is an inevitability
 - title: the hyper bull case for digital ID & Internet 2.0, the ultimate product? ultimate social system
@@ -365,10 +388,49 @@ Regulating and steering desire and consumption through culture - redefining stat
 
 
 
+Open society
+
+Deep democracy
+1 man 1 vote only on the base constitution which defines the inequality in the other layers
+
+Bigger than mars - an enabler for it
+
+What should we be coherent around and what not, and how do we determine the boundry and also truth
+
+No single person or group in the entire world has thought as much as me about the intersection of …
+^^ early in the clip
+
+Later on:
+But is there an MVP or a demo you BBC can try? Why not?
+…
+And in fact this is the architecture in which we’ll co-create our story
+
+Cultural enlightenment or bust
+Showing the video with daniel & brett
+& a petri dish bust graphic
+
+We’re gonna make “ought” great again
+
+We did not evolve for such a complex society - we either build the systems to scaffold our capacity upward or we perish
+We are the most basic form of general intelligence - the lower bound
+
+We need to replace rhetoric with provable competence and skin in the game
+
+“And how dk u find/get it?”
+
+Those who can predict the future
+The extent to which those predictions are shared is the extent to which the future will be shared
+
+Not emotional but effective redistribution
+
+
+
+
 Ev has direction
 - greater scales of differentiation, (thermodynamic) integration & cooperation
 - greater evolvability
 - greater ability to model and predict reality
+the most fundamental logic and forces in nature point towards thermodynamic integration and cooperation
 
 A product worth dying for
 the most consequences for your life
@@ -414,15 +476,15 @@ The other major carbon emitter is militarism - not to mention all the other nega
 
 We can - and MUST - reinvent democracy for the digital age
 
-Ultimate desire and how to get it
-
 Mic drop at the end
 
 The highest leverage point is not the FEDs interest rate - it is our paradigm
 
 Infinity is within our grasp
 
+the medium really IS the message
 The most important thing is what the system puts in people’s heads
+It doesn't get more fundamental than that for our species
 Enculturation
 What is culture - gregg henriques definition
 
@@ -436,6 +498,10 @@ Picture of the mine in congo - study what is ok to use in videos
 If you’re watching this - you’re early to something truly big - the right side of history will unfold before you
 
 The ultimate metric is not gdp but the number of nuclear warheads in the world - we know with high certainty what happens in quasars millions of light years away and yet we can’t seem to figure out how to organize ourselves to not kill and cheat each other.
+we are universal explainers
+
+
+
 
 This system will wipe the floor with any other - nothing will be able to compete and every competing power structure will join in their best  newly understood and deeper self interest - not out of fear but through a combination of seduction, shame, and consensual indoctrination
 
@@ -559,9 +625,8 @@ Recognition Economy
 
 Vibe code society with values
 
-
-
 better incentives to innovate, share, optimize, align
+transparency
 less corruption & misalignment
 market discipline
 
@@ -610,7 +675,7 @@ do videos on the many different titles
 - Follow/inherit settings
 
 - ESG??? or covered?
-- Every problrm would benefit from integration
+- Every problem would benefit from integration
 - Consciousness & attention
 - E gov & civic platforms
 - solve intelligence
