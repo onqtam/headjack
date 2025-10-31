@@ -22,6 +22,12 @@ alignment requires theory of mind - by emmet shear from #47 ep of win win podcas
 
 
 
+> "Money is an information theory problem" - [Elon Musk](https://x.com/elonmusk/status/1984283962450350375)
+^^ resource allocation is an information theory problem
+explainer for his tweet:
+https://x.com/CernBasher/status/1984286504596726061
+
+
 
 > "The only way to test a hypothesis is to look for all the information that disagrees with it." - [Karl Popper](https://www.azquotes.com/quote/1407281)
 

@@ -1,11 +1,27 @@
 
 
 ██████████████████████████████████████████████████████████████████
-# NEW INTRO VIDEO
+# ideas
+██████████████████████████████████████████████████████████████████
+
+have a scene where I grab the camera and talk to it in a shaky way from up close like the joker
+
+
+
+██████████████████████████████████████████████████████████████████
+# title & thumbnail
 ██████████████████████████████████████████████████████████████████
 
 == title:
 - What should/MUST be our ULTIMATE desire? The Organizational Imperative
+
+The Great Enabler
+
+culmination
+
+██████████████████████████████████████████████████████████████████
+# NEW INTRO VIDEO
+██████████████████████████████████████████████████████████████████
 
 == thumbnail:
 - intersection of digital ID (passport/ID), reputation & incentives (carrot & stick), & collective intelligence (ant colony?) - ven diagram + an ant colony - the third attractor in the intersection of them
@@ -21,6 +37,11 @@ decouple resources for personal use from control over the economy
 prestige
 
 externalities
+
+
+== the stakes
+- the future of life on earth depends on this - a crossroads between the 2 types of digital identity
+
 
 
 multiple open questions in the hook that gradually get answered in the video:
@@ -91,10 +112,6 @@ hearts and minds
 
 anything that's altruistic needs to be rewarded (making it no longer altruistic)
 sharing is synergetic - it is more efficient for the whole
-
-We will change the world - look - I have the ENTIRE plan already!
-    on the t-shirt
-
 
 Aggregation
 
@@ -278,8 +295,6 @@ The other major carbon emitter is militarism - not to mention all the other nega
 
 We can - and MUST - reinvent democracy for the digital age
 
-Mic drop at the end
-
 The highest leverage point is not the FEDs interest rate - it is our paradigm
 
 Infinity is within our grasp
@@ -375,6 +390,7 @@ turning humanity into a giant neural net
 Incentives & credit assignment all the way down
 
 error-correction in every aspect of the system - how it maintains itself, how it improves itself, how it recruits and expands
+it will all be evolvable - including the evolvability
 
 The Grandest Narrative
 The Next Game
@@ -431,6 +447,30 @@ Good vs. Evil: Cultural Assimilator vs Incinerator
 
 Signal from noise
 
+There isnt a single problem that wouldnt benefit from better aggregation  & integration & better incentives
+
+I wanted to solve the single biggest problem for humanity - the kind of system it runs
+Oh u want to go to mars? Thats cute. You know what would help immensely? The Great Enabler! A better F System!
+
+
+a real world model is a model of the world, by the world, for the world
+
+Consequence capture
+Credit assignment
+Interrelated
+
+We will take over the world - together
+Spread the word
+
+At the core of intelligent systems is their capacity for relevance realization - to pay attention to relevant stimuli & memories and to manifess the most relevant behavioral response
+
+CC
+The degree to which we implement CC is the degree to which we are aligned and optimally self-organizing
+We need a system that systematically identifies altruistic endeavors and rewards them accordingly to their impact
+The degree to which we exploit synergy is the degree to which we shall prosper
+
+
+
 A new kind of Self-Correcting Authority
 
 close the niche for psychopathy at scale
@@ -459,4 +499,29 @@ shared worldview
 we need a system of incentives & accountability & structured interaction to transcend our tribal nature and all the bias & corruption that comes with it
 
 stick around as we'll gradually explore the different aspects of the system - the earlier you familiarize yourself - the earlier you'd be a power user
+
+
+we need to be on the same page on what we need to be on the same page
+common knowledge
+
+
+
+██████████████████████████████████████████████████████████████████
+# Ending
+██████████████████████████████████████████████████████████████████
+
+
+We will change the world! Oh - you don't believe me?! LOOK! I have the ENTIRE plan already!
+    on the t-shirt
+
+conspiracy sticky notes connect the dots - with the background
+    - like the meme
+    https://i.imgflip.com/7g1ol5.jpg
+
+Make no mistake - this is the single most important thing happening in the world - because unlike with AGI/ASI every single idea and concept of this thing already exists
+
+Sounds too good to be true?
+
+Mic drop at the end - with my tat
+
 

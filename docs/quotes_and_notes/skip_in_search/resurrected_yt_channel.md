@@ -96,7 +96,6 @@ video structure:
     - contrast or comparison (current belief/state vs what it should be)
         - current baseline vs contrarian offer - the distance between them is the contrast
         - implied vs stated contrast - either state it explicitly or imply it indirectly ("this is 8x more effective" - baseline being ineffective is implied)
-        - consistent contrast - multiple side stories - multiple cycles of high/low energy
     - 6 words in a hook:
         - subject ("if you/I"), action ("had to grow a YT channel"), objective or end state change ("from 0 to 100k subs"), contrast (objective from current state, "0 to 100k subs"), proof ("again" - I've done it before), time/urgency ("in 5 months", "before EOY")
 - 10-30 sec intro after the hook
@@ -128,6 +127,9 @@ video structure:
         - think about where the viewer is looking at - don't make him move his eyes too much between cuts - unimmersive
         - breaking visual continuity from time to time is ok
     - problem-solution, problem-solution
+        - consistent contrast - multiple side stories - multiple cycles of high/low energy
+        - each section with a payoff should have a setup before it and the progress is between the setup & payoff
+            - without the right setup or progress the payoff is confusing
     - not just linearly "and, and, and" (disorienting - doesn't specify how one thing is linked to the next)
         - every "and" is a point where the viewer can disengage
         - better: "we tried this, but that got in the way, therefore we had to do this, but it didn't work, so we tried this"
@@ -150,7 +152,7 @@ video structure:
 
 
 == thumbnail & title (T&T)
-- create 3 and give them to YT to A/B test and pick the best one
+- create 3 and give them to YT to A/B test and pick the best one - you can do multiple successive A/B tests !!!
 - less is more
 - titles should be clear but don't spoil anything
 - most important part of titles should be closer to the start
@@ -180,9 +182,10 @@ channel should support momentum
 think of the channel as a TV show
 the 80/20 rule: "would 80% of the audience of my last video be interested in my next video?"
 
+don't assume familiarity ("if you know you know") - videos shouldn't assume that viewers are aware of the whole project
 
+the 3 Cs of YT visuals: Content, Clarity, Continuity
 
-- don't assume familiarity ("if you know you know") - videos shouldn't assume that viewers are aware of the whole project
 
 
 
@@ -217,9 +220,8 @@ https://drive.google.com/drive/folders/1JvmqF4v9KxpmtTPp6H-c36aTvGV6QgvZ
     https://pixabay.com/sound-effects/cinematic-impact-hit-352702/
 
 
-best video on hook & intro:
-https://www.youtube.com/watch?v=TOHQXdCAo5k
-also very good channel:
+best 2 channels for youtubers:
+https://www.youtube.com/@AprilynneAlter/videos
 https://www.youtube.com/@LearnByLeo/videos
 
 
@@ -235,20 +237,6 @@ https://www.youtube.com/watch?v=Dm3jfS78AQg
 - https://www.youtube.com/watch?v=wKt0NaMHCbM
 
 
-
-
-
-██████████████████████████████████████████████████████████████████
-# PLANNED FUTURE VIDEOS
-██████████████████████████████████████████████████████████████████
-
-why/how google failed with their core mission (not just the "don't be evil" one) - integration - and how we'll succeed
-Google's biggest failure LITERALLY nobody is talking about
-no - search sucking isn't a sign of their failure - the fact that they didn't change the way information is created and linked on the internet is their failure because that's what it would take to organize the world's information
-
-
-
-do videos on the many different titles
 
 
 
@@ -287,8 +275,36 @@ do videos on the many different titles
 
 
 
-Когато кажеш някакъв стейтмънт, това как го адресирам рефлектира в/у това какво може би си мисля. И реално аз трябва риъл тайм да адресирам всяко нещо с което не съм съвсем съгласен
 
 
+██████████████████████████████████████████████████████████████████
+# PLANNED FUTURE VIDEOS
+██████████████████████████████████████████████████████████████████
+
+integration
+    why/how google failed with their core mission (not just the "don't be evil" one) - integration - and how we'll succeed
+    Google's biggest failure LITERALLY nobody is talking about
+    no - search sucking isn't a sign of their failure - the fact that they didn't change the way information is created and linked on the internet is their failure because that's what it would take to organize the world's information
+
+status
+    The Great Reset - with Schwab with red lines on top of him and a 1st/2nd/3rd place podium for status
+
+
+
+
+do videos on the many different titles
+
+
+██████████████████████████████████████████████████████████████████
+# other parts of strategy
+██████████████████████████████████████████████████████████████████
+
+don't just link to 1 single socials link - link to them separately - a linktree is only for places where you can only put 1-2 links
+
+get a whiteboard & markers
+
+for podcasts: post through flightcast 4k on multiple platforms at once
+https://x.com/RoxCodes/status/1975229950236950567
+https://x.com/Flightcast_
 
 

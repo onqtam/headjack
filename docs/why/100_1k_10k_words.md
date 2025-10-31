@@ -176,6 +176,7 @@ Breaking The Script
     The Livest Emergent Player on the global stage
 Betting Against Elon
     more specifically X
+    only against X, and only unless they adopt this inevitability - they could actually be the single biggest adopter of this architecture and cement themselves as N1
     Unless he pivots and adopts the future of identity and content addressing as an open protocol
 Algorithms to Organize by
 Revolution Cookbook
@@ -342,7 +343,9 @@ The Comparison Operator - democratic
 WikiRedditOverflow
 Religion: the only truly scalable coordination & cooperation mechanism
 The World (Self) Model
+    a real world model is a model of the world, by the world, for the world
 The ultimate product/service - the best of everything that’s worth a damn - meaning, community and prosperity
+    The Great Enabler
 Jailbreaking the Simulation - ala George Hotz
     Taking control and becoming architects of the incentives in the matrix
 Bringing Intelligence to Intelligent Design
