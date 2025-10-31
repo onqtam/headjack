@@ -85,6 +85,16 @@ Differentiation and specialization coupled with alignment and integration
 Put your favourite pictures in the video
 
 This is the real situational assessment
+^^ this fails by assuming familiarity ("if you know you know")
+
+hearts and minds
+
+anything that's altruistic needs to be rewarded (making it no longer altruistic)
+sharing is synergetic - it is more efficient for the whole
+
+We will change the world - look - I have the ENTIRE plan already!
+    on the t-shirt
+
 
 Aggregation
 

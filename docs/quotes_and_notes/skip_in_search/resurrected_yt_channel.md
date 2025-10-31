@@ -168,9 +168,22 @@ video structure:
 
 
 
+thumbnail idea for future:
+- me next to a whiteboard with bullet points & grahps from the video
+    https://prnt.sc/-7AaAuNuW2qF
+
+
+
 all videos in a channel need to adress the same audience !!! everything should be interconnected & relevant
 the format should also be consistent... what to do with podcasts & clips from them? :/
 channel should support momentum
+think of the channel as a TV show
+the 80/20 rule: "would 80% of the audience of my last video be interested in my next video?"
+
+
+
+- don't assume familiarity ("if you know you know") - videos shouldn't assume that viewers are aware of the whole project
+
 
 
 BOOK A FREE CALL WITH LEO:
