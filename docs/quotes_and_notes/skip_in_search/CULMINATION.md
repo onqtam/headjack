@@ -12,19 +12,33 @@ have a scene where I grab the camera and talk to it in a shaky way from up close
 # title & thumbnail
 ██████████████████████████████████████████████████████████████████
 
-== title:
-- What should/MUST be our ULTIMATE desire? The Organizational Imperative
+Why our ULTIMATE desire should be The Great Enabler
+
+and what to do about it
+
+What should be our ULTIMATE desire? The Organizational Imperative
 
 The Great Enabler
 
-culmination
+== thumbnail:
+- intersection of digital ID (passport/ID), reputation & incentives (carrot & stick), & collective intelligence (ant colony?) - ven diagram + an ant colony - the third attractor in the intersection of them
+
+
 
 ██████████████████████████████████████████████████████████████████
 # NEW INTRO VIDEO
 ██████████████████████████████████████████████████████████████████
 
-== thumbnail:
-- intersection of digital ID (passport/ID), reputation & incentives (carrot & stick), & collective intelligence (ant colony?) - ven diagram + an ant colony - the third attractor in the intersection of them
+
+
+
+
+
+
+
+
+== what makes us special - why the ultimate social system is the great enabler and at the root of everything and why systemic thinking is most important
+
 
 
 
@@ -209,8 +223,6 @@ Open society
 Deep democracy
 1 man 1 vote only on the base constitution which defines the inequality in the other layers
 
-Bigger than mars - an enabler for it
-
 What should we be coherent around and what not, and how do we determine the boundry and also truth
 
 No single person or group in the entire world has thought as much as me about the intersection of …
@@ -317,6 +329,7 @@ If you’re watching this - you’re early to something truly big - the right si
 
 The ultimate metric is not gdp but the number of nuclear warheads in the world - we know with high certainty what happens in quasars millions of light years away and yet we can’t seem to figure out how to organize ourselves to not kill and cheat each other.
 we are universal explainers
+How depressing is that there isn't a single credible plan for how humanity could unite and prosper that isn't one of the current powers simply dominating the others but transcending conflict altogether?
 
 
 
@@ -338,6 +351,7 @@ Every single concept & building block & social dynamic from this new system will
 
 
 The highest leverage point
+
 
 
 I’ve been sitting on this architecture for more than 3 years because the most important thing is to get the ideology right
@@ -417,7 +431,22 @@ incentives/identity - it doesn't get any deeper or more fundamental than that
 
 GET QUOTE ABOUT CULTURE AND ALSO ABOUT MEANINGFUL INFORMATION
 
+> "Show me the incentive and I will show you the outcome." - [Charlie Munger](https://quotefancy.com/quote/1561882/Charlie-Munger-Show-me-the-incentive-and-I-will-show-you-the-outcome)
 
+The most important thing? Education? Close! But incentives are even deeper in the causal graph of civilization
+
+we need incentives to stay consistent and not to be able to rewrite history and your opinions
+
+more capitalistic than capitalism & more socialistic/communistic than socialism/communism
+
+digital sovereignty
+
+
+sankey diagram of the flows of resources and influence and opinions
+
+einstein compound interest quote - compound identity/reputation
+
+initially this will get bootstrapped on the internet as self-governance around some non-political issuebut once its been proven to work and all the kinks have been ironed out and people have become accustomed to it - it will start spreading to other areas with increasingly more consequence in the real world.
 
 
 We will engineer money the likes of which you couldnt imagine
@@ -451,6 +480,8 @@ There isnt a single problem that wouldnt benefit from better aggregation  & inte
 
 I wanted to solve the single biggest problem for humanity - the kind of system it runs
 Oh u want to go to mars? Thats cute. You know what would help immensely? The Great Enabler! A better F System!
+Bigger than mars - an enabler for it
+You know what would help? Like A LOT?! A better f system
 
 
 a real world model is a model of the world, by the world, for the world
@@ -469,8 +500,6 @@ The degree to which we implement CC is the degree to which we are aligned and op
 We need a system that systematically identifies altruistic endeavors and rewards them accordingly to their impact
 The degree to which we exploit synergy is the degree to which we shall prosper
 
-
-
 A new kind of Self-Correcting Authority
 
 close the niche for psychopathy at scale
@@ -486,13 +515,19 @@ Incentives from first principles AKA life's thermodynamic imperative
 solving the same thermodynamic imperative on each consecutive level
 
 Recognition Economy
+Universal Basic Recognition
 
 Vibe code society with values
 
 better incentives to innovate, share, optimize, align
 transparency
+sunlight is the best disinfectant
+information wants to be free
+opacity is a crime against alignment & synergy
 less corruption & misalignment
 market discipline
+
+how the saussage is made
 
 shared worldview
 
@@ -518,10 +553,12 @@ conspiracy sticky notes connect the dots - with the background
     - like the meme
     https://i.imgflip.com/7g1ol5.jpg
 
-Make no mistake - this is the single most important thing happening in the world - because unlike with AGI/ASI every single idea and concept of this thing already exists
+Make no mistake - this is the single most important thing happening in the world - because unlike with AGI/ASI every single idea and concept of this thing already exists - we don't know how to make AGI/ASI but we do know how to do what I'm talking about
 
 Sounds too good to be true?
 
 Mic drop at the end - with my tat
 
+and I show my face with the thug life glasses
 
+WE TAKIN OVER!

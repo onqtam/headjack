@@ -186,7 +186,33 @@ don't assume familiarity ("if you know you know") - videos shouldn't assume that
 
 the 3 Cs of YT visuals: Content, Clarity, Continuity
 
+capturing attention: novelty, contrast, movement, personal relevance & expectations
+answer the following questions:
+    - who is the character?
+    - what do they want?
+    - why can't they get what they want?
+    - what are the stakes?
+    - who or what helps them?
+    - how do they get what they want?
+    - how are they transformed by this experience?
 
+principles for persuasion:
+    - reciprocity
+    - social proof
+    - liking
+    - authority
+    - consistency
+    - scarcity
+
+== editing:
+    - J cut & L cut - for abrupt cuts where the audio of the next clip starts earlier or later
+    - don't change the focal point too much/drastically - creates visual friction - they have to work to find it - chaotic & hard to follow
+        - this happens most often with cut ins & cut outs (zoom in/out) if not towards the face in the shot but the middle
+    - consistent color grading
+    - text, ovoerlays & motion graphics should share the same font, color palette & animation style
+    - the music you choose sets the tone (tense/on edge/excited/energized/hyped/reflective/etc.)
+        - sync key moments to the beat
+            - for momentum use crescendos
 
 
 BOOK A FREE CALL WITH LEO:
@@ -215,6 +241,7 @@ editing: immersive audio:
 https://drive.google.com/drive/folders/1JvmqF4v9KxpmtTPp6H-c36aTvGV6QgvZ
 - shutter
 - pop
+- whoosh
 - riser
 - hit
     https://pixabay.com/sound-effects/cinematic-impact-hit-352702/
@@ -226,6 +253,12 @@ https://www.youtube.com/@LearnByLeo/videos
 
 
 
+██████████████████████████████████████████████████████████████████
+# studio
+██████████████████████████████████████████████████████████████████
+
+
+carpet on the ground
 
 lighting:
 - close curtains - no natural light
@@ -236,7 +269,7 @@ https://www.youtube.com/watch?v=Dm3jfS78AQg
 - https://www.youtube.com/watch?v=vXWuy5lWw3M
 - https://www.youtube.com/watch?v=wKt0NaMHCbM
 
-
+lampi4ki okolo panoto zad men?
 
 
 
@@ -284,7 +317,14 @@ https://www.youtube.com/watch?v=Dm3jfS78AQg
 integration
     why/how google failed with their core mission (not just the "don't be evil" one) - integration - and how we'll succeed
     Google's biggest failure LITERALLY nobody is talking about
+    a failure so deep nobody has even thought about it
     no - search sucking isn't a sign of their failure - the fact that they didn't change the way information is created and linked on the internet is their failure because that's what it would take to organize the world's information
+    the best way to organize information is to change the way it is expressed and created in the first place
+    walled gardens of different closed platforms - so even if the entire public web was well organized - still the architecture of the internet would have large private social networks and walled gardens
+    mock titles like "that nobody is talking about" & "the real reason Google failed"
+    google was NEVER on track to begin with
+
+
 
 status
     The Great Reset - with Schwab with red lines on top of him and a 1st/2nd/3rd place podium for status
