@@ -6,15 +6,17 @@
 
 have a scene where I grab the camera and talk to it in a shaky way from up close like the joker
 
+biggest risk: too complex for the masses
+
 
 
 ██████████████████████████████████████████████████████████████████
 # title & thumbnail
 ██████████████████████████████████████████████████████████████████
 
-Why our ULTIMATE desire should be The Great Enabler
+Why Our ULTIMATE Desire Should Be The Great Enabler
 
-and what to do about it
+And What You Can Do About It
 
 What should be our ULTIMATE desire? The Organizational Imperative
 
@@ -23,6 +25,11 @@ The Great Enabler
 == thumbnail:
 - intersection of digital ID (passport/ID), reputation & incentives (carrot & stick), & collective intelligence (ant colony?) - ven diagram + an ant colony - the third attractor in the intersection of them
 
+HIVE MIND instead of collective intelligence
+
+different background between collective/intelligence or digital/id
+
+try thumbnail without text? only the 3 images?
 
 
 ██████████████████████████████████████████████████████████████████
@@ -32,7 +39,7 @@ The Great Enabler
 
 
 
-
+input bias early on
 
 
 
@@ -64,7 +71,7 @@ multiple open questions in the hook that gradually get answered in the video:
 
 Ultimate desire and how to get it
 
-There isn't a single issue in the world that wouldn't benefit from a more optimal system for coming up with a solution to it
+There isn't a single issue on any scale in the world that wouldn't benefit from a more optimal system for coming up with a solution to it
 - Every problem would benefit from integration
 
 the product that produces all products.
@@ -75,13 +82,14 @@ But WHY?
 and why has this been too abstract or intractable for everyone - until now?
 
 the problem: primitive & outdated & (partially) misaligned & wasteful & corrupt & mindless system
+Current capitalist system is primitive, wasteful, misaligned and mindless - it is self-terminating
+And everything else we've ever tried is even dumber
 
 don't immediately spill the beans that the ultimate product is the ultimate social system
 instead say that everything else you get or experience in life depends on it - it is like the water fish swim in and never thing explicitly about
 its like the water - we don't see it, we don't question it, or if we do - we feel powerless
 
 ultimate ==> most consequential, most important, most fundamental - second place is not even close
-
 
 The future belongs to those who can predict it and that’s why we should incentivise them to share their predictions openly with skin in the game and contribute to our commons
 
@@ -115,6 +123,11 @@ Theoretically optimal solution - no other design can get even close to the optim
 
 Nervous system
 
+
+> "Your margin is my opportunity." - [Jeff Bezos](https://www.goodreads.com/quotes/706779-your-margin-is-my-opportunity)
+Your conspicuous consumption is our opportunity
+
+
 Differentiation and specialization coupled with alignment and integration
 
 Put your favourite pictures in the video
@@ -143,14 +156,14 @@ something larger than ourselves that will persist beyond our lives
 
 - internet 2.0
 - fundamental upgrade to our ability to cooperate, coordinate and cognize/think together - collective cognition
-- works on any scale - all the way up to the global level
+- works on any scale - all the way up to the global level - the same stack works on global/national/city/party/company level
 - what would the best possible system we could come up with look like?
 - the ultimate product/service is the ultimate social system and we're going to co-discover it
 - what is the ultimate product/service? it is the ultimate social system.
 - and what is better than a product that spreads by word of mouth? an ideology behind a product that spreads by word of mouth
 - A protocol - fundamentally open and uncensorable with string user privacy
 - A reversed panopticon
-- Ladder of influence and legibility
+- Ladder of influence and legitimacy (legibility?)
 - Opt-in
 - Can scale to tens of billions and has no limitations on the amount of data
 - True anonymity with zero knowledge - can even prove to be a real human and prove credentials in a privacy preserving way 
@@ -267,6 +280,8 @@ the most fundamental logic and forces in nature point towards thermodynamic inte
 A product worth dying for
 the most consequences for your life
 
+but before answering that we need to talk about what makes our species special - reveal the answer at the end of the video??
+
 The next OpenAI will be open collective intelligence OpenCI - Open by Design, Forever - open not by decree but by necessity
 
 Thumbnail: ants / network
@@ -296,7 +311,7 @@ Program or be programmed - hivemind
 Preserving individual rights and privacy
 Optimal synthesis between individualism and collectivism
 
-Current system is primitive, wasteful, misaligned and mindless - it is self-terminating
+
 
 
 
@@ -332,7 +347,7 @@ we are universal explainers
 How depressing is that there isn't a single credible plan for how humanity could unite and prosper that isn't one of the current powers simply dominating the others but transcending conflict altogether?
 
 
-
+we need to engineer collective agency that cybernetically steers itself towards its goals
 
 This system will wipe the floor with any other - nothing will be able to compete and every competing power structure will join in their best  newly understood and deeper self interest - not out of fear but through a combination of seduction, shame, and consensual indoctrination
 
@@ -445,6 +460,12 @@ digital sovereignty
 sankey diagram of the flows of resources and influence and opinions
 
 einstein compound interest quote - compound identity/reputation
+Reputation compounds just like knowledge and interest
+> "Compound interest is the eighth wonder of the world." - [Albert Einstein](https://www.goodreads.com/quotes/76863-compound-interest-is-the-eighth-wonder-of-the-world-he)
+But compounding applies not only to interest but also to reputation and knowledge.
+
+self-organization - how does order emerge out of local interactions and local rules - something greater than the sum of the parts
+
 
 initially this will get bootstrapped on the internet as self-governance around some non-political issuebut once its been proven to work and all the kinks have been ironed out and people have become accustomed to it - it will start spreading to other areas with increasingly more consequence in the real world.
 
@@ -476,7 +497,7 @@ Good vs. Evil: Cultural Assimilator vs Incinerator
 
 Signal from noise
 
-There isnt a single problem that wouldnt benefit from better aggregation  & integration & better incentives
+There isnt a single problem on any scale that wouldnt benefit from better aggregation  & integration & better incentives
 
 I wanted to solve the single biggest problem for humanity - the kind of system it runs
 Oh u want to go to mars? Thats cute. You know what would help immensely? The Great Enabler! A better F System!
@@ -511,7 +532,7 @@ this is how we make A Dent in the Universe
 
 our system wasn't consciously designed - it mostly evolved by happenstance & contingency
 
-Incentives from first principles AKA life's thermodynamic imperative
+Incentives from first principles AKA life's thermodynamic imperative - staying far from equilibrium
 solving the same thermodynamic imperative on each consecutive level
 
 Recognition Economy

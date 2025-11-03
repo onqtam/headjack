@@ -156,9 +156,8 @@ video structure:
 - less is more
 - titles should be clear but don't spoil anything
 - most important part of titles should be closer to the start
-- contrasting colors
 - set expectations, induce emotion, clear and simple, brighter in color, instantly understandable the concept being conveyed
-- face/emotion, only if can convey emotion
+- face/emotion, only if can convey emotion, and also if I already have an audience and they're familiar with me
 - clear text & selective ALL CAPS for emphasis
 - elicit an emotion
 - needs to induce a curiosity gap & challenge the assumptions of the viewer
@@ -167,7 +166,28 @@ video structure:
 - aim for 50 characters
 - don't source frames from your video for yout thumbnail - use other sources
 - don't put too much - takes more time to process by viewers
-
+- thumbnail checklist (from an analysis of the top youtubers https://prnt.sc/zOB8U8ybNnhq ):
+    - main color: black/grey/white/red/orange/blue (either of them)
+    - 0-3 words, neutral language
+- title checklist:
+    - 42 chars average length, 6-7-8 words average, neutral or first person language
+    - title case or mixed capitalisation
+- power words: emotional/authority/urgency/exclusivity
+    https://youtu.be/cF0wTWOQE1s?t=214
+    https://prnt.sc/eCkXU2h5TvZc
+- monitor CTR (click through rate) & impressions compared to other of you videos and adjust title
+- scroll stoppers (so ppl don't just pass your video)
+    - nice large round numbers, money, danger & movement, emotion, bright colors, aesthetically pleasing
+- thumbnail types: moment/story/result/transformation/novelty
+- 3 types of contrast: hue/luminosity/saturation
+    - complementary (hue) colors: on the opposite sides of the color wheel
+        - triads (3) & tetrads (4) of opposite colors can work too
+- think about contrast from all other thumbnails
+- preview thumbnail - suggested panel shows the smallest thumbnails
+    - CAN YOUR THUMBNAIL STOP THE SCROLL? is it a scroll stopper? if not - needs more work
+    https://www.testmythumbnails.com/
+- have 3 thumbnails ready - if the video starts to flop after a few hours/days
+- rule of thirds - with the 9 parts of the picture - https://en.wikipedia.org/wiki/Rule_of_thirds
 
 
 thumbnail idea for future:
@@ -184,10 +204,10 @@ the 80/20 rule: "would 80% of the audience of my last video be interested in my 
 
 don't assume familiarity ("if you know you know") - videos shouldn't assume that viewers are aware of the whole project
 
-the 3 Cs of YT visuals: Content, Clarity, Continuity
+the 5 Cs of YT visuals: Content, Clarity, Continuity, Composition, Contrast
 
 capturing attention: novelty, contrast, movement, personal relevance & expectations
-answer the following questions:
+hero's journey - answer the following questions:
     - who is the character?
     - what do they want?
     - why can't they get what they want?
@@ -204,24 +224,44 @@ principles for persuasion:
     - consistency
     - scarcity
 
+camera shyness:
+    - free talking - start talking before the actual lines so u don't start from complete silence
+
+visual style:
+    - color palette
+        - https://prnt.sc/lblpqxL2lNZs
+        - use mostly black, but also red/orange/blue/yellow
+        - one color for background (black/red), one for the text & elements (orange/yellow? blue?)
+        https://prnt.sc/IjYmXc51n9dG
+    - font style associations
+        https://prnt.sc/5kyyTJ-LG9GB
+        - 3 fonts: text body, header & accent
+
+
 == editing:
     - J cut & L cut - for abrupt cuts where the audio of the next clip starts earlier or later
     - don't change the focal point too much/drastically - creates visual friction - they have to work to find it - chaotic & hard to follow
         - this happens most often with cut ins & cut outs (zoom in/out) if not towards the face in the shot but the middle
-    - consistent color grading
+    - consistent color grading - increase brightness, contrast & saturation, adjust white balance
+    - use text pop ups to emphasize points & reinforce them
     - text, ovoerlays & motion graphics should share the same font, color palette & animation style
     - the music you choose sets the tone (tense/on edge/excited/energized/hyped/reflective/etc.)
         - sync key moments to the beat
-            - for momentum use crescendos
+            - for momentum use crescendos, sting, swell, beat drop
+
 
 
 BOOK A FREE CALL WITH LEO:
 https://calendly.com/leo-learnbyleo/free-consultation
 
 
-royalty free images & sounds
+royalty/copyright free images & sounds
 https://freesound.org/
 https://www.epidemicsound.com/
+
+icons:
+https://www.flaticon.com/
+
 
 Steelseries GG sonar for AI background noise cancellation
 
@@ -238,6 +278,11 @@ transition, ambient & foley sounds
 audio sound effects:
 editing: immersive audio:
     https://youtu.be/sLgHqZSe2o0?t=630
+    thing 1 from here:
+        https://youtu.be/iUNQyMGAx8s?t=11
+    rhythmic style from here:
+        https://youtu.be/1S0mNJ9Mskc?t=637
+        https://prnt.sc/QVvc6qki_l8D
 https://drive.google.com/drive/folders/1JvmqF4v9KxpmtTPp6H-c36aTvGV6QgvZ
 - shutter
 - pop

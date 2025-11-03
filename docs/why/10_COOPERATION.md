@@ -818,6 +818,8 @@ Most people have read at leats a couple of books in their life. What if we could
 # SECTION: Alignment
 ██████████████████████████████████████████████████████████████████
 
+> "Every person in your company is a vector. Your progress is determined by the sum of all vectors." - [Elon Musk](https://www.goodreads.com/quotes/9100718-every-person-in-your-company-is-a-vector-your-progress)
+
 Alignment is predicated on transparency
 
 The only way to alignment is through transparency and interpretability

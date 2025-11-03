@@ -28,6 +28,8 @@ explainer for his tweet:
 https://x.com/CernBasher/status/1984286504596726061
 
 
+> "If it starts with the word “public,” it’s probably in decay." - [Naval Ravikant](https://x.com/naval/status/1984966114171089148)
+
 
 > "The only way to test a hypothesis is to look for all the information that disagrees with it." - [Karl Popper](https://www.azquotes.com/quote/1407281)
 
