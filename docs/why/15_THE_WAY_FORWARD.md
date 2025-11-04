@@ -988,6 +988,9 @@ The following piece by Eric Beinhocker is terrific. It covers: the evolution of 
 # SECTION: The way forward
 ██████████████████████████████████████████████████████████████████
 
+"our plans are measured in centuries" from dune
+https://x.com/BoredElonMusk/status/1766820166871236746/photo/1
+
 > "The present is saturated with the past and pregnant with the future." - [Gottfried Wilhelm Leibniz](https://www.azquotes.com/quote/1032469)
 
 > "Physical strength can never permanently withstand the impact of spiritual force." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/415349-physical-strength-can-never-permanently-withstand-the-impact-of-spiritual)
@@ -2001,6 +2004,8 @@ But a problem not fully understood is unsolvable.
 > "Life and intelligence are the wildcards in the universal deck." - [Terence McKenna](https://www.organism.earth/library/document/vertigo-at-historys-edge)
 
 > "Those who tell the stories rule society." - [Plato](https://www.goodreads.com/quotes/20382-those-who-tell-the-stories-rule-society)
+
+> "Marketing is a tax you pay for not making your product remarkable... Figure out how to have a story that people want to tell about your product where they’re the most interesting person at the dinner table. And then that person is your sales force." - [YC Partner Kevin Hale](https://x.com/StartupArchive_/status/1985391984924623227)
 
 > "You need a story to displace a story." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/1034173-you-need-a-story-to-displace-a-story)
 

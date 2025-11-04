@@ -368,8 +368,11 @@ integration
     walled gardens of different closed platforms - so even if the entire public web was well organized - still the architecture of the internet would have large private social networks and walled gardens
     mock titles like "that nobody is talking about" & "the real reason Google failed"
     google was NEVER on track to begin with
+    Integration - everything that references X - reverse lookup?
+    also generalizing something from one industry to another
+    Google didnt simply fail - they never even tried
 
-
+The beginning of history
 
 status
     The Great Reset - with Schwab with red lines on top of him and a 1st/2nd/3rd place podium for status

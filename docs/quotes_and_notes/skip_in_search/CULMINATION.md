@@ -32,6 +32,9 @@ different background between collective/intelligence or digital/id
 try thumbnail without text? only the 3 images?
 
 
+The great enabler - thumbnail - causality
+
+
 ██████████████████████████████████████████████████████████████████
 # NEW INTRO VIDEO
 ██████████████████████████████████████████████████████████████████
@@ -84,6 +87,7 @@ and why has this been too abstract or intractable for everyone - until now?
 the problem: primitive & outdated & (partially) misaligned & wasteful & corrupt & mindless system
 Current capitalist system is primitive, wasteful, misaligned and mindless - it is self-terminating
 And everything else we've ever tried is even dumber
+money got us here but it will not get us there
 
 don't immediately spill the beans that the ultimate product is the ultimate social system
 instead say that everything else you get or experience in life depends on it - it is like the water fish swim in and never thing explicitly about
@@ -113,15 +117,18 @@ the infinite game
 
 once you find/understand it you'll never think about anything else more than about this thing
 
-The more compelling and refined the story becomes - the sooner will the system reach a billion people
-
 I’ve been sitting on
 I don’t want to try
 I want to succeed
 Those who tell the stories rule the world
 Theoretically optimal solution - no other design can get even close to the optimal set of technical tradeoffs in my architecture
+The more compelling and refined the story becomes - the sooner will the system reach a billion people
+> "Those who tell the stories rule society." - [Plato](https://www.goodreads.com/quotes/20382-those-who-tell-the-stories-rule-society)
 
 Nervous system
+
+> "An effective accounting of the economy and politics would be a revolutionary act." - [Samo Burja](https://youtu.be/A3Zd2K0BJoI?t=7136)
+
 
 
 > "Your margin is my opportunity." - [Jeff Bezos](https://www.goodreads.com/quotes/706779-your-margin-is-my-opportunity)
@@ -212,6 +219,8 @@ We have all the pieces if the puzzle because of the great unbundling - all we ne
 
 frame control & manipulation
 
+Permanent record, but for those with the most influence
+
 meritocracy
 
 built-in error correction as the highest priority
@@ -228,7 +237,7 @@ Choose life
 
 Regulating and steering desire and consumption through culture - redefining status
 
-
+Sensemaking
 
 
 Open society
@@ -247,6 +256,7 @@ But is there an MVP or a demo you BBC can try? Why not?
 And in fact this is the architecture in which we’ll co-create our story
 
 Cultural enlightenment or bust
+Protopia or bust
 Showing the video with daniel & brett
 & a petri dish bust graphic
 
@@ -255,9 +265,74 @@ We’re gonna make “ought” great again
 We did not evolve for such a complex society - we either build the systems to scaffold our capacity upward or we perish
 We are the most basic form of general intelligence - the lower bound
 
+An open and integrated system is one in which every problem has to be solved just once and reused
+
+What is the best argument for what makes a good argument?
+What is the best way to determine what is best/better?
+What is the best incentive structure to improve the incentive structure?
+How do we make common knowledge what common knowledge is and why it is important for coordination?
+How do we better educate as many people as possible about the logic of this system that would scale and improve this education?
+
 We need to replace rhetoric with provable competence and skin in the game
 
-“And how dk u find/get it?”
+“And how do u find/get it?”
+
+A seamless game-like interface to the whole economy
+
+The reward function
+
+Everyone should understand as much as possible of the most important aspects of how and why society functions - and this sounds incredibly obvious and yet our current system is nowhere close to actually aiming towards that
+In order to maintain, debug and improve it
+We should be aiming at making everyone as useful and thriving as possible
+Captain Obvious strikes again! (And I hit a piece of paper with my notebook like a baseball)
+This is the value of others
+
+every problem would benefit from more integration, more feedback (anyone can chime in) and a ability to filter those opinions in flexible & creative ways for signal
+
+This system will absorb humanity’s wealth through donation and seduction - fundamentally non violent
+
+The only way to deal with the ever increasing complexity is through compression and better explanations and incentives
+
+
+We need to aim the system at developing people
+
+The dick measuring contest has no upper limit
+Show yachts
+We either put a cap on the dick measuring contest or it will cap humanity’s runway
+
+The real hunger games is about who can provide the most nutritious food to as many people as possible
+
+Explain how a new parallel economy will form and outcompete and swallow the current one along with incentives to join it and tarriffs
+
+What is a multipolar trap
+Tragedy of the commons
+The greatest multipolar trap is about how much we personally consume
+
+This is what real progressivism looks like
+
+how do we generate the best possible answers and explanations to as many important questions and problems as possible? and share them as widely as possible? make them as accessible as possible? How do we incentivise their dissemination as wide as possible?
+How do we rank and sort and prioritize things?
+
+A sane society/civilization would be actively striving to lift as much people as possible out of poverty and to educate them and harness their creativity and intelligence for synergistic problem solving for all
+
+Money got us here, but it will not get us there
+
+It aint easy to bootstrap a network effect and reach billions and
+Nobody has ever made something bigger than money
+
+We need to reinvent how we do debate in the digital age - in a structured and explicit way
+
+There absolutely are ways of redistributing wealth in a way that doesn’t make the receivers ungrateful and lazy and entitled - we just havent figured out how to do it yet
+And also how to compensate those that generate the extra surplus that doesn’t go all to them and have them be not simply willing but genuinely eager to participate in something greater than themselves
+
+Infinity is on the event horizon of existence - the question is do we want it badly enough
+
+The meta solution to all of our problems is an incentive architecture for truth to reliably bubble up to the top
+Ruthlessly incentivising truth
+
+we need to optimize the means of production and steer the desires of consumption - but not through legislation but through cultural regulation (not wokery)
+
+we need to recognize culture for what it is - the next substrate of evolution - the ether that binds us
 
 Those who can predict the future
 The extent to which those predictions are shared is the extent to which the future will be shared
@@ -385,6 +460,8 @@ Relevance is All we Need
 Incentive is All we Need
 Alignment is All We Need
 Attention is All We Have
+Attention is all we have - closeup to my eyes
+Alignment is all we need - show a bunch of vectors or parts of a magnet
 
 Shared Context Window
 
@@ -395,6 +472,21 @@ Social resonance and coherence
 Merging the market, state, religion, media, academia and education under *~~sha~~* syntropic law
 
 Making the Collective Unconscious Conscious
+
+
+No more faceless beurocrats
+Explicitly engineered incentives shall penetrate society to its core
+
+We can LITERALLY EXTINCT OURSELVES
+
+A sane civilization would rank all problems and rank all possible solutions and rank all potential implementora and rank the best method of rewarding according to contribution
+And the most important problem is how to fix the system itself - error correction on the highest level
+
+Once the engine of digital civilization gets going it will consume the world and deliver us infinity
+
+Have something about education and intergenerational transmission for the upkeep of civilization
+
+Dependency graph
 
 what you are is what we are - a collective of cooperative parts
 A cooperative collective intelligence of parts that gives rise to a higher order entity
@@ -528,6 +620,29 @@ Closing the sociopathic niche
 
 we can pass The Great Filter
 
+We need a system that reliably generates better explanations and better strategies of putting them in people’s heads
+NPC chipping meme
+Get chip from anthony
+
+Less education - more intergenerational transmission
+
+If you’re not problem solving maxxing you’re dooming the children of your children
+
+Everything good that you care about hinges on the great enabler
+
+From first principles
+
+Post scarcity congo mine
+
+We are nothing as a species or as individuals without our sociality
+
+A system that will deliver the goods better on any given metric compared to the current one
+
+Skin in the game proportional to influence and consequentiality with no way to wiggle out of previously held positions
+
+Reverse panopticon
+
+
 this is how we make A Dent in the Universe
 
 our system wasn't consciously designed - it mostly evolved by happenstance & contingency
@@ -552,13 +667,14 @@ how the saussage is made
 
 shared worldview
 
+we are emotional & irrational apes with language
 we need a system of incentives & accountability & structured interaction to transcend our tribal nature and all the bias & corruption that comes with it
 
 stick around as we'll gradually explore the different aspects of the system - the earlier you familiarize yourself - the earlier you'd be a power user
 
 
 we need to be on the same page on what we need to be on the same page
-common knowledge
+
 
 
 
@@ -581,5 +697,7 @@ Sounds too good to be true?
 Mic drop at the end - with my tat
 
 and I show my face with the thug life glasses
+
+You dont believe me? Watch me. Literally watch me.
 
 WE TAKIN OVER!

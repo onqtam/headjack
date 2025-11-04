@@ -2095,6 +2095,24 @@ learning in public - the best form of career progression
 Blocking someone doesn’t send them a signal that they’ve done something wrong - a public label that a comment was hateful does something else
 
 
+> "Working hard to make useful products & services for your fellow humans is deeply morally good." - [Elon Musk](https://www.goodreads.com/quotes/11210789-working-hard-to-make-useful-products-services-for-your)
+
+> "Constantly think about how you could be doing things better." - [Elon Musk](https://www.goodreads.com/quotes/9603589-constantly-think-about-how-you-could-be-doing-things-better)
+
+> "You get paid in direct proportion to the difficulty of problems you solve." - [Elon Musk](https://www.goodreads.com/quotes/8389664-you-get-paid-in-direct-proportion-to-the-difficulty-of)
+
+> "When something is important enough, you do it even if the odds are not in your favour." - [Elon Musk](https://www.goodreads.com/quotes/6707427-when-something-is-important-enough-you-do-it-even-if)
+
+> "It is important to view knowledge as sort of a semantic tree -- make sure you understand the fundamental principles, ie the trunk and big branches, before you get into the leaves/details or there is nothing for them to hang on to." - [Elon Musk](https://www.goodreads.com/quotes/5444442-it-is-important-to-view-knowledge-as-sort-of-a)
+
+> "Education is basically downloading data and algorithms into your brain." - [Elon Musk](https://www.goodreads.com/quotes/10818360-education-is-basically-downloading-data-and-algorithms-into-your-brain)
+
+> "One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy." - [Elon Musk](https://www.goodreads.com/quotes/9554987-one-of-the-really-tough-things-is-figuring-out-what)
+
+> "My children didn't choose to be born, I chose to have children. They owe me nothing, I owe them everything." - [Elon Musk](https://www.goodreads.com/quotes/10991047-my-children-didn-t-choose-to-be-born-i-chose-to)
+
+
+
 Compound identity/reputation - like knowledge and interest
 Reputation compounds just like knowledge and interest
 > "Compound interest is the eighth wonder of the world." - [Albert Einstein](https://www.goodreads.com/quotes/76863-compound-interest-is-the-eighth-wonder-of-the-world-he)
