@@ -92,6 +92,7 @@ video structure:
     - title & thumbnail (T&T) set the expectation
     - first sentence matches the title, first shot matches the thumbnail
     - can use text & arrows/pointers in the first shot to describe the different elements
+        - think about hover & preview - have text in the intro of the actual video
     - no need to be 1 for 1, but should be close enough to assure viewers that the T&T weren't clickbait
     - contrast or comparison (current belief/state vs what it should be)
         - current baseline vs contrarian offer - the distance between them is the contrast
@@ -134,13 +135,15 @@ video structure:
         - every "and" is a point where the viewer can disengage
         - better: "we tried this, but that got in the way, therefore we had to do this, but it didn't work, so we tried this"
             - seamless flow - immersed from start to finish
+    - setup/tension/payoff structure for storytelling - or promise/progress/payoff
+        - for each of the 5-10 key points in the video!
     - what intrigues: uncertainty
     - communicate the value of the video better - let viewers know what they'll get out of it
         - viewers must know: what's happening, why it's important, what could go wrong
         - clear & concise isn't good enough - viewers must see it in action - analogy! example!
         - take full advantage of visual communication: always show a visual about what you're talking about
 - end on a high note
-- outro - end screen sales pitch - no "like/comment/sub" (meaningless) but redirect to another video & discord
+- outro - end screen sales pitch - no "like/comment/sub" (ask) but redirect to another video (offer) (& discord?)
 
 
 
@@ -188,13 +191,20 @@ video structure:
     https://www.testmythumbnails.com/
 - have 3 thumbnails ready - if the video starts to flop after a few hours/days
 - rule of thirds - with the 9 parts of the picture - https://en.wikipedia.org/wiki/Rule_of_thirds
+- 5 types of thumbnails for curiosity: moment/story/result/transformation/novelty
+- should be able to visually process it in less than 1 second - flash it for 0.5 sec and see if you processed it
+- simplicity + exaggeration
+- if u confuse - u lose
 
 
 thumbnail idea for future:
 - me next to a whiteboard with bullet points & grahps from the video
     https://prnt.sc/-7AaAuNuW2qF
 
-
+traits of a viral video:
+    - videos should have appeal to CCN: core, casual and new audiences
+    - unique, novelty
+    - easy to convey in packaging - title & thumbnail
 
 all videos in a channel need to adress the same audience !!! everything should be interconnected & relevant
 the format should also be consistent... what to do with podcasts & clips from them? :/
@@ -205,6 +215,11 @@ the 80/20 rule: "would 80% of the audience of my last video be interested in my 
 don't assume familiarity ("if you know you know") - videos shouldn't assume that viewers are aware of the whole project
 
 the 5 Cs of YT visuals: Content, Clarity, Continuity, Composition, Contrast
+
+annotations & shot list
+    if I decide which parts of the script will be with a B-roll with other footage in advance I won't have to read them while looking at the camera
+    use a google doc with comments & highlights
+    also keep track of setup/tension/payoff for each of the key points in the video - use a table?
 
 capturing attention: novelty, contrast, movement, personal relevance & expectations
 hero's journey - answer the following questions:
@@ -371,13 +386,18 @@ integration
     Integration - everything that references X - reverse lookup?
     also generalizing something from one industry to another
     Google didnt simply fail - they never even tried
+    Google didn't even understand their mission
+    Google never had a chance because they didn’t even understand their mission
+    as long as when an error is corrected that doesnt trickle down to every single book that's affected - you have NOT organized the world's information
 
 The beginning of history
 
 status
     The Great Reset - with Schwab with red lines on top of him and a 1st/2nd/3rd place podium for status
 
-
+stigmergy
+    The most obvious internet phenomenon you’ve never heard about
+    The most powerful/profound self-organization principle/mechanism you’ve never heard about
 
 
 do videos on the many different titles

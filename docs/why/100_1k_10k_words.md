@@ -178,6 +178,9 @@ Betting Against Elon
     more specifically X
     only against X, and only unless they adopt this inevitability - they could actually be the single biggest adopter of this architecture and cement themselves as N1
     Unless he pivots and adopts the future of identity and content addressing as an open protocol
+    > "I think most of the important stuff on the Internet has been built. There will be continued innovation, for sure, but the great problems of the Internet have essentially been solved." - [Elon Musk](https://www.azquotes.com/quote/210157)
+    !! NOT REALLY - identity
+    This is as wrong as Paul Krugman was on the internet - the first 30 years of the net pale in comparison to what the global brain will be like
 Algorithms to Organize by
 Revolution Cookbook
 Integrated "Why"

@@ -205,6 +205,10 @@ You are what you’re enculturated with
 The Unofficial Sequel
 Evolution’s arrow and the future of humanity
 
+Effective Philanthropy
+
+Those who give birth (women) will be against death the most 
+
 Tv programming == brain programming
 
 Clumping the most explanatory and far-reaching and important theories together
@@ -7768,9 +7772,6 @@ there isn't an ounce of fat to remove from this design - anything more minimalis
 
 
 
-> "I think most of the important stuff on the Internet has been built. There will be continued innovation, for sure, but the great problems of the Internet have essentially been solved." - [Elon Musk](https://www.azquotes.com/quote/210157)
-!! NOT REALLY - identity
-This is as wrong as Paul Krugman was on the internet - the first 30 years of the net pale in comparison to what the global brain will be like
 
 
 == clips

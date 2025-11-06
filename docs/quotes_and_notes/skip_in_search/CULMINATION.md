@@ -16,6 +16,20 @@ biggest risk: too complex for the masses
 
 Why Our ULTIMATE Desire Should Be The Great Enabler
 
+why everyone's
+
+Our ULTIMATE Desire Should Be The Great Enabler... What? Why!
+
+Why our system is the biggest leverage point for change and what to do about it
+
+contrast thumbnail between 2 systems: current and ?
+
+If I had to design our system from scratch here's what I'd do
+
+thumbnail: fork in the road: utopia or current system
+
+This Affects Literally Everyone to the Maximum Extent
+
 And What You Can Do About It
 
 What should be our ULTIMATE desire? The Organizational Imperative
@@ -31,6 +45,8 @@ different background between collective/intelligence or digital/id
 
 try thumbnail without text? only the 3 images?
 
+Thumbnail: Chain reaction the great enabler
+Thumbnail: the great enabler - the only text at the intersection
 
 The great enabler - thumbnail - causality
 
@@ -52,6 +68,22 @@ input bias early on
 
 
 
+
+What is the most important thing? Something everything good and worth caring for depends on? What is worth dying for? What is the great enabler?
+It is the ultimate system
+Im the #1 self proclaimed expert on the intersection of … and this is the culmination of the last 4 years of my life - obsession
+So let me tell you why.
+We’ll cover collective intelligence and consciousness, incentives, digital ID, culture, causality, the meaning of life, social engineering, and a lot more.
+But first - why is our system the most important?
+
+What sits at the absolute root of the causality/dependency graph? What is the essence of our species? The core of civilization?
+
+what should be our ultmate desire? For each and every single one of us? Something worth DYING FOR?
+
+
+
+
+
 we fail at identifying and prioritising what's most important and relevant
 
 moving from adversarial zero-sum dynamics to synergistic positive-sum
@@ -65,6 +97,8 @@ externalities
 
 == the stakes
 - the future of life on earth depends on this - a crossroads between the 2 types of digital identity
+
+
 
 
 
@@ -168,7 +202,8 @@ something larger than ourselves that will persist beyond our lives
 - the ultimate product/service is the ultimate social system and we're going to co-discover it
 - what is the ultimate product/service? it is the ultimate social system.
 - and what is better than a product that spreads by word of mouth? an ideology behind a product that spreads by word of mouth
-- A protocol - fundamentally open and uncensorable with string user privacy
+- A protocol - fundamentally open and uncensorable with strong user privacy
+    Total privacy for individuals and complete transparency for organizations
 - A reversed panopticon
 - Ladder of influence and legitimacy (legibility?)
 - Opt-in
@@ -182,6 +217,7 @@ something larger than ourselves that will persist beyond our lives
 - The loss function of a hive mind
 - A new incentive architecture that will eventually rival and regulate money itself
 - Identity, reputation
+- Our focus should be on mechanism design
 - Social credit system
 - Collective intelligence & aggregating creativity
 - intelligence is always a distributed system - dofferentiation & integration & alignment - the whole more than the sum of the parts
@@ -268,10 +304,14 @@ We are the most basic form of general intelligence - the lower bound
 An open and integrated system is one in which every problem has to be solved just once and reused
 
 What is the best argument for what makes a good argument?
-What is the best way to determine what is best/better?
+    Argument ==> explanation
+What is the best way to determine what is best?
 What is the best incentive structure to improve the incentive structure?
 How do we make common knowledge what common knowledge is and why it is important for coordination?
-How do we better educate as many people as possible about the logic of this system that would scale and improve this education?
+How do we better educate as many people as possible about the logic of better educating as many people as possible? (as best as possible)
+    How do we better educate as many people as possible about the logic of this system that would scale and improve this education?
+How do we best identify what is worth identifying?
+    ^^ this isnt that good/recursive
 
 We need to replace rhetoric with provable competence and skin in the game
 
@@ -435,6 +475,8 @@ The window of transcendence will not be open for long
 Satoshi opened it with his digital rock but it is just a toy
 Welcome to the era of rules without rulers
 a rules based order is an actual possibility for the first time in human history
+    Immutability and authenticity through cryptography and decentralization through game theory and incentives
+
 
 Every single concept & building block & social dynamic from this new system will be reviewed in future videos
 
@@ -476,6 +518,7 @@ Making the Collective Unconscious Conscious
 
 No more faceless beurocrats
 Explicitly engineered incentives shall penetrate society to its core
+Permeate
 
 We can LITERALLY EXTINCT OURSELVES
 
@@ -642,6 +685,7 @@ Skin in the game proportional to influence and consequentiality with no way to w
 
 Reverse panopticon
 
+striking the right ballance in the generative tension between individualism & collectivism
 
 this is how we make A Dent in the Universe
 
