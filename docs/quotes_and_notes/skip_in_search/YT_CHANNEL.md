@@ -52,6 +52,7 @@ gling can export to davinci so I don't need to use their renderer (if it's shit 
     - descript - 35$ a month 
     - Captions.ai - 10$ month
     - CapCut - but seems a bit shitty
+    https://www.veed.io/pricing?locale=en&source=%2F#pricingChart
 
 
 firecut.ai
@@ -114,6 +115,7 @@ video structure:
 - find way to incentivise watching till the end - promise to reveal a secret at the end? a big payoff
 - there should be causation within the video - not simply going over a list of things, but in a way where item X leads to item X+1
 - many people preview the video before clicking on it - first 5 sec should be like the thumbnail, is the hook interesting even without audio? also have captions in the hook, more cuts help in the first 10 sec. Video previews can be turned off in the playback and performance settings.
+    - think about the auto captions from YouTube itself and if your captions overlap with those or if they're necessary at all
 - frontload stimulus in hook/intro - change visuals every 1.5-2 seconds - more cuts !!!
     - simply zooming in/out counts as cuts & keeps retention
     - before users have committed to viewing the video and entering full screen and ignoring other recommended videos
@@ -142,6 +144,11 @@ video structure:
         - viewers must know: what's happening, why it's important, what could go wrong
         - clear & concise isn't good enough - viewers must see it in action - analogy! example!
         - take full advantage of visual communication: always show a visual about what you're talking about
+            - picture is worth 1k words, video is worth 1k pictures
+    - aim for comprehension
+        - don't make viewers feel dumb by sounding too smart - help them close the gap between you & them
+        - use simpler words - 6th grade vocabulary
+        - repeat the key points
 - end on a high note
 - outro - end screen sales pitch - no "like/comment/sub" (ask) but redirect to another video (offer) (& discord?)
 
@@ -195,6 +202,7 @@ video structure:
 - should be able to visually process it in less than 1 second - flash it for 0.5 sec and see if you processed it
 - simplicity + exaggeration
 - if u confuse - u lose
+- don't put anything important on the bottom right of the thumbnail - that's where the video length is displayed
 
 
 thumbnail idea for future:

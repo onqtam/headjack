@@ -16,6 +16,10 @@ biggest risk: too complex for the masses
 
 Why Our ULTIMATE Desire Should Be The Great Enabler
 
+must?
+
+status?
+
 why everyone's
 
 Our ULTIMATE Desire Should Be The Great Enabler... What? Why!
@@ -74,6 +78,7 @@ It is the ultimate system
 Im the #1 self proclaimed expert on the intersection of … and this is the culmination of the last 4 years of my life - obsession
 So let me tell you why.
 We’ll cover collective intelligence and consciousness, incentives, digital ID, culture, causality, the meaning of life, social engineering, and a lot more.
+    ... and - ding ding ding! - the meaning of life!
 But first - why is our system the most important?
 
 What sits at the absolute root of the causality/dependency graph? What is the essence of our species? The core of civilization?

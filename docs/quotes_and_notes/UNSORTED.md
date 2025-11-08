@@ -8,6 +8,11 @@ Metaphilosophical Criteria for Worldview Comparison Clément Vidal
 A Blueprint for a Better Digital Society
 https://eliassi.org/lanier_and_weyl_hbr2018.pdf
 
+Cognition all the way down 2.0: neuroscience beyond neurons in the diverse intelligence era
+https://link.springer.com/article/10.1007/s11229-025-05319-6
+
+Life as a self-referential deep learning system: A quantum-like Boltzmann machine model
+https://www.sciencedirect.com/science/article/abs/pii/S0303264721000514
 
 TODO INTERNET:
 Andy Williams
@@ -206,6 +211,12 @@ The Unofficial Sequel
 Evolution’s arrow and the future of humanity
 
 Effective Philanthropy
+
+> "The zero-sum mindset you have is at the root of so much evil. Once you realize that civilization is not zero-sum and that it is about making far more than one consumes, then it becomes obvious that the path to prosperity for all is just let the makers make." - [Elon Musk](https://x.com/elonmusk/status/1986833400171577503)
+
+> "The reason government programs are so inefficient is that, unlike a commercial company, the feedback loop for improvement is broken, because they have a state-mandated monopoly and can’t go out of business if customers are unhappy." - [Elon Musk](https://x.com/elonmusk/status/1986836508092080197)
+
+> "Coherent multi-scale agency entails cross-scale feedback loops. A nation's capacity to benefit its citizens requires that its citizens sacrifice in the country's name. But citizens won't sacrifice for a nation they believe confers no lineal value." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1985842045026807827)
 
 Those who give birth (women) will be against death the most 
 
