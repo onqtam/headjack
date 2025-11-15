@@ -179,9 +179,16 @@ Radical minimalism and against inheritance
 
 The consciousness guide to the galaxy - what you as a unique being with an experience to do with your life
 
-Palantir for all
-
 The end of nation states
+
+
+The good thing about teaching people the most important and fundamental and far reaching stuff is that they’ll see it how and where it is applied in many aspects of their lives and they will not forget it - they will reinforce their understanding
+
+if we allowed anyone to bet on any aspect of the economy people wouldn't be betting on  sports or whatever but would be trying to learn how the economy functions - the demand is insane - we've simply architected our society in a way such that all that energy goes to waste
+
+A new creator economy not about creating content but generating trustworthiness - line taken from tristan harris
+
+We need a system where we would have every argument only once - just like in open source every problem has to be solved only once
 
 
 We have not even begun to explore the potential of enculturation in a conscious and intentional/deliverate and democratic way
@@ -2069,8 +2076,6 @@ How do we crowdsource the most resilient survival algorithm and then find the mo
 
 Why don't we crowdsource how we think children should be raised, and why?
 
-What is the real economy?
-
 Here we can express anything and have that actually matter instead of drowning in the void or irrelevance and inconsequality
 
 What if different levels of reputation unlocked benefits that extend to the real world and to resources and consumption - like vacations? What if we could pool money (and nudge companies to donate) and then distribute those funds however we like?
@@ -2930,8 +2935,6 @@ We can rank the non-zero-sum-ness of endeavours and feed that into other ranking
 
 Open source economics
 Open source sociality
-
-Or the final solution - the meta solution
 
 We need to facilitate a war of ideas within our heads - to not hold anything in certainty and update belief based on priors and etc.
 We need to merge our minds with the ability to ask the global brain anything and rank each other and define the reward curves such that we incentivise the right qualities and goals.
@@ -6961,7 +6964,7 @@ Giving a unique identifier to any concept and entity - the great deduplication
 
 we're not going to stumble upon order as a byproduct of incremental changes - we have to rebuild everything from the ground up
 
-
+> "In the future, the only religion possible is the religion which will teach us, in the very first place, to recognize, love, and serve with passion the universe of which we form a part." - [Teilhard de Chardin](https://christogenesis.org/the-unemployed-trinity-and-a-fragile-earth-refocusing-the-christian-god/#:~:text=In%20the%20future%2C%20the%20only%20religion%20possible%20is%20the%20religion%20which%20will%20teach%20us%2C%20in%20the%20very%20first%20place%2C%20to%20recognize%2C%20love%2C%20and%20serve%20with%20passion%20the%20universe%20of%20which%20we%20form%20a%20part.)
 
 How do I express that extreme luxury brands are immoral and stupid in a way that would matter?
 

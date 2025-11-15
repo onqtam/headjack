@@ -7,6 +7,9 @@
 Symbiotic intelligence = collective + artificial
 
 Intelligence is the capacity to gain capacities. It is doing more with less.
+True intelligence is doing more with less. Solving problems without knowing everything.
+David Krakauer
+https://x.com/vitrupo/status/1986727092440952936
 
 <img src="/img/meme_wojak_brain.jpg"/>
 

@@ -818,6 +818,12 @@ Most people have read at leats a couple of books in their life. What if we could
 # SECTION: Alignment
 ██████████████████████████████████████████████████████████████████
 
+> "What if the need to align AI with human values and to bring humanity into alignment on the issues that matter most are two sides of the same coin? Throughout life’s history, the biggest leaps in social and informational complexity—like the one humanity is experiencing today, as AI transforms our relationships, institutions, and economies—have always hinged on solving two problems at once: finding new ways to align individuals around shared goals, and creating new information systems to make that alignment possible.
+>
+> These leaps are called major evolutionary transitions. They are the way life has increased in complexity across four billion years. In each transition, simpler individual entities come together to form more complex wholes. Becoming part of a cooperative whole relaxes pressure on the individuals, opening space for variation and experimentation, new ways of working together synergistically for the greater good. As living systems experimented with new ways to cooperate, new ways to use information to align their activities coevolved. For example, as single cells came together to form multicellular organisms, they aligned their efforts through gene regulation and nervous systems. As our human ancestors formed highly cooperative hunter-gatherer groups, they aligned their activities through symbolic language.
+>
+> In past transitions, success depended on more than just coordination. It required biological mechanisms or cultural principles that built trust, ensured the accuracy of information, and promoted fairness and mutual benefit among all the parts of the new whole. The same is true now. Aligning AI with human values will only work if it also helps align humans with one another around mutual goals. Without that, the opportunity for a flourishing future will slip away." - [Alignment for a Major Evolutionary Transition](https://humanenergy.substack.com/p/alignment-for-a-major-evolutionary)
+
 > "Every person in your company is a vector. Your progress is determined by the sum of all vectors." - [Elon Musk](https://www.goodreads.com/quotes/9100718-every-person-in-your-company-is-a-vector-your-progress)
 
 Alignment is predicated on transparency

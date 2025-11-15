@@ -1,20 +1,5 @@
 
 
-!!!
-cut a few of the most interesting parts and put them in the front - LOOK FOR THEM!!!
-!!!
-
-
-00:00:00 Internet 2.0 & Digital Identity
-00:03:24 Multiple accounts, credentials, KYC & privacy
-00:10:07 A new social operating system
-
-TODO: continue from 13:40
-
-first clip:
-00:10:25 A new social operating system on Internet 2.0 & Digital Identity, engineered scarcity
-
-
 
 
 
@@ -281,6 +266,10 @@ https://calendly.com/leo-learnbyleo/free-consultation
 royalty/copyright free images & sounds
 https://freesound.org/
 https://www.epidemicsound.com/
+https://www.musicbed.com/sounds
+    but they push for a year subscription by default:
+        https://www.reddit.com/r/Filmmakers/comments/1clkytr/shocked_wanted_to_try_musicbeds_14_day_trial_and/
+https://www.youtube.com/@TyopsSounds/videos
 
 icons:
 https://www.flaticon.com/
@@ -307,6 +296,7 @@ editing: immersive audio:
         https://youtu.be/1S0mNJ9Mskc?t=637
         https://prnt.sc/QVvc6qki_l8D
 https://drive.google.com/drive/folders/1JvmqF4v9KxpmtTPp6H-c36aTvGV6QgvZ
+https://www.youtube.com/watch?v=ircaXlm45vw
 - shutter
 - pop
 - whoosh
@@ -333,45 +323,29 @@ lighting:
 https://www.youtube.com/watch?v=Dm3jfS78AQg
 - 3 lights: key/fill/back - https://www.youtube.com/watch?v=G6W5wbPqzPw
 - key (strongest) light from one side, fill (milder) light from the other
-- https://www.youtube.com/watch?v=ZFbiZIsS9vQ
-- https://www.youtube.com/watch?v=vXWuy5lWw3M
-- https://www.youtube.com/watch?v=wKt0NaMHCbM
+https://www.youtube.com/watch?v=ZFbiZIsS9vQ
+https://www.youtube.com/watch?v=wKt0NaMHCbM
 
-lampi4ki okolo panoto zad men?
+- softbox: as big as possible, as close as possible
+- softbox: with honeycomb grid - more focused
+- key light 45 degree angle to the side
+- key light above eye level, camera at eye level
+- back/hair/rim light (the same) - on the opposite side of the key light, also a bit higher temperature for the color than the key
+- 5600k kelvin == daylight
+- CRI rating 95+
+- lower ISO == less grain/noise but need more light - aim for 100
+- lower aperture / F-stop - for more background blur - aim for 3.5?
+- shutter speed 1/60 if filming with 30fps (should be 2x the fps)
+- white balance camera to key light (set it also to 5600k or whatever)
+    on white balance:
+    https://www.youtube.com/watch?v=LN8PPLGBZSI
+    auto white balance can change during filming which is bad - set it manually
+- have a catch light (light reflection from the eye) to feel more alive - perhaps the fill light?
 
+lampi4ki okolo panoto zad men? tube light?
 
+don't put another warm light in the background - instead use the opposite color of the person's face - blue(ish)
 
-
-██████████████████████████████████████████████████████████████████
-# TOPICS NOT COVERED YET
-██████████████████████████████████████████████████████████████████
-
-- many feeds, ways to subscribe to different event types from sources
-- Oracles & fact databases
-- comments turned off
-- how to disincentivise irrelevant comments & engagement farming and live stream spam
-- How to punish misbehaving apps and entities in this ecosystem
-- Distributed and democratic ESG-like ratings, the checkout & candy & misalignment
-- Guilt by association
-- The way to deal with complexity
-- Self justifying system
-- A game-like interface to the real world
-- Group affiliation & penalties, + retroactive, if you vote or delegate badly - that should reflect badly on you
-- Coherence
-- Compression & fractal-likeness - from a single sentence ally the way to a full descr
-- Common knowedge
-- Mobilizing people
-- What is Culture and how it emerged and why, together with language
-- Follow/inherit settings
-
-- ESG??? or covered?
-- Every problem would benefit from integration
-- Consciousness & attention
-- E gov & civic platforms
-- solve intelligence
-- A new opt-in game
-- Alienation
-- Incentive to lie and hide and attack the others
 
 
 
@@ -397,6 +371,7 @@ integration
     Google didn't even understand their mission
     Google never had a chance because they didn’t even understand their mission
     as long as when an error is corrected that doesnt trickle down to every single book that's affected - you have NOT organized the world's information
+    As long as there is incentive to hoard information you have not organized the world’s information
 
 The beginning of history
 

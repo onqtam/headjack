@@ -519,6 +519,8 @@ N dimensional democracy - every aspect is its own dimension in the CI heterarchy
 The Real Meta - one which isnt simply VR & addictive adtech but actually does something meta
     The meta upgrade
 Higher Power
+Stream of Consciousness
+    just my thoughts as they came in
 The Big Beautiful Book / "The Book"
 Agora
     a central public space in ancient Greek city-states. The literal meaning of the word "agora" is "gathering place" or "assembly". The agora was the center of the athletic, artistic, business, social, spiritual, and political life in the city. The Ancient Agora of Athens is the best-known example.
@@ -553,7 +555,11 @@ Unhinged
 Eternity
     How to live forever
 Modernity’s produce
-The Third Story - as conceived by Francis & others here: https://www.humanenergy.io/glossary
+The Third Story
+    as conceived by Francis & others here:
+    https://www.youtube.com/watch?v=fY1h5aNd74I
+    https://www.humanenergy.io/third-story
+    https://www.humanenergy.io/glossary
 
 Noah’s Arc for a time in between worlds
 Bridge Between Worlds

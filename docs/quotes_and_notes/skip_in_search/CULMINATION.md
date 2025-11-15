@@ -16,7 +16,12 @@ biggest risk: too complex for the masses
 
 Why Our ULTIMATE Desire Should Be The Great Enabler
 
+Our ULTIMATE Desire Should Be The Great Enabler
+
 must?
+
+desire => concern?
+ultimate concern?
 
 status?
 
@@ -25,6 +30,8 @@ why everyone's
 Our ULTIMATE Desire Should Be The Great Enabler... What? Why!
 
 Why our system is the biggest leverage point for change and what to do about it
+
+The intersection of Digital ID, Incentives & the Hive Mind
 
 contrast thumbnail between 2 systems: current and ?
 
@@ -85,6 +92,7 @@ What sits at the absolute root of the causality/dependency graph? What is the es
 
 what should be our ultmate desire? For each and every single one of us? Something worth DYING FOR?
 
+Something so important, so fundamental - that literally everything worth caring for depends on it?
 
 
 
@@ -168,10 +176,19 @@ Nervous system
 
 > "An effective accounting of the economy and politics would be a revolutionary act." - [Samo Burja](https://youtu.be/A3Zd2K0BJoI?t=7136)
 
+we invented writing mainly for accounting purposes
 
+reread the paper from francis about alignment & self-organization in communicating groups?
 
 > "Your margin is my opportunity." - [Jeff Bezos](https://www.goodreads.com/quotes/706779-your-margin-is-my-opportunity)
 Your conspicuous consumption is our opportunity
+
+
+we need an ideal towards which to strive towards - as a society, and as males and females
+
+if we have a weighted causality graph and we have goals - we also have a morality structure - we can assign valence to any single thing that's part of that causality graph
+
+
 
 
 Differentiation and specialization coupled with alignment and integration
@@ -313,10 +330,16 @@ What is the best argument for what makes a good argument?
 What is the best way to determine what is best?
 What is the best incentive structure to improve the incentive structure?
 How do we make common knowledge what common knowledge is and why it is important for coordination?
+How do we innovate on how we innovate such that we don't cause even bigger problems down the road when we solve problems? How do we better factor (account for) all externalities and foresee a few steps out - a few levels of indirection and not just the immediate stuff?
+    how do we better innovate in how we innovate, such that we don't cause bigger problems down the road when we solve problems now? how do we factor in all externalities and 2nd & 3rd order effects?
 How do we better educate as many people as possible about the logic of better educating as many people as possible? (as best as possible)
     How do we better educate as many people as possible about the logic of this system that would scale and improve this education?
 How do we best identify what is worth identifying?
     ^^ this isnt that good/recursive
+Vote on how we vote
+
+We need to reward truth more than anything else
+
 
 We need to replace rhetoric with provable competence and skin in the game
 
