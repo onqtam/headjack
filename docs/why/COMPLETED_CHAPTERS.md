@@ -217,6 +217,8 @@ https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage
 
 THE EVOLUTION OF MEANING, by Brendan Graham Dempsey
 https://www.youtube.com/playlist?list=PLa_4sU5_wQrlgQ12uOGtS5c2769fCrfEq
+The Evolution of Meaning | A Universal Learning Process [ENTIRE FILM]
+https://www.youtube.com/watch?v=wy_SRDTQKQI
 
 Koyaanisqatsi (1982)
 https://www.imdb.com/title/tt0085809/
@@ -512,9 +514,6 @@ https://www.youtube.com/watch?v=j800SVeiS5I
 Fall of civilizations in top10 to WATCH (not just listen)
 Fall of Civilizations Podcast
 https://www.youtube.com/playlist?list=PLR7yrLMHm11X6-M_usCj5H-gdstyWNLXQ
-
-THE EVOLUTION OF MEANING, by Brendan Graham Dempsey
-https://www.youtube.com/playlist?list=PLa_4sU5_wQrlgQ12uOGtS5c2769fCrfEq
 
 
 Example for what people resort to because of a lack of top10 lists:

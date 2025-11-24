@@ -393,6 +393,12 @@ https://en.wikipedia.org/wiki/Creative_destruction#Other_early_usage
 
 proper accounting is a prerequisite to accountability
 
+Money rewards happen at points of sale or investment
+We need a system that can retroactively change the accounting back into history
+^^ todo work on this line of thinking
+
+The accounting within a company is not strictly and mostly monetary and market based
+
 > "A nation that does not honor its heroes will not long endure." - [Abraham Lincoln](https://www.azquotes.com/quote/856201)
 > "A nation that fails to honor its heroes, soon will have no heroes to honor." - [Winston Churchill](https://www.azquotes.com/quote/722245)
 ^^ wtf... fucking fake quotes
@@ -567,7 +573,8 @@ we waste so much government scientific money in the quest to appear like we're n
 # SECTION: open source & win-win & sharing & the commons & synergy
 ██████████████████████████████████████████████████████████████████
 
-
+re：publica 2017 - Rufus Pollock： Open Information Nation
+https://www.youtube.com/watch?v=ROz1ZgHmTjE
 
 
 > "There's a very plausible case that open source accelerates progress: it makes it much easier for people to build on each other's innovations. There's also a very plausible case that requiring open source decelerates progress: it prevents people from using a large class of potential strategies to make money. But the most interesting consequences of open source as those that pull in directions unrelated to the "faster vs slower progress" axis:

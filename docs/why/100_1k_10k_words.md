@@ -363,8 +363,11 @@ Industrial Society and Its (BRIGHT) Future - ala ted kazynsky's unabomber manife
 Human Lives Matter - how to keep humanity relevant and vibrant
 Rules Over Rulers
 Rules Without Rulers
+    https://www.youtube.com/watch?v=2tqo7PX5Pyc
+    ^^^
     https://www.youtube.com/watch?v=rStL7niR7gs
-    
+Feeling Like a State
+    https://en.wikipedia.org/wiki/Seeing_Like_a_State
 “The highest leverage point”
 The Global Community
 Inevitability

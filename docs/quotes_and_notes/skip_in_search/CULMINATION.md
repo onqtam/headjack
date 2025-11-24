@@ -47,6 +47,8 @@ What should be our ULTIMATE desire? The Organizational Imperative
 
 The Great Enabler
 
+The beginning of the beginning
+
 == thumbnail:
 - intersection of digital ID (passport/ID), reputation & incentives (carrot & stick), & collective intelligence (ant colony?) - ven diagram + an ant colony - the third attractor in the intersection of them
 
@@ -115,6 +117,11 @@ externalities
 
 
 
+social engineering - our sociality is what's most important about our species - how our interaction is structured is foundational
+its been happening since forever
+
+> "we are cooperators that are made of cooperators that are made of cooperators and so on. It is cooperation all the way down." - [source](https://www.evolutionarymanifesto.com/EvArrowBook.pdf)
+
 multiple open questions in the hook that gradually get answered in the video:
 - what is the ultimate product
 - how you can get it
@@ -140,6 +147,8 @@ don't immediately spill the beans that the ultimate product is the ultimate soci
 instead say that everything else you get or experience in life depends on it - it is like the water fish swim in and never thing explicitly about
 its like the water - we don't see it, we don't question it, or if we do - we feel powerless
 
+aggregate expression
+
 ultimate ==> most consequential, most important, most fundamental - second place is not even close
 
 The future belongs to those who can predict it and that’s why we should incentivise them to share their predictions openly with skin in the game and contribute to our commons
@@ -160,6 +169,9 @@ the infinite game
     It’s a desire for the ideal environment in which human (and perhaps non-human) potential can fully unfold.
     The ultimate social system is the most general enabler of all other desires.
 
+Syntropy
+    A tendency towards complexity, structure, order, and organization of ever more advantageous and orderly patterns. Originally coined as a synonym for negentropy (the opposite of entropy)
+    often contrasted with the concept of entropy
 
 
 once you find/understand it you'll never think about anything else more than about this thing
@@ -187,6 +199,7 @@ Your conspicuous consumption is our opportunity
 we need an ideal towards which to strive towards - as a society, and as males and females
 
 if we have a weighted causality graph and we have goals - we also have a morality structure - we can assign valence to any single thing that's part of that causality graph
+is it easy or straightforward to create this graph? Heck no! but the sooner we start working on our process - the sooner we'd have something better than what we have now
 
 
 
@@ -336,9 +349,31 @@ How do we better educate as many people as possible about the logic of better ed
     How do we better educate as many people as possible about the logic of this system that would scale and improve this education?
 How do we best identify what is worth identifying?
     ^^ this isnt that good/recursive
-Vote on how we vote
+Vote on how to vote on everything else
+
 
 We need to reward truth more than anything else
+
+
+> "If doing the right thing is the wrong thing, there’s something fundamentally wrong with the system." - [Jim Rutt](https://youtu.be/RkhZfDXkX74?t=2602)
+1 party lying against the other
+cutting costs
+externalities
+multipolar traps
+Prisonners dilemma
+tragedies of the commons
+Now this is really dangerous for our democracy
+
+We need a simplification of our system in a way that translates across scales
+Talk about the isomorphic patterns
+
+
+Adjudication
+
+
+Knowledge fractal - zoom in on any aspect of it as much as you want
+
+Sunlight is the best disinfectant
 
 
 We need to replace rhetoric with provable competence and skin in the game
@@ -486,6 +521,7 @@ Picture of the mine in congo - study what is ok to use in videos
 If you’re watching this - you’re early to something truly big - the right side of history will unfold before you
 
 The ultimate metric is not gdp but the number of nuclear warheads in the world - we know with high certainty what happens in quasars millions of light years away and yet we can’t seem to figure out how to organize ourselves to not kill and cheat each other.
+    We’ve understood everything from quarks to quasars and everything in between - and yet we kill each other
 we are universal explainers
 How depressing is that there isn't a single credible plan for how humanity could unite and prosper that isn't one of the current powers simply dominating the others but transcending conflict altogether?
 
@@ -500,7 +536,9 @@ The greatest open conspiracy
 The best way to predict the future is to co-create it
 
 The window of transcendence will not be open for long
+Bitcoin
 Satoshi opened it with his digital rock but it is just a toy
+    > "you can regulate your country out of bitcoin but you can't regulate bitcoin out of your country." - [Andreas Antonopoulos](https://youtu.be/2tqo7PX5Pyc?t=438)
 Welcome to the era of rules without rulers
 a rules based order is an actual possibility for the first time in human history
     Immutability and authenticity through cryptography and decentralization through game theory and incentives
@@ -508,7 +546,7 @@ a rules based order is an actual possibility for the first time in human history
 
 Every single concept & building block & social dynamic from this new system will be reviewed in future videos
 
-
+pattern match every aspect of the world
 
 The highest leverage point
 
@@ -665,7 +703,12 @@ There isnt a single problem on any scale that wouldnt benefit from better aggreg
 I wanted to solve the single biggest problem for humanity - the kind of system it runs
 Oh u want to go to mars? Thats cute. You know what would help immensely? The Great Enabler! A better F System!
 Bigger than mars - an enabler for it
-You know what would help? Like A LOT?! A better f system
+You know what would help? Like A LOT?! A better BEEP system
+You want not to get sued for not having hired enough immigrants despite being legally required to not hire any foreign nationals?
+
+
+Consciousness is a process that happens to information - a product of information flow
+Nikolay kukushkin
 
 
 a real world model is a model of the world, by the world, for the world
@@ -694,10 +737,15 @@ we can pass The Great Filter
 We need a system that reliably generates better explanations and better strategies of putting them in people’s heads
 NPC chipping meme
 Get chip from anthony
+use plunger on head and say "get in there"
 
 Less education - more intergenerational transmission
 
 If you’re not problem solving maxxing you’re dooming the children of your children
+> "All life is problem solving." - [Karl Popper](https://www.goodreads.com/quotes/66676-all-life-is-problem-solving)
+
+What is a person?
+A universal explainer
 
 Everything good that you care about hinges on the great enabler
 

@@ -124,6 +124,7 @@ video structure:
             - seamless flow - immersed from start to finish
     - setup/tension/payoff structure for storytelling - or promise/progress/payoff
         - for each of the 5-10 key points in the video!
+        - don't reveal the payoff... until the payoff !!! or there's no tension
     - what intrigues: uncertainty
     - communicate the value of the video better - let viewers know what they'll get out of it
         - viewers must know: what's happening, why it's important, what could go wrong
@@ -270,6 +271,10 @@ https://www.musicbed.com/sounds
     but they push for a year subscription by default:
         https://www.reddit.com/r/Filmmakers/comments/1clkytr/shocked_wanted_to_try_musicbeds_14_day_trial_and/
 https://www.youtube.com/@TyopsSounds/videos
+- davinci resolve - EQ - can play and boost certain frequencies like the lower ones of my voice
+    https://youtu.be/fsBP92yt1Zs?t=518
+    To make a voice deeper in DaVinci Resolve, use the Pitch effect in the inspector panel and lower the semitones value to a negative number like \(-5\). For more control, apply the effect to the entire audio track and adjust the value to a subtle negative semitone (e.g., \(-1\) to \(-7\)) for a less extreme effect. You can further enhance the depth by adding EQ to boost low frequencies 
+
 
 icons:
 https://www.flaticon.com/
@@ -284,6 +289,8 @@ look at what other videos & channels your audience watches and analyze their mos
 look for pain points, goals, subjects, positive vs negative, trigger words, concepts
 
 https://pixabay.com/
+
+https://www.storyblocks.com/pricing
 
 transition, ambient & foley sounds
 
@@ -303,7 +310,8 @@ https://www.youtube.com/watch?v=ircaXlm45vw
 - riser
 - hit
     https://pixabay.com/sound-effects/cinematic-impact-hit-352702/
-
+The most realistic voice AI platform
+    https://elevenlabs.io/
 
 best 2 channels for youtubers:
 https://www.youtube.com/@AprilynneAlter/videos
@@ -398,4 +406,6 @@ for podcasts: post through flightcast 4k on multiple platforms at once
 https://x.com/RoxCodes/status/1975229950236950567
 https://x.com/Flightcast_
 
+get rid of filler words by practice:
+https://x.com/hubermanlab/status/1991150332391662068
 

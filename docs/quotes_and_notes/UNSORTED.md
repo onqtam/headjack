@@ -1,4 +1,7 @@
 
+An Integrated World Modeling Theory (IWMT) of Consciousness: Combining Integrated Information and Global Neuronal Workspace Theories With the Free Energy Principle and Active Inference Framework; Toward Solving the Hard Problem and Characterizing Agentic Causation
+https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2020.00030/full
+
 https://sci-hub.se/10.1016/j.tics.2018.08.008
 Being a Beast Machine: The Somatic Basis of Selfhood
 
@@ -13,6 +16,9 @@ https://link.springer.com/article/10.1007/s11229-025-05319-6
 
 Life as a self-referential deep learning system: A quantum-like Boltzmann machine model
 https://www.sciencedirect.com/science/article/abs/pii/S0303264721000514
+
+Internalizing cooperative norms in group-structured populations
+https://www.biorxiv.org/content/10.1101/722439v1.full.pdf
 
 TODO INTERNET:
 Andy Williams
@@ -74,7 +80,22 @@ The death of capital’s fungibility
 
 Designing Inequality
 
+P - M = E
+perception, motivation, emotion (energized action) - perception of the world minus our motivation leads to our emotion that fuels our actions - taken from here by Gregg Henriques: https://www.youtube.com/watch?v=L16JshSYeGo&t=2072s
+
+Semantic associative network theory is a cognitive psychology model that posits knowledge is stored in a network of interconnected concepts. These concepts, represented as "nodes," are linked by "arcs" or connections that represent the strength and type of relationship between them. This model explains how the human mind organizes information, leading to concepts like "spreading activation," where the activation of one node spreads to related nodes. - from Gemini
+
+Privacy Inversion - those with the most influence and importance will be most visible and under the greatest scrutiny
+its about symmetry & proportionality
+
+> "Poverty is *~~an~~* **a social** engineering problem." - [Elon Musk](https://x.com/elonmusk/status/1991221594425802903), probably
+
 Hyperdimensionality
+
+what is a good proposition, how do we design our process for coming with better questions and propositions? why do we immediately go voting for propositions brought up by someone with partial insights and usually vested insterests (special interests) - we don't even have a formalized process for the proposition development
+people don't polarise on other people's questions as much as on other people's statements and propositions - if we lead with a question asking process it would enable dialog with less polarisation and less ego/identity would be involved - binding instead of cleaving the group
+what additional questions would have to be addressed to really be able to answer this one well? what assumptions are built into this question? what is fundamentally valuable about this question? asking such questions makes people better sensemakers
+notes from Daniel about EGP - ephemeral group process by Forrest Landry
 
 Revitalizing the Commons
 
@@ -170,6 +191,9 @@ https://open.spotify.com/episode/2ejxkZAu57TsTojCVRHmcB?si=FwKI0fjuTVS1tAulJE0r3
 Also somewhere in the beginning about valence - maybe 17:14 - look at the topics - also maybe 35:00
 
 Status architecture
+
+
+> "If doing the right thing is the wrong thing, there’s something fundamentally wrong with the system." - [Jim Rutt](https://youtu.be/RkhZfDXkX74?t=2602)
 
 Why it is immoral to be of possession of something and fully utilizing it for the benefit of life and others
 
@@ -5046,11 +5070,20 @@ what if teachers were evaluated not only based on the success of their current c
 
 > "For every outside there is an inside and for every inside there is an outside, and although they are different, they go together." - [Alan Watts](https://www.goodreads.com/quotes/59836-really-the-fundamental-ultimate-mystery----the-only-thing-you)
 
+> "The maximum power principle can be stated: During self-organization, system designs develop and prevail that maximize power intake, energy transformation, and those uses that reinforce production and efficiency." - [Howard T. Odum](https://en.wikipedia.org/wiki/Maximum_power_principle)
+
+> "Maximum power principle: natural systems self-organize to maximize power which is usable energy per unit time. Capitalism is a modern large scale coordinated human expression of this same dynamic organizing itself to capture and process as much energy and material flow as possible, as fast as possible." - [Nate Hagens](https://youtu.be/ejRfnSrY0ok?t=530)
+
+> "It doesn't matter if a cat is black or white as long as it catches mice." - [Deng Xiaoping](https://www.goodreads.com/quotes/1320866-it-doesn-t-matter-if-a-cat-is-black-or-white)
+
+> "Religion is the state of being grasped by an ultimate concern, a concern which qualifies all other concerns as preliminary and which itself contains the answer to the question of a meaning of our life."  - [Paul Tillich](https://www.goodreads.com/quotes/268156-religion-is-the-state-of-being-grasped-by-an-ultimate)
+
+> "I have given no definition of love. This is impossible, because there is no higher principle by which it could be defined. It is life itself in its actual unity. The forms and structures in which love embodies itself are the forms and structures in which love overcomes its self-destructive forces." - [Paul Tillich](https://www.goodreads.com/quotes/659811-i-have-given-no-definition-of-love-this-is-impossible)
+
+we can implement something like intellectual property but more like taking the rightful amount of credit
 
 
-
-
-> "" - []()
+> "Contradictions do not exist. Whenever you think that you are facing a contradiction, check your premises. You will find that one of them is wrong." - [Ayn Rand](https://www.goodreads.com/quotes/46507-contradictions-do-not-exist-whenever-you-think-that-you-are)
 
 
 

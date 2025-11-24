@@ -8,6 +8,7 @@ Collective Game Theory
 
 
 
+> "Technological innovation can be a form of participation in the divine act of creation. It carries an ethical and spiritual weight, for every design choice expresses a vision of humanity. The Church therefore calls all builders of #AI to cultivate moral discernment as a fundamental part of their work—to develop systems that reflect justice, solidarity, and a genuine reverence for life." - [Pope Leo XIV](https://x.com/Pontifex/status/1986776900811837915)
 
 
 
