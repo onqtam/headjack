@@ -769,6 +769,11 @@ critique of Subsidiarity - hard to determine the boundary of effects
 # SECTION: Gaming
 ██████████████████████████████████████████████████████████████████
 
+The Case Against Adolescence: Rediscovering the Adult in Every Teen, by Robert Epstein
+https://www.goodreads.com/book/show/700625.The_Case_Against_Adolescence
+
+
+
 There’s a new game in town
 
 > "Somebody in the internet used a phrase that really stuck with me i think it goes by illimitable man or something one of these uh inspiration accounts but he said that um he said that video games are shadow careers and when i read that at that moment i knew video games were leaving my life because it was absolutely spot on right i was building a career except i was building a career in some fake lands a fake game where the rules would change or some 12 year old would come along and crush me the next week and i saw it for what it was it was a shadow career because i wasn't putting that same effort into my main career because my main career didn't really line up with what i wanted to do and that's why i knew it needs to make a change so don't waste your life in these shadow careers even even if you find yourself craving holidays that means that you're not enjoying every day that you're sort of like robbing yourself of your of what should be a pretty good day." - [Naval](https://youtu.be/JdUVIwuNy_c?t=1548)

@@ -393,6 +393,9 @@ stigmergy
 
 do videos on the many different titles
 
+“You are here”
+A guide to life
+
 
 ██████████████████████████████████████████████████████████████████
 # other parts of strategy

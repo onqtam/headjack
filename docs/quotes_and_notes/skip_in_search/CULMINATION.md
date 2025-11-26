@@ -8,7 +8,7 @@ have a scene where I grab the camera and talk to it in a shaky way from up close
 
 biggest risk: too complex for the masses
 
-
+Reread your last notes in unsorted
 
 ██████████████████████████████████████████████████████████████████
 # title & thumbnail
@@ -22,6 +22,8 @@ must?
 
 desire => concern?
 ultimate concern?
+
+Everyone's ULTIMATE Concern == The Great Enabler ?!
 
 status?
 
@@ -63,6 +65,7 @@ Thumbnail: the great enabler - the only text at the intersection
 
 The great enabler - thumbnail - causality
 
+Napravi 10 thumbnaila i gi dai na priqteli da gi ratenat
 
 ██████████████████████████████████████████████████████████████████
 # NEW INTRO VIDEO
@@ -102,6 +105,7 @@ Something so important, so fundamental - that literally everything worth caring 
 we fail at identifying and prioritising what's most important and relevant
 
 moving from adversarial zero-sum dynamics to synergistic positive-sum
+nonzero - part of evarrow
 
 
 decouple resources for personal use from control over the economy
@@ -119,6 +123,9 @@ externalities
 
 social engineering - our sociality is what's most important about our species - how our interaction is structured is foundational
 its been happening since forever
+5th generation warfare has been raging on
+https://en.wikipedia.org/wiki/Fifth-generation_warfare
+World War 3 is a guerrilla information war with no division between military and civilian participation. (Marshall McLuhan, 1970, Culture Is Our Business)
 
 > "we are cooperators that are made of cooperators that are made of cooperators and so on. It is cooperation all the way down." - [source](https://www.evolutionarymanifesto.com/EvArrowBook.pdf)
 
@@ -152,6 +159,8 @@ aggregate expression
 ultimate ==> most consequential, most important, most fundamental - second place is not even close
 
 The future belongs to those who can predict it and that’s why we should incentivise them to share their predictions openly with skin in the game and contribute to our commons
+predictive commons
+
 
 global shared world model
 a Worldwide collective Self Model
@@ -200,9 +209,25 @@ we need an ideal towards which to strive towards - as a society, and as males an
 
 if we have a weighted causality graph and we have goals - we also have a morality structure - we can assign valence to any single thing that's part of that causality graph
 is it easy or straightforward to create this graph? Heck no! but the sooner we start working on our process - the sooner we'd have something better than what we have now
+With a causal graph we can solve the root of problems once and for all instead of treating their symptoms in a whack-em-all
 
+social copying, veblen goods, mimetic desire - we want what others want
 
+Meaning comes from being consequential
 
+Multiscale competency architecture
+Subsidiarity
+Hierarchy
+
+Status dominance prestige
+Status and prestige are in our dna
+
+"Science without religion is lame, religion without science is blind" - Einstein
+https://newrepublic.com/article/115821/einsteins-famous-quote-science-religion-didnt-mean-taught
+
+Where is the global handle/knob/lever on parameter X?
+
+There is a way to own nothing and be happy
 
 Differentiation and specialization coupled with alignment and integration
 
@@ -321,6 +346,26 @@ What should we be coherent around and what not, and how do we determine the boun
 No single person or group in the entire world has thought as much as me about the intersection of …
 ^^ early in the clip
 
+
+perfect? no! better? yes!
+
+People are just brought up into existence with an empty script of "go through school and get a job"
+We need a hitchhikers guide to conscious existence
+
+Just because something is legal and makes money does not automatically make it ok
+
+Wherever there’s a capacity for choice - there are better and worse options. We need people to understand that this applies to everything and we need a theory of progress and of what is good and we need people to want to make the better choice and to inform themselves about it and how it was derived and how to improve the system that derived it
+We might be wrong but thats just an opportunity for error correction - the need is still there even if its currently wrong
+This includes even every aspect of how we raise kids
+
+How do we achieve mass self-actualization?
+To be, to contribute, to be recognized? And appreciated and loved?
+
+Education doesn’t end with school
+
+Value coding society
+
+
 Later on:
 But is there an MVP or a demo you BBC can try? Why not?
 …
@@ -340,6 +385,7 @@ An open and integrated system is one in which every problem has to be solved jus
 
 What is the best argument for what makes a good argument?
     Argument ==> explanation
+How do we better understand what understanding is?
 What is the best way to determine what is best?
 What is the best incentive structure to improve the incentive structure?
 How do we make common knowledge what common knowledge is and why it is important for coordination?
@@ -350,7 +396,71 @@ How do we better educate as many people as possible about the logic of better ed
 How do we best identify what is worth identifying?
     ^^ this isnt that good/recursive
 Vote on how to vote on everything else
+How do we get people more interested in being more interested & interesting?
+we need to be on the same page & coherent on what we need to be on the same page & coherent and how we determine where the boundry is
+Moje bi trqbva da e “how do we get on the same page on/about what/how/why we should be on the same page on/about?”
 
+
+How do we shortcut the young into competence and engagement with the real economy instead of made up useless and meaningless hoop-jumping tasks?
+
+Retarding the youth for profit is a crime against humanity on the grandest of scales
+
+How do we cultivate a better culture
+
+Authority and legitimacy
+
+What are the most fundamental aspects of pur reality? No, i don’t mean quantum mechanics or some shit like that - i mean of immediate practical utility for everyone
+
+A new form of collective expressivity
+
+We need to suck creativity out of our culture and feed it back in
+The culture that we cultuvate
+
+Where life has reached is extraordinary
+
+We are here to put a dent in the universe
+
+The fact that we still kill each other is absurd
+The universe is literally ours - all we have to do is simply not squander it
+
+Who are we, what are we, why are we here?
+“WHY ARE WE HERE?”
+Stare into the camera
+We can engineer scarcity
+We can direct desire
+What are we?
+What is experience itself?
+What are we as a species?
+What is our role in the universe?
+
+We are all going to - probably - die
+And what do we want to tell the future generations about our current capacity for dreaming and imagination and creativity and values and aspirations
+
+
+Life births the concept and need for meaning
+To a stale and more monotonous universe
+We are the universe looking at itself
+
+We are the most important thing in the universe
+
+Make the case for life’s struggle evolutionarily to stat away from equilibrium
+To be something against the monotony of space and time
+
+
+Structure of organization & the universe
+
+Those who tell the stories rule the world
+We can invent something bigger than money itself
+
+What are we and what our place in the universe is
+
+“The (collective) reward function”
+
+We need to replace charisma with competence
+
+Coherence about how and about what to have coherence about
+
+There is such a thing as raising kids optimally
 
 We need to reward truth more than anything else
 
@@ -427,6 +537,15 @@ We need to reinvent how we do debate in the digital age - in a structured and ex
 
 There absolutely are ways of redistributing wealth in a way that doesn’t make the receivers ungrateful and lazy and entitled - we just havent figured out how to do it yet
 And also how to compensate those that generate the extra surplus that doesn’t go all to them and have them be not simply willing but genuinely eager to participate in something greater than themselves
+instead of redistributing which requires taking which feels less pleasant than gaining feels pleasant - what if people didn't accumulate that much resources for personal consumption in the first place? what if they were compensated in different ways?
+what if there was a system that actually deserved your taxes / fair share, one which is more efficient even than markets as they exist today? people don't want to get taxed not only because they want more for themselves, but also because governments are the biggest wasters in the world
+loss aversion - loss hurts like a BEEP
+
+we (this new system) don't want to be voted into government - we don't need it - we'll simply make an alternative that people will eventually flock to - one which delivers the goods and outperforms the current system on EVERY SINGLE METRIC worth outperforming
+This system will wipe the floor with any other - nothing will be able to compete and every competing power structure will join in their best  newly understood and deeper self interest - not out of fear but through a combination of seduction, shame, and consensual indoctrination
+
+and hey - I'll practice what I preach - I'll be the first to opt-in to this system and I will not be a billionaire or eventually a trillionaire, I'll consume according to the personal curve and I'll strive to steer as much cultural and economic capital as I deserve and have earned - according to the second curve - and all of that accounting will happen on this reputational system - the new arena
+
 
 Infinity is on the event horizon of existence - the question is do we want it badly enough
 
@@ -527,8 +646,6 @@ How depressing is that there isn't a single credible plan for how humanity could
 
 
 we need to engineer collective agency that cybernetically steers itself towards its goals
-
-This system will wipe the floor with any other - nothing will be able to compete and every competing power structure will join in their best  newly understood and deeper self interest - not out of fear but through a combination of seduction, shame, and consensual indoctrination
 
 universal colonizer of hearts & minds
 
@@ -765,6 +882,8 @@ striking the right ballance in the generative tension between individualism & co
 
 this is how we make A Dent in the Universe
 
+we need cognitive elite superproduction paired with alignment & proper utilization/mobilization
+
 our system wasn't consciously designed - it mostly evolved by happenstance & contingency
 
 Incentives from first principles AKA life's thermodynamic imperative - staying far from equilibrium
@@ -793,22 +912,170 @@ we need a system of incentives & accountability & structured interaction to tran
 stick around as we'll gradually explore the different aspects of the system - the earlier you familiarize yourself - the earlier you'd be a power user
 
 
-we need to be on the same page on what we need to be on the same page
+
+Life is the opposite of the physical monotony of physical space, matter, and time - life is agency despite all osds
+
+We need to get as much people as possible to be as capable and motivated as possible to be solving as big of collective problems as possible
+We must change and steer the flows of attention, motivation and value
+We must become conscious and self-reflective as a society
+
+There are better and worse ways of raising kids
+This is the end of postmodernism and radical relativism
+This is total order
+
+THIS IS total order
+Total Order as a Service
+A total order, also known as a linear order, is a way of ordering the elements of a set so that any two elements can be compared.
+
+Metaverse - bridging/extending the real world with the virtual - virtualizing the real world
+
+despite Goodhart's Law - this will be a system that is constantly self-correcting its reward mechanism - whatever it is - always error-correcting - in pursuit of error
 
 
+The elite of the future has to consume less and provide more - its our job to figure out the most optimal incentive architecture thats’s better than money and private property as they are conceived today
+
+The open transparency network/overlay of society
+Transparency as a service
+
+No more frame control, no more double standards
+
+Its time to look at the most fundamental structural issues - and that is status
+
+
+Crowdsourcing the replacement of capitalism & democracy
+
+“The Last Social Graph”
+
+There isnt a single question that wouldnt benefit from a better answer, more integrated and aggregatex context, more collective intelligence & input that's sorted in an optimal way
+
+We need to direct youtube
+Youtube is the unconscious way of designing how we surface signal and direct attention
+We need to infuse youtube with morality
+Redefining the attention economy
+
+How do we better bet on others? Surface signal? And be rewarded? What is the prediction market for people?
+
+Fame as a service
+we can reinvent/re-engineer status and fame
+
+Shared culture as a service
+
+A system that deserves its taxes - where you pay because you want to help as much as possible - what do u want to be replaced by?
+
+More capitalistic than capitalism and more socialistic than socialism
+
+A real theory of progress
+
+How do we design the system such that it produces the greatest truth? As a package? As a bible? As a self-modifying and improving (with a diff and notifications for changes to the different aspects and parameters)
+
+Desire as a service
+
+Lets co-create our collective mind virus
+Mind virus as a service
+
+
+The nation that adopts this system/paradigm first will inherit the earth the first
+
+
+Is interest rate a fundamental parameter? No! Its the paradigm, stupid!
+
+
+How and why to help the most other people
+
+
+We can answer every question as best as possible - including what is moral, how to be a man and how to be a woman? How to be a human being? What is positive and what is negative?
+
+The largest and most competent intentional community
+
+Incentives and valence shall permeate/penetrate
+
+This is the system that the young should build for themselves
+Intergenerational transmission not only of knowledge but also of opportunity
+Universal basic opportunity
+
+Do we want to collectively incubate a whole cohort of human potential and creativity by redirecting surplus their way in the name of something greater than ourselves?
+
+The answer is not 42 - it is having children. Creating what you want to be replaced by.
+Biological children. Cultural children - both one-to-many and one-to-one
+The ability to upload yourself is not about our conscious experience but about the continuity of our identity and soul
+
+Startup civilization
+
+In the next few years we will explore every single aspect of this system and its potentialities
+
+The real virtue signal
+
+What is our great replacement theory? What do we want to leave after we’re gone? What kind of world? What kind of people? What kind of ideas? What kind of art?
+
+We need to apply RR collectively at scale
+
+You might not agree with X - it is impossible to convey everything and convince everyone of everything in 60 minutes, but rest assured - you would be convinced of everything by the end of the journey in this channel
+Month by month we will co-create the next world religion
+
+What if we started pattern matching our best ideas together? How do we optimally let ideas have sex? How do we create the large idea collider?
+
+You need a theory of progress and a causality map in order to implement the comparison operator
+In computer science if you want to sort you need a comparison operator
+
+The older the problem - the older the solution.
+Multicellular Cooperation
+
+How do we become as impactful as possible in affecting the most number of people the furthest forward
+
+Mention augmented reality - the metaverse
+
+Deduplication =+> harder to take credit for someone else’s earlier suggestions
+
+“Moral highground as a service” as a title
+
+Skill trees
+
+The search engine of the meaning economy
+
+██████████████████████████████████████████████████████████████████
+# Call to action
+██████████████████████████████████████████████████████████████████
+
+if you find this "taking over the world" kind of stuff interesting you can sign up
+
+Get the third attractor
+Let people bind their social media
+Let people donate (patreon) and let them disclose how much they’ve paid if they want to be public
+Make it with a bit of rev share? Only for the booting of this first and only mlm market
+Give out public/private keys as pairs and then have the system accept public keys generated in some way without revealing the private key
+Make a form accepting public keys with an invite from someone and then
+What would I use the money for? Have milestones - if above 1 million i will directly even hire the first to start implementing it
+
+Separate account creation and the social graph (who invited who) from the sale of identifiers later down the road - do not do any fundraising yet - simply allow for people to accumulate status as being early and inviting key people who invite others
+as all good things start with a "good old fashion ponzi" - not really - there's no financial gain here - how this graph gets interpreted is for the future to decide
+viral lineage
+the viral lineage
+you get bragging rights and nothing else! plus you help spur the development of this system by showing demand
+
+Tell them to share the video and about virality and r>1 and what exactly to tell people they forward it to + ability to link yourself and then who you invite
+Make it such that the only way to join is through invitation and give out the first 20 slots to your closest people
+
+Call to action: get an ID and refer others and lets bootstrap the graph
+Gamifying this video itself
+Minimum viable status
+
+
+When mentioning the call to action at the end add a 100-200ms short flash of the photo of the American president saying “I want you!”
 
 
 ██████████████████████████████████████████████████████████████████
 # Ending
 ██████████████████████████████████████████████████████████████████
 
+Make no mistake - this is the single most important thing you’ve ever come across / watched
+congratulations! you found the single most important video on the internet!
 
 We will change the world! Oh - you don't believe me?! LOOK! I have the ENTIRE plan already!
     on the t-shirt
 
-conspiracy sticky notes connect the dots - with the background
-    - like the meme
-    https://i.imgflip.com/7g1ol5.jpg
+Hep me build a better system
+
+Welcome to the end of money
 
 Make no mistake - this is the single most important thing happening in the world - because unlike with AGI/ASI every single idea and concept of this thing already exists - we don't know how to make AGI/ASI but we do know how to do what I'm talking about
 

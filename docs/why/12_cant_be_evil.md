@@ -346,6 +346,13 @@ Functional Encryption: Definitions and Challenges
 https://eprint.iacr.org/2010/543.pdf
 
 
+<!--
+read in the future:
+https://en.wikipedia.org/wiki/Private_information_retrieval
+In cryptography, a private information retrieval (PIR) protocol is a protocol that allows a user to retrieve an item from a server in possession of a database without revealing which item is retrieved. PIR is a weaker version of 1-out-of-n oblivious transfer, where it is also required that the user should not get information about other database items.
+https://vitalik.eth.limo/general/2025/11/25/plinko.html
+-->
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Transparency

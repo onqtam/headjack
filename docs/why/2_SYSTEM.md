@@ -905,6 +905,8 @@ https://underthrow.substack.com/p/the-constitution-is-dead?sd=pf#:~:text=In%20th
 # SECTION: Incentives 
 ██████████████████████████████████████████████████████████████████
 
+> "It doesn't matter if a cat is black or white as long as it catches mice." - [Deng Xiaoping](https://www.goodreads.com/quotes/1320866-it-doesn-t-matter-if-a-cat-is-black-or-white)
+
 > "We accept human nature as it is, then we base our system on it. Your system must accept that human nature is like that. You get the best out of people for society by incentives and disincentives. If you remove too much of their rewards from the top tier, they will migrate." - [Lee Kuan Yew](https://www.goodreads.com/quotes/11294272-we-accept-human-nature-as-it-is-then-we-base)
 
 > "Show me the incentive and I will show you the outcome." - [Charlie Munger](https://quotefancy.com/quote/1561882/Charlie-Munger-Show-me-the-incentive-and-I-will-show-you-the-outcome)

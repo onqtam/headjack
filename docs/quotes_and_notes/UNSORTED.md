@@ -39,6 +39,8 @@ explainer for his tweet:
 https://x.com/CernBasher/status/1984286504596726061
 
 
+> "Self destructive behavior is our species' Achilles' heel. We are the only species that actively engineers its own demise." - [Bryan Johnson](https://x.com/bryan_johnson/status/1993098172760309859)
+
 > "If it starts with the word “public,” it’s probably in decay." - [Naval Ravikant](https://x.com/naval/status/1984966114171089148)
 
 
@@ -5074,8 +5076,6 @@ what if teachers were evaluated not only based on the success of their current c
 
 > "Maximum power principle: natural systems self-organize to maximize power which is usable energy per unit time. Capitalism is a modern large scale coordinated human expression of this same dynamic organizing itself to capture and process as much energy and material flow as possible, as fast as possible." - [Nate Hagens](https://youtu.be/ejRfnSrY0ok?t=530)
 
-> "It doesn't matter if a cat is black or white as long as it catches mice." - [Deng Xiaoping](https://www.goodreads.com/quotes/1320866-it-doesn-t-matter-if-a-cat-is-black-or-white)
-
 > "Religion is the state of being grasped by an ultimate concern, a concern which qualifies all other concerns as preliminary and which itself contains the answer to the question of a meaning of our life."  - [Paul Tillich](https://www.goodreads.com/quotes/268156-religion-is-the-state-of-being-grasped-by-an-ultimate)
 
 > "I have given no definition of love. This is impossible, because there is no higher principle by which it could be defined. It is life itself in its actual unity. The forms and structures in which love embodies itself are the forms and structures in which love overcomes its self-destructive forces." - [Paul Tillich](https://www.goodreads.com/quotes/659811-i-have-given-no-definition-of-love-this-is-impossible)
@@ -7053,6 +7053,7 @@ If you're for position A and not position B, then you've effectively chosen all 
 what if your youtube-like video feed was based on the recommendations or positive interactions with videos of your social graph?
 
 
+How can I broadcast how I’m allocating my attention? What I’m currently reading/listening/watching?
 
 
 > "Rather than love, than money, than fame, give me truth." - [Henry David Thoreau](https://www.goodreads.com/quotes/7762-rather-than-love-than-money-than-fame-give-me-truth)
