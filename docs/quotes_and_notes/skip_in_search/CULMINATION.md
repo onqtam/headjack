@@ -510,8 +510,20 @@ The only way to deal with the ever increasing complexity is through compression 
 We need to aim the system at developing people
 
 The dick measuring contest has no upper limit
-Show yachts
+Show yachts - ask if they've offset the carbon emissions for the production and maintenance and operation of them
 We either put a cap on the dick measuring contest or it will cap humanity’s runway
+
+Is this communism?
+> "Good ideology. Wrong species." - [E. O. Wilson on Marxism](https://paulgraham.com/quo.html#:~:text=%22Good%20ideology.%20Wrong%20species.%22%0A%0A%E2%80%93%20E.%20O.%20Wilson%20on%20Marxism)
+stop it! stop thinking of just capitalism and communism or socialism! The state space is not even just the continuum between them - the design space is vast and multidimensional!
+morpheus - free your mind!
+more capitalistic than capitalism & more socialistic/communistic than socialism/communism
+"yeah but it still sounds like communism!"
+STOP IT!
+and no, it's not about "tAx ThE RICh" - it's about socially engineering the rich/elite! (and everyone else)
+
+if it turns out a single individual can outperform any form of collective intelligence and governance and can revolutionize multiple industries in the trillions - so be it! I WELCOME single individuals commanding tens of trillions of capital for the benefit of all - as long as they've earned it through competence and alignment and that there are accountability measures in place.
+
 
 The real hunger games is about who can provide the most nutritious food to as many people as possible
 
@@ -545,6 +557,8 @@ we (this new system) don't want to be voted into government - we don't need it -
 This system will wipe the floor with any other - nothing will be able to compete and every competing power structure will join in their best  newly understood and deeper self interest - not out of fear but through a combination of seduction, shame, and consensual indoctrination
 
 and hey - I'll practice what I preach - I'll be the first to opt-in to this system and I will not be a billionaire or eventually a trillionaire, I'll consume according to the personal curve and I'll strive to steer as much cultural and economic capital as I deserve and have earned - according to the second curve - and all of that accounting will happen on this reputational system - the new arena
+one of the twitch founders initially live-streamed his whole life 24/7 and that was the entire website - his personal livestream, I will live-report my spending and ownership in a completely transparent way in this new property regime
+Twitch co-founder Justin Kan was one of the first "lifestreamers," broadcasting his own life 24/7 on the platform he co-founded, Justin.tv, which was the precursor to Twitch.
 
 
 Infinity is on the event horizon of existence - the question is do we want it badly enough
@@ -558,6 +572,7 @@ we need to recognize culture for what it is - the next substrate of evolution - 
 
 Those who can predict the future
 The extent to which those predictions are shared is the extent to which the future will be shared
+
 
 
 PROPERTY! That thing which we fight for
@@ -769,8 +784,6 @@ GET QUOTE ABOUT CULTURE AND ALSO ABOUT MEANINGFUL INFORMATION
 The most important thing? Education? Close! But incentives are even deeper in the causal graph of civilization
 
 we need incentives to stay consistent and not to be able to rewrite history and your opinions
-
-more capitalistic than capitalism & more socialistic/communistic than socialism/communism
 
 digital sovereignty
 
@@ -992,6 +1005,8 @@ Incentives and valence shall permeate/penetrate
 This is the system that the young should build for themselves
 Intergenerational transmission not only of knowledge but also of opportunity
 Universal basic opportunity
+
+Universal basic humble pie - full accounting of your votes and decisions
 
 Do we want to collectively incubate a whole cohort of human potential and creativity by redirecting surplus their way in the name of something greater than ourselves?
 
