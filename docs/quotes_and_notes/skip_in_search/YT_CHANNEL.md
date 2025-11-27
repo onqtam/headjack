@@ -380,6 +380,7 @@ integration
     Google never had a chance because they didn’t even understand their mission
     as long as when an error is corrected that doesnt trickle down to every single book that's affected - you have NOT organized the world's information
     As long as there is incentive to hoard information you have not organized the world’s information
+    they didn't drop the ball - they never picked it up to begin with
 
 The beginning of history
 

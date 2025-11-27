@@ -25,6 +25,12 @@ ultimate concern?
 
 Everyone's ULTIMATE Concern == The Great Enabler ?!
 
+Everyone's ULTIMATE Concern ?!.. Sermon on the Web
+
+the greatest slaughter of sacred cows - democracy (1 man 1 vote), capitalism, communism, socialism
+
+civilization from first principles
+
 status?
 
 why everyone's
@@ -50,6 +56,8 @@ What should be our ULTIMATE desire? The Organizational Imperative
 The Great Enabler
 
 The beginning of the beginning
+
+sermon on the web
 
 == thumbnail:
 - intersection of digital ID (passport/ID), reputation & incentives (carrot & stick), & collective intelligence (ant colony?) - ven diagram + an ant colony - the third attractor in the intersection of them
@@ -155,6 +163,10 @@ instead say that everything else you get or experience in life depends on it - i
 its like the water - we don't see it, we don't question it, or if we do - we feel powerless
 
 aggregate expression
+
+somehow tie in the golden rule - The Golden Rule is the principle of treating others as you would like to be treated.
+https://www.google.com/search?q=the+golden+rule&oq=the+golden+rule
+go do what you would hope for - the golden rule is also prescriptive for proactive action, not just about not causing harm
 
 ultimate ==> most consequential, most important, most fundamental - second place is not even close
 
@@ -396,6 +408,7 @@ How do we better educate as many people as possible about the logic of better ed
 How do we best identify what is worth identifying?
     ^^ this isnt that good/recursive
 Vote on how to vote on everything else
+we will judge how to judge
 How do we get people more interested in being more interested & interesting?
 we need to be on the same page & coherent on what we need to be on the same page & coherent and how we determine where the boundry is
 Moje bi trqbva da e “how do we get on the same page on/about what/how/why we should be on the same page on/about?”
@@ -806,6 +819,7 @@ We will engineer money the likes of which you couldnt imagine
 Fine tuning every single aspect of society democratically
 
 The end of 1 man 1 vote - democratic inequality of influence, we all get an equal vote about what else to not have an equal vote on
+slaughter of sacred cows
 
 Intitially a parallel system - will not need to be voted in politically to start having effect
 
@@ -834,11 +848,52 @@ I wanted to solve the single biggest problem for humanity - the kind of system i
 Oh u want to go to mars? Thats cute. You know what would help immensely? The Great Enabler! A better F System!
 Bigger than mars - an enabler for it
 You know what would help? Like A LOT?! A better BEEP system
-You want not to get sued for not having hired enough immigrants despite being legally required to not hire any foreign nationals?
+You want not to get sued by the DOJ for not having hired enough refugees and asylum seekers
+https://www.justice.gov/archives/opa/pr/justice-department-sues-spacex-discriminating-against-asylees-and-refugees-hiring
+https://www.cnbc.com/2023/08/24/doj-sues-spacex-alleging-hiring-discrimination.html
+^^ maybe skip this DOJ stuff
+
+
+
+A bit on the self-reflexifity of metamodernism
+
+We declare war on the concept of unaccountability all the way up to the highest levels
+Dont fuck with us
+
+We either close the evolutionary niche for psychopathy at scale or it will close us
+
+Im not going to be a trillionaire (i totally could - especially in a fiat world - or just show the dollar bill graph going to 0) or even a billionaire - i think the most important, successful and consequential people who have contributed the most don’t need and deserve more than a few million (single digit) of wealth for personal consumption and to raise their families - we need to put a ceiling on the conspicuous consumption rat race
+
+How do we get the young - and the middle aged! - to play the game of civilization instead of grinding on a meaningless shadow career - how do we mobilize the disenfranchised?
+How do we move away from gatekeeping credentialism to competencialism?
+
+Cultural operating system
+
+Not a specific one size gits all solution but a universal incentive architecture for optimal cultural evolution, competition & cooperation that can branch and fork and merge
+Am i proposing a specific set of weights set in stone? NO! Thats the beauty of it! We’ll determine those weights democratically and evolve them
+
+We need the olympic games of problem identification and solutions ranked by consequentiality and morality
+
+Will money try to corrupt this system? Of course! But the highest status will be reserved to those that find such cases - those that get us closer to truth
+
+
+Krishnamurty inner poverty quote
+
+Sam altman doing it not for money clip
+
+You’ll own little and be happy - especially for the elite
+
+When all you have is a hammer everything looks like a nail - all we have is money and markets (for now)
+
+We can extract the essence of capitalism - incentives, skin in the game, creative destruction, control
+
+We can disentangle (or at least change the relationship between) personal wealth from the incentives and control in the economy
 
 
 Consciousness is a process that happens to information - a product of information flow
 Nikolay kukushkin
+
+this is the great reset - where wealth is re-evaluated and re-accounted for - gradually - it will take 2 to 3 generations for the majority of humanity to fully migrate - but it will happen before the end of this century
 
 
 a real world model is a model of the world, by the world, for the world
@@ -1035,6 +1090,21 @@ In computer science if you want to sort you need a comparison operator
 The older the problem - the older the solution.
 Multicellular Cooperation
 
+if you vote as a dummy - eventually your vote will be weighted accordingly as a dummy - and actually you should want that as it's ultimately in your best interest
+there is always a path for reputational redemption through competence and alignment and integrity
+> "To he who hath it shall be given; from he who hath not even what he hath shall be taken away." - [Jesus, Matthew 13:12, 25:29](https://www.biblegateway.com/passage/?search=Matthew%2013%3A12%2CMatthew%2025%3A29&version=NIV)
+"For whosoever hath, to him shall be given, and he shall have more abundance: but whosoever hath not, from him shall be taken away even that he hath.”
+credit assignment !!!
+
+
+https://www.biblegateway.com/passage/?search=Matthew%205-7&version=NIV
+"do not store up for yourselves treasures on earth" comes from the Bible, Matthew 6:19-21
+21 For where your treasure is, there your heart will be also.
+24 “No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money.
+
+
+god is one, undivided, eternal - god is the attractor of collective unification on every level - for cells it is us, for us it is a harmonious society
+
 How do we become as impactful as possible in affecting the most number of people the furthest forward
 
 Mention augmented reality - the metaverse
@@ -1077,6 +1147,13 @@ Minimum viable status
 
 When mentioning the call to action at the end add a 100-200ms short flash of the photo of the American president saying “I want you!”
 
+Has all of this been figured out? No! But you get to participate and shape and debug and improve the system from within itself - help me steer the ship. Help me step away as early as possible
+How we initially seed the direction of it is of paramount importance and it could save us more than a decade of evolutionary meandering and trial and error within this ultimate architecture for cultural evolution.
+Help me help you - either sorcerer from wc3 or tom cruise
+https://www.youtube.com/shorts/T_3pFzfZFsw
+
+I want to be obsolete - to not be necessary
+
 
 ██████████████████████████████████████████████████████████████████
 # Ending
@@ -1103,3 +1180,7 @@ and I show my face with the thug life glasses
 You dont believe me? Watch me. Literally watch me.
 
 WE TAKIN OVER!
+
+lets build the kingdom of god
+
+
