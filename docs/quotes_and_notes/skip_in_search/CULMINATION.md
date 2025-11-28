@@ -25,7 +25,9 @@ ultimate concern?
 
 Everyone's ULTIMATE Concern == The Great Enabler ?!
 
-Everyone's ULTIMATE Concern ?!.. Sermon on the Web
+Everyone's ULTIMATE Concern ?!.. A Sermon on the Web & the Final Inversion
+
+Our ULTIMATE Concern - A Sermon on the Web & the Final Inversion
 
 the greatest slaughter of sacred cows - democracy (1 man 1 vote), capitalism, communism, socialism
 
@@ -167,6 +169,8 @@ aggregate expression
 somehow tie in the golden rule - The Golden Rule is the principle of treating others as you would like to be treated.
 https://www.google.com/search?q=the+golden+rule&oq=the+golden+rule
 go do what you would hope for - the golden rule is also prescriptive for proactive action, not just about not causing harm
+love thy neightbour as thyself
+do to others what you would have them do to you
 
 ultimate ==> most consequential, most important, most fundamental - second place is not even close
 
@@ -230,6 +234,8 @@ Meaning comes from being consequential
 Multiscale competency architecture
 Subsidiarity
 Hierarchy
+
+The upstream of the upstream
 
 Status dominance prestige
 Status and prestige are in our dna
@@ -326,6 +332,8 @@ convincingly
 We have all the pieces if the puzzle because of the great unbundling - all we need to do is the great integration
 
 frame control & manipulation
+
+the best nationalism is one that seeks to cooperate with others
 
 Permanent record, but for those with the most influence
 
@@ -477,12 +485,18 @@ There is such a thing as raising kids optimally
 
 We need to reward truth more than anything else
 
+this is not capitalism, not communism or socialism or fascism or anarchism or any kind of ism or shism we've ever had - this is something new! like entirely new! like ... it didn't exist before! like ... a synthesis of everything we've learned and we're pushing forward! We can have new things, you know...
+
+alignment & accountability on the record ==> end hypocrisy
 
 > "If doing the right thing is the wrong thing, there’s something fundamentally wrong with the system." - [Jim Rutt](https://youtu.be/RkhZfDXkX74?t=2602)
 1 party lying against the other
 cutting costs
 externalities
 multipolar traps
+4 year cycles of back-and-forth erosion of what the others were doing - like a seesaw alternating between 2 poles
+    Duverger's law
+    https://en.wikipedia.org/wiki/Duverger%27s_law
 Prisonners dilemma
 tragedies of the commons
 Now this is really dangerous for our democracy
@@ -574,7 +588,83 @@ one of the twitch founders initially live-streamed his whole life 24/7 and that 
 Twitch co-founder Justin Kan was one of the first "lifestreamers," broadcasting his own life 24/7 on the platform he co-founded, Justin.tv, which was the precursor to Twitch.
 
 
+
+Dont you get it - alignment is the fundamental problem
+Align or die
+
+Google what is at the root of all evil
+Unaccountability is at the root of all evil - not money or profit (although the fact that gold has no smell is problematic)
+Outside of proper accounting
+Asymmetry
+How else do you want me to spell it out for you?!
+Un accountable - missing - absence - void - black budget - O!!!
+
+Make accounting sexy again!
+Use the glasses
+
+accountability leads to justice and fairness
+
+Lift heavy shit to mock lifting and fall to the side
+Say that the olympics are great nonetheless - they’re great fun actually
+
+This guy (jesus - the cross) was onto something - he’s got a point
+
+We need to disintegrate this beurocratic spaghetti
+
+Make fun of someone not petting others copy during exam
+
+The olympics are from an era when strength mattered (stronk!!1) - what should the olympics of modernity and digital society be?
+put that big rock down bro, its the 21st century, we no longer compete on lifting heavy shit
+
+fractal total order
+look at this fucking shit - mandelbrot set - it keeps on going!
+
+Im batman - impression
+Photo of me with toilet paper on my head with holes
+
+Accounting and accountability - its in the word!!!
+
+without credit assignment, without proper accounting - a system cannot learn
+when people are shielded from the consequences of their own actions - that's unaccountability - lack of symmetry, lack of skin in the game - and this is true in voting, in media, everywhere
+
+inherently uncooptable/incorruptible - self-correction is built-in and it cannot be ripped out!
+
+We need to engineer our society
+
+Im a public servant - not a private individual - and im not calling for everyone to be as extreme as me, but I want to 
+
+no longer 1 man 1 vote
+Popper quote we are all equal in our infinite ignorance
+we will have equality in our vote only about the inequality of our vote
+
+Its all about public goods
+
+Infinity is ours - all we have to do is not fuck it up!
 Infinity is on the event horizon of existence - the question is do we want it badly enough
+
+
+have a shot of me with tin foil - not just a hat but my entire head with a hole to breathe - we need a system in which we wouldn't need a CIA - in the very far future
+
+Its the most obvious thing what we should be doing as a species and yet it needs to be said
+
+The largest tax fraud in physical existence / space and time
+
+Why is it all confusing/bad? or what is the highest leverage point?
+Its the paradigm stupid!
+Gold has no smell, property
+Identity & transparency
+
+How DUMB as a species are we
+
+You can’t separate is from ought
+
+Its the paradigm, stupid!
+
+Its just a fucking horse! about when we designed representative democracy and capitalism
+
+Consumption beyond a certain level simply is immoral
+
+
 
 The meta solution to all of our problems is an incentive architecture for truth to reliably bubble up to the top
 Ruthlessly incentivising truth
@@ -594,6 +684,8 @@ and instead of simply taxing and taking we should be giving something in return 
 liquidity, fungibility
 Democratically programmable currency, the end of fungibility
 
+
+fallibilism
 
 
 Ev has direction
@@ -861,6 +953,9 @@ We declare war on the concept of unaccountability all the way up to the highest 
 Dont fuck with us
 
 We either close the evolutionary niche for psychopathy at scale or it will close us
+close the niche for psychopathy at scale
+Closing the sociopathic niche
+deliver us from evil
 
 Im not going to be a trillionaire (i totally could - especially in a fiat world - or just show the dollar bill graph going to 0) or even a billionaire - i think the most important, successful and consequential people who have contributed the most don’t need and deserve more than a few million (single digit) of wealth for personal consumption and to raise their families - we need to put a ceiling on the conspicuous consumption rat race
 
@@ -913,9 +1008,6 @@ We need a system that systematically identifies altruistic endeavors and rewards
 The degree to which we exploit synergy is the degree to which we shall prosper
 
 A new kind of Self-Correcting Authority
-
-close the niche for psychopathy at scale
-Closing the sociopathic niche
 
 we can pass The Great Filter
 
@@ -1088,7 +1180,9 @@ You need a theory of progress and a causality map in order to implement the comp
 In computer science if you want to sort you need a comparison operator
 
 The older the problem - the older the solution.
-Multicellular Cooperation
+Multicellular Cooperation, coherence, consciousness
+
+computational democracy
 
 if you vote as a dummy - eventually your vote will be weighted accordingly as a dummy - and actually you should want that as it's ultimately in your best interest
 there is always a path for reputational redemption through competence and alignment and integrity
@@ -1114,6 +1208,15 @@ Deduplication =+> harder to take credit for someone else’s earlier suggestions
 “Moral highground as a service” as a title
 
 Skill trees
+
+
+how do we have power without corruption?
+
+society as an organism - from fascism - and yet we speak of organs of society - institutions - educational system, government, economy, religion, legal system
+institutions: rules, roles & enforcement of those rules that structure human interaction - including habits, practices & values
+examples: markets, marriage, corporations, legal system (also specific courts as specific sub-institution), journalism, higher education, regulatory bodies, etc. - organizations are specific instantiations of institutions
+they structure relationships to avoid conflict, avoid opportunistic behavior, etc.
+
 
 The search engine of the meaning economy
 
@@ -1144,7 +1247,6 @@ Call to action: get an ID and refer others and lets bootstrap the graph
 Gamifying this video itself
 Minimum viable status
 
-
 When mentioning the call to action at the end add a 100-200ms short flash of the photo of the American president saying “I want you!”
 
 Has all of this been figured out? No! But you get to participate and shape and debug and improve the system from within itself - help me steer the ship. Help me step away as early as possible
@@ -1154,6 +1256,7 @@ https://www.youtube.com/shorts/T_3pFzfZFsw
 
 I want to be obsolete - to not be necessary
 
+if you're one of the top 10000 (or 0.01%) software engineers on this planet and you want to build the future - contact me
 
 ██████████████████████████████████████████████████████████████████
 # Ending
@@ -1169,7 +1272,7 @@ Hep me build a better system
 
 Welcome to the end of money
 
-Make no mistake - this is the single most important thing happening in the world - because unlike with AGI/ASI every single idea and concept of this thing already exists - we don't know how to make AGI/ASI but we do know how to do what I'm talking about
+Make no mistake - this is the single most important thing happening in the world - because unlike with AGI/ASI every single idea and concept of this thing already exists - we don't know how to make AGI/ASI (we're in the era of research, right Ilya?) but we do know how to do what I'm talking about
 
 Sounds too good to be true?
 
@@ -1181,6 +1284,6 @@ You dont believe me? Watch me. Literally watch me.
 
 WE TAKIN OVER!
 
-lets build the kingdom of god
+lets build the kingdom of god/heaven
 
 
