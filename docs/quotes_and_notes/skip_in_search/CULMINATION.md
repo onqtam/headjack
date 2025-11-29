@@ -27,7 +27,7 @@ Everyone's ULTIMATE Concern == The Great Enabler ?!
 
 Everyone's ULTIMATE Concern ?!.. A Sermon on the Web & the Final Inversion
 
-Our ULTIMATE Concern - A Sermon on the Web & the Final Inversion
+Our ULTIMATE Concern - A Sermon on the Web, the Final Inversion & Return of Accounting
 
 the greatest slaughter of sacred cows - democracy (1 man 1 vote), capitalism, communism, socialism
 
@@ -97,7 +97,7 @@ input bias early on
 
 What is the most important thing? Something everything good and worth caring for depends on? What is worth dying for? What is the great enabler?
 It is the ultimate system
-Im the #1 self proclaimed expert on the intersection of … and this is the culmination of the last 4 years of my life - obsession
+Im the #1 self proclaimed expert on the intersection of … and this is the culmination of the last 4 years of my life - obsession, Im the Architect of The Matrix
 So let me tell you why.
 We’ll cover collective intelligence and consciousness, incentives, digital ID, culture, causality, the meaning of life, social engineering, and a lot more.
     ... and - ding ding ding! - the meaning of life!
@@ -286,7 +286,7 @@ something larger than ourselves that will persist beyond our lives
 - Ladder of influence and legitimacy (legibility?)
 - Opt-in
 - Can scale to tens of billions and has no limitations on the amount of data
-- True anonymity with zero knowledge - can even prove to be a real human and prove credentials in a privacy preserving way 
+- True anonymity with zero knowledge - can even prove to be a real human and prove credentials in a privacy preserving way
 - Self organization
 - this system is inevtable if it starts getting going
 - Voting on rules of the game & specific issues - not parties and individuals - subjective objectivity
@@ -335,7 +335,7 @@ frame control & manipulation
 
 the best nationalism is one that seeks to cooperate with others
 
-Permanent record, but for those with the most influence
+Permanent record, but for those with the most influence - if we'll be legible to the system - the system should be legible to us - it's only fair
 
 meritocracy
 
@@ -421,6 +421,7 @@ How do we get people more interested in being more interested & interesting?
 we need to be on the same page & coherent on what we need to be on the same page & coherent and how we determine where the boundry is
 Moje bi trqbva da e “how do we get on the same page on/about what/how/why we should be on the same page on/about?”
 
+everything is a tradeoff - how do we tradeoff how we make tradeoffs? this line needs more work
 
 How do we shortcut the young into competence and engagement with the real economy instead of made up useless and meaningless hoop-jumping tasks?
 
@@ -488,6 +489,7 @@ We need to reward truth more than anything else
 this is not capitalism, not communism or socialism or fascism or anarchism or any kind of ism or shism we've ever had - this is something new! like entirely new! like ... it didn't exist before! like ... a synthesis of everything we've learned and we're pushing forward! We can have new things, you know...
 
 alignment & accountability on the record ==> end hypocrisy
+what is integrity?
 
 > "If doing the right thing is the wrong thing, there’s something fundamentally wrong with the system." - [Jim Rutt](https://youtu.be/RkhZfDXkX74?t=2602)
 1 party lying against the other
@@ -536,7 +538,7 @@ The only way to deal with the ever increasing complexity is through compression 
 
 We need to aim the system at developing people
 
-The dick measuring contest has no upper limit
+The dick measuring contest has no upper limit - roleplay a sword fight with your johnson
 Show yachts - ask if they've offset the carbon emissions for the production and maintenance and operation of them
 We either put a cap on the dick measuring contest or it will cap humanity’s runway
 
@@ -583,7 +585,7 @@ loss aversion - loss hurts like a BEEP
 we (this new system) don't want to be voted into government - we don't need it - we'll simply make an alternative that people will eventually flock to - one which delivers the goods and outperforms the current system on EVERY SINGLE METRIC worth outperforming
 This system will wipe the floor with any other - nothing will be able to compete and every competing power structure will join in their best  newly understood and deeper self interest - not out of fear but through a combination of seduction, shame, and consensual indoctrination
 
-and hey - I'll practice what I preach - I'll be the first to opt-in to this system and I will not be a billionaire or eventually a trillionaire, I'll consume according to the personal curve and I'll strive to steer as much cultural and economic capital as I deserve and have earned - according to the second curve - and all of that accounting will happen on this reputational system - the new arena
+and hey - I'll practice what I preach - I'll be the first to opt-in to this system and I will not be a billionaire or eventually a trillionaire, I'll consume according to the personal curve and I'll strive to steer as much cultural and economic capital as I deserve and have earned - according to the second curve - and all of that accounting will happen on this reputational system - the new arena - colosseum - this is what it means to be in the arena
 one of the twitch founders initially live-streamed his whole life 24/7 and that was the entire website - his personal livestream, I will live-report my spending and ownership in a completely transparent way in this new property regime
 Twitch co-founder Justin Kan was one of the first "lifestreamers," broadcasting his own life 24/7 on the platform he co-founded, Justin.tv, which was the precursor to Twitch.
 
@@ -607,7 +609,7 @@ accountability leads to justice and fairness
 Lift heavy shit to mock lifting and fall to the side
 Say that the olympics are great nonetheless - they’re great fun actually
 
-This guy (jesus - the cross) was onto something - he’s got a point
+This guy/ badass motherfucker (jesus - the cross) was onto something - he’s got a point
 
 We need to disintegrate this beurocratic spaghetti
 
@@ -615,9 +617,6 @@ Make fun of someone not petting others copy during exam
 
 The olympics are from an era when strength mattered (stronk!!1) - what should the olympics of modernity and digital society be?
 put that big rock down bro, its the 21st century, we no longer compete on lifting heavy shit
-
-fractal total order
-look at this fucking shit - mandelbrot set - it keeps on going!
 
 Im batman - impression
 Photo of me with toilet paper on my head with holes
@@ -631,7 +630,32 @@ inherently uncooptable/incorruptible - self-correction is built-in and it cannot
 
 We need to engineer our society
 
-Im a public servant - not a private individual - and im not calling for everyone to be as extreme as me, but I want to 
+
+Accounting day is coming!! instead of judgement
+
+CIA - don’t suicide me - I love life - you wont be out of a job anytime soon, and ultimately what I’m proposing is in your best interest if you factor everything in
+Plus I’m just a comedian - I’m just talking shit… what do I know… nobody is gonna take me seriously
+
+The densest cultural object/artifact imaginable
+
+The body cannot live without the mind - matrix quote - about society becoming conscious
+
+Consumption beyond a certain level is immoral and harder to justify
+Private jets should be only for those who need them to be as productive for society as possible - not for leisure - where I’m going there will still be private jets, but only for those who can justify or make a compelling case why it makes sense for the collective for them to travel faster and easier and more securely in space and time - A private jet can be perfectly moral - but a private super-yacht can not
+
+Its not simply muh freedom that makes capitalism successful - there are specific aspects of it that matter most - like control and circumventing committees/consensus and responsibility and market feedback
+
+Postmodern horror - you’re so busy taking shit apart but when did you build something?
+
+Every regime should be aiming to be so spectacularly successful that everyone else would voluntarily want to merge with them
+
+Ignorance is the root of all evil - & unaccountability
+
+Taxation is theft only if you’re getting ripped off by a decrepit and morally bankrupt system
+
+Im a public servant - not a private individual - and im not calling for everyone to be as extreme as me - I'm actually pretty reasonable (believe it or not) - but I want to set an example and point towards the north star - this is my social contract
+not advocating it for everyone - and not the real north star - people should have the option to have personal privacy - uhh its complicated and tbd
+Consumption beyond a certain level simply is immoral
 
 no longer 1 man 1 vote
 Popper quote we are all equal in our infinite ignorance
@@ -661,8 +685,6 @@ You can’t separate is from ought
 Its the paradigm, stupid!
 
 Its just a fucking horse! about when we designed representative democracy and capitalism
-
-Consumption beyond a certain level simply is immoral
 
 
 
@@ -707,12 +729,21 @@ Nobody in the world has EVER thought more about the intersection of digital ID, 
 No single person or group
 put this quite early
 
+signal from noise - oh you don't like misinformation and disinformation? that makes the 2 of us! But I also don't like Prebunked Malinformation and I don't, like any of those from any source - including our most important institutions
+https://theportal.wiki/wiki/Prebunked_Malinformation
+^^ show a link to this as a screenshot
+signal from noise - reimplementing/reaccounting expertise
+we're experiencing a complexity catastrophe
+A complexity catastrophe is a phenomenon in complex systems where a sharp decline in performance or fitness occurs as a result of pervasive interdependencies between a system's components. This concept, popularized by biologist Stuart Kauffman, suggests that while some complexity is beneficial, too much can lead to a breakdown of adaptation or functionality, making the system highly vulnerable to failure.
+
+scena s protivogaz - externalities - carbon - shitting where we eat (atmosphere) - we don't want the amazon to die
+
 Decentralized, infinitely scalable and with no UX limitations
 
 Higher trust, thriving, health, vitality, alignment, meaning, purpose, accountability
 
 Radical
-Coherence
+Coherence - ever heard of divide and conquer?
 Consciousness
 baby/infant
 Attention regulation - respurce allocation
@@ -939,7 +970,8 @@ There isnt a single problem on any scale that wouldnt benefit from better aggreg
 I wanted to solve the single biggest problem for humanity - the kind of system it runs
 Oh u want to go to mars? Thats cute. You know what would help immensely? The Great Enabler! A better F System!
 Bigger than mars - an enabler for it
-You know what would help? Like A LOT?! A better BEEP system
+How cute! Atta boy! You go girl! Or whatever the fuck you identify as! Just dont sue me for misgendering you please - but you gotta stop shoving your pronouns down my throat! Get your pronouns out of my throat!
+You know what would help? Like A LOT?! A better fucking system! Pardon my french
 You want not to get sued by the DOJ for not having hired enough refugees and asylum seekers
 https://www.justice.gov/archives/opa/pr/justice-department-sues-spacex-discriminating-against-asylees-and-refugees-hiring
 https://www.cnbc.com/2023/08/24/doj-sues-spacex-alleging-hiring-discrimination.html
@@ -1071,6 +1103,7 @@ we need a system of incentives & accountability & structured interaction to tran
 
 stick around as we'll gradually explore the different aspects of the system - the earlier you familiarize yourself - the earlier you'd be a power user
 
+so am I a hard line consequentialist? a utilitarian? no! I'm not going to kidnap someone and harvest him for his organs to save a few others - its a complicated mix of different schools of thought
 
 
 Life is the opposite of the physical monotony of physical space, matter, and time - life is agency despite all osds
@@ -1081,13 +1114,19 @@ We must become conscious and self-reflective as a society
 
 There are better and worse ways of raising kids
 This is the end of postmodernism and radical relativism
-This is total order
+a true postmodern horror - the return of grand narratives! relativizing relativism!
+
 
 THIS IS total order
 Total Order as a Service
 A total order, also known as a linear order, is a way of ordering the elements of a set so that any two elements can be compared.
+fractal total order
+look at this fucking shit - mandelbrot set - it keeps on going!
+
+
 
 Metaverse - bridging/extending the real world with the virtual - virtualizing the real world
+you want any more buzzwords? I've got plenty! Singularity! Decentralization! Destiny!
 
 despite Goodhart's Law - this will be a system that is constantly self-correcting its reward mechanism - whatever it is - always error-correcting - in pursuit of error
 
@@ -1180,7 +1219,7 @@ You need a theory of progress and a causality map in order to implement the comp
 In computer science if you want to sort you need a comparison operator
 
 The older the problem - the older the solution.
-Multicellular Cooperation, coherence, consciousness
+Multicellular Cooperation, coherence, consciousness, prediction/anticipation & modelling the world
 
 computational democracy
 
