@@ -389,7 +389,7 @@ https://en.wikipedia.org/wiki/Creative_destruction#Other_early_usage
 > "From each according to his ability, to each according to his ability to effectively deploy capital to achieve real economic growth." - [George Hotz](https://geohot.github.io/blog/jekyll/update/2025/02/24/money-is-the-map.html)
 
 
-> "An effective accounting of the economy and politics would be a revolutionary act." - [Samo Burja](https://youtu.be/A3Zd2K0BJoI?t=7136)
+> "An effective accounting of the economy and politics would be a revolutionary act." - [Samo Burja](https://youtu.be/A3Zd2K0BJoI?t=7135)
 
 proper accounting is a prerequisite to accountability
 

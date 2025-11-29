@@ -166,12 +166,6 @@ its like the water - we don't see it, we don't question it, or if we do - we fee
 
 aggregate expression
 
-somehow tie in the golden rule - The Golden Rule is the principle of treating others as you would like to be treated.
-https://www.google.com/search?q=the+golden+rule&oq=the+golden+rule
-go do what you would hope for - the golden rule is also prescriptive for proactive action, not just about not causing harm
-love thy neightbour as thyself
-do to others what you would have them do to you
-
 ultimate ==> most consequential, most important, most fundamental - second place is not even close
 
 The future belongs to those who can predict it and that’s why we should incentivise them to share their predictions openly with skin in the game and contribute to our commons
@@ -211,9 +205,13 @@ The more compelling and refined the story becomes - the sooner will the system r
 
 Nervous system
 
-> "An effective accounting of the economy and politics would be a revolutionary act." - [Samo Burja](https://youtu.be/A3Zd2K0BJoI?t=7136)
+> "An effective accounting of the economy and politics would be a revolutionary act." - [Samo Burja](https://youtu.be/A3Zd2K0BJoI?t=7135)
 
 we invented writing mainly for accounting purposes
+
+accountability etymology
+The terms "accountability" and "accounting" share a common root in the Latin word computare, meaning "to calculate".
+The term "account" comes from the Old French acontable, meaning "liable to be called to account".
 
 reread the paper from francis about alignment & self-organization in communicating groups?
 
@@ -609,7 +607,8 @@ accountability leads to justice and fairness
 Lift heavy shit to mock lifting and fall to the side
 Say that the olympics are great nonetheless - they’re great fun actually
 
-This guy/ badass motherfucker (jesus - the cross) was onto something - he’s got a point
+
+
 
 We need to disintegrate this beurocratic spaghetti
 
@@ -632,6 +631,21 @@ We need to engineer our society
 
 
 Accounting day is coming!! instead of judgement
+> "In an age of infinite leverage, judgement is the most important skill." - [Naval Ravikant](https://twitter.com/naval/status/998039099427704832)
+justice breaks without proper accounting
+^^ without proper accounting judgement breaks, and if judgement is important for individuals it is also important for collectives
+Key concepts (judgement day):
+- Accountability: Individuals will be judged for everything they have done, said, and thought, and will be held accountable for their actions.
+- God's justice: The event is a demonstration of God's perfect justice and sovereignty, where all wrongs will be righted and all people will be held accountable.
+
+applying/enforcing the golden rule requires proper accounting/evaluation (if something is positive/negative, and what the magnitude is) - The Golden Rule is the principle of treating others as you would like to be treated.
+https://www.google.com/search?q=the+golden+rule&oq=the+golden+rule
+go do what you would hope for - the golden rule is also prescriptive for proactive action, not just about not causing harm
+love thy neightbour as thyself
+do to others what you would have them do to you
+
+proper accounting requires transparency, openness & alignment of incentives - the only way to generate a trustworthy result
+
 
 CIA - don’t suicide me - I love life - you wont be out of a job anytime soon, and ultimately what I’m proposing is in your best interest if you factor everything in
 Plus I’m just a comedian - I’m just talking shit… what do I know… nobody is gonna take me seriously
@@ -708,6 +722,7 @@ Democratically programmable currency, the end of fungibility
 
 
 fallibilism
+Fallibilism is the philosophical principle that no belief can be proven true with absolute certainty, as all knowledge is potentially mistaken and can be revised or overturned by new evidence.
 
 
 Ev has direction
@@ -970,7 +985,6 @@ There isnt a single problem on any scale that wouldnt benefit from better aggreg
 I wanted to solve the single biggest problem for humanity - the kind of system it runs
 Oh u want to go to mars? Thats cute. You know what would help immensely? The Great Enabler! A better F System!
 Bigger than mars - an enabler for it
-How cute! Atta boy! You go girl! Or whatever the fuck you identify as! Just dont sue me for misgendering you please - but you gotta stop shoving your pronouns down my throat! Get your pronouns out of my throat!
 You know what would help? Like A LOT?! A better fucking system! Pardon my french
 You want not to get sued by the DOJ for not having hired enough refugees and asylum seekers
 https://www.justice.gov/archives/opa/pr/justice-department-sues-spacex-discriminating-against-asylees-and-refugees-hiring
@@ -1194,6 +1208,8 @@ Universal basic opportunity
 
 Universal basic humble pie - full accounting of your votes and decisions
 
+truth to power as a service
+
 Do we want to collectively incubate a whole cohort of human potential and creativity by redirecting surplus their way in the name of something greater than ourselves?
 
 The answer is not 42 - it is having children. Creating what you want to be replaced by.
@@ -1224,7 +1240,7 @@ Multicellular Cooperation, coherence, consciousness, prediction/anticipation & m
 computational democracy
 
 if you vote as a dummy - eventually your vote will be weighted accordingly as a dummy - and actually you should want that as it's ultimately in your best interest
-there is always a path for reputational redemption through competence and alignment and integrity
+there is always a path for reputational redemption through competence and alignment and integrity, and we're all a dummy in some areas anyway
 > "To he who hath it shall be given; from he who hath not even what he hath shall be taken away." - [Jesus, Matthew 13:12, 25:29](https://www.biblegateway.com/passage/?search=Matthew%2013%3A12%2CMatthew%2025%3A29&version=NIV)
 "For whosoever hath, to him shall be given, and he shall have more abundance: but whosoever hath not, from him shall be taken away even that he hath.”
 credit assignment !!!
@@ -1234,6 +1250,7 @@ https://www.biblegateway.com/passage/?search=Matthew%205-7&version=NIV
 "do not store up for yourselves treasures on earth" comes from the Bible, Matthew 6:19-21
 21 For where your treasure is, there your heart will be also.
 24 “No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money.
+This guy (jesus - the cross) was onto something - he’s got a point
 
 
 god is one, undivided, eternal - god is the attractor of collective unification on every level - for cells it is us, for us it is a harmonious society
@@ -1258,6 +1275,18 @@ they structure relationships to avoid conflict, avoid opportunistic behavior, et
 
 
 The search engine of the meaning economy
+
+██████████████████████████████████████████████████████████████████
+# learning & prediction
+██████████████████████████████████████████████████████████████████
+
+
+
+██████████████████████████████████████████████████████████████████
+# accounting
+██████████████████████████████████████████████████████████████████
+
+
 
 ██████████████████████████████████████████████████████████████████
 # Call to action
@@ -1315,11 +1344,19 @@ Make no mistake - this is the single most important thing happening in the world
 
 Sounds too good to be true?
 
+we've barely scratched the surface in this video - A LOT was left out
+
 Mic drop at the end - with my tat
 
 and I show my face with the thug life glasses
 
 You dont believe me? Watch me. Literally watch me.
+
+
+Maximus (Gladiator, 2000): Brothers, what we do in life... echoes in eternity.
+https://www.imdb.com/title/tt0172495/quotes/?item=qt0404418&ref_=ext_shr_lnk
+
+
 
 WE TAKIN OVER!
 
