@@ -59,8 +59,6 @@ Alan watts
 
 we need to reward those whose opinions we value the most to express their most relevant and important opinions and make them as easily available as possible all while encouraging/preserving/upholding/enforcing skin in the game and accountability
 
-In it for the long haul / the tech/ideology
-
 How can we benefit from economies of scale without the negatives of monopoly and power concentration?
 Economies of scale without power concentration?
 
@@ -69,8 +67,6 @@ Intelligent design
 The greatest power requiring the greatest responsibility
 
 TODO: Geoffrey West scaling laws - why it makes sense to be bigger for efficiency and synergy and why we need more people
-
-“More is different”
 
 The riddle of existence - how best to live and how to work towards answering the deepest questions
 

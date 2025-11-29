@@ -84,11 +84,6 @@ Napravi 10 thumbnaila i gi dai na priqteli da gi ratenat
 
 
 
-input bias early on
-
-
-
-
 == what makes us special - why the ultimate social system is the great enabler and at the root of everything and why systemic thinking is most important
 
 
@@ -97,7 +92,7 @@ input bias early on
 
 What is the most important thing? Something everything good and worth caring for depends on? What is worth dying for? What is the great enabler?
 It is the ultimate system
-Im the #1 self proclaimed expert on the intersection of … and this is the culmination of the last 4 years of my life - obsession, Im the Architect of The Matrix
+input bias early on - Im the #1 self proclaimed expert on the intersection of … and this is the culmination of the last 4 years of my life - obsession, Im the Architect of The Matrix
 So let me tell you why.
 We’ll cover collective intelligence and consciousness, incentives, digital ID, culture, causality, the meaning of life, social engineering, and a lot more.
     ... and - ding ding ding! - the meaning of life!
@@ -114,9 +109,6 @@ Something so important, so fundamental - that literally everything worth caring 
 
 we fail at identifying and prioritising what's most important and relevant
 
-moving from adversarial zero-sum dynamics to synergistic positive-sum
-nonzero - part of evarrow
-
 
 decouple resources for personal use from control over the economy
 prestige
@@ -131,13 +123,8 @@ externalities
 
 
 
-social engineering - our sociality is what's most important about our species - how our interaction is structured is foundational
-its been happening since forever
-5th generation warfare has been raging on
-https://en.wikipedia.org/wiki/Fifth-generation_warfare
-World War 3 is a guerrilla information war with no division between military and civilian participation. (Marshall McLuhan, 1970, Culture Is Our Business)
 
-> "we are cooperators that are made of cooperators that are made of cooperators and so on. It is cooperation all the way down." - [source](https://www.evolutionarymanifesto.com/EvArrowBook.pdf)
+
 
 multiple open questions in the hook that gradually get answered in the video:
 - what is the ultimate product
@@ -204,14 +191,6 @@ The more compelling and refined the story becomes - the sooner will the system r
 > "Those who tell the stories rule society." - [Plato](https://www.goodreads.com/quotes/20382-those-who-tell-the-stories-rule-society)
 
 Nervous system
-
-> "An effective accounting of the economy and politics would be a revolutionary act." - [Samo Burja](https://youtu.be/A3Zd2K0BJoI?t=7135)
-
-we invented writing mainly for accounting purposes
-
-accountability etymology
-The terms "accountability" and "accounting" share a common root in the Latin word computare, meaning "to calculate".
-The term "account" comes from the Old French acontable, meaning "liable to be called to account".
 
 reread the paper from francis about alignment & self-organization in communicating groups?
 
@@ -316,7 +295,6 @@ something larger than ourselves that will persist beyond our lives
     System fails at prioritisation which depends on accounting of contribution and causal links
     Its time to start adressing the root of all problems instead of symptoms
 - Program or be programmed
-- As batman said… digital id is an inevitability
 - title: the hyper bull case for digital ID & Internet 2.0, the ultimate product? ultimate social system
 - title: the hyper bull case for digital ID & Internet 2.0, the ultimate product? ultimate social system
 
@@ -508,7 +486,7 @@ Talk about the isomorphic patterns
 Adjudication
 
 
-Knowledge fractal - zoom in on any aspect of it as much as you want
+
 
 Sunlight is the best disinfectant
 
@@ -532,6 +510,8 @@ every problem would benefit from more integration, more feedback (anyone can chi
 This system will absorb humanity’s wealth through donation and seduction - fundamentally non violent
 
 The only way to deal with the ever increasing complexity is through compression and better explanations and incentives
+
+integration, consistency, lack of incongruence, lack of Contradiction & conflicting statements
 
 
 We need to aim the system at developing people
@@ -592,17 +572,7 @@ Twitch co-founder Justin Kan was one of the first "lifestreamers," broadcasting 
 Dont you get it - alignment is the fundamental problem
 Align or die
 
-Google what is at the root of all evil
-Unaccountability is at the root of all evil - not money or profit (although the fact that gold has no smell is problematic)
-Outside of proper accounting
-Asymmetry
-How else do you want me to spell it out for you?!
-Un accountable - missing - absence - void - black budget - O!!!
 
-Make accounting sexy again!
-Use the glasses
-
-accountability leads to justice and fairness
 
 Lift heavy shit to mock lifting and fall to the side
 Say that the olympics are great nonetheless - they’re great fun actually
@@ -617,34 +587,13 @@ Make fun of someone not petting others copy during exam
 The olympics are from an era when strength mattered (stronk!!1) - what should the olympics of modernity and digital society be?
 put that big rock down bro, its the 21st century, we no longer compete on lifting heavy shit
 
-Im batman - impression
-Photo of me with toilet paper on my head with holes
-
-Accounting and accountability - its in the word!!!
-
-without credit assignment, without proper accounting - a system cannot learn
-when people are shielded from the consequences of their own actions - that's unaccountability - lack of symmetry, lack of skin in the game - and this is true in voting, in media, everywhere
 
 inherently uncooptable/incorruptible - self-correction is built-in and it cannot be ripped out!
 
 We need to engineer our society
 
 
-Accounting day is coming!! instead of judgement
-> "In an age of infinite leverage, judgement is the most important skill." - [Naval Ravikant](https://twitter.com/naval/status/998039099427704832)
-justice breaks without proper accounting
-^^ without proper accounting judgement breaks, and if judgement is important for individuals it is also important for collectives
-Key concepts (judgement day):
-- Accountability: Individuals will be judged for everything they have done, said, and thought, and will be held accountable for their actions.
-- God's justice: The event is a demonstration of God's perfect justice and sovereignty, where all wrongs will be righted and all people will be held accountable.
 
-applying/enforcing the golden rule requires proper accounting/evaluation (if something is positive/negative, and what the magnitude is) - The Golden Rule is the principle of treating others as you would like to be treated.
-https://www.google.com/search?q=the+golden+rule&oq=the+golden+rule
-go do what you would hope for - the golden rule is also prescriptive for proactive action, not just about not causing harm
-love thy neightbour as thyself
-do to others what you would have them do to you
-
-proper accounting requires transparency, openness & alignment of incentives - the only way to generate a trustworthy result
 
 
 CIA - don’t suicide me - I love life - you wont be out of a job anytime soon, and ultimately what I’m proposing is in your best interest if you factor everything in
@@ -662,8 +611,6 @@ Its not simply muh freedom that makes capitalism successful - there are specific
 Postmodern horror - you’re so busy taking shit apart but when did you build something?
 
 Every regime should be aiming to be so spectacularly successful that everyone else would voluntarily want to merge with them
-
-Ignorance is the root of all evil - & unaccountability
 
 Taxation is theft only if you’re getting ripped off by a decrepit and morally bankrupt system
 
@@ -714,22 +661,13 @@ The extent to which those predictions are shared is the extent to which the futu
 
 
 
-PROPERTY! That thing which we fight for
-Not emotional but effective redistribution
-and instead of simply taxing and taking we should be giving something in return for that surplus - in the current paradigm taxing one's wealth diminishes his power and influence, but we can have a different contract for personal wealth and still allow individuals to garner as much influence over the economy as they deserve, + other forms of prestige & engineered scarcity
-liquidity, fungibility
-Democratically programmable currency, the end of fungibility
+
 
 
 fallibilism
 Fallibilism is the philosophical principle that no belief can be proven true with absolute certainty, as all knowledge is potentially mistaken and can be revised or overturned by new evidence.
 
 
-Ev has direction
-- greater scales of differentiation, (thermodynamic) integration & cooperation
-- greater evolvability
-- greater ability to model and predict reality
-the most fundamental logic and forces in nature point towards thermodynamic integration and cooperation
 
 A product worth dying for
 the most consequences for your life
@@ -1039,9 +977,7 @@ this is the great reset - where wealth is re-evaluated and re-accounted for - gr
 
 a real world model is a model of the world, by the world, for the world
 
-Consequence capture
-Credit assignment
-Interrelated
+
 
 We will take over the world - together
 Spread the word
@@ -1057,10 +993,6 @@ A new kind of Self-Correcting Authority
 
 we can pass The Great Filter
 
-We need a system that reliably generates better explanations and better strategies of putting them in people’s heads
-NPC chipping meme
-Get chip from anthony
-use plunger on head and say "get in there"
 
 Less education - more intergenerational transmission
 
@@ -1131,11 +1063,6 @@ This is the end of postmodernism and radical relativism
 a true postmodern horror - the return of grand narratives! relativizing relativism!
 
 
-THIS IS total order
-Total Order as a Service
-A total order, also known as a linear order, is a way of ordering the elements of a set so that any two elements can be compared.
-fractal total order
-look at this fucking shit - mandelbrot set - it keeps on going!
 
 
 
@@ -1277,15 +1204,140 @@ they structure relationships to avoid conflict, avoid opportunistic behavior, et
 The search engine of the meaning economy
 
 ██████████████████████████████████████████████████████████████████
-# learning & prediction
+# relevance realization & comparison & total order & fractal & compression
 ██████████████████████████████████████████████████████████████████
 
+
+THIS IS total order
+Total Order as a Service
+A total order, also known as a linear order, is a way of ordering the elements of a set so that any two elements can be compared.
+fractal total order
+Knowledge fractal - zoom in on any aspect of it as much as you want
+look at this fucking shit - mandelbrot set - it keeps on going!
+
+██████████████████████████████████████████████████████████████████
+# social engineering
+██████████████████████████████████████████████████████████████████
+
+social engineering - our sociality is what's most important about our species - how our interaction is structured is foundational
+its been happening since forever
+5th generation warfare has been raging on
+https://en.wikipedia.org/wiki/Fifth-generation_warfare
+World War 3 is a guerrilla information war with no division between military and civilian participation. (Marshall McLuhan, 1970, Culture Is Our Business)
+
+We need a system that reliably generates better explanations and better strategies of putting them in people’s heads
+NPC chipping meme
+use plunger on head and say "get in there"
+
+██████████████████████████████████████████████████████████████████
+# digital ID
+██████████████████████████████████████████████████████████████████
+
+- As batman said… digital id is an inevitability
+
+Im batman - impression
+Photo of me with toilet paper on my head with holes
+
+
+██████████████████████████████████████████████████████████████████
+# alignment & CC
+██████████████████████████████████████████████████████████████████
+
+Consequence capture
+Credit assignment
+Interrelated
+
+██████████████████████████████████████████████████████████████████
+# economics & property
+██████████████████████████████████████████████████████████████████
+
+PROPERTY! That thing which we fight for
+Not emotional but effective redistribution
+and instead of simply taxing and taking we should be giving something in return for that surplus - in the current paradigm taxing one's wealth diminishes his power and influence, but we can have a different contract for personal wealth and still allow individuals to garner as much influence over the economy as they deserve, + other forms of prestige & engineered scarcity
+liquidity, fungibility
+Democratically programmable currency, the end of fungibility
+
+██████████████████████████████████████████████████████████████████
+# evolution's arrow
+██████████████████████████████████████████████████████████████████
+
+> "we are cooperators that are made of cooperators that are made of cooperators and so on. It is cooperation all the way down." - [source](https://www.evolutionarymanifesto.com/EvArrowBook.pdf)
+
+Ev has direction
+- greater scales of differentiation, (thermodynamic) integration & cooperation
+- greater evolvability
+- greater ability to model and predict reality
+the most fundamental logic and forces in nature point towards thermodynamic integration and cooperation
+
+moving from adversarial zero-sum dynamics to synergistic positive-sum
+nonzero - part of evarrow
+
+“More is different”
+
+██████████████████████████████████████████████████████████████████
+# causation
+██████████████████████████████████████████████████████████████████
+
+> "Things are the way they are because they got that way." - [Gerald Weinberg](https://en.wikiquote.org/wiki/Gerald_Weinberg)
+
+> "All models are wrong, but some are useful." - [George E. P. Box](https://en.wikipedia.org/wiki/All_models_are_wrong)
+
+> "Systems fool us by presenting themselves as a series of events." - [Donella Meadows, 2008, Thinking in Systems](https://en.wikipedia.org/wiki/Thinking_In_Systems:_A_Primer)
+
+
+██████████████████████████████████████████████████████████████████
+# learning & prediction & credit assignment & collective intelligence
+██████████████████████████████████████████████████████████████████
+
+> "The credit assignment problems inherent in collective intelligence are fundamental in all cognition and learning, and in all biological individuality." - [The collective intelligence of evolution and development, by Richard Watson and Michael Levin](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
 
 
 ██████████████████████████████████████████████████████████████████
 # accounting
 ██████████████████████████████████████████████████████████████████
 
+> "An effective accounting of the economy and politics would be a revolutionary act." - [Samo Burja](https://youtu.be/A3Zd2K0BJoI?t=7135)
+
+we invented writing mainly for accounting purposes
+
+accountability etymology
+The terms "accountability" and "accounting" share a common root in the Latin word computare, meaning "to calculate".
+The term "account" comes from the Old French acontable, meaning "liable to be called to account".
+
+
+what is at the root of all evil
+Unaccountability (& Ignorance) is at the root of all evil - not the love of money or profit - although that's bad actually
+    (although the fact that gold has no smell is problematic)
+Outside of proper accounting
+Asymmetry
+How else do you want me to spell it out for you?!
+Un accountable - missing - absence - void - black budget - O!!!
+
+Make accounting sexy again!
+Use the glasses
+
+accountability leads to justice and fairness
+
+Accounting and accountability - its in the word!!!
+
+without credit assignment, without proper accounting - a system cannot learn
+when people are shielded from the consequences of their own actions - that's unaccountability - lack of symmetry, lack of skin in the game - and this is true in voting, in media, everywhere
+
+Accounting day is coming!! instead of judgement
+> "In an age of infinite leverage, judgement is the most important skill." - [Naval Ravikant](https://twitter.com/naval/status/998039099427704832)
+justice breaks without proper accounting
+^^ without proper accounting judgement breaks, and if judgement is important for individuals it is also important for collectives
+Key concepts (judgement day):
+- Accountability: Individuals will be judged for everything they have done, said, and thought, and will be held accountable for their actions.
+- God's justice: The event is a demonstration of God's perfect justice and sovereignty, where all wrongs will be righted and all people will be held accountable.
+
+applying/enforcing the golden rule requires proper accounting/evaluation (if something is positive/negative, and what the magnitude is) - The Golden Rule is the principle of treating others as you would like to be treated.
+https://www.google.com/search?q=the+golden+rule&oq=the+golden+rule
+go do what you would hope for - the golden rule is also prescriptive for proactive action, not just about not causing harm
+love thy neightbour as thyself
+do to others what you would have them do to you
+
+proper accounting requires transparency, openness & alignment of incentives - the only way to generate a trustworthy result
 
 
 ██████████████████████████████████████████████████████████████████
