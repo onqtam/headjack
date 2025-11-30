@@ -23,6 +23,10 @@ must?
 desire => concern?
 ultimate concern?
 
+Identity > Money
+
+
+
 Everyone's ULTIMATE Concern == The Great Enabler ?!
 
 Everyone's ULTIMATE Concern ?!.. A Sermon on the Web & the Final Inversion
@@ -273,7 +277,7 @@ something larger than ourselves that will persist beyond our lives
 - A new incentive architecture that will eventually rival and regulate money itself
 - Identity, reputation
 - Our focus should be on mechanism design
-- Social credit system
+- Social credit system/score - when you've been a bad boy!
 - Collective intelligence & aggregating creativity
 - intelligence is always a distributed system - dofferentiation & integration & alignment - the whole more than the sum of the parts
 - The ultimate meta system that can solve any problem
@@ -396,6 +400,7 @@ we will judge how to judge
 How do we get people more interested in being more interested & interesting?
 we need to be on the same page & coherent on what we need to be on the same page & coherent and how we determine where the boundry is
 Moje bi trqbva da e “how do we get on the same page on/about what/how/why we should be on the same page on/about?”
+how do we better help people become better?
 
 everything is a tradeoff - how do we tradeoff how we make tradeoffs? this line needs more work
 
@@ -468,7 +473,7 @@ alignment & accountability on the record ==> end hypocrisy
 what is integrity?
 
 > "If doing the right thing is the wrong thing, there’s something fundamentally wrong with the system." - [Jim Rutt](https://youtu.be/RkhZfDXkX74?t=2602)
-1 party lying against the other
+1 party lying against the other - misrepresentation, lying with facts, out of context, selective framing / frame control, exaggeration, or outright lying
 cutting costs
 externalities
 multipolar traps
@@ -519,6 +524,13 @@ We need to aim the system at developing people
 The dick measuring contest has no upper limit - roleplay a sword fight with your johnson
 Show yachts - ask if they've offset the carbon emissions for the production and maintenance and operation of them
 We either put a cap on the dick measuring contest or it will cap humanity’s runway
+> "Every yacht is a market failure." - [Hanzi Freinacht](https://twitter.com/HFreinacht/status/1727305844759670955)
+
+
+the expansion of self
+
+
+
 
 Is this communism?
 > "Good ideology. Wrong species." - [E. O. Wilson on Marxism](https://paulgraham.com/quo.html#:~:text=%22Good%20ideology.%20Wrong%20species.%22%0A%0A%E2%80%93%20E.%20O.%20Wilson%20on%20Marxism)
@@ -963,6 +975,7 @@ Sam altman doing it not for money clip
 You’ll own little and be happy - especially for the elite
 
 When all you have is a hammer everything looks like a nail - all we have is money and markets (for now)
+    roleplay: hammer made from toilet paper and me hitting stuff
 
 We can extract the essence of capitalism - incentives, skin in the game, creative destruction, control
 
@@ -1177,7 +1190,7 @@ https://www.biblegateway.com/passage/?search=Matthew%205-7&version=NIV
 "do not store up for yourselves treasures on earth" comes from the Bible, Matthew 6:19-21
 21 For where your treasure is, there your heart will be also.
 24 “No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money.
-This guy (jesus - the cross) was onto something - he’s got a point
+This bad boy (jesus - the cross) was onto something - he’s got a point
 
 
 god is one, undivided, eternal - god is the attractor of collective unification on every level - for cells it is us, for us it is a harmonious society
@@ -1207,6 +1220,7 @@ The search engine of the meaning economy
 # relevance realization & comparison & total order & fractal & compression
 ██████████████████████████████████████████████████████████████████
 
+the hitchhiker's guide to society
 
 THIS IS total order
 Total Order as a Service
@@ -1408,7 +1422,8 @@ You dont believe me? Watch me. Literally watch me.
 Maximus (Gladiator, 2000): Brothers, what we do in life... echoes in eternity.
 https://www.imdb.com/title/tt0172495/quotes/?item=qt0404418&ref_=ext_shr_lnk
 
-
+just do it! make accountability come true! /\
+https://www.youtube.com/watch?v=ZXsQAXx_ao0
 
 WE TAKIN OVER!
 
