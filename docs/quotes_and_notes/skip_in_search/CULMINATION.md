@@ -598,6 +598,39 @@ Make fun of someone not petting others copy during exam
 
 The olympics are from an era when strength mattered (stronk!!1) - what should the olympics of modernity and digital society be?
 put that big rock down bro, its the 21st century, we no longer compete on lifting heavy shit
+The olympics are a relic of a long gone era - they’re still great though - its cool that we have them but they’re not what we need
+
+
+
+Talk about valence
+
+Talk about love
+
+Witness meee! From mad max - recognition
+https://www.youtube.com/watch?v=x2CeDY9Ywhs
+https://www.youtube.com/watch?v=4KlSuGNt8e4
+
+We perceive the world through our mental models
+How to explain this the best way and how to uplift the best mental models?
+Witgenstein quote limits of language
+
+A paradigm is a framework of beliefs, assumptions, and practices that shapes how people or a community understand and interpret the world. It acts as a model or pattern for a discipline or group, influencing everything from scientific research and problem-solving to a company's business strategy. In simpler terms, it is a way of seeing and approaching things, like the difference between a model of a thing versus an actual thing. 
+
+Division of labor - sight and recognizing edges & features
+
+How do we better understand what understanding even is?
+Foundational, firm, solid, dependable, necessary
+Everything depends on it and builds on top
+
+Make fun of handshakes in ape politics
+
+People want money because it gets you almost everything - we need to engineer goods that cannot be bought but can only be earned
+
+How do we better dissipate the knowledge inside people’s heads?
+
+The tripple inversion - the holy trinity - thats my holy trinity - or quadrinity
+Identity > Money, Public > Private, who surveils who, top-down vs bottom-up social credit score
+
 
 
 inherently uncooptable/incorruptible - self-correction is built-in and it cannot be ripped out!
@@ -1042,6 +1075,9 @@ solving the same thermodynamic imperative on each consecutive level
 
 Recognition Economy
 Universal Basic Recognition
+There is no intellectual property - there is only recognition
+
+
 
 Vibe code society with values
 
