@@ -350,6 +350,8 @@ https://www.youtube.com/watch?v=wKt0NaMHCbM
     on white balance:
     https://www.youtube.com/watch?v=LN8PPLGBZSI
     auto white balance can change during filming which is bad - set it manually
+- TODO: WATCH THIS for camera settings!
+    https://www.youtube.com/watch?v=fVlez0G7jBc
 - have a catch light (light reflection from the eye) to feel more alive - perhaps the fill light?
 
 lampi4ki okolo panoto zad men? tube light?
@@ -362,8 +364,11 @@ what is HDR
 
 - 4:2:2 is preferrable to 4:2:0 if using a green screen or will use a lot of color grading later on, it takes 33% more space (not 50% because the luma (Y) channel is for all pixels)
     https://www.reddit.com/r/cinematography/comments/6e0hrc/comment/di77vb1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+    absolutely not worth it! 4:2:0 is more than enough!
+        https://www.youtube.com/watch?v=K4586b8iR2Y
 
-
+- no need to shoot in LOG if lighting is good
+    avoid overexposure and you won't need LOG - look at the color histogram?
 
 - 4k over USB is worse than through HDMI
 - USB does not transmit audio - but if I use HDMI and I plug the microphone somehow to the recording device then they will be automatically synced

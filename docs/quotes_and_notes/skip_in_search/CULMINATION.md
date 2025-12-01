@@ -4,6 +4,8 @@
 # ideas
 ██████████████████████████████████████████████████████████████████
 
+Watch some george carlin again
+
 pitai susedite koga ne sa si vku6ti prez denq za da moga da zapisvam i im dai nqkakuv podaruk i gi pitai dali imat oplakvaniq do sega otkum shum
 
 founder mode sticky note on my forehead
@@ -1169,8 +1171,9 @@ what you say is ephemeral - it fades and is forgotten - and is never deduplicate
 who watches the watchmen?
 
 
+Women are nature itself - they select. Money is mostly just a proxy for sex (not the only one) and we can redefine it. The 2 biggest drives are sex and intellectual achievement/creation/expression/discovery.
 
-Watch some george carlin again
+
 
 Mic drop with gas mask and the hose going into my pants - or do a “you spin me right round” impression with the music on? Copyrights for 2-3 sec?
 
@@ -1193,7 +1196,7 @@ A message to all beurocrats, managers and “world leaders”:
 In the Blockchain Age the Public Watches You!
 You are legible to the public!
 
-I wasn't supposed to go psycho this early but the ONLY reason was fear - fear that I wouldn't get to finish my book. But I guess I decided to toss the coin and "take a fucking chance, will you?" - george carlin clip - grow some balls - even a few percent are troubling, but the upside of starting the whole thing 1 year earlier is that we get to solve the biggest problems in the world 1 year earlier. There's another reason - there's another reason - women! I want a mate sooner rather than later and so I'm willing to risk the success of my whole thing. "you shouldn't chase women bro" - I actually learned my lesson after 33 years. No... I'm done chasing - I'm standing out - let the chips fall where they may. Women are nature itself - they select. Money is mostly just a proxy for sex (not the only one) and we can redefine it. The 2 biggest drives are sex and intellectual achievement/creation/expression/discovery. Also martyrdom is the mother of all streisand effects so perhaps its a win-win
+I wasn't supposed to go psycho this early but the ONLY reason was fear - fear that I wouldn't get to finish my book. But I guess I decided to toss the coin and "take a fucking chance, will you?" - george carlin clip - grow some balls - even a few percent are troubling, but the upside of starting the whole thing 1 year earlier is that we get to solve the biggest problems in the world 1 year earlier. Also martyrdom is the mother of all streisand effects so perhaps its a win-win
 > "You can take the monkey out of the status-seeking game, but you can't take the status-seeking out of the monkey." - [Status as a Service (StaaS), Eugene Wei](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
 "civilization is a race between education and catastrophe" is a famous quote attributed to the English writer H.G. Wells 
 I was hesitant to make such media before finishing my book and making it as uncensorable as information theoretically possible - I do not want to be suicided - but I just want to get something out there - the very much unfinished book is in a github repo - here’s the git hash of a checkpoint in its history if it needs to be finished by someone else - it would take 2-3 years for someone coming into it to write it properly as they’d need for things to imprint in their heads
@@ -1559,7 +1562,7 @@ Call to action: get an ID and refer others and lets bootstrap the graph
 Gamifying this video itself
 Minimum viable status
 
-some ICOs gathered hundreds of millions - now compare them to this - how much does this deserve? Only 1 way to find out - generate demand. Subscribe. Participate in the global counter. Iliya's company is valued at 32B with not product (I'm not hating) - I'm just saying that I think this deserves at least such a valuation from the start as well. We'll apply the principles of the tool we want to build in building it in terms of resource allocation - we will dogfeed it in the most efficient way humanly possible. A minimum viable system (MVS) is literally one which can sustain and reproduce itself. And this is modest actually - 32B val is single digit billions of capital - how much does meta earn and spend per year for the worldwide spiritual and mental retardation? what I'm proposing is way bigger than the 7 biggest companies combined - it is bigger than the G7 or the G20 - I'm talking about a new world order - george bush clip - As a service - a service to which you get to serve
+some ICOs gathered hundreds of millions - now compare them to this - how much does this deserve? Only 1 way to find out - generate demand. Subscribe. Participate in the global counter. Iliya's company is valued at 32B with not product (I'm not hating) - I'm just saying that I think this deserves at least such a valuation from the start as well. We'll apply the principles of the tool we want to build in building it in terms of resource allocation - we will dogfeed it in the most efficient way humanly possible. A minimum viable system (MVS) is literally one which can sustain and reproduce itself. And this is modest actually - 32B val is single digit billions of capital - how much does meta earn and spend per year for the worldwide spiritual and mental retardation? what I'm proposing is way bigger than the magnificent seven combined (show their logos - in 2035 with tesla being the biggest? ;d) - it is bigger than the G7, or the G20 - I'm talking about a new world order - george bush clip - As a service - (saxypo drooling - the SaaS king wants to wet his beak!) a service to which you get to serve
 
 Give till it hurts
 
