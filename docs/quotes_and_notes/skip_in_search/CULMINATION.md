@@ -696,6 +696,8 @@ not advocating it for everyone - and not the real north star - people should hav
 Consumption beyond a certain level simply is immoral
 
 the left-right political tug of war is literally the complete opposite of alignment (which is to point in the same direction) - its orthogonal - make a gesture - duverger's law
+Me and the horse choking each other - left and right antagony
+how do we craft propositions that don't alienate half the people?
 
 Its all about public goods
 
@@ -729,7 +731,7 @@ Its just a fucking horse! about when we designed representative democracy and ca
 The meta solution to all of our problems is an incentive architecture for truth to reliably bubble up to the top
 Ruthlessly incentivising truth
 
-we need to optimize the means of production and steer the desires of consumption - but not through legislation but through cultural regulation (not wokery)
+we need to optimize the means of production and steer the desires of consumption - but not through legislation but through cultural regulation (not wokery) - what we will seize is the means of enculturation
 
 we need to recognize culture for what it is - the next substrate of evolution - the ether that binds us
 
@@ -1191,7 +1193,8 @@ A message to all beurocrats, managers and “world leaders”:
 In the Blockchain Age the Public Watches You!
 You are legible to the public!
 
-I wasn't supposed to go psycho this early but the ONLY reason was fear - fear that I wouldn't get to finish my book. But I guess I decided to toss the coin and "take a fucking chance, will you?" - george carlin clip - grow some balls - even a few percent are troubling, but the upside of starting the whole thing 1 year earlier is that we get to solve the biggest problems in the world 1 year earlier. There's another reason - there's another reason - women! and one in particular that I want in my world sooner rather than later and so I'm willing to risk the success of my whole thing. "you shouldn't chase women bro" - I actually learned my lesson after 33 years. No... I'm done chasing - I'm standing out - let the chips fall where they may. Women are nature itself - they select. Money is mostly just a proxy for sex (not the only one) and we can redefine it. Also martyrdom is the mother of all streisand effects so perhaps its a win-win
+I wasn't supposed to go psycho this early but the ONLY reason was fear - fear that I wouldn't get to finish my book. But I guess I decided to toss the coin and "take a fucking chance, will you?" - george carlin clip - grow some balls - even a few percent are troubling, but the upside of starting the whole thing 1 year earlier is that we get to solve the biggest problems in the world 1 year earlier. There's another reason - there's another reason - women! I want a mate sooner rather than later and so I'm willing to risk the success of my whole thing. "you shouldn't chase women bro" - I actually learned my lesson after 33 years. No... I'm done chasing - I'm standing out - let the chips fall where they may. Women are nature itself - they select. Money is mostly just a proxy for sex (not the only one) and we can redefine it. The 2 biggest drives are sex and intellectual achievement/creation/expression/discovery. Also martyrdom is the mother of all streisand effects so perhaps its a win-win
+> "You can take the monkey out of the status-seeking game, but you can't take the status-seeking out of the monkey." - [Status as a Service (StaaS), Eugene Wei](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
 "civilization is a race between education and catastrophe" is a famous quote attributed to the English writer H.G. Wells 
 I was hesitant to make such media before finishing my book and making it as uncensorable as information theoretically possible - I do not want to be suicided - but I just want to get something out there - the very much unfinished book is in a github repo - here’s the git hash of a checkpoint in its history if it needs to be finished by someone else - it would take 2-3 years for someone coming into it to write it properly as they’d need for things to imprint in their heads
 All the peace lovers get shot for some reason - reenact the quote from bill hicks with paper people and shoot them 1 by 1 with your middle fingers and then blow one of them like a smoking gun and show it to the camera
@@ -1213,7 +1216,6 @@ Fifth/bonus/wildcard inversion: smartphone > horse
 The age of horse and lift heavy shit is over !!!
 we have paleolithic emotions medieval institutions and godlike technology eo wilson
 They didn’t have complexity science and information theory back then
-Me and the horse choking each other
 Horse - giddy up - i go bii s kamshika
 
 
