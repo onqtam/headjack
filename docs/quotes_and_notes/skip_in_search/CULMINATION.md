@@ -4,6 +4,18 @@
 # ideas
 ██████████████████████████████████████████████████████████████████
 
+pitai susedite koga ne sa si vku6ti prez denq za da moga da zapisvam i im dai nqkakuv podaruk i gi pitai dali imat oplakvaniq do sega otkum shum
+
+founder mode sticky note on my forehead
+
+make subtitles in all languages
+
+a YouTube video can have titles in multiple languages by adding translated titles and descriptions in YouTube Studio.
+
+
+
+
+
 have a scene where I grab the camera and talk to it in a shaky way from up close like the joker
 
 biggest risk: too complex for the masses
@@ -25,7 +37,7 @@ ultimate concern?
 
 Identity > Money
 
-
+multilingual
 
 Everyone's ULTIMATE Concern == The Great Enabler ?!
 
@@ -35,7 +47,6 @@ Our ULTIMATE Concern - A Sermon on the Web, the Final Inversion & Return of Acco
 
 the greatest slaughter of sacred cows - democracy (1 man 1 vote), capitalism, communism, socialism
 
-civilization from first principles
 
 status?
 
@@ -63,8 +74,6 @@ The Great Enabler
 
 The beginning of the beginning
 
-sermon on the web
-
 == thumbnail:
 - intersection of digital ID (passport/ID), reputation & incentives (carrot & stick), & collective intelligence (ant colony?) - ven diagram + an ant colony - the third attractor in the intersection of them
 
@@ -85,11 +94,12 @@ Napravi 10 thumbnaila i gi dai na priqteli da gi ratenat
 # NEW INTRO VIDEO
 ██████████████████████████████████████████████████████████████████
 
-
+"hey there!" - enter the picture from the side with tilted head first - or start directly with "what is the most important..."
 
 
 == what makes us special - why the ultimate social system is the great enabler and at the root of everything and why systemic thinking is most important
 
+What is the single most important question for our species? On what does everything we care about depend on? It is how we organize ourselves - our system
 
 
 
@@ -161,7 +171,7 @@ ultimate ==> most consequential, most important, most fundamental - second place
 
 The future belongs to those who can predict it and that’s why we should incentivise them to share their predictions openly with skin in the game and contribute to our commons
 predictive commons
-
+hedge funds privatizing the gains of their predictive giga brains while our political system is a brainlet fitting boxes meme
 
 global shared world model
 a Worldwide collective Self Model
@@ -186,10 +196,11 @@ Syntropy
 
 once you find/understand it you'll never think about anything else more than about this thing
 
-I’ve been sitting on
+I’ve been sitting on my hands for more than 3 years with the technical design - everyone kept asking me why I haven't started coding - initially I had no fucking clue what I had stumbled on - I just felt it had immense potential
 I don’t want to try
 I want to succeed
 Those who tell the stories rule the world
+I was not accounting pilled in 2022
 Theoretically optimal solution - no other design can get even close to the optimal set of technical tradeoffs in my architecture
 The more compelling and refined the story becomes - the sooner will the system reach a billion people
 > "Those who tell the stories rule society." - [Plato](https://www.goodreads.com/quotes/20382-those-who-tell-the-stories-rule-society)
@@ -227,6 +238,7 @@ https://newrepublic.com/article/115821/einsteins-famous-quote-science-religion-d
 Where is the global handle/knob/lever on parameter X?
 
 There is a way to own nothing and be happy
+freedom through constraint
 
 Differentiation and specialization coupled with alignment and integration
 
@@ -293,6 +305,7 @@ something larger than ourselves that will persist beyond our lives
 - Atick around if you want to be early in the final battle between good and evil
 - Digital id can go horribly/terribly wrong & orwellian or incredibly right
 - The most flexible and scalable architecture for the evolution of culture and incentives
+    read my lips: NO LIMITS, NADA
 - Our system fails at conveying why we should care about others
     - why the wellbeing of others is in your best (expanded) self interest
     - Why others matter to us
@@ -340,6 +353,11 @@ Open society
 
 Deep democracy
 1 man 1 vote only on the base constitution which defines the inequality in the other layers
+The end of 1 man 1 vote - democratic inequality of influence, we all get an equal vote about what else to not have an equal vote on
+slaughter of sacred cows
+Oh! I'm an Inequality Designer myself!
+Popper quote we are all equal in our infinite ignorance
+we will have equality in our vote only about the inequality of our vote
 
 What should we be coherent around and what not, and how do we determine the boundry and also truth
 
@@ -398,6 +416,7 @@ How do we best identify what is worth identifying?
 Vote on how to vote on everything else
 we will judge how to judge
 How do we get people more interested in being more interested & interesting?
+    Interested in general and interesting themselves?
 we need to be on the same page & coherent on what we need to be on the same page & coherent and how we determine where the boundry is
 Moje bi trqbva da e “how do we get on the same page on/about what/how/why we should be on the same page on/about?”
 how do we better help people become better?
@@ -476,6 +495,7 @@ what is integrity?
 1 party lying against the other - misrepresentation, lying with facts, out of context, selective framing / frame control, exaggeration, or outright lying
 cutting costs
 externalities
+making food addictive
 multipolar traps
 4 year cycles of back-and-forth erosion of what the others were doing - like a seesaw alternating between 2 poles
     Duverger's law
@@ -521,7 +541,7 @@ integration, consistency, lack of incongruence, lack of Contradiction & conflict
 
 We need to aim the system at developing people
 
-The dick measuring contest has no upper limit - roleplay a sword fight with your johnson
+The dick measuring contest has no upper limit - roleplay a sword fight with your johnson - or multiple bananas tied to each other to be long
 Show yachts - ask if they've offset the carbon emissions for the production and maintenance and operation of them
 We either put a cap on the dick measuring contest or it will cap humanity’s runway
 > "Every yacht is a market failure." - [Hanzi Freinacht](https://twitter.com/HFreinacht/status/1727305844759670955)
@@ -529,6 +549,7 @@ We either put a cap on the dick measuring contest or it will cap humanity’s ru
 
 the expansion of self
 
+let's rebuild the world economic forum!
 
 
 
@@ -574,6 +595,7 @@ loss aversion - loss hurts like a BEEP
 
 we (this new system) don't want to be voted into government - we don't need it - we'll simply make an alternative that people will eventually flock to - one which delivers the goods and outperforms the current system on EVERY SINGLE METRIC worth outperforming
 This system will wipe the floor with any other - nothing will be able to compete and every competing power structure will join in their best  newly understood and deeper self interest - not out of fear but through a combination of seduction, shame, and consensual indoctrination
+subjugation through reason alone
 
 and hey - I'll practice what I preach - I'll be the first to opt-in to this system and I will not be a billionaire or eventually a trillionaire, I'll consume according to the personal curve and I'll strive to steer as much cultural and economic capital as I deserve and have earned - according to the second curve - and all of that accounting will happen on this reputational system - the new arena - colosseum - this is what it means to be in the arena
 one of the twitch founders initially live-streamed his whole life 24/7 and that was the entire website - his personal livestream, I will live-report my spending and ownership in a completely transparent way in this new property regime
@@ -601,10 +623,15 @@ put that big rock down bro, its the 21st century, we no longer compete on liftin
 The olympics are a relic of a long gone era - they’re still great though - its cool that we have them but they’re not what we need
 
 
+talk about world leaders and how they're not real leaders, they're managers - with their worthless photo ops on G7/G20 - and their books
 
-Talk about valence
+the many will evaluate the few instead of the few evaluating the many
+
+Talk about valence - sign - contrast - good & evil, reward vs punishment, positive vs negative, forward vs backward
 
 Talk about love
+love is a fundamental truth of reality
+give til it hurts
 
 Witness meee! From mad max - recognition
 https://www.youtube.com/watch?v=x2CeDY9Ywhs
@@ -628,16 +655,21 @@ People want money because it gets you almost everything - we need to engineer go
 
 How do we better dissipate the knowledge inside people’s heads?
 
-The tripple inversion - the holy trinity - thats my holy trinity - or quadrinity
+
+moral/conceptual inversion
+The tripple/quadrupple inversion - the holy trinity - thats my holy trinity - or quadrinity
 Identity > Money, Public > Private, who surveils who, top-down vs bottom-up social credit score
+roleplay as an inverter - put yourself in a box and jump at 180 degrees or go with your feet from one side to the other over the top and fall
+
+I command my tongue, but if I hurt it I hurt myself because we are one - our goals are completely in alignment
 
 
-
-inherently uncooptable/incorruptible - self-correction is built-in and it cannot be ripped out!
+inherently uncooptable/incorruptible - self-correction is built-in and it cannot be ripped out! also radical transparency/openness
+    - get your filthy moneied hands off our uncorruptible governance!
 
 We need to engineer our society
 
-
+we can prove some identity made a death thread in DMs using LLMs & ZK & MPC & TEE - compatible with full end-to-end privacy - only on user request, and the llm can respond with different magnitudes of the aspects - certainty, ambiguity, 
 
 
 
@@ -659,13 +691,11 @@ Every regime should be aiming to be so spectacularly successful that everyone el
 
 Taxation is theft only if you’re getting ripped off by a decrepit and morally bankrupt system
 
-Im a public servant - not a private individual - and im not calling for everyone to be as extreme as me - I'm actually pretty reasonable (believe it or not) - but I want to set an example and point towards the north star - this is my social contract
+Im a humble - laugh - public servant - not a private individual - and im not calling for everyone to be as extreme as me - I'm actually pretty reasonable (believe it or not) - but I want to set an example and point towards the north star - this is my social contract
 not advocating it for everyone - and not the real north star - people should have the option to have personal privacy - uhh its complicated and tbd
 Consumption beyond a certain level simply is immoral
 
-no longer 1 man 1 vote
-Popper quote we are all equal in our infinite ignorance
-we will have equality in our vote only about the inequality of our vote
+the left-right political tug of war is literally the complete opposite of alignment (which is to point in the same direction) - its orthogonal - make a gesture - duverger's law
 
 Its all about public goods
 
@@ -674,6 +704,8 @@ Infinity is on the event horizon of existence - the question is do we want it ba
 
 
 have a shot of me with tin foil - not just a hat but my entire head with a hole to breathe - we need a system in which we wouldn't need a CIA - in the very far future
+> "Any organization created out of fear must create fear to survive." - [Bill Hicks](https://www.azquotes.com/quote/798848)
+
 
 Its the most obvious thing what we should be doing as a species and yet it needs to be said
 
@@ -784,7 +816,7 @@ Topological sort of whats most important and what leads to what - 2nd, 3rd & 4th
 Epistemic commons
 heal the Epistemic Commons through incentives for alignment & accountability to then fix all other commons
 
-Picture of the mine in congo - study what is ok to use in videos
+Picture of the mine in congo - study what is ok to use in videos - roleplay calling the mine and asking for overtime for more cobalt for phones - hallo is this the greenwashed cobalt mine? do more overtime - phones are selling like hotkakes! I can feel the AGI!
 
 If you’re watching this - you’re early to something truly big - the right side of history will unfold before you
 
@@ -939,8 +971,6 @@ We will engineer money the likes of which you couldnt imagine
 
 Fine tuning every single aspect of society democratically
 
-The end of 1 man 1 vote - democratic inequality of influence, we all get an equal vote about what else to not have an equal vote on
-slaughter of sacred cows
 
 Intitially a parallel system - will not need to be voted in politically to start having effect
 
@@ -1050,8 +1080,6 @@ A universal explainer
 
 Everything good that you care about hinges on the great enabler
 
-From first principles
-
 Post scarcity congo mine
 
 We are nothing as a species or as individuals without our sociality
@@ -1114,6 +1142,102 @@ a true postmodern horror - the return of grand narratives! relativizing relativi
 
 
 
+https://x.com/MattPirkowski/status/1283852755589726209?s=20
+
+https://x.com/PresentWitness_/status/1684316429716160513?s=20
+
+https://x.com/elonmusk/status/1608939190548598784?s=20
+
+We should strive towards work worthy of surveillance (not in the terrorist sense lol - simply consequential and important)
+
+When it comes to AI all i have to say is that we don’t know how to make AGI - or even if we should - but what we already have will help a lot with interfacing in the future - you don’t like multiple choice menus and dropdowns, do you?!
+
+Remove the book quotes from the repo
+
+
+Left-right spectrum - have some dimensionality, will you? Stop getting butt fucked by duveger
+
+
+
+
+Freedom of speech != of reach
+this is the real end of slavery - the masses will have complete sovereignty over their identities and expressions for the first time in human history - what you said doesn't matter and even how you voted doesn't matter - show the VOX article/chart - sometimes you don't even vote in a primary and get a candidate in a box! - make a gesture handing a wrapped gift
+what you say is ephemeral - it fades and is forgotten - and is never deduplicated and aggregated
+
+who watches the watchmen?
+
+
+
+Watch some george carlin again
+
+Mic drop with gas mask and the hose going into my pants - or do a “you spin me right round” impression with the music on? Copyrights for 2-3 sec?
+
+We need to give an offramp - a redemption arc to those that have wrong us - otherwise they will cling to power. If a better system is inevitable - why prolong it by fighting and punishing. Tit for tat with forgiveness beats tit for tat in a repeated prisoners dilemma. The greatest jubilee should not be a debt jubilee but a moral one - start opening your books and you will be forgiven everything, but only if you go all the way and migrate completely to transparency and openness within a specific timeframe.
+From this point onward - align or fade into itrelevance
+if the new economy is inevitable - retribution will only slow its manifestation as it adds friction and tension
+
+
+
+The current host-centric internet architecture together with our property system are a crime against complexification itself
+
+The god that depends on you / your existence - one which is literally constituted by you is a merciful god
+
+Go agead - argue against this - but its the moral high ground from every perspective - this is the right side of history - you will lose 99% of your arguments against this - agrnt smith thats the sound of inevitability clip
+
+Intellectual property and secrecy is a cock blocker for ideas having sex and I’m a sex maximalist / really horny boy !!1 - Have a 
+
+
+A message to all beurocrats, managers and “world leaders”:
+In the Blockchain Age the Public Watches You!
+You are legible to the public!
+
+I wasn't supposed to go psycho this early but the ONLY reason was fear - fear that I wouldn't get to finish my book. But I guess I decided to toss the coin and "take a fucking chance, will you?" - george carlin clip - grow some balls - even a few percent are troubling, but the upside of starting the whole thing 1 year earlier is that we get to solve the biggest problems in the world 1 year earlier. There's another reason - there's another reason - women! and one in particular that I want in my world sooner rather than later and so I'm willing to risk the success of my whole thing. "you shouldn't chase women bro" - I actually learned my lesson after 33 years. No... I'm done chasing - I'm standing out - let the chips fall where they may. Women are nature itself - they select. Money is just a proxy for sex and we can replace it. Also martyrdom is the mother of all streisand effects so perhaps its a win-win
+"civilization is a race between education and catastrophe" is a famous quote attributed to the English writer H.G. Wells 
+I was hesitant to make such media before finishing my book and making it as uncensorable as information theoretically possible - I do not want to be suicided - but I just want to get something out there - the very much unfinished book is in a github repo - here’s the git hash of a checkpoint in its history if it needs to be finished by someone else - it would take 2-3 years for someone coming into it to write it properly as they’d need for things to imprint in their heads
+All the peace lovers get shot for some reason - reenact the quote from bill hicks with paper people and shoot them 1 by 1 with your middle fingers and then blow one of them like a smoking gun and show it to the camera
+> "Did you ever stop to thnk about all the people we kill? They're always people who tell us to live together in harmony and try to love one another: Jesus, Ghandi, Lincoln, John Kennedy, Bobby Kennedy, Medgar Evers, Malcolm X, Martin Luther King, John Lennon. They all said: 'Try to live together peacefully.' BAM! Right in the f--in head! Aparently we're not ready for that!" - [George Carlin](https://www.azquotes.com/quote/891216)
+> "Opportunists are promoted, realists are co-opted, idealists are frightened and radicals are shot." - [Heather Marsh](https://www.goodreads.com/quotes/7996445-opportunists-are-promoted-realists-are-co-opted-idealists-are-frightened-and)
+Draw a circle on your forehead and then makeup yourself like the joker and ask - why so serious and hold the camera and laugh - lets put a target on that face
+Give ipfs hash of the files (git repo and previous recordings)
+Only the paranoid survive
+This video can also be found in the archive
+plus im just a comedian - what do I know - that's the excuse from responsibility nowadays, right? this whole thing is insane - it would never work! ;)
+
+A moral high ground so high you can’t even see it from below - the kingdom of heaven is in the clouds!
+
+Fungibility spectrum - sometimes the truth really is in the middle - sketch of fence sitting and feeling pain in the crotch
+
+Its a fucking horse - draw it on paper like that ugly stick pic
+Draw the horse crosseyed with tongue out
+Fifth/bonus/wildcard inversion: smartphone > horse
+The age of horse and lift heavy shit is over !!!
+we have paleolithic emotions medieval institutions and godlike technology eo wilson
+They didn’t have complexity science and information theory back then
+Me and the horse choking each other
+Horse - giddy up - i go bii s kamshika
+
+
+"You have to let it all go, Neo. Fear, doubt, and disbelief. You've felt it your entire life, that there's something wrong with the world," - Morpheus.
+
+
+
+
+
+Remove the blowing up stuff
+or put memes on your chest and "blow up on the internet" with a big red "publish" button - and show hello kitty, icecream so good, and others
+to hold a pen is to be at war - to press a button is to be at war
+
+
+
+sign with !!1 written on it and hold it
+
+A real leader can change the system fundamentally - they’re merely playing according to its tune - they dont truly understand it in a deep causal sense - you need a complexity science, evolutionary lens and many others all together. The current leaders are trapped in a spaghetti ot political science and philosophophical schools of thought and outdated models. We need to rethink civilization from first principles
+> "Nothing in biology makes sense except in the light of evolution." - [Theodosius Dobzhansky](https://en.wikipedia.org/wiki/Nothing_in_Biology_Makes_Sense_Except_in_the_Light_of_Evolution)
+^^ Nothing at all makes sense except in the light of evolution.
+
+
+
+
 
 Metaverse - bridging/extending the real world with the virtual - virtualizing the real world
 you want any more buzzwords? I've got plenty! Singularity! Decentralization! Destiny!
@@ -1162,12 +1286,20 @@ Desire as a service
 Lets co-create our collective mind virus
 Mind virus as a service
 
+I have a special message to altman & zuck - how should I put this... *middle finger*
 
 The nation that adopts this system/paradigm first will inherit the earth the first
 
 
 Is interest rate a fundamental parameter? No! Its the paradigm, stupid!
 
+freedom & sovereignty are the foundation - you can have unfreedom within freedom, but you can't have freedom within unfreedom
+
+growth redefined - growth in numbers
+
+some with their philosophy blow themselves up - I will blow up on the Internet
+
+structured debate where everyone gets a say - just not equally
 
 How and why to help the most other people
 
@@ -1205,10 +1337,11 @@ We need to apply RR collectively at scale
 You might not agree with X - it is impossible to convey everything and convince everyone of everything in 60 minutes, but rest assured - you would be convinced of everything by the end of the journey in this channel
 Month by month we will co-create the next world religion
 
-What if we started pattern matching our best ideas together? How do we optimally let ideas have sex? How do we create the large idea collider?
+What if we started pattern matching our best ideas together? How do we optimally let ideas have sex? How do we create the large idea collider? - make a gesture with your hands
 
 You need a theory of progress and a causality map in order to implement the comparison operator
 In computer science if you want to sort you need a comparison operator
+understasnding is deeply related with causality
 
 The older the problem - the older the solution.
 Multicellular Cooperation, coherence, consciousness, prediction/anticipation & modelling the world
@@ -1217,6 +1350,7 @@ computational democracy
 
 if you vote as a dummy - eventually your vote will be weighted accordingly as a dummy - and actually you should want that as it's ultimately in your best interest
 there is always a path for reputational redemption through competence and alignment and integrity, and we're all a dummy in some areas anyway
+actions have consequences
 > "To he who hath it shall be given; from he who hath not even what he hath shall be taken away." - [Jesus, Matthew 13:12, 25:29](https://www.biblegateway.com/passage/?search=Matthew%2013%3A12%2CMatthew%2025%3A29&version=NIV)
 "For whosoever hath, to him shall be given, and he shall have more abundance: but whosoever hath not, from him shall be taken away even that he hath.”
 credit assignment !!!
@@ -1277,7 +1411,7 @@ World War 3 is a guerrilla information war with no division between military and
 
 We need a system that reliably generates better explanations and better strategies of putting them in people’s heads
 NPC chipping meme
-use plunger on head and say "get in there"
+use plunger on head and say "get in there" - in the fucking skull
 
 ██████████████████████████████████████████████████████████████████
 # digital ID
@@ -1306,6 +1440,7 @@ Not emotional but effective redistribution
 and instead of simply taxing and taking we should be giving something in return for that surplus - in the current paradigm taxing one's wealth diminishes his power and influence, but we can have a different contract for personal wealth and still allow individuals to garner as much influence over the economy as they deserve, + other forms of prestige & engineered scarcity
 liquidity, fungibility
 Democratically programmable currency, the end of fungibility
+when it comes to fungibility - (what it is) - too little is just as bad as too much
 
 ██████████████████████████████████████████████████████████████████
 # evolution's arrow
@@ -1394,11 +1529,16 @@ proper accounting requires transparency, openness & alignment of incentives - th
 # Call to action
 ██████████████████████████████████████████████████████████████████
 
+THE DAY OF RECOGNITION - who do you credit for having tipped you off on this video?
+
 if you find this "taking over the world" kind of stuff interesting you can sign up
 
 Get the third attractor
 Let people bind their social media
 Let people donate (patreon) and let them disclose how much they’ve paid if they want to be public
+    I serve you - all of you - anyone that's watching - and even those that are not - I serve everyone - you decide how much I should get paid
+    At some point in the future i'll also start posting my carbon and plastic consumption per month
+        if the amazon and the fish die - we'll have big problems
 Make it with a bit of rev share? Only for the booting of this first and only mlm market
 Give out public/private keys as pairs and then have the system accept public keys generated in some way without revealing the private key
 Make a form accepting public keys with an invite from someone and then
@@ -1417,6 +1557,21 @@ Call to action: get an ID and refer others and lets bootstrap the graph
 Gamifying this video itself
 Minimum viable status
 
+some ICOs gathered hundreds of millions - now compare them to this - how much does this deserve? Only 1 way to find out - generate demand. Subscribe. Participate in the global counter. Iliya's company is valued at 32B with not product (I'm not hating) - I'm just saying that I think this deserves at least such a valuation from the start as well. We'll apply the principles of the tool we want to build in building it in terms of resource allocation - we will dogfeed it in the most efficient way humanly possible. A minimum viable system (MVS) is literally one which can sustain and reproduce itself. And this is modest actually - 32B val is single digit billions of capital - how much does meta earn and spend per year for the worldwide spiritual and mental retardation? what I'm proposing is way bigger than the 7 biggest companies combined - it is bigger than the G7 or the G20 - I'm talking about a new world order - george bush clip - As a service - a service to which you get to serve
+
+Give till it hurts
+
+This will not completely replace money and markets - they’re a pretty ingenious self-organizing mechanism - but it will subjugate, transform, and align them
+
+We are the ESG - we will index you - ESG rating
+We will rate everything - I repeat - everything
+
+How do we not completely destroy the innate curiosity and agency in kids - how do we end this mass lobotomization - it makes me sick - games are their only outlet and its a meaningless shadow career
+
+The limits of my models are the limits of my thinking
+
+
+
 When mentioning the call to action at the end add a 100-200ms short flash of the photo of the American president saying “I want you!”
 
 Has all of this been figured out? No! But you get to participate and shape and debug and improve the system from within itself - help me steer the ship. Help me step away as early as possible
@@ -1431,6 +1586,8 @@ if you're one of the top 10000 (or 0.01%) software engineers on this planet and 
 ██████████████████████████████████████████████████████████████████
 # Ending
 ██████████████████████████████████████████████████████████████████
+
+I can sense that you have a lot of questions - so do I! - wait what?! - ...
 
 Make no mistake - this is the single most important thing you’ve ever come across / watched
 congratulations! you found the single most important video on the internet!
@@ -1448,7 +1605,9 @@ Sounds too good to be true?
 
 we've barely scratched the surface in this video - A LOT was left out
 
-Mic drop at the end - with my tat
+Mic drop at the end - with my tat shown
+
+and that's the end of our family friendly special!
 
 and I show my face with the thug life glasses
 
@@ -1460,6 +1619,10 @@ https://www.imdb.com/title/tt0172495/quotes/?item=qt0404418&ref_=ext_shr_lnk
 
 just do it! make accountability come true! /\
 https://www.youtube.com/watch?v=ZXsQAXx_ao0
+
+feel the collective intelligence
+
+all I want is to raise a family, take care of my parents and work on whatever I want
 
 WE TAKIN OVER!
 

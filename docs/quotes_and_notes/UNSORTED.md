@@ -68,6 +68,8 @@ The greatest power requiring the greatest responsibility
 
 TODO: Geoffrey West scaling laws - why it makes sense to be bigger for efficiency and synergy and why we need more people
 
+“More is different”
+
 The riddle of existence - how best to live and how to work towards answering the deepest questions
 
 Human development at scale

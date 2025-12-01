@@ -343,6 +343,8 @@ https://www.youtube.com/watch?v=wKt0NaMHCbM
 - CRI rating 95+
 - lower ISO == less grain/noise but need more light - aim for 100
 - lower aperture / F-stop - for more background blur - aim for 3.5?
+    actually high aperture == low value
+    - but for pronounced bokeh I need to maximize the aperture, zoom to the longest focal length (200mm), and ensure the background is as far away from the subject as possible
 - shutter speed 1/60 if filming with 30fps (should be 2x the fps)
 - white balance camera to key light (set it also to 5600k or whatever)
     on white balance:
@@ -355,8 +357,34 @@ lampi4ki okolo panoto zad men? tube light?
 don't put another warm light in the background - instead use the opposite color of the person's face - blue(ish)
 
 
+what is HDR
 
 
+- 4:2:2 is preferrable to 4:2:0 if using a green screen or will use a lot of color grading later on, it takes 33% more space (not 50% because the luma (Y) channel is for all pixels)
+    https://www.reddit.com/r/cinematography/comments/6e0hrc/comment/di77vb1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+
+
+
+- 4k over USB is worse than through HDMI
+- USB does not transmit audio - but if I use HDMI and I plug the microphone somehow to the recording device then they will be automatically synced
+- the hdmi port on laptops is only output - need an adapter from hdmi to usbc adapter (camlink 4k)
+
+buy
+- plugin dummy battery
+- usbc-usbc cable
+- USBC hub
+    that supports both Power Delivery and has enough ports
+
+    https://www.google.com/search?q=how+to+plug+an+external+USB+microphone+to+iphone+15+pro+max&oq=how+to+plug+an+external+USB+microphone+to+iphone+15+pro+max&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgoIARAAGKIEGIkFMgoIAhAAGKIEGIkFMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIEMgoIBRAAGIAEGKIE0gEIMzE5OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+- HDMI 4k capture card
+    elgato 4k S has audio input and supports HDR, but do I need HDR?
+    it does not support 10 bit 4k - only for 1080p
+    it does not handle 4:2:2 - only 4:2:0
+- hdmi audio embedder (if not part of the capture card)
+- USB-C to HDMI adapter or cable and connect the devices
+
+
+look into the audio interface software
 
 
 
@@ -403,6 +431,8 @@ A guide to life
 ██████████████████████████████████████████████████████████████████
 
 don't just link to 1 single socials link - link to them separately - a linktree is only for places where you can only put 1-2 links
+
+or simply look at the camera for 20 seconds without moving - or do it in the future
 
 get a whiteboard & markers
 
