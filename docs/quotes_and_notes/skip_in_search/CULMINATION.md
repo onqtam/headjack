@@ -1191,19 +1191,19 @@ A message to all beurocrats, managers and “world leaders”:
 In the Blockchain Age the Public Watches You!
 You are legible to the public!
 
-I wasn't supposed to go psycho this early but the ONLY reason was fear - fear that I wouldn't get to finish my book. But I guess I decided to toss the coin and "take a fucking chance, will you?" - george carlin clip - grow some balls - even a few percent are troubling, but the upside of starting the whole thing 1 year earlier is that we get to solve the biggest problems in the world 1 year earlier. There's another reason - there's another reason - women! and one in particular that I want in my world sooner rather than later and so I'm willing to risk the success of my whole thing. "you shouldn't chase women bro" - I actually learned my lesson after 33 years. No... I'm done chasing - I'm standing out - let the chips fall where they may. Women are nature itself - they select. Money is just a proxy for sex and we can replace it. Also martyrdom is the mother of all streisand effects so perhaps its a win-win
+I wasn't supposed to go psycho this early but the ONLY reason was fear - fear that I wouldn't get to finish my book. But I guess I decided to toss the coin and "take a fucking chance, will you?" - george carlin clip - grow some balls - even a few percent are troubling, but the upside of starting the whole thing 1 year earlier is that we get to solve the biggest problems in the world 1 year earlier. There's another reason - there's another reason - women! and one in particular that I want in my world sooner rather than later and so I'm willing to risk the success of my whole thing. "you shouldn't chase women bro" - I actually learned my lesson after 33 years. No... I'm done chasing - I'm standing out - let the chips fall where they may. Women are nature itself - they select. Money is mostly just a proxy for sex (not the only one) and we can redefine it. Also martyrdom is the mother of all streisand effects so perhaps its a win-win
 "civilization is a race between education and catastrophe" is a famous quote attributed to the English writer H.G. Wells 
 I was hesitant to make such media before finishing my book and making it as uncensorable as information theoretically possible - I do not want to be suicided - but I just want to get something out there - the very much unfinished book is in a github repo - here’s the git hash of a checkpoint in its history if it needs to be finished by someone else - it would take 2-3 years for someone coming into it to write it properly as they’d need for things to imprint in their heads
 All the peace lovers get shot for some reason - reenact the quote from bill hicks with paper people and shoot them 1 by 1 with your middle fingers and then blow one of them like a smoking gun and show it to the camera
 > "Did you ever stop to thnk about all the people we kill? They're always people who tell us to live together in harmony and try to love one another: Jesus, Ghandi, Lincoln, John Kennedy, Bobby Kennedy, Medgar Evers, Malcolm X, Martin Luther King, John Lennon. They all said: 'Try to live together peacefully.' BAM! Right in the f--in head! Aparently we're not ready for that!" - [George Carlin](https://www.azquotes.com/quote/891216)
 > "Opportunists are promoted, realists are co-opted, idealists are frightened and radicals are shot." - [Heather Marsh](https://www.goodreads.com/quotes/7996445-opportunists-are-promoted-realists-are-co-opted-idealists-are-frightened-and)
-Draw a circle on your forehead and then makeup yourself like the joker and ask - why so serious and hold the camera and laugh - lets put a target on that face
+Draw a circle on your forehead and then makeup yourself like the joker and ask - why so serious and hold the camera and laugh - lets put a target on that face - you think this is dangerous for me? I think the status quo is dangerous for everyone
 Give ipfs hash of the files (git repo and previous recordings)
 Only the paranoid survive
 This video can also be found in the archive
 plus im just a comedian - what do I know - that's the excuse from responsibility nowadays, right? this whole thing is insane - it would never work! ;)
 
-A moral high ground so high you can’t even see it from below - the kingdom of heaven is in the clouds!
+A moral high ground so high you can’t even see it from below - the kingdom of heaven is in the clouds! the closer you are to truth - the closer you are to true morality (and love) as well - without discerning truth you cannot discern morality! some things are more moral than others - some actions are more right than others - feeling like captain obvious over here!!1
 
 Fungibility spectrum - sometimes the truth really is in the middle - sketch of fence sitting and feeling pain in the crotch
 
@@ -1224,7 +1224,7 @@ Horse - giddy up - i go bii s kamshika
 
 
 Remove the blowing up stuff
-or put memes on your chest and "blow up on the internet" with a big red "publish" button - and show hello kitty, icecream so good, and others
+or put memes on your chest and "blow up on the internet" with a big red "publish" button - stand behind a tinfoil wall and to the morpheus move vs agent smith - and show hello kitty, icecream so good, and others
 to hold a pen is to be at war - to press a button is to be at war
 
 
