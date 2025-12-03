@@ -1952,7 +1952,7 @@ all of chapter 8 is good, it's part of his book "The Nature of Technology"
 > 4. No externalities: production and use of the things being traded in a marketplace only affects the producer and user, and not third parties that you have no connection with" - [Plurality philosophy in an incredibly oversized nutshell, by Vitalik Buterin](https://vitalik.eth.limo/general/2024/08/21/plurality.html)
 
 
-
+> "The paradox is simple: If essential goods are cheap or public, GDP shrinks; if they are expensive or privatized, GDP grows." - [Why America Fights Over Symbols While Europe Fixes Problems, by Francis Heylighen](https://francisheylighen.substack.com/p/why-america-fights-over-symbols-while)
 
 Instead of trying to get prices to reflect the full spectrum of effects - trying to fold everything in the price - (adding costs for externalized harms) we can add additional dimensions to things - we can influence the desirability of the good without trying to price in the carbon externalities or the cultural externalities of it - not because full reflection of the externalities through the price isn’t important but because it might be easier to add additional dimensions of regulation
 

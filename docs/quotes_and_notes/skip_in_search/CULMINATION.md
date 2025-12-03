@@ -205,6 +205,7 @@ Those who tell the stories rule the world
 I was not accounting pilled in 2022
 Theoretically optimal solution - no other design can get even close to the optimal set of technical tradeoffs in my architecture
 The more compelling and refined the story becomes - the sooner will the system reach a billion people
+    einstein quote about understanding the problem fully
 > "Those who tell the stories rule society." - [Plato](https://www.goodreads.com/quotes/20382-those-who-tell-the-stories-rule-society)
 
 Nervous system
@@ -217,7 +218,7 @@ Your conspicuous consumption is our opportunity
 
 we need an ideal towards which to strive towards - as a society, and as males and females
 
-if we have a weighted causality graph and we have goals - we also have a morality structure - we can assign valence to any single thing that's part of that causality graph
+if we have a weighted causality graph and we have goals and a hierarchy of values - we also have a morality structure - we can assign valence to any single thing that's part of that causality graph
 is it easy or straightforward to create this graph? Heck no! but the sooner we start working on our process - the sooner we'd have something better than what we have now
 With a causal graph we can solve the root of problems once and for all instead of treating their symptoms in a whack-em-all
 
@@ -228,6 +229,11 @@ Meaning comes from being consequential
 Multiscale competency architecture
 Subsidiarity
 Hierarchy
+
+PP & FEP & Active Inference
+
+We call things alive to the extent its cognitive light cone is bigger than than of its parts - michael levin
+
 
 The upstream of the upstream
 
@@ -240,7 +246,9 @@ https://newrepublic.com/article/115821/einsteins-famous-quote-science-religion-d
 Where is the global handle/knob/lever on parameter X?
 
 There is a way to own nothing and be happy
-freedom through constraint
+freedom through constraint - bondage as a service - with X-s on nipples & with hands tied & apple/gag in mouth
+freedom & sovereignty are the foundation - you can have unfreedom within freedom, but you can't have freedom within unfreedom
+    the world is fortunate to have the west with its freedoms - only we can give birth to such an ideology
 
 Differentiation and specialization coupled with alignment and integration
 
@@ -279,7 +287,7 @@ something larger than ourselves that will persist beyond our lives
     Total privacy for individuals and complete transparency for organizations
 - A reversed panopticon
 - Ladder of influence and legitimacy (legibility?)
-- Opt-in
+- Opt-in - Turn on, tune in, drop out
 - Can scale to tens of billions and has no limitations on the amount of data
 - True anonymity with zero knowledge - can even prove to be a real human and prove credentials in a privacy preserving way
 - Self organization
@@ -625,7 +633,7 @@ put that big rock down bro, its the 21st century, we no longer compete on liftin
 The olympics are a relic of a long gone era - they’re still great though - its cool that we have them but they’re not what we need
 
 
-talk about world leaders and how they're not real leaders, they're managers - with their worthless photo ops on G7/G20 - and their books
+talk about world leaders and how they're not real leaders, they're opportunists or at best merely managers - with their worthless photo ops and their books
 
 the many will evaluate the few instead of the few evaluating the many
 
@@ -677,6 +685,7 @@ we can prove some identity made a death thread in DMs using LLMs & ZK & MPC & TE
 
 CIA - don’t suicide me - I love life - you wont be out of a job anytime soon, and ultimately what I’m proposing is in your best interest if you factor everything in
 Plus I’m just a comedian - I’m just talking shit… what do I know… nobody is gonna take me seriously
+im just a chill guy
 
 The densest cultural object/artifact imaginable
 
@@ -693,7 +702,7 @@ Every regime should be aiming to be so spectacularly successful that everyone el
 
 Taxation is theft only if you’re getting ripped off by a decrepit and morally bankrupt system
 
-Im a humble - laugh - public servant - not a private individual - and im not calling for everyone to be as extreme as me - I'm actually pretty reasonable (believe it or not) - but I want to set an example and point towards the north star - this is my social contract
+Im a humble - laugh (spit out water) - public servant - not a private individual - and im not calling for everyone to be as extreme as me - I'm actually pretty reasonable (believe it or not) - but I want to set an example and point towards the north star - this is my social contract
 not advocating it for everyone - and not the real north star - people should have the option to have personal privacy - uhh its complicated and tbd
 Consumption beyond a certain level simply is immoral
 
@@ -733,7 +742,7 @@ Its just a fucking horse! about when we designed representative democracy and ca
 The meta solution to all of our problems is an incentive architecture for truth to reliably bubble up to the top
 Ruthlessly incentivising truth
 
-we need to optimize the means of production and steer the desires of consumption - but not through legislation but through cultural regulation (not wokery) - what we will seize is the means of enculturation
+we need to optimize the means of production and steer the desires of consumption - but not through legislation but through cultural regulation (not wokery) - what we will seize is the memes of enculturation
 
 we need to recognize culture for what it is - the next substrate of evolution - the ether that binds us
 
@@ -771,6 +780,9 @@ we're experiencing a complexity catastrophe
 A complexity catastrophe is a phenomenon in complex systems where a sharp decline in performance or fitness occurs as a result of pervasive interdependencies between a system's components. This concept, popularized by biologist Stuart Kauffman, suggests that while some complexity is beneficial, too much can lead to a breakdown of adaptation or functionality, making the system highly vulnerable to failure.
 
 scena s protivogaz - externalities - carbon - shitting where we eat (atmosphere) - we don't want the amazon to die
+its a closed ecosystem - start with this and continue to fart and inhale, wear a sign saying "humanity"
+gas mask hooked up to my ass for inhalation - make it stop! please! my eyes are tearing up! my eyelashes are burning! aaa! convulsions, simulate fog/smoke somehow
+show NYT article from early 1900 before the "green new deal" was in the money game - NYT you are baked news!
 
 Decentralized, infinitely scalable and with no UX limitations
 
@@ -839,7 +851,7 @@ The best way to predict the future is to co-create it
 
 The window of transcendence will not be open for long
 Bitcoin
-Satoshi opened it with his digital rock but it is just a toy
+Satoshi opened it with his digital rock but it is just a toy - roleplay with a rock on a leash "come on boy"
     > "you can regulate your country out of bitcoin but you can't regulate bitcoin out of your country." - [Andreas Antonopoulos](https://youtu.be/2tqo7PX5Pyc?t=438)
 Welcome to the era of rules without rulers
 a rules based order is an actual possibility for the first time in human history
@@ -1073,6 +1085,22 @@ A new kind of Self-Correcting Authority
 
 we can pass The Great Filter
 
+Do a chimp impression
+
+say hello to my little friend - big fucking incentive
+
+Do you think im crazy? No.. i think you’re crazy for being contempt with the status quo - krishnamurty quote
+
+We can eliminate short term speculation and volatility - if there’s not a market cap in a traditional sense that’s fungible to money all the HFT goes away
+
+
+Have a scetch about consumption
+Also balls with microplastics - better living through chemistry! Aaaaa dramatically cutting your balls open
+
+Make a connected causal graph and pull one end to show how thay affects the whole - and say that this doesn't even have cycles & feedback in it!
+And if this is after the spinning bananas scene make another scene how causality lifts your bananas with a string - it could be tied to your head
+
+societal attractors, i.e. self-reinforcing dynamic configurations (that are difficult to get out of)
 
 Less education - more intergenerational transmission
 
@@ -1175,7 +1203,7 @@ Women are nature itself - they select. Money is mostly just a proxy for sex (not
 
 
 
-Mic drop with gas mask and the hose going into my pants - or do a “you spin me right round” impression with the music on? Copyrights for 2-3 sec?
+
 
 We need to give an offramp - a redemption arc to those that have wrong us - otherwise they will cling to power. If a better system is inevitable - why prolong it by fighting and punishing. Tit for tat with forgiveness beats tit for tat in a repeated prisoners dilemma. The greatest jubilee should not be a debt jubilee but a moral one - start opening your books and you will be forgiven everything, but only if you go all the way and migrate completely to transparency and openness within a specific timeframe.
 From this point onward - align or fade into itrelevance
@@ -1198,12 +1226,17 @@ You are legible to the public!
 
 I wasn't supposed to go psycho this early but the ONLY reason was fear - fear that I wouldn't get to finish my book. But I guess I decided to toss the coin and "take a fucking chance, will you?" - george carlin clip - grow some balls - even a few percent are troubling, but the upside of starting the whole thing 1 year earlier is that we get to solve the biggest problems in the world 1 year earlier. Also martyrdom is the mother of all streisand effects so perhaps its a win-win
 > "You can take the monkey out of the status-seeking game, but you can't take the status-seeking out of the monkey." - [Status as a Service (StaaS), Eugene Wei](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
+in the tiktok age ppl don't read books - this right here is the right medium
 "civilization is a race between education and catastrophe" is a famous quote attributed to the English writer H.G. Wells 
 I was hesitant to make such media before finishing my book and making it as uncensorable as information theoretically possible - I do not want to be suicided - but I just want to get something out there - the very much unfinished book is in a github repo - here’s the git hash of a checkpoint in its history if it needs to be finished by someone else - it would take 2-3 years for someone coming into it to write it properly as they’d need for things to imprint in their heads
 All the peace lovers get shot for some reason - reenact the quote from bill hicks with paper people and shoot them 1 by 1 with your middle fingers and then blow one of them like a smoking gun and show it to the camera
 > "Did you ever stop to thnk about all the people we kill? They're always people who tell us to live together in harmony and try to love one another: Jesus, Ghandi, Lincoln, John Kennedy, Bobby Kennedy, Medgar Evers, Malcolm X, Martin Luther King, John Lennon. They all said: 'Try to live together peacefully.' BAM! Right in the f--in head! Aparently we're not ready for that!" - [George Carlin](https://www.azquotes.com/quote/891216)
 > "Opportunists are promoted, realists are co-opted, idealists are frightened and radicals are shot." - [Heather Marsh](https://www.goodreads.com/quotes/7996445-opportunists-are-promoted-realists-are-co-opted-idealists-are-frightened-and)
 Draw a circle on your forehead and then makeup yourself like the joker and ask - why so serious and hold the camera and laugh - lets put a target on that face - you think this is dangerous for me? I think the status quo is dangerous for everyone
+    use a match cut multiple times as I'm putting on the white paint while talking the preamble before "why so serious"
+    white paint joker
+        https://www.kuku-bg.com/?term=&s=%D0%B1%D0%BE%D1%8F+%D0%B1%D1%8F%D0%BB%D0%B0&post_type=product&taxonomy=product_cat
+        https://maps.app.goo.gl/8hZCVczuyZ5UL3XV7
 Give ipfs hash of the files (git repo and previous recordings)
 Only the paranoid survive
 This video can also be found in the archive
@@ -1242,15 +1275,19 @@ A real leader can change the system fundamentally - they’re merely playing acc
 
 
 
+mention about something that there's no wiggle room - and add a shot of you wiggling as B-roll
+
 
 
 Metaverse - bridging/extending the real world with the virtual - virtualizing the real world
-you want any more buzzwords? I've got plenty! Singularity! Decentralization! Destiny!
+you want any more buzzwords? I've got plenty! Singularity! Decentralization! Augmented Reality!
 
 despite Goodhart's Law - this will be a system that is constantly self-correcting its reward mechanism - whatever it is - always error-correcting - in pursuit of error
 
 
 The elite of the future has to consume less and provide more - its our job to figure out the most optimal incentive architecture thats’s better than money and private property as they are conceived today
+
+you can't have agitators in a digital protest
 
 The open transparency network/overlay of society
 Transparency as a service
@@ -1297,8 +1334,6 @@ The nation that adopts this system/paradigm first will inherit the earth the fir
 
 
 Is interest rate a fundamental parameter? No! Its the paradigm, stupid!
-
-freedom & sovereignty are the foundation - you can have unfreedom within freedom, but you can't have freedom within unfreedom
 
 growth redefined - growth in numbers
 
@@ -1354,6 +1389,7 @@ Multicellular Cooperation, coherence, consciousness, prediction/anticipation & m
 computational democracy
 
 if you vote as a dummy - eventually your vote will be weighted accordingly as a dummy - and actually you should want that as it's ultimately in your best interest
+    roleplay a dummy fitting boxes in the wrong holes
 there is always a path for reputational redemption through competence and alignment and integrity, and we're all a dummy in some areas anyway
 actions have consequences
 > "To he who hath it shall be given; from he who hath not even what he hath shall be taken away." - [Jesus, Matthew 13:12, 25:29](https://www.biblegateway.com/passage/?search=Matthew%2013%3A12%2CMatthew%2025%3A29&version=NIV)
@@ -1403,6 +1439,8 @@ A total order, also known as a linear order, is a way of ordering the elements o
 fractal total order
 Knowledge fractal - zoom in on any aspect of it as much as you want
 look at this fucking shit - mandelbrot set - it keeps on going!
+    Halley’s Method
+    https://thoughtforms.life/halleys-method-fractal-art/
 
 ██████████████████████████████████████████████████████████████████
 # social engineering
@@ -1493,6 +1531,7 @@ we invented writing mainly for accounting purposes
 accountability etymology
 The terms "accountability" and "accounting" share a common root in the Latin word computare, meaning "to calculate".
 The term "account" comes from the Old French acontable, meaning "liable to be called to account".
+Yes, "accounting" and "accountability" share a common root, both deriving from the Latin word computare, meaning to "reckon" or "calculate". This connection is literal: accountability means the obligation to give an account, and accounting is the system for keeping and presenting those accounts.
 
 
 what is at the root of all evil
@@ -1504,7 +1543,7 @@ How else do you want me to spell it out for you?!
 Un accountable - missing - absence - void - black budget - O!!!
 
 Make accounting sexy again!
-Use the glasses
+Use the glasses - first your normal ones and then say "I need more accounting power" & switch to the goody ones and say "1 + 1 = 2"
 
 accountability leads to justice and fairness
 
@@ -1562,7 +1601,7 @@ Call to action: get an ID and refer others and lets bootstrap the graph
 Gamifying this video itself
 Minimum viable status
 
-some ICOs gathered hundreds of millions - now compare them to this - how much does this deserve? Only 1 way to find out - generate demand. Subscribe. Participate in the global counter. Iliya's company is valued at 32B with not product (I'm not hating) - I'm just saying that I think this deserves at least such a valuation from the start as well. We'll apply the principles of the tool we want to build in building it in terms of resource allocation - we will dogfeed it in the most efficient way humanly possible. A minimum viable system (MVS) is literally one which can sustain and reproduce itself. And this is modest actually - 32B val is single digit billions of capital - how much does meta earn and spend per year for the worldwide spiritual and mental retardation? what I'm proposing is way bigger than the magnificent seven combined (show their logos - in 2035 with tesla being the biggest? ;d) - it is bigger than the G7, or the G20 - I'm talking about a new world order - george bush clip - As a service - (saxypo drooling - the SaaS king wants to wet his beak!) a service to which you get to serve
+some ICOs gathered hundreds of millions - now compare them to this - how much does this deserve? Only 1 way to find out - generate demand. Subscribe. Participate in the global counter. Iliya's company is valued at 32B with not product and has 3B of funding (I'm not hating) - they're in the age of research - we're in the age of cultural evolution. I'm just saying that I think this deserves at least such a valuation from the start as well. We'll apply the principles of the tool we want to build in building it in terms of resource allocation - we will dogfeed it in the most efficient way humanly possible. A minimum viable system (MVS) is literally one which can sustain and reproduce itself. And this is modest actually - 32B val is single digit billions of capital - how much does meta earn and spend per year for the worldwide spiritual and mental retardation? what I'm proposing is way bigger than the magnificent seven combined (show their logos - in 2035 with tesla being the biggest? ;d) - it is bigger than the G7, or the G20 - I'm talking about a new world order - george bush clip - As a service - (saxypo drooling - the SaaS king wants to wet his beak!) a service to which you get to serve
 
 Give till it hurts
 
@@ -1625,7 +1664,7 @@ https://www.imdb.com/title/tt0172495/quotes/?item=qt0404418&ref_=ext_shr_lnk
 just do it! make accountability come true! /\
 https://www.youtube.com/watch?v=ZXsQAXx_ao0
 
-feel the collective intelligence
+feel the *~~AGI~~* collective intelligence / superorganism
 
 all I want is to raise a family, take care of my parents and work on whatever I want
 
@@ -1633,4 +1672,5 @@ WE TAKIN OVER!
 
 lets build the kingdom of god/heaven
 
+The final shot - zoomed into the background and exploring it fully
 

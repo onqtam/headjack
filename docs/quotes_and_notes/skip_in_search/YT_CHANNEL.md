@@ -257,7 +257,8 @@ visual style:
     - the music you choose sets the tone (tense/on edge/excited/energized/hyped/reflective/etc.)
         - sync key moments to the beat
             - for momentum use crescendos, sting, swell, beat drop
-
+    - The ONLY 7 Cuts You Need To Tell Any Story
+        https://www.youtube.com/watch?v=J0ydlAqg6_8
 
 
 BOOK A FREE CALL WITH LEO:
@@ -354,13 +355,15 @@ https://www.youtube.com/watch?v=wKt0NaMHCbM
     https://www.youtube.com/watch?v=fVlez0G7jBc
 - have a catch light (light reflection from the eye) to feel more alive - perhaps the fill light?
 
-lampi4ki okolo panoto zad men? tube light?
+don't put another warm light in the background - instead use the opposite color of the person's face - high temp blue(ish)
 
-don't put another warm light in the background - instead use the opposite color of the person's face - blue(ish)
+
+kodak 2383 lut for cinematographic look
 
 
 what is HDR
 
+10bit vs 8bit
 
 - 4:2:2 is preferrable to 4:2:0 if using a green screen or will use a lot of color grading later on, it takes 33% more space (not 50% because the luma (Y) channel is for all pixels)
     https://www.reddit.com/r/cinematography/comments/6e0hrc/comment/di77vb1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
@@ -391,6 +394,32 @@ buy
 
 look into the audio interface software
 
+██████████████████████████████████████████████████████████████████
+# being funny
+██████████████████████████████████████████████████████████████████
+
+- naive stupidity
+- overexaggeration
+- unexpected twists
+
+humor happens when there's a violation in a benign situation
+    violations: physical, identity, cultural, communication, logical, moral
+
+absurd/ridiculous
+specific (oddly)
+commit
+contrast
+every joke has a victim?
+give breathing room to the funny bits - leave some silence
+exaggeration, misdirection (surprise!), storytelling, teasing, sarcasm, puns, roleplaying
+preamble: "let me tell you why this is huge, true story!"
+brevity: if I had more time I would have written less
+funny words: pants > jeans
+
+I (emotion) (subject) because (reason/story)
+preserve the punch/funniest word till the end
+
+“Everything’s been done except you life”
 
 
 ██████████████████████████████████████████████████████████████████

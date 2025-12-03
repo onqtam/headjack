@@ -82,6 +82,7 @@ Designing Inequality
 
 P - M = E
 perception, motivation, emotion (energized action) - perception of the world minus our motivation leads to our emotion that fuels our actions - taken from here by Gregg Henriques: https://www.youtube.com/watch?v=L16JshSYeGo&t=2072s
+emotion can be thought of stress for being away from a set point
 
 Semantic associative network theory is a cognitive psychology model that posits knowledge is stored in a network of interconnected concepts. These concepts, represented as "nodes," are linked by "arcs" or connections that represent the strength and type of relationship between them. This model explains how the human mind organizes information, leading to concepts like "spreading activation," where the activation of one node spreads to related nodes. - from Gemini
 
@@ -89,6 +90,8 @@ Privacy Inversion - those with the most influence and importance will be most vi
 its about symmetry & proportionality
 
 > "Poverty is *~~an~~* **a social** engineering problem." - [Elon Musk](https://x.com/elonmusk/status/1991221594425802903), probably
+
+> "There is a time when the operation of the machine becomes so odious, makes you so sick at heart, that you can't take part! You can't even passively take part! And you've got to put your bodies upon the gears and upon the wheels ... upon the levers, upon all the apparatus, and you've got to make it stop! And you've got to indicate to the people who run it, to the people who own it, that unless you're free, the machine will be prevented from working at all!" - [Mario Savio](https://en.wikipedia.org/wiki/Mario_Savio)
 
 Hyperdimensionality
 

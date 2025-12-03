@@ -354,6 +354,15 @@ https://www.youtube.com/watch?v=xrXyRJV96mk
 
 ^^ from 1:07:44 till 1:11:11
 
+
+
+> "Yeah well it and and i mean the tree of knowledge affords a particular kind of perspective on this at first at it from an analytic perspective uh it does grant a particular access around complexification and then the complexification is the differentiation of parts that then get unified in particular ways and i think you can see a lot of what you know a unity differentiation and even what it sort of at least abstracts is ultimately sort of there are complexification processes that then have to come together as it say and just at a general level have to fight off we'll say entropy okay uh and so entropy is constantly working against complexification you have to pull in at a physics level you have to pull in what's called a free energy rate density flow yeah uh to use off of error liaisons this basic model yeah and i think we even you know maybe add some exchange in relation relationship that but and then you can track if i would argue a free energy information flow if you bring in like carl fristan's work um and you can put on top of that and the tree of knowledge then just tracks this evolution of complexification and then you can ask questions kind of systematically about what affords that neg entropic complexified organization and there are certain consistent processes that then begins and i believe a lot of our value systems our investment value systems yes oriented in relationship to this kind of harmonizing megan tropic structure that is well positioned against the forces of entropy at higher and higher levels of complexification which means that essentially the gravity of entropy is working harder and harder and you have to be in more and more oriented flow to maintain that structure because there's more and more forces that are pulling against you you can extrapolate that concept at least from a tree of knowledge perspective and you place the garden on top of the tree of knowledge and then you place what's called the elephant sun god on top of that and then that becomes essentially your ultimate transcendent concern a load star in relationship to trying to maintain the forces of nag entropy that afford the complexification that give rise to the kinds of things that we call good true and beautiful." - [Gregg Henriques](https://youtu.be/_7n49YOr4B8?t=2806)
+
+^^ from 46:46 till 48:44
+
+
+
+
 TODO INTERNET: fix YT links !!!
 
 > "" - [Karl Friston]()
@@ -372,8 +381,6 @@ Karl Friston on the FEP, cognition, life, agency, enactivism _ Thing in itself w
 Karl Friston on the FEP, cognition, life, agency, enactivism _ Thing in itself w- Ashar Khan
 
 
-
-> "" - []()
 
 > "" - []()
 
