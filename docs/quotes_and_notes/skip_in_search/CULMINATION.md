@@ -15,7 +15,9 @@ make subtitles in all languages
 a YouTube video can have titles in multiple languages by adding translated titles and descriptions in YouTube Studio.
 
 
-
+make it salient - describe universal pain points
+    remind the audience in the end - what happens if we don't increase the accountability of our system? what's gonna happen?
+adress objections or at least acknowledge them and say you'll cover them in the future
 
 
 have a scene where I grab the camera and talk to it in a shaky way from up close like the joker
@@ -103,7 +105,7 @@ Napravi 10 thumbnaila i gi dai na priqteli da gi ratenat
 
 What is the single most important question for our species? On what does everything we care about depend on? It is how we organize ourselves - our system
 
-
+truth must subjugate/conquer non-truth
 
 
 What is the most important thing? Something everything good and worth caring for depends on? What is worth dying for? What is the great enabler?
@@ -247,6 +249,7 @@ Where is the global handle/knob/lever on parameter X?
 
 There is a way to own nothing and be happy
 freedom through constraint - bondage as a service - with X-s on nipples & with hands tied & apple/gag in mouth
+    get Whipped - crush a carrot in mouth
 freedom & sovereignty are the foundation - you can have unfreedom within freedom, but you can't have freedom within unfreedom
     the world is fortunate to have the west with its freedoms - only we can give birth to such an ideology
 
@@ -374,6 +377,7 @@ What should we be coherent around and what not, and how do we determine the boun
 No single person or group in the entire world has thought as much as me about the intersection of …
 ^^ early in the clip
 
+we can turn a competitive disadvantage into a competitive advantage - we can change the cultural landscape
 
 perfect? no! better? yes!
 
@@ -644,6 +648,7 @@ love is a fundamental truth of reality
 give til it hurts
 
 Witness meee! From mad max - recognition
+Witness meee! - with me not facing the camera when spraying with silver (not actually spraying) and interleave with footage from film
 https://www.youtube.com/watch?v=x2CeDY9Ywhs
 https://www.youtube.com/watch?v=4KlSuGNt8e4
 
@@ -684,7 +689,7 @@ we can prove some identity made a death thread in DMs using LLMs & ZK & MPC & TE
 
 
 CIA - don’t suicide me - I love life - you wont be out of a job anytime soon, and ultimately what I’m proposing is in your best interest if you factor everything in
-Plus I’m just a comedian - I’m just talking shit… what do I know… nobody is gonna take me seriously
+Plus I’m just a comedian - I don't sway politics and shit - I just make people puff our air while uncontrollingly and rapidly contracting their lungs up and down through their larings and thair eyes are squinting and their mouth makes the shape of a banana! (and put a banana in my mouth) - I’m just talking shit… what do I know… nobody is gonna take me seriously
 im just a chill guy
 
 The densest cultural object/artifact imaginable
@@ -714,6 +719,7 @@ Its all about public goods
 
 Infinity is ours - all we have to do is not fuck it up!
 Infinity is on the event horizon of existence - the question is do we want it badly enough
+you know what infinity is, right? it's like... a lot! a heck of alot!
 
 
 have a shot of me with tin foil - not just a hat but my entire head with a hole to breathe - we need a system in which we wouldn't need a CIA - in the very far future
@@ -1096,6 +1102,8 @@ We can eliminate short term speculation and volatility - if there’s not a mark
 
 Have a scetch about consumption
 Also balls with microplastics - better living through chemistry! Aaaaa dramatically cutting your balls open
+    Better living through chemistry! And stuff! (Look at the camera) Do you like stuff? - we like stuff so much that we’re stuffed with it! - cut balls in half
+
 
 Make a connected causal graph and pull one end to show how thay affects the whole - and say that this doesn't even have cycles & feedback in it!
 And if this is after the spinning bananas scene make another scene how causality lifts your bananas with a string - it could be tied to your head
@@ -1169,7 +1177,8 @@ We must become conscious and self-reflective as a society
 
 There are better and worse ways of raising kids
 This is the end of postmodernism and radical relativism
-a true postmodern horror - the return of grand narratives! relativizing relativism!
+a true postmodern horror - the return of grand narratives! relativizing relativism! deconstructing deconstruction!
+show applying postmodernism to itself, loop it like a snake biting its own tail
 
 
 
@@ -1196,7 +1205,7 @@ Freedom of speech != of reach
 this is the real end of slavery - the masses will have complete sovereignty over their identities and expressions for the first time in human history - what you said doesn't matter and even how you voted doesn't matter - show the VOX article/chart - sometimes you don't even vote in a primary and get a candidate in a box! - make a gesture handing a wrapped gift
 what you say is ephemeral - it fades and is forgotten - and is never deduplicated and aggregated
 
-who watches the watchmen?
+who watches the watchmen? who brainwashes the brainwashers?
 
 
 Women are nature itself - they select. Money is mostly just a proxy for sex (not the only one) and we can redefine it. The 2 biggest drives are sex and intellectual achievement/creation/expression/discovery.
@@ -1262,6 +1271,7 @@ Horse - giddy up - i go bii s kamshika
 
 
 Remove the blowing up stuff
+Time to blow up! - Dramatic pause - on the internet!
 or put memes on your chest and "blow up on the internet" with a big red "publish" button - stand behind a tinfoil wall and to the morpheus move vs agent smith - and show hello kitty, icecream so good, and others
 to hold a pen is to be at war - to press a button is to be at war
 
@@ -1323,6 +1333,8 @@ A real theory of progress
 
 How do we design the system such that it produces the greatest truth? As a package? As a bible? As a self-modifying and improving (with a diff and notifications for changes to the different aspects and parameters)
 
+this is how we rebuild the web of trust - web - connections - interdependence - delegation - trust - accountability, reputation, skin in the game, incentives, game theory - list these words with intense/articulate tonality and give each of them time
+
 Desire as a service
 
 Lets co-create our collective mind virus
@@ -1332,6 +1344,11 @@ I have a special message to altman & zuck - how should I put this... *middle fin
 
 The nation that adopts this system/paradigm first will inherit the earth the first
 
+intellectual legitimacy, authority
+
+it will afect everything! - "will will affect ..." - "EVERYTHING!"
+
+pagerank 2.0 - source rank - who and how determines the weights?
 
 Is interest rate a fundamental parameter? No! Its the paradigm, stupid!
 
@@ -1409,6 +1426,10 @@ god is one, undivided, eternal - god is the attractor of collective unification 
 How do we become as impactful as possible in affecting the most number of people the furthest forward
 
 Mention augmented reality - the metaverse
+the metaverse is not about a complete disconnect from the real world - it is the ultimate interface to the real world
+not this metaverse: show polygon zuck
+https://slate.com/technology/2022/08/mark-zuckerberg-metaverse-horizon-worlds-facebook-looks-crappy-explained.html
+https://www.cnet.com/culture/all-the-ways-people-freaked-out-about-this-insane-zuckerberg-vr-photo/
 
 Deduplication =+> harder to take credit for someone else’s earlier suggestions
 
@@ -1543,6 +1564,7 @@ How else do you want me to spell it out for you?!
 Un accountable - missing - absence - void - black budget - O!!!
 
 Make accounting sexy again!
+Were gonna make accounting sexy again - I said sexy !! Dorky glasses
 Use the glasses - first your normal ones and then say "I need more accounting power" & switch to the goody ones and say "1 + 1 = 2"
 
 accountability leads to justice and fairness
@@ -1594,6 +1616,8 @@ viral lineage
 the viral lineage
 you get bragging rights and nothing else! plus you help spur the development of this system by showing demand
 
+say that you can just register and help up the counter & generate demand and you don't need to credit someone else for inviting you or to invite others - even just 1 signup matters
+
 Tell them to share the video and about virality and r>1 and what exactly to tell people they forward it to + ability to link yourself and then who you invite
 Make it such that the only way to join is through invitation and give out the first 20 slots to your closest people
 
@@ -1635,6 +1659,9 @@ I can sense that you have a lot of questions - so do I! - wait what?! - ...
 
 Make no mistake - this is the single most important thing you’ve ever come across / watched
 congratulations! you found the single most important video on the internet!
+
+“The ultimate, hidden truth of the world is that it is something that we make, and could just as easily make differently.”
+― David Graeber
 
 We will change the world! Oh - you don't believe me?! LOOK! I have the ENTIRE plan already!
     on the t-shirt
