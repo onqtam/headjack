@@ -26,6 +26,8 @@ biggest risk: too complex for the masses
 
 Reread your last notes in unsorted
 
+"this matters!" somewhere for emphasis
+
 ██████████████████████████████████████████████████████████████████
 # title & thumbnail
 ██████████████████████████████████████████████████████████████████
@@ -106,6 +108,8 @@ Napravi 10 thumbnaila i gi dai na priqteli da gi ratenat
 What is the single most important question for our species? On what does everything we care about depend on? It is how we organize ourselves - our system
 
 truth must subjugate/conquer non-truth
+We need to be in a literal status game/war for truth and against lying
+
 
 
 What is the most important thing? Something everything good and worth caring for depends on? What is worth dying for? What is the great enabler?
@@ -224,7 +228,7 @@ if we have a weighted causality graph and we have goals and a hierarchy of value
 is it easy or straightforward to create this graph? Heck no! but the sooner we start working on our process - the sooner we'd have something better than what we have now
 With a causal graph we can solve the root of problems once and for all instead of treating their symptoms in a whack-em-all
 
-social copying, veblen goods, mimetic desire - we want what others want
+social copying, veblen goods, conformity, mimetic desire - we want what others want
 
 Meaning comes from being consequential
 
@@ -248,10 +252,15 @@ https://newrepublic.com/article/115821/einsteins-famous-quote-science-religion-d
 Where is the global handle/knob/lever on parameter X?
 
 There is a way to own nothing and be happy
+    Own nothing and be happy - well not really nothing… but less - by choice
 freedom through constraint - bondage as a service - with X-s on nipples & with hands tied & apple/gag in mouth
     get Whipped - crush a carrot in mouth
 freedom & sovereignty are the foundation - you can have unfreedom within freedom, but you can't have freedom within unfreedom
     the world is fortunate to have the west with its freedoms - only we can give birth to such an ideology
+    only the west could become pregnant with this system - this is a testament for the liberties we enjoy
+    The west is the best because only the west can deliver the best
+    Freedom is fundamental
+
 
 Differentiation and specialization coupled with alignment and integration
 
@@ -339,11 +348,24 @@ We have all the pieces if the puzzle because of the great unbundling - all we ne
 
 frame control & manipulation
 
-the best nationalism is one that seeks to cooperate with others
+the highest form of nationalism is seeking the best ways to integrate and cooperate with others
+    if you care about your nation you should ultimately care about the world
+
+everyone is preoccupied with their corner of reality and almost nobody sees or understands the big picture
 
 Permanent record, but for those with the most influence - if we'll be legible to the system - the system should be legible to us - it's only fair
 
 meritocracy
+
+when there isn't huge wealth to steal there's less need for security and worry
+
+
+
+> "Any company where the world would be better if it didn't exist - we should figure out how to have it not exist." - [Daniel Schmachtenberger](https://youtu.be/JTz4Mncy1u0?t=4245)
+
+we need to give scaffolding for people to express their causal model of the world and to think about it
+
+people think of the iron hand (gesture - a shake of the hand) and the invisible hand (gesture - money with hand) but they rarely think of the intangible hand of status
 
 built-in error correction as the highest priority
 
@@ -368,6 +390,7 @@ Deep democracy
 1 man 1 vote only on the base constitution which defines the inequality in the other layers
 The end of 1 man 1 vote - democratic inequality of influence, we all get an equal vote about what else to not have an equal vote on
 slaughter of sacred cows
+    Roleplay killing a sacred cow
 Oh! I'm an Inequality Designer myself!
 Popper quote we are all equal in our infinite ignorance
 we will have equality in our vote only about the inequality of our vote
@@ -443,7 +466,7 @@ Retarding the youth for profit is a crime against humanity on the grandest of sc
 
 How do we cultivate a better culture
 
-Authority and legitimacy
+Authority and legitimacy, deference, trust
 
 What are the most fundamental aspects of pur reality? No, i don’t mean quantum mechanics or some shit like that - i mean of immediate practical utility for everyone
 
@@ -507,7 +530,7 @@ what is integrity?
 
 > "If doing the right thing is the wrong thing, there’s something fundamentally wrong with the system." - [Jim Rutt](https://youtu.be/RkhZfDXkX74?t=2602)
 1 party lying against the other - misrepresentation, lying with facts, out of context, selective framing / frame control, exaggeration, or outright lying
-cutting costs
+cutting costs/corners
 externalities
 making food addictive
 multipolar traps
@@ -524,6 +547,8 @@ Talk about the isomorphic patterns
 
 Adjudication
 
+
+transparent monetary flows
 
 
 
@@ -640,12 +665,22 @@ The olympics are a relic of a long gone era - they’re still great though - its
 talk about world leaders and how they're not real leaders, they're opportunists or at best merely managers - with their worthless photo ops and their books
 
 the many will evaluate the few instead of the few evaluating the many
+    We should be evaluators
 
 Talk about valence - sign - contrast - good & evil, reward vs punishment, positive vs negative, forward vs backward
+
+the problem is not selfishness or ego - it is having too small of a self
+
+we are finite systems with finite resources and how we prioritize and steer our attention (our most precious resource - even more precious than time or maybe even energy) is everything
+
+"None are more hopelessly enslaved than those who falsely believe they are free." — Goethe
 
 Talk about love
 love is a fundamental truth of reality
 give til it hurts
+truth is more important than life itself because it underpins it - there is no life without truth because life is a self-perpetuating process that uses knowledge for its maintenance, propagation, and reproduction
+Life depends on truth because it is built on truth - an accurate description of its environment in the form of knowledge
+
 
 Witness meee! From mad max - recognition
 Witness meee! - with me not facing the camera when spraying with silver (not actually spraying) and interleave with footage from film
@@ -688,7 +723,7 @@ we can prove some identity made a death thread in DMs using LLMs & ZK & MPC & TE
 
 
 
-CIA - don’t suicide me - I love life - you wont be out of a job anytime soon, and ultimately what I’m proposing is in your best interest if you factor everything in
+CIA - don’t suicide me - I love life - you wont be out of a job anytime soon, and ultimately what I’m proposing is in your best interest if you factor everything in - your descendants will curse you if you actively work towards eroding real progress and the pursuit of truth
 Plus I’m just a comedian - I don't sway politics and shit - I just make people puff our air while uncontrollingly and rapidly contracting their lungs up and down through their larings and thair eyes are squinting and their mouth makes the shape of a banana! (and put a banana in my mouth) - I’m just talking shit… what do I know… nobody is gonna take me seriously
 im just a chill guy
 
@@ -723,6 +758,7 @@ you know what infinity is, right? it's like... a lot! a heck of alot!
 
 
 have a shot of me with tin foil - not just a hat but my entire head with a hole to breathe - we need a system in which we wouldn't need a CIA - in the very far future
+    tell them and military people why this is ultimately in their best interest
 > "Any organization created out of fear must create fear to survive." - [Bill Hicks](https://www.azquotes.com/quote/798848)
 
 
@@ -900,6 +936,7 @@ Social resonance and coherence
 Merging the market, state, religion, media, academia and education under *~~sha~~* syntropic law
 
 Making the Collective Unconscious Conscious
+    Karl jung - until you make the unconscious conscious…
 
 
 No more faceless beurocrats
@@ -921,6 +958,13 @@ what you are is what we are - a collective of cooperative parts
 A cooperative collective intelligence of parts that gives rise to a higher order entity
 
 our destiny is to jail break / take control of the matrix and become its architects
+The matrix is a 2d array where one of the dimensions is the most important problems and the other dimension is the best solutions/proposals - an ordering of problems along with an ordering of prescriptions - and we would be constantly reordering all these arrays - like a global kanban of kanbans
+What if Neo was the one to formalize and construct and align the matrix?
+This is how we jailbreak the simulation - by taking conscious control of it
+Show your matrix t-shirt
+What if we applied total ordering to a total ordering? We’d get a 2d matrix! And we could go many more levels and dimensions deeper! As deep and recursive as the societal stack can support! One dimension is descriptions of the thing, another is proposals, another is how to even think about this problem and what are the rules of this specific game, etc.
+Fractal gradients - after showing the first 2 dimensions of the matrix (ordered problems and ordered things of relevance & sub-problems) - but wait there's more! 3rd dimension
+
 
 the greatest "as a service" - Telos & meaning as a service
 
@@ -1106,6 +1150,7 @@ Also balls with microplastics - better living through chemistry! Aaaaa dramatica
 
 
 Make a connected causal graph and pull one end to show how thay affects the whole - and say that this doesn't even have cycles & feedback in it!
+    Causality graph - and there aren’t even loops & feedback here! Fuck your equilibrium economics and equasions!
 And if this is after the spinning bananas scene make another scene how causality lifts your bananas with a string - it could be tied to your head
 
 societal attractors, i.e. self-reinforcing dynamic configurations (that are difficult to get out of)
@@ -1192,9 +1237,14 @@ https://x.com/elonmusk/status/1608939190548598784?s=20
 We should strive towards work worthy of surveillance (not in the terrorist sense lol - simply consequential and important)
 
 When it comes to AI all i have to say is that we don’t know how to make AGI - or even if we should - but what we already have will help a lot with interfacing in the future - you don’t like multiple choice menus and dropdowns, do you?!
+    Artificial - because it is not strictly biological, it is intelligently designed & engineered, general - because it is composed of general and universal explainers and helps them scale what they can achieve and can be used to solve generally any problem, intelligence - ability to solve problem
+    An artificial general collective intelligence is the structure and architecture of incentive orchestration for autonomous agents and it is solving a thermodynamic problem
+    AGI is a cooperation and integration protocol - and its our god
+
 
 Remove the book quotes from the repo
 
+make epistemology discussed again!
 
 Left-right spectrum - have some dimensionality, will you? Stop getting butt fucked by duveger
 
@@ -1212,12 +1262,14 @@ Women are nature itself - they select. Money is mostly just a proxy for sex (not
 
 
 
+I tried reading Marx and it was boring & outdated as hell! I prefer to read about complexity science
+
 
 
 We need to give an offramp - a redemption arc to those that have wrong us - otherwise they will cling to power. If a better system is inevitable - why prolong it by fighting and punishing. Tit for tat with forgiveness beats tit for tat in a repeated prisoners dilemma. The greatest jubilee should not be a debt jubilee but a moral one - start opening your books and you will be forgiven everything, but only if you go all the way and migrate completely to transparency and openness within a specific timeframe.
 From this point onward - align or fade into itrelevance
 if the new economy is inevitable - retribution will only slow its manifestation as it adds friction and tension
-
+Revenge is stupid - strategic forgiveness is smart - in regards to past misalignment
 
 
 The current host-centric internet architecture together with our property system are a crime against complexification itself
@@ -1238,6 +1290,7 @@ I wasn't supposed to go psycho this early but the ONLY reason was fear - fear th
 in the tiktok age ppl don't read books - this right here is the right medium
 "civilization is a race between education and catastrophe" is a famous quote attributed to the English writer H.G. Wells 
 I was hesitant to make such media before finishing my book and making it as uncensorable as information theoretically possible - I do not want to be suicided - but I just want to get something out there - the very much unfinished book is in a github repo - here’s the git hash of a checkpoint in its history if it needs to be finished by someone else - it would take 2-3 years for someone coming into it to write it properly as they’d need for things to imprint in their heads
+I don't even have a good model for how to think how worried I should be and if I'm taking a huge risk - I'm embracing the unknown with a leap of faith - my faith is in the goodness of the world and in the persuadability of human beings
 All the peace lovers get shot for some reason - reenact the quote from bill hicks with paper people and shoot them 1 by 1 with your middle fingers and then blow one of them like a smoking gun and show it to the camera
 > "Did you ever stop to thnk about all the people we kill? They're always people who tell us to live together in harmony and try to love one another: Jesus, Ghandi, Lincoln, John Kennedy, Bobby Kennedy, Medgar Evers, Malcolm X, Martin Luther King, John Lennon. They all said: 'Try to live together peacefully.' BAM! Right in the f--in head! Aparently we're not ready for that!" - [George Carlin](https://www.azquotes.com/quote/891216)
 > "Opportunists are promoted, realists are co-opted, idealists are frightened and radicals are shot." - [Heather Marsh](https://www.goodreads.com/quotes/7996445-opportunists-are-promoted-realists-are-co-opted-idealists-are-frightened-and)
@@ -1276,8 +1329,72 @@ or put memes on your chest and "blow up on the internet" with a big red "publish
 to hold a pen is to be at war - to press a button is to be at war
 
 
+The only way is through
 
-sign with !!1 written on it and hold it
+
+The most competent people should be teaching the most people
+
+The spectre of morality
+The stescoscope of morality
+
+Minimum viable set - set of mechanisms/ideas
+
+Get your filthy private intellectual property off my civilization!
+There isnt private property - there is only recognition
+
+We need to align people with their own word
+
+Make church great again
+
+Open standards
+
+Legitimacy is earned
+
+Legitimacy as a service
+
+Twitch/stream in this paradigm
+
+TV as a service
+
+What should we be like psychologically?
+
+Judgement as a service
+
+Our moneyary policy is consumptive - not thinking about the future is literally built in - spend now because dolla bill go down
+Talk about stigmergy
+
+Protesti i digitalizaciq
+
+Do a comparison operator scetch - you as ">" physically
+
+Standard Oil - standard knowledge
+
+Packaging, recycling, open economy, loval repair shops - you dont have to rely on the specific vendor and him going away
+Intellectual property is hurting us massively and the gains are no longer worth it with the type of social technology we could have
+
+Make ought great again - as a hat
+
+We need a value hierarchy
+
+Reimplement the legal framework of society - how do we determine the best boundary levels as parameters in society?
+
+We need an addressing scheme for the platonic forms of organization such that we can build its own recursion
+
+We need to make culture recursive - with the ability for self-reference
+
+We need to be told how and what to consume and what to create and what to change
+
+We need a protocol for collective change
+
+LLMs are our collective/cultural compression - cultural telos
+LLMs are collective compression
+
+The privatisation of information is the root of all unjustice
+
+
+
+
+sign/paper with "!!1" written on it and hold it
 
 A real leader can change the system fundamentally - they’re merely playing according to its tune - they dont truly understand it in a deep causal sense - you need a complexity science, evolutionary lens and many others all together. The current leaders are trapped in a spaghetti ot political science and philosophophical schools of thought and outdated models. We need to rethink civilization from first principles
 > "Nothing in biology makes sense except in the light of evolution." - [Theodosius Dobzhansky](https://en.wikipedia.org/wiki/Nothing_in_Biology_Makes_Sense_Except_in_the_Light_of_Evolution)
@@ -1372,6 +1489,7 @@ Intergenerational transmission not only of knowledge but also of opportunity
 Universal basic opportunity
 
 Universal basic humble pie - full accounting of your votes and decisions
+    roleplay slap with pie in the face
 
 truth to power as a service
 
@@ -1382,6 +1500,15 @@ Biological children. Cultural children - both one-to-many and one-to-one
 The ability to upload yourself is not about our conscious experience but about the continuity of our identity and soul
 
 Startup civilization
+    Startup civilisation - what is civility, what is moral is necessary - morality underpins civilization - we ought to synthesise “is” and “ought” - their separation must end - they were unbundled, and now we are re bundling
+There are only 2 ways to make money bundle/unbundle quote
+Think about how these things are connected linguistically and conceptually
+
+The public goods knowledge market
+A market for knowledge
+
+Books property
+
 
 In the next few years we will explore every single aspect of this system and its potentialities
 
@@ -1523,6 +1650,8 @@ nonzero - part of evarrow
 
 “More is different”
 
+we can't build with happiness as a moral foundation - because it is actually bullshit. We need to ground our theory of progress on reality and it's not that hard
+
 ██████████████████████████████████████████████████████████████████
 # causation
 ██████████████████████████████████████████████████████████████████
@@ -1614,6 +1743,7 @@ Separate account creation and the social graph (who invited who) from the sale o
 as all good things start with a "good old fashion ponzi" - not really - there's no financial gain here - how this graph gets interpreted is for the future to decide
 viral lineage
 the viral lineage
+r-naught factor
 you get bragging rights and nothing else! plus you help spur the development of this system by showing demand
 
 say that you can just register and help up the counter & generate demand and you don't need to credit someone else for inviting you or to invite others - even just 1 signup matters
@@ -1624,6 +1754,10 @@ Make it such that the only way to join is through invitation and give out the fi
 Call to action: get an ID and refer others and lets bootstrap the graph
 Gamifying this video itself
 Minimum viable status
+
+
+Signup form - wrom which country you are and generate a map
+
 
 some ICOs gathered hundreds of millions - now compare them to this - how much does this deserve? Only 1 way to find out - generate demand. Subscribe. Participate in the global counter. Iliya's company is valued at 32B with not product and has 3B of funding (I'm not hating) - they're in the age of research - we're in the age of cultural evolution. I'm just saying that I think this deserves at least such a valuation from the start as well. We'll apply the principles of the tool we want to build in building it in terms of resource allocation - we will dogfeed it in the most efficient way humanly possible. A minimum viable system (MVS) is literally one which can sustain and reproduce itself. And this is modest actually - 32B val is single digit billions of capital - how much does meta earn and spend per year for the worldwide spiritual and mental retardation? what I'm proposing is way bigger than the magnificent seven combined (show their logos - in 2035 with tesla being the biggest? ;d) - it is bigger than the G7, or the G20 - I'm talking about a new world order - george bush clip - As a service - (saxypo drooling - the SaaS king wants to wet his beak!) a service to which you get to serve
 
@@ -1636,8 +1770,9 @@ We will rate everything - I repeat - everything
 
 How do we not completely destroy the innate curiosity and agency in kids - how do we end this mass lobotomization - it makes me sick - games are their only outlet and its a meaningless shadow career
 
-The limits of my models are the limits of my thinking
+The limits of my models are the limits of my thinking - our models completely shape our perception and frame the boundries of what we can think of - imagination is constrained - good theories and explanations literally help us see - without them we're blind and lost
 
+we have a self-perpetuating system - and in it thrives only that which serves (to maintain) it - it's a runaway train where nobody is truly in control
 
 
 When mentioning the call to action at the end add a 100-200ms short flash of the photo of the American president saying “I want you!”
@@ -1646,8 +1781,13 @@ Has all of this been figured out? No! But you get to participate and shape and d
 How we initially seed the direction of it is of paramount importance and it could save us more than a decade of evolutionary meandering and trial and error within this ultimate architecture for cultural evolution.
 Help me help you - either sorcerer from wc3 or tom cruise
 https://www.youtube.com/shorts/T_3pFzfZFsw
+Help me help you - make this viral and I will deliver
+    I will set the right incentives and priorities for us to create a system for setting the right incentives and priorities
+    I want to infect you with whatever has infected me
 
 I want to be obsolete - to not be necessary
+
+
 
 if you're one of the top 10000 (or 0.01%) software engineers on this planet and you want to build the future - contact me
 
@@ -1694,10 +1834,24 @@ https://www.youtube.com/watch?v=ZXsQAXx_ao0
 feel the *~~AGI~~* collective intelligence / superorganism
 
 all I want is to raise a family, take care of my parents and work on whatever I want
+    I like women and knowledge creation & expression - that's all - well also psytrance festivals - no other aspirations or desires - well also kids and a strong community. And I don't think I'm alone, and I think even more people could think this way and join this cultural shift
+    I want this to start being developed, I want direct access to the people I've learned from until now - make this viral
+    I will show you another world and deliver us from evil
+    I want to make new connections and to justify them as best as I can and to hand them off to the collective
+    I want as much money just to not have to think about boring mundane shit and to just work
 
-WE TAKIN OVER!
+eventually I'll publish even my carbon & plastic consumption, my travel
+
+upsides vs downsides of video & book
 
 lets build the kingdom of god/heaven
 
 The final shot - zoomed into the background and exploring it fully
+
+
+██████████████████████████████████████████████████████████████████
+# Other
+██████████████████████████████████████████████████████████████████
+
+This is taking process philosophy seriously
 

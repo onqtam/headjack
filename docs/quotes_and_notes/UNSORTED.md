@@ -6123,6 +6123,24 @@ Annihilate partisanship
 > "I find bundling policies to be an absurd inheritance of 18th century technology... And then what happens when the party changes stances? ... You shouldn’t start with the idea of left vs right. Politics is about solving the coordination problems of people, so the right question is: What are people’s main issues? Then you go and solve those." - [What Are My Politics? by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/what-are-my-politics)
 
 
+
+> "If you treat an individual as he is, he will remain how he is. But if you treat him as if he were what he ought to be and could be, he will become what he ought to be and could be." - [Johann Wolfgang von Goethe](https://www.goodreads.com/quotes/33242-if-you-treat-an-individual-as-he-is-he-will)
+
+> "Treat people as if they were what they ought to be and you help them to become what they are capable of being." - [Johann Wolfgang von Goethe](https://www.goodreads.com/quotes/419209-treat-people-as-if-they-were-what-they-ought-to)
+
+> "There is nothing more frightful than ignorance in action." - [Johann Wolfgang von Goethe](https://www.goodreads.com/quotes/14270-there-is-nothing-more-frightful-than-ignorance-in-action)
+
+> "A person hears only what they understand." - [Johann Wolfgang von Goethe](https://www.goodreads.com/quotes/2505-a-person-hears-only-what-they-understand)
+
+> "Things which matter most must never be at the mercy of things which matter least." - [Johann Wolfgang von Goethe](https://www.goodreads.com/quotes/2326-things-which-matter-most-must-never-be-at-the-mercy)
+
+> "Divide and rule, a sound motto. Unite and lead, a better one." - [Johann Wolfgang von Goethe](https://www.goodreads.com/quotes/1193-divide-and-rule-a-sound-motto-unite-and-lead-a)
+
+> "Dream no small dreams for they have no power to move the hearts of men." - [Johann Wolfgang von Goethe](https://www.goodreads.com/quotes/115719-dream-no-small-dreams-for-they-have-no-power-to)
+
+
+
+
 Computational relations/expressions like increased GDP from war == bad with factor X, addiction to soft drinks and such paraditism == bad with factor Y - we need valences
 
 We must turn and point justification into itself - we need to make it self-reflective/aware and conscious
