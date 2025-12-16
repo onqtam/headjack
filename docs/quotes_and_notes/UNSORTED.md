@@ -20,12 +20,27 @@ https://www.sciencedirect.com/science/article/abs/pii/S0303264721000514
 Internalizing cooperative norms in group-structured populations
 https://www.biorxiv.org/content/10.1101/722439v1.full.pdf
 
+!!!!!!!!!!!!!!!
+TESTING THE MACHINE CONSCIOUSNESS HYPOTHESIS
+https://www.arxiv.org/abs/2512.01081
+
+
+Small biases toward similarity become magnified, generating cultural attractors that stabilize shared norms, vocabularies, and interpretive habits (Sperber & Claidière, 2008). This dynamic is evolutionarily adaptive in the domain for which it evolved. Communicative alignment is the very foundation of linguistic convergence and mutual intelligibility (Kirby, 2017; Steels, 2015). It is also essential for coordination, collaboration, and the formation of social norms.
+^^ from here: https://francisheylighen.substack.com/p/conformity-by-alignment-a-nonlinear
+Sperber, D., & Claidière, N. (2008). Defining and explaining culture (comments on Richerson and Boyd). Biology & Philosophy, 23(2), 283–292.
+Kirby, S. (2017). Culture and the evolution of structure in human language. Current Opinion in Psychology, 8, 37–43.
+Steels, L. (2015). The Talking Heads experiment: Origins of words and meanings. Language Science Press.
+
+
 TODO INTERNET:
 Andy Williams
 http://nobeahfoundation.org/
 https://doi.org/10.31234/osf.io/dr8qn
 https://doi.org/10.31235/osf.io/r2dxq
 Williams, A. E., Defining a Continuum from Individual, to Swarm, to Collective Intelligence, to General Collective Intelligence, International Journal of Collaborative Intelligence, In print (2021)
+
+
+
 
 
 
@@ -83,6 +98,7 @@ Designing Inequality
 P - M = E
 perception, motivation, emotion (energized action) - perception of the world minus our motivation leads to our emotion that fuels our actions - taken from here by Gregg Henriques: https://www.youtube.com/watch?v=L16JshSYeGo&t=2072s
 emotion can be thought of stress for being away from a set point
+^^ this delta is god's way of speaking to you
 
 Semantic associative network theory is a cognitive psychology model that posits knowledge is stored in a network of interconnected concepts. These concepts, represented as "nodes," are linked by "arcs" or connections that represent the strength and type of relationship between them. This model explains how the human mind organizes information, leading to concepts like "spreading activation," where the activation of one node spreads to related nodes. - from Gemini
 
@@ -101,6 +117,10 @@ what additional questions would have to be addressed to really be able to answer
 notes from Daniel about EGP - ephemeral group process by Forrest Landry
 
 Revitalizing the Commons
+
+> "Authority is a conferred right to do specific work." - [Group Relations Community](https://youtu.be/kcGNoG3g_rA?t=735)
+Authority is the legitimate power or right to give commands, make decisions, and enforce obedience, stemming from rank, office, expertise, or recognized legitimacy, allowing individuals or institutions to direct others or control resources. It's the recognized right to act, often on behalf of an organization or state, as seen in governments (legislative, executive, judicial) or workplaces (managers over employees). Authority differs from mere power by its accepted legitimacy, providing the right to issue commands and expect compliance.
+
 
 The Collective Singularity
 
@@ -1167,6 +1187,12 @@ https://www.noemamag.com/life-need-not-ever-end/
 > "This process need never come to an end. There are no inherent limits to the growth of knowledge and progress." - [David Deutsch](https://roadtoomega.substack.com/p/the-purposeful-universe-why-the-emergence#:~:text=This%20process%20need%20never%20come%20to%20an%20end.%20There%20are%20no%20inherent%20limits%20to%20the%C2%A0growth%20of%20knowledge%20and%20progress.)
 
 
+
+> "Leadership is ... about being the most resonant node inside the most intelligent network." - [Hanzi Freinacht](https://x.com/HFreinacht/status/1998494980956885074)
+
+
+
+> "" - [The Hidden Thread Connecting Information, Emergence, and Consciousness, by Bobby Azarian](https://roadtoomega.substack.com/p/the-hidden-thread-connecting-information)
 
 
 
@@ -6139,6 +6165,8 @@ Annihilate partisanship
 > "Dream no small dreams for they have no power to move the hearts of men." - [Johann Wolfgang von Goethe](https://www.goodreads.com/quotes/115719-dream-no-small-dreams-for-they-have-no-power-to)
 
 
+
+> "... when you have found Truth, you need not fear being defeated." - [Epictetus](https://www.goodreads.com/quotes/616541-if-you-seek-truth-you-will-not-seek-to-gain)
 
 
 Computational relations/expressions like increased GDP from war == bad with factor X, addiction to soft drinks and such paraditism == bad with factor Y - we need valences

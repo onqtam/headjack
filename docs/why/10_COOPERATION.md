@@ -271,8 +271,6 @@ Love is the one thing that we’re capable of perceiving that transcends dimensi
 
 > "In the end... success or failure will come down to an ethical decision, one on which those now living will be judged for generations to come." - [Edward O. Wilson](https://www.goodreads.com/quotes/150248-in-the-end-success-or-failure-will-come-down)
 
-> "Those who consume far more resources than they require destroy the life chances of those whose survival depends upon consuming more." - [George Monbiot](https://www.azquotes.com/quote/841038)
-
 > "You must remember that some things legally right are not morally right." - [Abraham Lincoln](https://www.azquotes.com/quote/730407)
 
 > "When you make it to the top, turn and reach down for the person behind you." - [Abraham Lincoln](https://www.azquotes.com/quote/1123411)

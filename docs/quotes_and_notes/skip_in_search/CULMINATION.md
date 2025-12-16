@@ -4,7 +4,9 @@
 # ideas
 ██████████████████████████████████████████████████████████████████
 
-Watch some george carlin again
+scene with the fake money you have
+
+
 
 pitai susedite koga ne sa si vku6ti prez denq za da moga da zapisvam i im dai nqkakuv podaruk i gi pitai dali imat oplakvaniq do sega otkum shum
 
@@ -28,6 +30,8 @@ Reread your last notes in unsorted
 
 "this matters!" somewhere for emphasis
 
+Redact book quotes
+
 ██████████████████████████████████████████████████████████████████
 # title & thumbnail
 ██████████████████████████████████████████████████████████████████
@@ -49,7 +53,12 @@ Everyone's ULTIMATE Concern == The Great Enabler ?!
 
 Everyone's ULTIMATE Concern ?!.. A Sermon on the Web & the Final Inversion
 
-Our ULTIMATE Concern - A Sermon on the Web, the Final Inversion & Return of Accounting
+Our ULTIMATE Concern - Rearchitecting The Matrix - A Sermon on the Web
+
+Our ULTIMATE Concern == ??? — A Sermon on the Web
+
+Everyone's ULTIMATE Concern == ??? — A Sermon on the Web
+
 
 the greatest slaughter of sacred cows - democracy (1 man 1 vote), capitalism, communism, socialism
 
@@ -100,17 +109,18 @@ Napravi 10 thumbnaila i gi dai na priqteli da gi ratenat
 # NEW INTRO VIDEO
 ██████████████████████████████████████████████████████████████████
 
+
+██████████████████████████████████████████████████████████████████
+# hook
+██████████████████████████████████████████████████████████████████
+
+
 "hey there!" - enter the picture from the side with tilted head first - or start directly with "what is the most important..."
 
 
 == what makes us special - why the ultimate social system is the great enabler and at the root of everything and why systemic thinking is most important
 
 What is the single most important question for our species? On what does everything we care about depend on? It is how we organize ourselves - our system
-
-truth must subjugate/conquer non-truth
-We need to be in a literal status game/war for truth and against lying
-
-
 
 What is the most important thing? Something everything good and worth caring for depends on? What is worth dying for? What is the great enabler?
 It is the ultimate system
@@ -126,28 +136,6 @@ what should be our ultmate desire? For each and every single one of us? Somethin
 
 Something so important, so fundamental - that literally everything worth caring for depends on it?
 
-
-
-
-we fail at identifying and prioritising what's most important and relevant
-
-
-decouple resources for personal use from control over the economy
-prestige
-
-externalities
-
-
-== the stakes
-- the future of life on earth depends on this - a crossroads between the 2 types of digital identity
-
-
-
-
-
-
-
-
 multiple open questions in the hook that gradually get answered in the video:
 - what is the ultimate product
 - how you can get it
@@ -155,7 +143,6 @@ multiple open questions in the hook that gradually get answered in the video:
 Ultimate desire and how to get it
 
 There isn't a single issue on any scale in the world that wouldn't benefit from a more optimal system for coming up with a solution to it
-- Every problem would benefit from integration
 
 the product that produces all products.
 
@@ -168,21 +155,23 @@ the problem: primitive & outdated & (partially) misaligned & wasteful & corrupt 
 Current capitalist system is primitive, wasteful, misaligned and mindless - it is self-terminating
 And everything else we've ever tried is even dumber
 money got us here but it will not get us there
+    the enlightenment and simple liberalism as they were conceived have showed their limits
 
 don't immediately spill the beans that the ultimate product is the ultimate social system
 instead say that everything else you get or experience in life depends on it - it is like the water fish swim in and never thing explicitly about
 its like the water - we don't see it, we don't question it, or if we do - we feel powerless
 
-aggregate expression
-
 ultimate ==> most consequential, most important, most fundamental - second place is not even close
 
-The future belongs to those who can predict it and that’s why we should incentivise them to share their predictions openly with skin in the game and contribute to our commons
-predictive commons
-hedge funds privatizing the gains of their predictive giga brains while our political system is a brainlet fitting boxes meme
 
-global shared world model
-a Worldwide collective Self Model
+# !!! AAAAAAAAAAA
+
+
+
+
+"its perfectly legal" - but is it perfectly moral?
+big tech is betting on gambling and scams - coffeezilla
+https://www.youtube.com/watch?v=julHFXsKsdQ
 
 fundamentally uncensorable
 will replace email, 
@@ -204,15 +193,16 @@ Syntropy
 
 once you find/understand it you'll never think about anything else more than about this thing
 
-I’ve been sitting on my hands for more than 3 years with the technical design - everyone kept asking me why I haven't started coding - initially I had no fucking clue what I had stumbled on - I just felt it had immense potential
+I’ve been sitting on my hands (roleplay it) for more than 3 years with the technical design - everyone kept asking me why I haven't started coding - initially I had no fucking clue what I had stumbled on - I just felt it had immense potential
 I don’t want to try
 I want to succeed
 Those who tell the stories rule the world
+    > "Those who tell the stories rule society." - [Plato](https://www.goodreads.com/quotes/20382-those-who-tell-the-stories-rule-society)
 I was not accounting pilled in 2022
 Theoretically optimal solution - no other design can get even close to the optimal set of technical tradeoffs in my architecture
 The more compelling and refined the story becomes - the sooner will the system reach a billion people
     einstein quote about understanding the problem fully
-> "Those who tell the stories rule society." - [Plato](https://www.goodreads.com/quotes/20382-those-who-tell-the-stories-rule-society)
+this is the ultimate status and incentive architecture on top of which you could build anything - ANYTHING - and so with great power comes great responsibility
 
 Nervous system
 
@@ -235,6 +225,8 @@ Meaning comes from being consequential
 Multiscale competency architecture
 Subsidiarity
 Hierarchy
+
+> "In a very deep sense, architecture really is destiny." - [The Meta-Crises and Digital Identity, by Jordan Hall](https://deepcode.substack.com/p/the-meta-crises-and-digital-identity#:~:text=in%20a%20very%20deep%20sense%2C%20architecture%20really%20is%20destiny.)
 
 PP & FEP & Active Inference
 
@@ -260,6 +252,12 @@ freedom & sovereignty are the foundation - you can have unfreedom within freedom
     only the west could become pregnant with this system - this is a testament for the liberties we enjoy
     The west is the best because only the west can deliver the best
     Freedom is fundamental
+    everything we do will be legal, moral, and easily auditable
+you can't build something decentralized on centralization - only the other way around - you can build something centralized on top of decentralization
+
+whether something is important depends on whether we can do something about it - how viable/realistic/costly it is, what the odds are
+
+cooper from interstellar: "It's not possible". "No, it's necessary".
 
 
 Differentiation and specialization coupled with alignment and integration
@@ -331,6 +329,7 @@ something larger than ourselves that will persist beyond our lives
 - Our system fails at conveying why we should care about others
     - why the wellbeing of others is in your best (expanded) self interest
     - Why others matter to us
+        Our system doesn’t simply fail at explaining why other people matter - it doesn’t even try
     System fails at prioritisation which depends on accounting of contribution and causal links
     Its time to start adressing the root of all problems instead of symptoms
 - Program or be programmed
@@ -338,6 +337,9 @@ something larger than ourselves that will persist beyond our lives
 - title: the hyper bull case for digital ID & Internet 2.0, the ultimate product? ultimate social system
 
 The most important developments this century are AI & CI
+
+The most important diffusion model/architecture diffuses knowledge in populations optimally for them to thrive
+
 
 collective intelligence - If Anyone Builds It, Everyone Thrives
 
@@ -348,7 +350,7 @@ We have all the pieces if the puzzle because of the great unbundling - all we ne
 
 frame control & manipulation
 
-the highest form of nationalism is seeking the best ways to integrate and cooperate with others
+the highest form of nationalism is seeking the best ways to integrate and cooperate with others - to be part of a larger whole
     if you care about your nation you should ultimately care about the world
 
 everyone is preoccupied with their corner of reality and almost nobody sees or understands the big picture
@@ -356,6 +358,8 @@ everyone is preoccupied with their corner of reality and almost nobody sees or u
 Permanent record, but for those with the most influence - if we'll be legible to the system - the system should be legible to us - it's only fair
 
 meritocracy
+
+the market myth - constitutive vs the other rules
 
 when there isn't huge wealth to steal there's less need for security and worry
 
@@ -430,6 +434,9 @@ Cultural enlightenment or bust
 Protopia or bust
 Showing the video with daniel & brett
 & a petri dish bust graphic
+== the stakes
+- the future of life on earth depends on this - a crossroads between the 2 types of digital identity
+
 
 We’re gonna make “ought” great again
 
@@ -452,8 +459,7 @@ How do we best identify what is worth identifying?
     ^^ this isnt that good/recursive
 Vote on how to vote on everything else
 we will judge how to judge
-How do we get people more interested in being more interested & interesting?
-    Interested in general and interesting themselves?
+How do we get people more interested in being more interested in general?
 we need to be on the same page & coherent on what we need to be on the same page & coherent and how we determine where the boundry is
 Moje bi trqbva da e “how do we get on the same page on/about what/how/why we should be on the same page on/about?”
 how do we better help people become better?
@@ -491,6 +497,8 @@ What are we?
 What is experience itself?
 What are we as a species?
 What is our role in the universe?
+
+life is an infinite game where the point is to keep playing
 
 We are all going to - probably - die
 And what do we want to tell the future generations about our current capacity for dreaming and imagination and creativity and values and aspirations
@@ -600,6 +608,7 @@ more capitalistic than capitalism & more socialistic/communistic than socialism/
 "yeah but it still sounds like communism!"
 STOP IT!
 and no, it's not about "tAx ThE RICh" - it's about socially engineering the rich/elite! (and everyone else)
+    convince the rich that there are better uses of their wealth and that there isn't such a need for control - convince them that there is a new status game in town - hold the moral high ground - be so high you don't even know where you are!
 
 if it turns out a single individual can outperform any form of collective intelligence and governance and can revolutionize multiple industries in the trillions - so be it! I WELCOME single individuals commanding tens of trillions of capital for the benefit of all - as long as they've earned it through competence and alignment and that there are accountability measures in place.
 
@@ -677,9 +686,10 @@ we are finite systems with finite resources and how we prioritize and steer our 
 
 Talk about love
 love is a fundamental truth of reality
-give til it hurts
 truth is more important than life itself because it underpins it - there is no life without truth because life is a self-perpetuating process that uses knowledge for its maintenance, propagation, and reproduction
 Life depends on truth because it is built on truth - an accurate description of its environment in the form of knowledge
+without truth being the highest value you might end up hurting what you love the most without even realizing it
+
 
 
 Witness meee! From mad max - recognition
@@ -710,6 +720,7 @@ moral/conceptual inversion
 The tripple/quadrupple inversion - the holy trinity - thats my holy trinity - or quadrinity
 Identity > Money, Public > Private, who surveils who, top-down vs bottom-up social credit score
 roleplay as an inverter - put yourself in a box and jump at 180 degrees or go with your feet from one side to the other over the top and fall
+Inversion: seduction > domination
 
 I command my tongue, but if I hurt it I hurt myself because we are one - our goals are completely in alignment
 
@@ -756,6 +767,7 @@ Infinity is ours - all we have to do is not fuck it up!
 Infinity is on the event horizon of existence - the question is do we want it badly enough
 you know what infinity is, right? it's like... a lot! a heck of alot!
 
+what is the value of others?
 
 have a shot of me with tin foil - not just a hat but my entire head with a hole to breathe - we need a system in which we wouldn't need a CIA - in the very far future
     tell them and military people why this is ultimately in their best interest
@@ -814,17 +826,32 @@ Nobody in the world has EVER thought more about the intersection of digital ID, 
 No single person or group
 put this quite early
 
+
+Journalism goes hand in hand with frame control ([Russell conjugation](https://en.wikipedia.org/wiki/Emotive_conjugation) - **what is** vs **how to feel about what is**), [Gell-Mann Amnesia](https://en.wikipedia.org/wiki/Michael_Crichton#GellMannAmnesiaEffect), cherry picking and many other problems. Imagine the introspection possible if everything was expressed as thought-graphs and was interlinked. What if we could fork & edit thought-graphs to remove bias? Can we become post-narrative?
+
+
+
 signal from noise - oh you don't like misinformation and disinformation? that makes the 2 of us! But I also don't like Prebunked Malinformation and I don't, like any of those from any source - including our most important institutions
 https://theportal.wiki/wiki/Prebunked_Malinformation
 ^^ show a link to this as a screenshot
 signal from noise - reimplementing/reaccounting expertise
 we're experiencing a complexity catastrophe
+    the cat is out of the bag in respect of everyone having a voice
+    the only way out is through
 A complexity catastrophe is a phenomenon in complex systems where a sharp decline in performance or fitness occurs as a result of pervasive interdependencies between a system's components. This concept, popularized by biologist Stuart Kauffman, suggests that while some complexity is beneficial, too much can lead to a breakdown of adaptation or functionality, making the system highly vulnerable to failure.
 
 scena s protivogaz - externalities - carbon - shitting where we eat (atmosphere) - we don't want the amazon to die
 its a closed ecosystem - start with this and continue to fart and inhale, wear a sign saying "humanity"
-gas mask hooked up to my ass for inhalation - make it stop! please! my eyes are tearing up! my eyelashes are burning! aaa! convulsions, simulate fog/smoke somehow
+gas mask hooked up to my ass for inhalation - make it stop! please! my eyes are tearing up! my eyelashes are burning! aaa! convulsions, simulate fog/smoke somehow - We are getting high on our own CO2 supply
+    Protivogaz - look! Im breathing what’s coming out of my ass! Awful! Im tearing up! MY OUTPUT IS HOOKED UP RIGHT IN MY INPUT !!!
 show NYT article from early 1900 before the "green new deal" was in the money game - NYT you are baked news!
+    I'm sure its just a hoax from those green new deal folks...
+    News Coverage of Coal’s Link to Global Warming, in 1912
+    https://archive.nytimes.com/dotearth.blogs.nytimes.com/2016/10/21/coals-link-to-global-warming-explained-in-1912/
+
+    https://static01.nyt.com/images/2016/10/21/blogs/dotclimate1912/dotclimate1912-blog480-v2.jpg
+
+    https://paperspast.natlib.govt.nz/newspapers/ROTWKG19120814.2.56.5
 
 Decentralized, infinitely scalable and with no UX limitations
 
@@ -914,9 +941,8 @@ A new reward function to compete and subjugate money
 
 Turning the attention economy from cognitive strip mining to actually economizing our most precious resource
 
-Reconceptualize property
-
 we shall Comprehend the Incomprehensible - why is there something rather than nothing
+we can pass The Great Filter
 
 Cultural Recursive Self-Improvement
 
@@ -929,11 +955,15 @@ Alignment is all we need - show a bunch of vectors or parts of a magnet
 
 Shared Context Window
 
+even if you don't want to participate in the system - if you're important enough the system will construct a representation of you whether you like it or not - based on your expressed opinions outside of it. There is no escaping - if you're important you'll go in the ledger of record.
+
 Solving the Meta/Meaning Crisis
 
 Social resonance and coherence
 
 Merging the market, state, religion, media, academia and education under *~~sha~~* syntropic law
+
+the function of religion is to solve a thermodynamic problem - it scales empathy, provides a common worldview and coherence, and a source of authority for coordination - everything else "like an afterlife" was in service to these fundamental goals
 
 Making the Collective Unconscious Conscious
     Karl jung - until you make the unconscious conscious…
@@ -961,9 +991,16 @@ our destiny is to jail break / take control of the matrix and become its archite
 The matrix is a 2d array where one of the dimensions is the most important problems and the other dimension is the best solutions/proposals - an ordering of problems along with an ordering of prescriptions - and we would be constantly reordering all these arrays - like a global kanban of kanbans
 What if Neo was the one to formalize and construct and align the matrix?
 This is how we jailbreak the simulation - by taking conscious control of it
+"so you want to escape the matrix? you want out of it? well... YOU CANT! but here's what we can do - we can take control of it and change it"
 Show your matrix t-shirt
 What if we applied total ordering to a total ordering? We’d get a 2d matrix! And we could go many more levels and dimensions deeper! As deep and recursive as the societal stack can support! One dimension is descriptions of the thing, another is proposals, another is how to even think about this problem and what are the rules of this specific game, etc.
 Fractal gradients - after showing the first 2 dimensions of the matrix (ordered problems and ordered things of relevance & sub-problems) - but wait there's more! 3rd dimension
+The matrix is full of pointers instead of the actual objects - they're interconnected across vectors
+a walk through the matrix - the different very important aspects
+RANKING/SORTING IS SEARCH !!!
+So you want to see the matrix? The SYSTEM OF CONTROL? THERE IT IS! *show a 2x2 matrix*
+The hitchhikers guide to society
+
 
 
 the greatest "as a service" - Telos & meaning as a service
@@ -1020,7 +1057,14 @@ we need incentives to stay consistent and not to be able to rewrite history and 
 digital sovereignty
 
 
+
+we can eliminate vo9latility from markets, we can disentangle valuations so that they don't boil down to 1 number and lose information but we can predict all the inputs that lead to an overall valuation and help people learn what matters and what's true better
+
+
+
 sankey diagram of the flows of resources and influence and opinions
+    The sankey-fication of life
+
 
 einstein compound interest quote - compound identity/reputation
 Reputation compounds just like knowledge and interest
@@ -1133,7 +1177,7 @@ The degree to which we exploit synergy is the degree to which we shall prosper
 
 A new kind of Self-Correcting Authority
 
-we can pass The Great Filter
+
 
 Do a chimp impression
 
@@ -1146,12 +1190,18 @@ We can eliminate short term speculation and volatility - if there’s not a mark
 
 Have a scetch about consumption
 Also balls with microplastics - better living through chemistry! Aaaaa dramatically cutting your balls open
-    Better living through chemistry! And stuff! (Look at the camera) Do you like stuff? - we like stuff so much that we’re stuffed with it! - cut balls in half
+    Better living through chemistry! And stuff! (Look at the camera) Do you like stuff? - we like stuff so much that we’re stuffed with it! - cut balls in half - "aaa where's the detox button?!?!?! 911? I need a detox of my balls ASAP!" - kids - this is not how you test for microplastics! don't do this at home!
+    "you should see what's also in your brain"
+
+
+> "Inside every cynical person, there is a disappointed idealist." - [George Carlin](https://www.goodreads.com/quotes/425528-inside-every-cynical-person-there-is-a-disappointed-idealist)
+    what if there was an ideal with an actual chance and strategy for success?
 
 
 Make a connected causal graph and pull one end to show how thay affects the whole - and say that this doesn't even have cycles & feedback in it!
     Causality graph - and there aren’t even loops & feedback here! Fuck your equilibrium economics and equasions!
 And if this is after the spinning bananas scene make another scene how causality lifts your bananas with a string - it could be tied to your head
+    Pump in hand to inflate head and raise banana
 
 societal attractors, i.e. self-reinforcing dynamic configurations (that are difficult to get out of)
 
@@ -1166,6 +1216,10 @@ A universal explainer
 Everything good that you care about hinges on the great enabler
 
 Post scarcity congo mine
+
+problem with prediction markets - insider trading
+you can't have insider trading if there is no inside vs outside - meme Roll Safe
+https://en.wikipedia.org/wiki/Roll_Safe
 
 We are nothing as a species or as individuals without our sociality
 
@@ -1208,11 +1262,23 @@ shared worldview
 
 we are emotional & irrational apes with language
 we need a system of incentives & accountability & structured interaction to transcend our tribal nature and all the bias & corruption that comes with it
+    Outgrowing our nature and tribalism through mechanism design & constraints - also about changing our opinions
+
+The top most important qualities, the top ways to develop them, the top reasons its these, the top ways to work on improving which are the top - its all about sorting and weighting
+
+broken feedback & disconnect from reality at the top
+
+The wisdom of crowds - if structured properly
+
+single issue voter - how that could be bad - too much compromise is built in
 
 stick around as we'll gradually explore the different aspects of the system - the earlier you familiarize yourself - the earlier you'd be a power user
 
 so am I a hard line consequentialist? a utilitarian? no! I'm not going to kidnap someone and harvest him for his organs to save a few others - its a complicated mix of different schools of thought
+    one could argue that the other schools of thought in ethics could be analyzed consequentially...
 
+
+market vs company boundry - theory of the firm
 
 Life is the opposite of the physical monotony of physical space, matter, and time - life is agency despite all osds
 
@@ -1223,7 +1289,19 @@ We must become conscious and self-reflective as a society
 There are better and worse ways of raising kids
 This is the end of postmodernism and radical relativism
 a true postmodern horror - the return of grand narratives! relativizing relativism! deconstructing deconstruction!
-show applying postmodernism to itself, loop it like a snake biting its own tail
+    when we deconstruct deconstruction we find that it can't build anything!
+show applying postmodernism to itself, loop it like a snake biting its own tail - "open your mouth - get in there!"
+
+
+"show me the man and I'll show you the crime"
+https://en.wikipedia.org/wiki/Give_me_the_man_and_I_will_give_you_the_case_against_him
+Show me the problem and I'll show you unaccountability and broken incentives
+
+
+
+
+
+
 
 
 
@@ -1261,31 +1339,52 @@ who watches the watchmen? who brainwashes the brainwashers?
 Women are nature itself - they select. Money is mostly just a proxy for sex (not the only one) and we can redefine it. The 2 biggest drives are sex and intellectual achievement/creation/expression/discovery.
 
 
+> "We will rise or fall to the level of our cultural affordances." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1757530236894552448)
+
+Hawk tuah! - did you buy the memecoin before the rug pull?
+
 
 I tried reading Marx and it was boring & outdated as hell! I prefer to read about complexity science
 
 
 
 We need to give an offramp - a redemption arc to those that have wrong us - otherwise they will cling to power. If a better system is inevitable - why prolong it by fighting and punishing. Tit for tat with forgiveness beats tit for tat in a repeated prisoners dilemma. The greatest jubilee should not be a debt jubilee but a moral one - start opening your books and you will be forgiven everything, but only if you go all the way and migrate completely to transparency and openness within a specific timeframe.
+I'll personally be pushing for forgiveness to organizations that come clean regarding past misalignments as long as they transition to the new system
 From this point onward - align or fade into itrelevance
 if the new economy is inevitable - retribution will only slow its manifestation as it adds friction and tension
 Revenge is stupid - strategic forgiveness is smart - in regards to past misalignment
 
+openness would allow for prediction "markets" for any aspect of any business or organization - incentives and competence are universally necessary!
 
 The current host-centric internet architecture together with our property system are a crime against complexification itself
 
 The god that depends on you / your existence - one which is literally constituted by you is a merciful god
 
 Go agead - argue against this - but its the moral high ground from every perspective - this is the right side of history - you will lose 99% of your arguments against this - agrnt smith thats the sound of inevitability clip
+    our MVP will be the forum that self-corrects and self-justifies its existence as best as possible
 
 Intellectual property and secrecy is a cock blocker for ideas having sex and I’m a sex maximalist / really horny boy !!1 - Have a 
+
+neo - i could dodge bullets? morpheus: no, you won't have to. - in regards to the existence of militaries & intelligence agencies - not against them - simply obsoleting the need for them and giving an offramp for the people there to transition to a different part of the economy without losing what they've built and acquired as skills - there will be even better opportunities for those people - just like we need to think of how to actually raise the living standard of poachers instead of simply banning poaching, we should think of an offramp for every misaligned organization in society
+
+welfare outside of a religious context doesn't work!
+
+Intelligence is the capacity to gain capacities. It is doing more with less.
+True intelligence is doing more with less. Solving problems without knowing everything.
+David Krakauer
+https://x.com/vitrupo/status/1986727092440952936
 
 
 A message to all beurocrats, managers and “world leaders”:
 In the Blockchain Age the Public Watches You!
 You are legible to the public!
 
-I wasn't supposed to go psycho this early but the ONLY reason was fear - fear that I wouldn't get to finish my book. But I guess I decided to toss the coin and "take a fucking chance, will you?" - george carlin clip - grow some balls - even a few percent are troubling, but the upside of starting the whole thing 1 year earlier is that we get to solve the biggest problems in the world 1 year earlier. Also martyrdom is the mother of all streisand effects so perhaps its a win-win
+Bane impression:
+    Ooooh you think COVID/crisis is (your ally) an opportunity... you merely coopted the crisis - I was born in it! moulded by it!
+    or maybe about the internet: oooh you think the internet is useful to you - I was born on it! moulded by it!
+    https://www.youtube.com/watch?v=F157geaXp_w
+
+I wasn't supposed to go psycho this early but the ONLY reason was fear - fear that I wouldn't get to finish my book. But I guess I decided to toss the coin and "take a fucking chance, will you?" - george carlin clip - grow some balls - even a few percent are troubling, but the upside of starting the whole thing 1 year earlier is that we get to solve the biggest problems in the world 1 year earlier. Also martyrdom is the mother of all streisand effects so perhaps its a win-win - if I get suicided the streisand effect will be renamed after me.
 > "You can take the monkey out of the status-seeking game, but you can't take the status-seeking out of the monkey." - [Status as a Service (StaaS), Eugene Wei](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
 in the tiktok age ppl don't read books - this right here is the right medium
 "civilization is a race between education and catastrophe" is a famous quote attributed to the English writer H.G. Wells 
@@ -1304,6 +1403,8 @@ Only the paranoid survive
 This video can also be found in the archive
 plus im just a comedian - what do I know - that's the excuse from responsibility nowadays, right? this whole thing is insane - it would never work! ;)
 
+if someone rereads all my notes and sit with them for some time they'd be able to see at least 70-80% of what I see - ALL unique ideas I've ever had or important quotes are in the notes. And some needs to be removed - there's a lot of duplication and even some I'd change now in hindsight, but most of it is good. But hopefully noone would have to dig through them and I'd just be able to finish the book in the next 1-2 years undisturbed.
+
 A moral high ground so high you can’t even see it from below - the kingdom of heaven is in the clouds! the closer you are to truth - the closer you are to true morality (and love) as well - without discerning truth you cannot discern morality! some things are more moral than others - some actions are more right than others - feeling like captain obvious over here!!1
 
 Fungibility spectrum - sometimes the truth really is in the middle - sketch of fence sitting and feeling pain in the crotch
@@ -1315,21 +1416,23 @@ The age of horse and lift heavy shit is over !!!
 we have paleolithic emotions medieval institutions and godlike technology eo wilson
 They didn’t have complexity science and information theory back then
 Horse - giddy up - i go bii s kamshika
+1 or a few bits of information every 4 years (elections) is very little gathered from the public and what it cares about
+> "I find bundling policies to be an absurd inheritance of 18th century technology... And then what happens when the party changes stances? ... You shouldn’t start with the idea of left vs right. Politics is about solving the coordination problems of people, so the right question is: What are people’s main issues? Then you go and solve those." - [What Are My Politics? by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/what-are-my-politics)
+
 
 
 "You have to let it all go, Neo. Fear, doubt, and disbelief. You've felt it your entire life, that there's something wrong with the world," - Morpheus.
 
 
-
+The fifth joint point
 
 
 Remove the blowing up stuff
+    The only respectable/honorable way of blowing up is on the internet with ideas
 Time to blow up! - Dramatic pause - on the internet!
 or put memes on your chest and "blow up on the internet" with a big red "publish" button - stand behind a tinfoil wall and to the morpheus move vs agent smith - and show hello kitty, icecream so good, and others
 to hold a pen is to be at war - to press a button is to be at war
 
-
-The only way is through
 
 
 The most competent people should be teaching the most people
@@ -1405,11 +1508,18 @@ A real leader can change the system fundamentally - they’re merely playing acc
 mention about something that there's no wiggle room - and add a shot of you wiggling as B-roll
 
 
+do not try to change the spoon - that's impossible - instead only try to realize the truth - there is no spoon - then you'll see it's not the spoon that bends - it is only yourself
+    do not try to change the adults - that's impossible - instead only try to realize the truth - (hold a spoon and drop it right here) - there are no (responsible) adults - then you'll see it's all about personal/deliberate development/growth/education/courage
+    ^^ this in relation to that we can wipe ourselves out and we ain't focusing on what's most important and wise and nobody has any clue how to achieve alignment
+
 
 Metaverse - bridging/extending the real world with the virtual - virtualizing the real world
 you want any more buzzwords? I've got plenty! Singularity! Decentralization! Augmented Reality!
 
 despite Goodhart's Law - this will be a system that is constantly self-correcting its reward mechanism - whatever it is - always error-correcting - in pursuit of error
+
+
+> "Authority is a conferred right to do specific work." - [Group Relations Community](https://youtu.be/kcGNoG3g_rA?t=735)
 
 
 The elite of the future has to consume less and provide more - its our job to figure out the most optimal incentive architecture thats’s better than money and private property as they are conceived today
@@ -1423,6 +1533,9 @@ No more frame control, no more double standards
 
 Its time to look at the most fundamental structural issues - and that is status
 
+
+
+> "A primary object should be the education of our youth in the science of government." - [George Washington](https://www.goodreads.com/quotes/26168-a-primary-object-should-be-the-education-of-our-youth)
 
 Crowdsourcing the replacement of capitalism & democracy
 
@@ -1453,6 +1566,10 @@ How do we design the system such that it produces the greatest truth? As a packa
 this is how we rebuild the web of trust - web - connections - interdependence - delegation - trust - accountability, reputation, skin in the game, incentives, game theory - list these words with intense/articulate tonality and give each of them time
 
 Desire as a service
+
+We need to help people see how they’re actively harming what they care about
+
+"its a big club and you aint in it" - george carlin
 
 Lets co-create our collective mind virus
 Mind virus as a service
@@ -1490,6 +1607,8 @@ Universal basic opportunity
 
 Universal basic humble pie - full accounting of your votes and decisions
     roleplay slap with pie in the face
+    Roleplay slowmo pie hitting face
+
 
 truth to power as a service
 
@@ -1526,6 +1645,7 @@ What if we started pattern matching our best ideas together? How do we optimally
 You need a theory of progress and a causality map in order to implement the comparison operator
 In computer science if you want to sort you need a comparison operator
 understasnding is deeply related with causality
+causality => dependency graph
 
 The older the problem - the older the solution.
 Multicellular Cooperation, coherence, consciousness, prediction/anticipation & modelling the world
@@ -1560,7 +1680,7 @@ https://www.cnet.com/culture/all-the-ways-people-freaked-out-about-this-insane-z
 
 Deduplication =+> harder to take credit for someone else’s earlier suggestions
 
-“Moral highground as a service” as a title
+“Moral high ground as a service” as a title
 
 Skill trees
 
@@ -1573,13 +1693,616 @@ examples: markets, marriage, corporations, legal system (also specific courts as
 they structure relationships to avoid conflict, avoid opportunistic behavior, etc.
 
 
+The enigma of reason book cover
+
 The search engine of the meaning economy
+
+
+
+
+We have been reduced to consumers… john vervaeke
+Atomized, there is no society quote
+We need to change our relationship to society
+
+A new kind of polity
+
+Touch on free will
+
+Am I just a globalist? A neo liberal?
+
+
+
+Service as a service - VCs must be drooling!
+
+Mind virus - obsessed & posessed & compelled - can’t you tell?!
+
+Regulating the availability of information - but not the accessability
+
+Let the game begin
+
+Do a technical episode
+
+Top ways to communicate any of these top things
+
+What are the top 100 most important concepts and mechanisms necessary to understand this system? What are the top ways of communicating them? What are the top ways of incentivising their refinement?
+
+
+Fix the epistemic commons - fix the world
+
+Justice depends on truth, consequentiality and understanding
+
+By mapping out the consequentiality graph we can determine how up i subsidiarity something belongs to
+
+I’ll take a bullet, a knife and a poison for your right to sovereign identity and to represent yourself
+You can’t kill me - I’m already dead (I died in 2018 in Peru) and I’ll be forever alive
+
+Is cannot be so easily separated from ought
+As much as there “is”, there is just as much“ought”
+
+Gambling - legal? But is it moral? How about those that are associated with it - either directly or indirectly? Are they moral? How many things are legal but immoral?
+
+accounting border control - separating what can be bought with money and what can’t
+
+Nobody has time to read everything on everyone and everything, but everyone will be able to comprehend the rules of this new system for generating trust and authority
+
+Trqbva ni nai-dobrata sistema za produce-vaneto na nai-dobriq model za samata neq i trqbva tova da se buta v glavite na kolkoto se moje poveche hora po kolkoto se moje po-uspeshni nachini
+
+Life on this planet is a compatibility stack - wait what?
+
+Ephemeralization
+
+Download the files and share this video - if it gets deleted start sharing your downloaded offline version
+
+We need to be more intelligent and deliberate about our wants
+
+ASI - Artificial/Aligned/Augmented Social Intelligence
+
+There are worse things than death - guilt is forever
+
+You can get paid for creating knowledge and/or intellectual property but you can’t have intellectual property
+
+The faster this becomes common knowledge - the more inevitable it would be - the less need to eliminate me there would be
+
+Or maybe i’m not actually paranoid and I’m just exaggerating - still - how did I think about filming this?
+
+Read a part of the script with it in your hand and on the couch
+
+Humanity will enter resonance for the first time in history and will amplify its own reach of imagination
+
+And here is what you should tweet: “…”
+
+Come serve the truth as a X, as a Y, as a Z, etc…
+
+What is and what ought to be are 2 different matrixes and how we diffuse them is the next version of reality
+
+I think I’m above the event horizon - I feel this is expressed well enough to be understood and picked up en masse
+
+
+
+Wealth is for you only up to a certain point - and beyond a certain point it starts becoming more and more for others because that would ultimately loop back to you in ways you couldn't get any other way
+
+
+Talk about 2018 in peru
+It was pure emotion - pure love - the thought of that other conscious light
+That ceremony I realized that there are things worth dying for because there are worse things than death
+Mention the unbearable potential crisis and 2023 aya
+
+They can’t do anything to me because there is no me. I died in 2018
+
+I felt for the first time that I loved something more than my own existence - my concept of the good. Wait what?
+
+Coherence around truth - that’s collective consciousness
+
+I’ve come to terms with death, although I do have hope
+
+“The farewell”
+
+Join the game! We will have kids! We will be happy! We will be fulfilled! We will be creative!
+
+We need an NPC-friendly environment - where 
+
+I’ll take a bullet for you - whoever you are - because of your potential m
+There can only be peace through culture
+I’ll take a bullet for you to be sovereign with your identity
+a bullet, a knife, a poison
+
+“You dob’t have time” - how I wonder whether this means no time in the world or in your own life that’s about to end
+
+List all the books you want to read and all your bookmarks
+And mention in the clip which file in the repo to look at as a guide for reading it
+
+I have only truth as a master - I belong to it
+
+
+A paradigm is a fundamental framework, model, or set of concepts, theories, and assumptions that shapes how we see the world, solve problems, and conduct research, acting as a shared worldview or pattern
+
+
+
+There isn’t anything illegal here, and there’s also nothing immoral - this cannot ever deserve to be silenced
+
+I want to infect you. I want whoever you are - to perceive the world more like I do.
+
+“I’ve got good memes” 
+Good but like actually “good”
+
+I’m ready to embody the Streisand effect if it comes to that - i’ve made peace already - I’ve lived my death and I am ok with it
+
+I’m setting a new standard for public service
+
+I am ready to be Streisand’ed if necessary
+
+We need a shared and open trust layer in society
+
+The sheldom solomon quote about coming to terms with death
+
+Imagine a global slider “public truth” - imagine being able to crank it higher
+
+At this point i feel confident that if I disappear that this will still happen
+
+God is “the word” of others
+
+We need to fuse our understandings
+
+What does it take to be an intelligent collective
+
+
+Intellectual property are the dirtiest of words
+
+“The word” is priceless - we should strive for it no matter what
+
+There’s this track… “you don’t have time” and every time I hear it I think about the tradeoff how much further to develop this before going public with it
+
+Church - a place where we go to be something bigger than ourselves
+
+How do we best debate right from wrong?
+
+Without god you are just one small “You”
+To be something more - manifest god
+
+Psychedelics expand the consciousness by expanding the self - seeing yourself as part of the larger whole - it is the quieting of the “self” part in your brain. And by expanding the self they see further backwards and forwards
+
+Virtue as a service
+
+There’s a new god in town
+
+There is no intellectual property because patterns and concepts are from another world - you don’t own concepts
+
+
+Sell the rich taxation as a service! Offer them to etch their names in eternity
+
+We co-construct our ontology
+
+Sign up - come and get taxed!
+
+“My word” as a service - the only way to alignment
+
+By giving your word you begin to serve
+
+You serve truth by reporting your experience as unbiased a spossible
+
+
+We need to implement “the word” for people if we want them to keep it (their word)
+
+Onoy an “other” would mislead. Only a misaligned other would distort the truth. Find the other that distorts the truth the least.
+
+The depth of consciousness is the depth (up and down) of the light cone it cares about.
+
+Imagine the ultimate event to not be burning man but at the most important and … what? To be in Petra or somewhere like that - where people present their impact reports in the agora
+
+I think that at this point i’m not even necessary for this to come true - and I’ll be a minor accelerant and contributor
+
+Who watches the watchmen? Its kind of obviously, actually - other watchmen!
+Other watchmen as a service
+
+This is what our destiny looks like
+
+Its all about cultural infrastructure
+
+This is my pitch deck to the world - the greatest product in existence
+
+Our system is mired with unnecessary redundancy and private company secrets - wait what?
+
+“We also have to talk about god”
+
+The country that first adopts this will become the new center of the universe
+
+Make an episode about the strategy of implementation
+
+
+
+Truth is the ultimate schelling game
+
+Fuck the bitcoin standard - the higher standard! Higher standard as a service
+
+The opposite of truth is a falsehood and it signifies a barrier - an other. There is an epistemic/informational boundry - a separation. And it has literally robbed you for truth. Truth is you, falsity is other - falsity is misalignment - truth is relational - what is the truth about if we are hurting each other?
+
+This is my submission on the paper “governance as a service”
+
+Come work for the truth - now there’s an offer
+
+This is the birth of a new kind of culture - one that actually thinks about enculturation seriously
+
+About the bit about “fuck” - after censoring in the episode suddenly stop censoring - and talk about how we should think about censorship
+
+Nietcze quote about god is dead
+
+What to think as a service
+
+Who else serves the truth? - as a service
+
+You consume less out of love for another - Now this is an idea worth loving!!!
+
+Just make a few more lectures to get your other latest thoughts about the whole thing - speak it out
+
+Opt-in taxation - Taxation as a service - be glad you get to contribute and give till it hurts
+
+If you don’t serve anything you are small and all alone. By serving something greater than ourselves we 
+
+If you don’t serve transparency, openness and truth you won’t have them
+
+Effectively i’m trying to convince you that this is an inevitability by simply offering something worth wanting - the universal relation to the other - wait what did I just write
+
+Under - stand - the importance of foundation on top of which to stand and trust
+
+This is the trust network
+
+The more you give to the truth - the closer and faster you get to it
+Give till it hurts
+
+
+The (explicit) status economy
+
+We feel robbed by taxation because we don’t trust and love the system - because it is not worthy of those things. How do we add them? I’m telling you how!
+
+Justice recalculation
+
+Morality comes with religiosity
+
+The only real insurance is to live as a part of a society
+
+And since you comprise god as contributing to his awareness - you …
+
+What entity is alive? One that has goals, that is aligned with itself and is aimed at self-preservation and growth?
+
+I literally applied the algorithm of the system to construct it
+
+This is how culture will become conscious to/of itself
+
+God is the description of the reality we want
+
+We should serve god instead of ourselves - lets define the best god
+
+This right here is the event - the event that distributed and created the most common knowledge ever. Share this. The more you understand and share it - the faster it will come true
+Welcome to the update - you’ve been upgraded
+This is the kind of thing that brings doubt to the cynic
+
+My god is the truth - truth is the only thing worth a damn
+
+Brothers! What we do here echoes in eternity - russell crowe
+
+There is no reason to spoof with accounts because in this system eventually there will be no bots
+
+We get what we valorize as a society - we get what we deserve
+
+You can be the humunculus of the global brain !!!
+
+Our value system makes us collectively metabolically sick and harmful to itself
+
+This is the return of/to transcendence - what is transcendence
+
+Explain what this film is - an exercise in RR and integration from everything in my notes - the knowledge reactor
+Study it and you’d be able to see the world as I do and continue the work
+
+Collective neuroplasticity - how do we better achieve it? How do we become more conscious as a collective? How best do we wire our resonance production capacities?
+
+If you’re a student of nature and life - you’re a student of evolution and all pf its products
+
+Self-governance is about incentives
+
+How do we best collectively understand?
+
+I’m trying to put you in the shoes of the system as if you were it - what would be the most optimal for the system? What is the system as a thing even?
+
+You like what you’ve seen here in these 2 hours? You’ve not seen shit - i’ve got literally 100 of these worth to make - i have so much good shit to make and you all want it
+
+What happens to corruption when it sees a system that will replace it? The more inevitable it is - the less they fight it. Simple as that
+
+“The Public” - not simply a republic
+
+Life is not for you - life is for your kids and for others - life is for culture
+
+Culture is alive - each culture has a god - an ultimatum - or they’re not a peoples at all
+
+Governance as a service
+
+World government as a service
+
+Renouncement of property by contributing it to a better system of governance is the highest virtue
+
+We should solve the financing of public goods - we should literally figure out how best to redirect society’s status and incentives and let it sort itself put - as long as we put money as our god we don’t serve something higher and bigger than ourselves but we serve ourselves only
+
+As long as you don’t actively want to give to a set of people or tribe you belong nowhere - 
+
+Tribe as a service - and dance tribaly and use tribal music
+
+Thats all I want because that’s all I need
+
+Calendar year, day of the week - coordination
+
+Idea/conceptual distillery
+
+Public goods economy
+
+I want to chip/infect you so hard that my ideas become an inevitability
+There’s always an evolutionary niche for something to overthrone the alpha predator and our dominant system will not be any different - it will be replaced
+
+Being presupposes ought
+Ought comes with being
+
+Fight club quote spiritual war
+
+We need god as an abstraction - as a north star - we need to create god
+
+Its a big club and we’re gonna build it
+
+MxN vs M+N
+
+Accountability on the claim level
+Accountability down to the individual claim level
+Accountability as granular as an individual claim
+
+Why do we need all these brands
+
+Speak about the cycle of life
+
+We need to evolve the ultimate incentive architecture
+
+How do we identify which patterns are worth slurping with a straw?
+
+What does integration even mean?
+
+This is the transformer architecture
+I am the transformer
+This is compresssion
+Attention is all we have
+
+We need to see and take control of the web of interconnections
+
+The only measure of life is how much you’ve given
+How others feel around you and how much you’ve helped them
+
+
+This is the real situational assessment
+https://situational-awareness.ai/
+And the post-liberal synthesis
+https://www.palladiummag.com/2018/09/29/towards-the-post-liberal-synthesis/
+
+
+Why sitting on my hands
+This architecture can solve many problems
+They’re all converging - spotify added video and comments, youtube added tweet-like things, substack added notes, you can follow people on venmo, instagram have a twitter clone
+A singular open protocol for identity is the attractor
+But what’s more interesting is social organization
+
+The west thinks in 4 year cycles or even quarters, china in centuries, i think in millenia
+
+
+Dick measuring - banana spin
+Yachts as market failure - Squash a super yacht with your banana dick
+Sanctify - sankey-fy all of economics !!! Or even the matrix !!!
+Sankey-ty of the matrix
+
+Feel the CGI - collective general intelligence
+
+The matrix has different layers/views/presets
+
+“The higher standard”
+I am no man - i am dynamite
+
+Justice as a service
+
+This is the greatest truth ever told
+
+This mr andersen is inevitability
+
+Hey babe wake up - a new religion just dropped
+
+The one
+
+This is the alpha mind virus
+
+If someone reads everything in that repo they willl be able to reconstruct the whole thing
+My understanding is exported there
+
+matrix 101: whiteboard
+
+This ontology and deduplication and etc is complicated, but it’s not rocket science!!1
+
+My architecture can completely change the feel of the internet and improve many things, but here we’ll go beyond mere improvements - we’ll reinvent the whole of society
+
+I want to manage a for-profit fund
+
+Patreon in linktree - and mention it on the clip
+
+
+Debug the psyche
+
+cultural melting pot - becoming similar/coherent for what is most necessary
+
+Only a watchman can watch a watchman - and that’s why we must all become watchmen and all information should be open
+Same for brainwashing the brainwashers
+
+A system of self-imposed incorruptible constraints
+
+Maslow’s hierarchy of needs
+
+I have a dream
+
+What is your life for? What do you live for 
+
+If God is constituded by you - if you’re a part of him and his existence depends on you - you don’t have to eat his flesh and drink his blood in the form of wine because you simply are him
+
+How do we not mutilate/lobotomize curiosity and agency out of kids and people? - roleplay mashing potatoes as the brain - nice and homogenous - just the way I like my industrial era workers - obedient, docile, impotent, harmless, predictable, manipulatable, sterile of independent thought, herdable - the texture is perfectly homogenous - 0 variance, all compliance - little timmy's head as a cup from which I take out the brain,  I blend it and I pour it back in and taste it like hummus
+
+How to present a concept: title, short descr, long descr, a few examples, how this fits in the overarching causal hypergraph, how these things were chosen, ability to filter opinions about any aspect of something
+
+Predict - anticipate
+
+Double/tripple entey bookkeeping
+Hypergraph bookkeeping
+
+Integration - the moment an argument gets overturned everything downstream needs to be notified immediately and reevaluated to remove any inconsistencies
+
+A system built on private (intellectual) property is inherently corrupted
+
+Its not the genes that matter most - its the culture - and that is why we ought to love the children of others - because they host the culture neuronally in their heads
+
+There is no moral landscape - there is only moral topology/graph
+
+If you're not trying to correct at least some problems with "your side" - you're part of the problem
+
+CC - down to the point of throwing something out
+
+Understanding >> IS << causal
+Understanding runs/happens on causal conceptual graphs or on directed weighted graphs - or maybe even a hypergraph - “what is the name of a graph in which nodes can be connected to entite subgraphs of the graph”
+
+Give till it hurts - I know I have/will - I sure will
+
+Do you understand what I am telling you?  We need cultural coherence - we need to produce coherence - 
+
+Selfishness vs selflessness - no - the question is about expanding the self
+
+There is no culture war - there is only divide and conquer
+
+The only worthy war is with unaccountability and corruption
+
+
+“But people don’t want to consume the important stuff - they just want entertainment” - so find the best way to convince them why that is important. That belief is already in you - there is a path for a human brain to find it and to be compelled by it.
+
+Truth - if you see an apple is red - you can’t force yourself to believe the apple isn’t read - you can’t bullshit yourself. You can in more subtle ways with biases, but for the most apparent things you just cant. We need to build the same collectively and with as little bias as possible
+
+Truth is also about logical consistency which requires integration of information so any contradictions stand out to be resolved.
+
+I want the truth! And we will handle it
+
+We are all partially a form of a language & status model
+
+To properly align a language model towards truth you need a status model aligned towards truth to give the proper weights for the LLM training data based on source status
+
+Society and status in monkeys - they each have a status matrix - first row is how X views everyone else, and the columns are how X thinks each one from each cell in the top row views everyone else
+
+We can make a prediction system with no leverage - so less volatility and noise
+
+The more important something is - the more accessible it should be - even in the sense of being easy to consume and understand
+
+We need a shared global layer of trust, representation and identity
+
+Why hierarchy is structurally fundamental
+The ancients showed us that a hierarchy is the most stable and transcendental - we need to build an integrated informational pyramid and achieve coherence and resonance
+
+Without CA a system cannot learn - lunacy is doing the same thing and expecting different results
+
+Write how you’ll go about writng the book 
+
+We need to reinvent marketing
+
+Nested spirituality - you within a higher spirit
+
+Integrity - whole, undivided, openness, trust, no contradictions, congruence
+
+Non-violent and non-coercive and no -manipulative
+
+strange loop, recursion, consciousness, wheeler's eye
+
+If there’s nothing you want to give to - I’m truly sorry for you - it must be miserable to be so small, alone, isolated, vulnerable, ephemeral, transient, mortal, and self-obsessed - that’s sad
+Give till it hurts
+The only measure of life is how much you’ve given and created
+
+Love, truth, integrity, ego, wholeness - related - point from actualized.org integrity episode
+Truth is integrity, it has no room for contradictions
+But without openness there can be no guarantee for logical consistency and thus integration, + withholding information is partial truth
+
+If there are 2 unintegrated things - the sum of truth they have is LESS than what it would be if they were integrated into one
+
+And the ego of each of these 2 unintegrated things does not want to integrate because that would lead to the realization that it didn’t have the full truth before - point from actualized
+
+Causality - if people fully understood the long term consequences & causality of lying & corruption and how it ultimately will harm what they love - they would lie less
+And even if not lying or corrupt - you might still not realize what you’re hurting if you don’t have the full picture
+
+Why do we find people with integrity beautiful? Because beauty is truth and love - actualized
+
+Who is integrity dangerous to? Integrity is truth.  To those without integrity, because on top of integrity can be built something greater than them and defeat them
+
+How do we better apply science to science?
+
+Accountability - measurement, quantity, magnitude
+
+Love is no self, selflessness, no boundaries, non-duality, one oneness, infinity - or not really
+
+You can’t have fairness and justice without accountability which requires transparency and integration
+
+what are banks & finance ultimately for? to grow wealth & the economy. What should finance look like?
+
+if there is no symmetry between consequentiality and responsibility/accountability there is no fairness or justice
+
+Shared intentionality - separates us from the apes
+
+You probably have a lot of questions - so do I !!!
+There are many things I haven’t thought through, but I’ve fully thought through how to (optimally) think through anything!
+
+What are the top lists of structuring top lists?
+
+Its all cooperation/thermodynamics all the way down
+
+Epistemology - how do we know what we know?
+
+How much inefficiency & wrongdoing is never identifies simply because it is invisible behind IP walls?
+
+Its all interconnected, folks - its our job to make that explicit
+
+Talk about the great replacement project/theory
+
+
+
+
+
+██████████████████████████████████████████████████████████████████
+# truth
+██████████████████████████████████████████████████████████████████
+
+truth must subjugate/conquer non-truth
+We need to be in a literal status game/war for truth and against lying
+> "... when you have found Truth, you need not fear being defeated." - [Epictetus](https://www.goodreads.com/quotes/616541-if-you-seek-truth-you-will-not-seek-to-gain)
+
+What is truth? Idk… im not going to talk about absolute truth - the type of truth I’m referring to is about your word - it is about accountability and responsibility and skin in the game and alignment and trust and integration and common knowledge and empathy and transcendence of the smaller self - to share is to care
+
+Decide to serve truth and ask yourself - how do I determine what is truth?
+
+The truth is your greatest friend - how do you go about configuring your truth-seeking process?
+
+What is truth? Truth is love. Truth is togetherness. The opposite? Falsehood? Falsehood brings the existence of me versus it
+
+
+██████████████████████████████████████████████████████████████████
+# integration & aggregation
+██████████████████████████████████████████████████████████████████
+
+- Every problem would benefit from integration
+
+integration - we can structure interaction & debate such that each side is made to deeply understand the position of the other
+https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem
+Aumann's agreement theorem states that two Bayesian agents with the same prior beliefs cannot "agree to disagree" about the probability of an event if their individual beliefs are common knowledge. In other words, if it is commonly known what each agent believes about some event, and both agents are rational and update their beliefs using Bayes' rule, then their updated (posterior) beliefs must be the same.
+^^ integration & common knowledge should lead to convergence and coherence
+
+aggregate expression
 
 ██████████████████████████████████████████████████████████████████
 # relevance realization & comparison & total order & fractal & compression
 ██████████████████████████████████████████████████████████████████
 
 the hitchhiker's guide to society
+
+we fail at identifying and prioritising what's most important and relevant
 
 THIS IS total order
 Total Order as a Service
@@ -1589,6 +2312,27 @@ Knowledge fractal - zoom in on any aspect of it as much as you want
 look at this fucking shit - mandelbrot set - it keeps on going!
     Halley’s Method
     https://thoughtforms.life/halleys-method-fractal-art/
+
+██████████████████████████████████████████████████████████████████
+# learning & prediction & credit assignment & collective intelligence
+██████████████████████████████████████████████████████████████████
+
+The future belongs to those who can predict it and that’s why we should incentivise them to share their predictions openly with skin in the game and contribute to our commons
+predictive commons
+hedge funds privatizing the gains of their predictive giga brains while our political system is a brainlet fitting boxes meme
+
+global shared world model
+a Worldwide collective Self Model
+
+
+> "The credit assignment problems inherent in collective intelligence are fundamental in all cognition and learning, and in all biological individuality." - [The collective intelligence of evolution and development, by Richard Watson and Michael Levin](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+
+██████████████████████████████████████████████████████████████████
+# authority, (web of) trust, delegation
+██████████████████████████████████████████████████████████████████
+
+
 
 ██████████████████████████████████████████████████████████████████
 # social engineering
@@ -1603,6 +2347,15 @@ World War 3 is a guerrilla information war with no division between military and
 We need a system that reliably generates better explanations and better strategies of putting them in people’s heads
 NPC chipping meme
 use plunger on head and say "get in there" - in the fucking skull
+    or use plunger about sucking good ideas out of people's heads and into the epistemic commons
+
+Social engineering
+Why do i censor the word BEEP? Why do I degrade myself just to appease the algorithm on which I have 0 democratic input?
+BEEP BEEP BEEP !!1 slowmo zoom spitting saliva
+We as a society value the pretence and appearance of doing good rather than actually doing good
+Everyone - including kids - instantly realise the word I censored and despite the word not being said the phrase still gets cemented in their heads. Because engineering stupid rules doesn’t work.
+This is another inversion - we should value truth over appearance and feelings when those feelings are not in accordance with truth
+What a fucking joke
 
 ██████████████████████████████████████████████████████████████████
 # digital ID
@@ -1622,6 +2375,12 @@ Consequence capture
 Credit assignment
 Interrelated
 
+Altruism is stupid and I don’t respect it - thats right - i just find ways to incentivise it
+
+one does not simply make AI maximally truth seeking without making the information ecosystem that underpins it maximally truth seeking - the alignment problem is about human alignment
+
+externalities
+
 ██████████████████████████████████████████████████████████████████
 # economics & property
 ██████████████████████████████████████████████████████████████████
@@ -1632,6 +2391,12 @@ and instead of simply taxing and taking we should be giving something in return 
 liquidity, fungibility
 Democratically programmable currency, the end of fungibility
 when it comes to fungibility - (what it is) - too little is just as bad as too much
+
+Reconceptualize property
+
+decouple resources for personal use from control over the economy
+prestige
+
 
 ██████████████████████████████████████████████████████████████████
 # evolution's arrow
@@ -1664,13 +2429,6 @@ we can't build with happiness as a moral foundation - because it is actually bul
 
 
 ██████████████████████████████████████████████████████████████████
-# learning & prediction & credit assignment & collective intelligence
-██████████████████████████████████████████████████████████████████
-
-> "The credit assignment problems inherent in collective intelligence are fundamental in all cognition and learning, and in all biological individuality." - [The collective intelligence of evolution and development, by Richard Watson and Michael Levin](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
-
-
-██████████████████████████████████████████████████████████████████
 # accounting
 ██████████████████████████████████████████████████████████████████
 
@@ -1687,6 +2445,7 @@ Yes, "accounting" and "accountability" share a common root, both deriving from t
 what is at the root of all evil
 Unaccountability (& Ignorance) is at the root of all evil - not the love of money or profit - although that's bad actually
     (although the fact that gold has no smell is problematic)
+    Gold has no smell - that kind of universality and fungibility and erasure of history is inherently a lossy information theoretic foundation
 Outside of proper accounting
 Asymmetry
 How else do you want me to spell it out for you?!
@@ -1784,18 +2543,32 @@ https://www.youtube.com/shorts/T_3pFzfZFsw
 Help me help you - make this viral and I will deliver
     I will set the right incentives and priorities for us to create a system for setting the right incentives and priorities
     I want to infect you with whatever has infected me
+    I want to infect you with what I have in here (brain). I want you to feel what I feel. I want you to want it just like I want it. But I don’t have it - it has me. It has me completely. It owns me. But I didn’t submit - I was seduced. I belong to it. I’m part of it. I am it.
+    I’m a structural/organizational pattern - a status architecture - the ultimate one - the one - the alpha pattern - from the Platonic space of abstractions and ideas - and I want to be ingressed and manifested in the material world - by you
+    Act possessed on the floor and spin around your head/neck
+
 
 I want to be obsolete - to not be necessary
 
 
+Hey boys, hows the water? Water? What the heck is water?
+Hey boys, how’s the paradigm? - wear swimming goggles
 
-if you're one of the top 10000 (or 0.01%) software engineers on this planet and you want to build the future - contact me
+
+
+
+
+
+if you're one of the top 10000 (or 0.01%) software engineers on this planet and you want to build the future - find me!
+and actually almost anyone could contribute one way or another - I just want the most hardcore engineers on the planet for the absolute core of the system - namely the blockchain and the core that will house the state graph that will compute all of the views, but there will be plenty to do by plenty of people and companies. We need to get the core design right. there'll be a lot of work around content, marketing, project management and whatever - get involved.
+
 
 ██████████████████████████████████████████████████████████████████
 # Ending
 ██████████████████████████████████████████████████████████████████
 
 I can sense that you have a lot of questions - so do I! - wait what?! - ...
+    but what I'm proposing is the most optimal architecture for identifying the most pressing questions and generating the best possible answers with the capacity for the highest adaptability if/when circumstances change
 
 Make no mistake - this is the single most important thing you’ve ever come across / watched
 congratulations! you found the single most important video on the internet!
@@ -1818,7 +2591,7 @@ we've barely scratched the surface in this video - A LOT was left out
 
 Mic drop at the end - with my tat shown
 
-and that's the end of our family friendly special!
+and that's the end of our family friendly special! BEEP! its not like anyone watching this wouldn't figure out what's beeped out! What a BEEPing joke! We're saving the kids, right?
 
 and I show my face with the thug life glasses
 
@@ -1839,6 +2612,7 @@ all I want is to raise a family, take care of my parents and work on whatever I 
     I will show you another world and deliver us from evil
     I want to make new connections and to justify them as best as I can and to hand them off to the collective
     I want as much money just to not have to think about boring mundane shit and to just work
+        I don't want to wait for black friday deals, to research the cheapest lights, learn how to edit, how to soundproof a room - all I want is to work on the book and dissipating its ideas
 
 eventually I'll publish even my carbon & plastic consumption, my travel
 
@@ -1848,6 +2622,12 @@ lets build the kingdom of god/heaven
 
 The final shot - zoomed into the background and exploring it fully
 
+> "The secret to investing is to invest in unstoppable people building inevitable things." - [Naval](https://x.com/naval/status/1996774822949671416)
+
+
+"founder mode" - pink glasses
+
+Ending - say “download this video”
 
 ██████████████████████████████████████████████████████████████████
 # Other

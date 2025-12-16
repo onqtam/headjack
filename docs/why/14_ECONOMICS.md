@@ -98,6 +98,22 @@ Traits of property rights:
 # SECTION: Capitalism
 ██████████████████████████████████████████████████████████████████
 
+
+what is profit:
+> "We really need to stop thinking in terms of “economics”, and start thinking in terms of societal metabolism.
+>
+> When you notice that we’re just reproducing at a higher scale the metabolic dynamics that enable complex organisms to produce and maintain local order at the cost of entropy, it becomes painfully obvious why “profit” must exist:
+>
+> “Profit” is just a clumsy economic word for the capacity of an interaction to locally generate the free energy required to keep the autocatalytic network intact.
+>
+> In other words, only cycles of net-energetically-viable interactions persist, regardless of whether we’re speaking of autocatalytic networks in the domain of chemical reactions, eukaryotes, or human exchange of goods and services.
+>
+> Economics is not exceptional; it’s just a special case of the thermodynamic constraints governing metabolism." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1997079347447181790)
+& a followup to it:
+https://x.com/MattPirkowski/status/1997432121070367229
+
+
+
 > "I think on the efficiency level, not only the distribution level, capitalism is a flawed system. It probably has the same virtues as Churchill attributed to democracy: It's the worst system except for any other." - [Kenneth Arrow](https://www.azquotes.com/quote/1563673)
 
 > "According to some estimates, in our present economic system more than half of economic value generated is lost to transaction costs. A fundamental source of transaction costs is uncertainty: since the agent does not know what transaction to enter into, what to agree upon, or what to expect, it will need to spend a lot of energy in search, negotiation, and enforcement of agreements." - [Self-organization of complex, intelligent systems: an action ontology for transdisciplinary integration, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ECCO-paradigm.pdf)

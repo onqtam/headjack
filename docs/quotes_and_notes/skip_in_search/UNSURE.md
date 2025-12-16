@@ -356,3 +356,11 @@ the exciting times we are going through... agree, but not sure where to put it
 
 > "Of course, our failures are a consequence of many factors, but possibly one of the most important is the fact that society operates on the theory that specialization is the key to success, not realizing that specialization precludes comprehensive thinking." - [R. Buckminster Fuller](https://www.azquotes.com/quote/826673)
 
+> "Those who consume far more resources than they require destroy the life chances of those whose survival depends upon consuming more." - [George Monbiot](https://www.azquotes.com/quote/841038)
+
+> "Our task is not to overthrow globalisation, but to capture it, and to use it as a vehicle for humanity’s first global democratic revolution." - [George Monbiot](https://www.monbiot.com/books/the-age-of-consent/#:~:text=Our%20task%20is%20not%20to%20overthrow%20globalisation%2C%20but%20to%20capture%20it%2C%20and%20to%20use%20it%20as%20a%20vehicle%20for%20humanity%E2%80%99s%20first%20global%20democratic%20revolution.)
+
+
+
+> "Whoever builds the next ideology for earnest, competent nerds is going to tear through the culture war like Napoleon through Europe." - [Ben Landau-Taylor](https://x.com/benlandautaylor/status/1998186458432311533)
+

@@ -83,6 +83,8 @@ Because why not. Seriously!
 
 
 
+README
+    This book (readme) has a readme and is about the best architecture of producing the most up-to-date readme for civilization
 The Third Attractor
     > "The collective, adaptive sweet spot between a chaotic collapse and a totalitarian ordered system of control." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
     In Search of the Third Attractor, by Project Liminality

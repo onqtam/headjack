@@ -56,6 +56,8 @@ uploading:
 - don't immediately publish - wait for HD to be ready
 - don't share with friends & unrelated audiences
 - don't open it yourself and add fake views - leave it to the algo - maybe this is BS
+- first 48h: engage with comments, heart & pin them, reply with asking what they liked the most or want to see next, etc.
+- post your own comment on the video
 
 channel:
 - more professional
@@ -138,6 +140,9 @@ video structure:
 - end on a high note
 - outro - end screen sales pitch - no "like/comment/sub" (ask) but redirect to another video (offer) (& discord?)
 
+
+- people should have a sense of the structure of the video and certainty where they are at with visual cues - have X chapters and show a progress like 7/X, 8/X
+    or even have an animated progress bar?!
 
 
 
@@ -376,6 +381,12 @@ what is HDR
 - 4k over USB is worse than through HDMI
 - USB does not transmit audio - but if I use HDMI and I plug the microphone somehow to the recording device then they will be automatically synced
 - the hdmi port on laptops is only output - need an adapter from hdmi to usbc adapter (camlink 4k)
+
+
+audio:
+- correctly set gain
+    - between -6 dB when loudest and and -12/-18 dB when the most quiet when talking
+
 
 buy
 - plugin dummy battery
