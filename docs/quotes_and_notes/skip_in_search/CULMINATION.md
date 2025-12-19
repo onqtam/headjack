@@ -2134,15 +2134,17 @@ Same for brainwashing the brainwashers
 
 A system of self-imposed incorruptible constraints
 
-Maslow’s hierarchy of needs
-
-I have a dream
+TODO: think how/where to add these
+- I have a dream
+- Maslow’s hierarchy of needs
 
 What is your life for? What do you live for 
 
+The only way to fight incentives is with incentives.
+
 If God is constituded by you - if you’re a part of him and his existence depends on you - you don’t have to eat his flesh and drink his blood in the form of wine because you simply are him
 
-How do we not mutilate/lobotomize curiosity and agency out of kids and people? - roleplay mashing potatoes as the brain - nice and homogenous - just the way I like my industrial era workers - obedient, docile, impotent, harmless, predictable, manipulatable, sterile of independent thought, herdable - the texture is perfectly homogenous - 0 variance, all compliance - little timmy's head as a cup from which I take out the brain,  I blend it and I pour it back in and taste it like hummus
+How do we not mutilate/lobotomize curiosity and agency out of kids and people? - roleplay mashing potatoes as the brain - nice and homogenous - just the way I like my industrial era workers - obedient, docile, impotent, harmless, predictable, manipulatable, manageable, sterile of independent thought - the texture is perfectly homogenous - 0 variance, all compliance - little timmy's head as a cup from which I take out the brain,  I blend it and I pour it back in and taste it like hummus
 
 How to present a concept: title, short descr, long descr, a few examples, how this fits in the overarching causal hypergraph, how these things were chosen, ability to filter opinions about any aspect of something
 
@@ -2263,7 +2265,9 @@ Its all interconnected, folks - its our job to make that explicit
 Talk about the great replacement project/theory
 
 
+The Myth of the Rational Voter, for the argument that voters have no incentive to have rational political opinions.
 
+> "I grow little of the food I eat, and of the little I do grow I did not breed or perfect the seeds. I do not make any of my own clothing. I speak a language I did not invent or refine. I did not discover the mathematics I use. I am protected by freedoms and laws I did not conceive of or legislate, and do not enforce or adjudicate. I am moved by music I did not create myself. When I needed medical attention, I was helpless to help myself survive. I did not invent the transistor, the microprocessor, object oriented programming, or most of the technology I work with.I love and admire my species, living and dead, and am totally dependent on them for my life and well being." - [Steve Jobs email to himself, 2010](https://medium.com/no-time/read-steve-jobs-last-email-he-sent-to-himself-before-his-death-0c632dcc3e42)
 
 
 ██████████████████████████████████████████████████████████████████

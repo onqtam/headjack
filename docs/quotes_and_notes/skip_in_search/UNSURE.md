@@ -1,5 +1,8 @@
 
 
+I may be a bit wrong about group selection...?
+
+
 The ripple of causality
 
 The standing wave on the edge of chaos

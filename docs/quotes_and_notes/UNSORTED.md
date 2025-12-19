@@ -121,8 +121,10 @@ Revitalizing the Commons
 > "Authority is a conferred right to do specific work." - [Group Relations Community](https://youtu.be/kcGNoG3g_rA?t=735)
 Authority is the legitimate power or right to give commands, make decisions, and enforce obedience, stemming from rank, office, expertise, or recognized legitimacy, allowing individuals or institutions to direct others or control resources. It's the recognized right to act, often on behalf of an organization or state, as seen in governments (legislative, executive, judicial) or workplaces (managers over employees). Authority differs from mere power by its accepted legitimacy, providing the right to issue commands and expect compliance.
 
+If there is a worthwhile game where it pays to be a good sensemaker and ways of showing others which sources helped you the most to be an accurate sensemaker - if there was an incentive to credit who taught you better models of the world - that is how we change the incentives of media platforms. Current recommendation algorithms are making everyone more outraged and dumb and more certain at the same time. The only way to fight incentives is with incentives.
 
-The Collective Singularity
+
+The Collective/Social Singularity - an organizational event horizon beyond which all bets are off.
 
 Relevance is All You Need
 
