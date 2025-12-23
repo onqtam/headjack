@@ -205,6 +205,9 @@ https://www.youtube.com/watch?v=WfGMYdalClU
 Daniel Schmachtenberger’s talk at Emergence
 https://www.youtube.com/watch?v=eh7qvXfGQho
 
+Daniel Schmachtenberger discussing complex problems
+https://www.youtube.com/watch?v=dtxNgnBw8Ao
+
 The AI Dilemma: Navigating the road ahead with Tristan Harris
 https://www.youtube.com/watch?v=F6XR0byERZY
 

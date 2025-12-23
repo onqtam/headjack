@@ -5094,6 +5094,8 @@ Consequences should be proportional to the severity/importance of a misjudgement
 what if teachers were evaluated not only based on the success of their current class but also on their future performance in the long term, so there's more incentive for the students to actually learn the material in a functional way?
 
 
+> "The brain is an inference generator, negotiating its internal model with sensation." - Karl Friston
+
 
 > "Wait… You think you understand reality, but still posit an either / or distinction wrt individualism and collectivism, and can’t see the fractally nested generative tension between individuated autonomy and collective agency that extends back to the origin of life itself?" - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1865672024477327411)
 

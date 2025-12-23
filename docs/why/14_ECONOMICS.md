@@ -121,7 +121,7 @@ https://x.com/MattPirkowski/status/1997432121070367229
 
 
 companies don't have a reason to stop growing beyond a certain point
-and beurocracies - they always fill the budget and don't try to obsolete themselves
+and bureaucracies - they always fill the budget and don't try to obsolete themselves
 imagine having a reward to fulfill a goal and be done with it instead of petpetuating the need to exist
 
 

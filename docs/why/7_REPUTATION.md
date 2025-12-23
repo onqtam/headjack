@@ -916,6 +916,10 @@ We can encode probability distributions, certainty and effect magnitude estimate
 
 ## Universal Basic Humble Pie
 
+Make "I don't know" great again!
+
+> "Part of maturity is having a mature relationship with certainty and uncertainty inside of ourselves. And you could call it epistemic maturity, which is: I have a reasonable confidence margin for certainty about these things based on the appropriate processes that I went through to come to it and I have less confidence margin about these things and I have no confidence margin about these things, but my security in the universe and my self-worth aren't coupled to any of it." - [Daniel Schmachtenberger](https://youtu.be/c1Sz7knHsyo?t=599)
+
 > "Fallor ergo sum." - [Saint Augustine](https://en.wikipedia.org/wiki/Cogito,_ergo_sum#Predecessors)
 
 On being wrong ｜ Kathryn Schulz

@@ -545,6 +545,7 @@ multipolar traps
 4 year cycles of back-and-forth erosion of what the others were doing - like a seesaw alternating between 2 poles
     Duverger's law
     https://en.wikipedia.org/wiki/Duverger%27s_law
+    infighting, friction, decoherence, the greatest enemy is within - the other side - internal antipathy
 Prisonners dilemma
 tragedies of the commons
 Now this is really dangerous for our democracy
@@ -554,7 +555,6 @@ Talk about the isomorphic patterns
 
 
 Adjudication
-
 
 transparent monetary flows
 
@@ -662,7 +662,7 @@ Say that the olympics are great nonetheless - they’re great fun actually
 
 
 
-We need to disintegrate this beurocratic spaghetti
+We need to disintegrate this bureaucratic spaghetti
 
 Make fun of someone not petting others copy during exam
 
@@ -925,6 +925,9 @@ Satoshi opened it with his digital rock but it is just a toy - roleplay with a r
 Welcome to the era of rules without rulers
 a rules based order is an actual possibility for the first time in human history
     Immutability and authenticity through cryptography and decentralization through game theory and incentives
+    we've never had it
+        the only way to have it is to enforce it computationally
+        the only way to have it is through computational enforcement
 
 
 Every single concept & building block & social dynamic from this new system will be reviewed in future videos
@@ -969,7 +972,7 @@ Making the Collective Unconscious Conscious
     Karl jung - until you make the unconscious conscious…
 
 
-No more faceless beurocrats
+No more faceless bureaucrats
 Explicitly engineered incentives shall penetrate society to its core
 Permeate
 
@@ -1280,7 +1283,9 @@ so am I a hard line consequentialist? a utilitarian? no! I'm not going to kidnap
 
 market vs company boundry - theory of the firm
 
-Life is the opposite of the physical monotony of physical space, matter, and time - life is agency despite all osds
+Life is the opposite of the physical monotony of physical space, matter, and time - life is agency despite all odds
+life is islands of order
+
 
 We need to get as much people as possible to be as capable and motivated as possible to be solving as big of collective problems as possible
 We must change and steer the flows of attention, motivation and value
@@ -1375,14 +1380,9 @@ David Krakauer
 https://x.com/vitrupo/status/1986727092440952936
 
 
-A message to all beurocrats, managers and “world leaders”:
+A message to all bureaucrats, managers and “world leaders”:
 In the Blockchain Age the Public Watches You!
 You are legible to the public!
-
-Bane impression:
-    Ooooh you think COVID/crisis is (your ally) an opportunity... you merely coopted the crisis - I was born in it! moulded by it!
-    or maybe about the internet: oooh you think the internet is useful to you - I was born on it! moulded by it!
-    https://www.youtube.com/watch?v=F157geaXp_w
 
 I wasn't supposed to go psycho this early but the ONLY reason was fear - fear that I wouldn't get to finish my book. But I guess I decided to toss the coin and "take a fucking chance, will you?" - george carlin clip - grow some balls - even a few percent are troubling, but the upside of starting the whole thing 1 year earlier is that we get to solve the biggest problems in the world 1 year earlier. Also martyrdom is the mother of all streisand effects so perhaps its a win-win - if I get suicided the streisand effect will be renamed after me.
 > "You can take the monkey out of the status-seeking game, but you can't take the status-seeking out of the monkey." - [Status as a Service (StaaS), Eugene Wei](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
@@ -1606,6 +1606,7 @@ Intergenerational transmission not only of knowledge but also of opportunity
 Universal basic opportunity
 
 Universal basic humble pie - full accounting of your votes and decisions
+    Make "I don't know" great again!
     roleplay slap with pie in the face
     Roleplay slowmo pie hitting face
 
@@ -1733,9 +1734,6 @@ Justice depends on truth, consequentiality and understanding
 
 By mapping out the consequentiality graph we can determine how up i subsidiarity something belongs to
 
-I’ll take a bullet, a knife and a poison for your right to sovereign identity and to represent yourself
-You can’t kill me - I’m already dead (I died in 2018 in Peru) and I’ll be forever alive
-
 Is cannot be so easily separated from ought
 As much as there “is”, there is just as much“ought”
 
@@ -1787,7 +1785,15 @@ It was pure emotion - pure love - the thought of that other conscious light
 That ceremony I realized that there are things worth dying for because there are worse things than death
 Mention the unbearable potential crisis and 2023 aya
 
-They can’t do anything to me because there is no me. I died in 2018
+I’ll take a bullet, a knife and a poison for your right to sovereign identity and to represent, expand, and self-organize yourself as an individual in a collective
+They can’t do anything to me because there is no me.
+You can’t kill me - I’m already dead (The first time I died was in 2018 in Peru) and I’ll live forever
+I’ll take a bullet for you - whoever you are - because of your potential
+There can only be peace through culture
+I’ll take a bullet for you to be sovereign with your identity
+a bullet, a knife, a poison
+MY LIFE DOES NOT BELONG TO ME
+My life is not mine - it's yours, and you are me - you and me are the same
 
 I felt for the first time that I loved something more than my own existence - my concept of the good. Wait what?
 
@@ -1800,11 +1806,6 @@ I’ve come to terms with death, although I do have hope
 Join the game! We will have kids! We will be happy! We will be fulfilled! We will be creative!
 
 We need an NPC-friendly environment - where 
-
-I’ll take a bullet for you - whoever you are - because of your potential m
-There can only be peace through culture
-I’ll take a bullet for you to be sovereign with your identity
-a bullet, a knife, a poison
 
 “You dob’t have time” - how I wonder whether this means no time in the world or in your own life that’s about to end
 
@@ -2009,7 +2010,7 @@ What happens to corruption when it sees a system that will replace it? The more 
 
 “The Public” - not simply a republic
 
-Life is not for you - life is for your kids and for others - life is for culture
+Life is not for you - life is for your kids and for others - life is for culture - life is for others, and that ultimately is you - you are everyone - you are one
 
 Culture is alive - each culture has a god - an ultimatum - or they’re not a peoples at all
 
@@ -2105,7 +2106,7 @@ This is the greatest truth ever told
 
 This mr andersen is inevitability
 
-Hey babe wake up - a new religion just dropped
+Hey babe wake up - a new religion just dropped - next to a blow up doll
 
 The one
 
@@ -2125,7 +2126,7 @@ I want to manage a for-profit fund
 Patreon in linktree - and mention it on the clip
 
 
-Debug the psyche
+Debug the psyche - what are the top most important skills/perspectives/capacities? what are the top ways of teaching them? what are the top sources and philosophies and methodologies of determining any of this?
 
 cultural melting pot - becoming similar/coherent for what is most necessary
 
@@ -2140,18 +2141,17 @@ TODO: think how/where to add these
 
 What is your life for? What do you live for 
 
-The only way to fight incentives is with incentives.
+The only way to fight incentives is with incentives. There will be war as long as there's incentive for war.
 
 If God is constituded by you - if you’re a part of him and his existence depends on you - you don’t have to eat his flesh and drink his blood in the form of wine because you simply are him
 
-How do we not mutilate/lobotomize curiosity and agency out of kids and people? - roleplay mashing potatoes as the brain - nice and homogenous - just the way I like my industrial era workers - obedient, docile, impotent, harmless, predictable, manipulatable, manageable, sterile of independent thought - the texture is perfectly homogenous - 0 variance, all compliance - little timmy's head as a cup from which I take out the brain,  I blend it and I pour it back in and taste it like hummus
+
+How do we not completely destroy the innate curiosity and agency in kids - how do we end this mass lobotomization - it makes me sick - games are their only outlet and its a meaningless shadow career
+How do we not mutilate/lobotomize curiosity and agency out of kids and people? - roleplay mashing potatoes as the brain - nice and homogenous - just the way I like my industrial era workers - obedient, docile, impotent, harmless, predictable, manipulatable, manageable, sterile of independent thought - the texture is perfectly homogenous - 0 variance, all compliance - little timmy's head as a cup from which I take out the brain,  I blend it and I pour it back in and taste it like hummus. Jumping through hoops - roleplay jump through a ring very awkwardly
 
 How to present a concept: title, short descr, long descr, a few examples, how this fits in the overarching causal hypergraph, how these things were chosen, ability to filter opinions about any aspect of something
 
 Predict - anticipate
-
-Double/tripple entey bookkeeping
-Hypergraph bookkeeping
 
 Integration - the moment an argument gets overturned everything downstream needs to be notified immediately and reevaluated to remove any inconsistencies
 
@@ -2308,6 +2308,8 @@ the hitchhiker's guide to society
 
 we fail at identifying and prioritising what's most important and relevant
 
+what we need is... TOTAL ORDER! *face slap* not that kind of total order!
+
 THIS IS total order
 Total Order as a Service
 A total order, also known as a linear order, is a way of ordering the elements of a set so that any two elements can be compared.
@@ -2385,6 +2387,8 @@ one does not simply make AI maximally truth seeking without making the informati
 
 externalities
 
+we're gonna have such absolutely COMPLETE accounting of causes and effects that even Godel would reconsider his findings
+
 ██████████████████████████████████████████████████████████████████
 # economics & property
 ██████████████████████████████████████████████████████████████████
@@ -2421,6 +2425,11 @@ nonzero - part of evarrow
 
 we can't build with happiness as a moral foundation - because it is actually bullshit. We need to ground our theory of progress on reality and it's not that hard
 
+> "The maximum power principle can be stated: During self-organization, system designs develop and prevail that maximize power intake, energy transformation, and those uses that reinforce production and efficiency." - [Howard T. Odum](https://en.wikipedia.org/wiki/Maximum_power_principle)
+
+> "Maximum power principle: natural systems self-organize to maximize power which is usable energy per unit time. Capitalism is a modern large scale coordinated human expression of this same dynamic organizing itself to capture and process as much energy and material flow as possible, as fast as possible." - [Nate Hagens](https://youtu.be/ejRfnSrY0ok?t=530)
+
+
 ██████████████████████████████████████████████████████████████████
 # causation
 ██████████████████████████████████████████████████████████████████
@@ -2445,6 +2454,7 @@ The terms "accountability" and "accounting" share a common root in the Latin wor
 The term "account" comes from the Old French acontable, meaning "liable to be called to account".
 Yes, "accounting" and "accountability" share a common root, both deriving from the Latin word computare, meaning to "reckon" or "calculate". This connection is literal: accountability means the obligation to give an account, and accounting is the system for keeping and presenting those accounts.
 
+double/tripple entry accounting/bookkeeping - revolutions - hypergraph accounting/bookkeeping is next
 
 what is at the root of all evil
 Unaccountability (& Ignorance) is at the root of all evil - not the love of money or profit - although that's bad actually
@@ -2482,6 +2492,16 @@ do to others what you would have them do to you
 
 proper accounting requires transparency, openness & alignment of incentives - the only way to generate a trustworthy result
 
+
+
+rights without responsibility ==> entitlement dynamics
+responsibility without rights ==> enslavement dynamics
+there needs to be symmetry
+
+the commons has no ballance sheet
+
+civilization is built on accounting technology
+civilization reflects its accounting technology
 
 ██████████████████████████████████████████████████████████████████
 # Call to action
@@ -2531,8 +2551,6 @@ This will not completely replace money and markets - they’re a pretty ingeniou
 We are the ESG - we will index you - ESG rating
 We will rate everything - I repeat - everything
 
-How do we not completely destroy the innate curiosity and agency in kids - how do we end this mass lobotomization - it makes me sick - games are their only outlet and its a meaningless shadow career
-
 The limits of my models are the limits of my thinking - our models completely shape our perception and frame the boundries of what we can think of - imagination is constrained - good theories and explanations literally help us see - without them we're blind and lost
 
 we have a self-perpetuating system - and in it thrives only that which serves (to maintain) it - it's a runaway train where nobody is truly in control
@@ -2549,7 +2567,9 @@ Help me help you - make this viral and I will deliver
     I want to infect you with whatever has infected me
     I want to infect you with what I have in here (brain). I want you to feel what I feel. I want you to want it just like I want it. But I don’t have it - it has me. It has me completely. It owns me. But I didn’t submit - I was seduced. I belong to it. I’m part of it. I am it.
     I’m a structural/organizational pattern - a status architecture - the ultimate one - the one - the alpha pattern - from the Platonic space of abstractions and ideas - and I want to be ingressed and manifested in the material world - by you
-    Act possessed on the floor and spin around your head/neck
+    Act possessed on the floor and spin around your head/neck    
+    Bane impression: you merely adopted the internet - I was born in/on it! moulded by it!
+        https://www.youtube.com/watch?v=F157geaXp_w
 
 
 I want to be obsolete - to not be necessary
