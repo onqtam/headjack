@@ -5096,8 +5096,37 @@ what if teachers were evaluated not only based on the success of their current c
 
 > "The brain is an inference generator, negotiating its internal model with sensation." - Karl Friston
 
+> "We have a formal measure for this too: [semantic information](https://arxiv.org/abs/1806.08053), developed by SFI’s David Wolpert and Artemy Kolchinsky and later by [theoretical physicist Carlo Rovelli](https://arxiv.org/abs/1611.02420). Semantic information is the mutual information between a system and its environment that is causally necessary for the system’s continued existence. That means if you remove a gene that represents knowledge, you will get a dysfunctional organism that can’t maintain its far from equilibrium state. Not just any correlation counts—only correlation that serves persistence. This is knowledge in the precise sense: predictive information that keeps you alive. Terrence Deacon has also described this perspective in his paper [Shannon-Boltzman-Darwin: Redefining Information](https://www.informationphilosopher.com/solutions/scientists/deacon/Deacon_Redefining_II.pdf). “What counts as useful information in biological evolution is determined after the fact with respect to its ability to pass through the functional error-correction mechanism of natural selection.” Semantic information measures the information ABOUT something: external correlation that serves survival." - [Bobby Azarian](https://roadtoomega.substack.com/p/the-hidden-thread-connecting-information)
+^^ or maybe quote everything from "Information ABOUT Something: Knowledge (Semantic Information)"
 
-> "Wait… You think you understand reality, but still posit an either / or distinction wrt individualism and collectivism, and can’t see the fractally nested generative tension between individuated autonomy and collective agency that extends back to the origin of life itself?" - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1865672024477327411)
+
+PERSUASION WORKS !!!
+> "Persuasion Works
+>
+> Nobody is perfectly rational, of course, and there are robust differences in people’s level of intelligence and [open-mindedness](https://www.tandfonline.com/doi/full/10.1080/13546783.2024.2360491), but research from social scientists like [Alexander Coppock](https://press.uchicago.edu/ucp/books/book/chicago/P/bo181475008.html), [Ben Tappin](https://www.nature.com/articles/s41562-023-01551-7), and others consistently shows that rational persuasion is [broadly effective](https://www.conspicuouscognition.com/p/people-are-persuaded-by-rational) at changing people’s minds.
+>
+> The “backfire effect” is either [extremely rare or, most likely, a myth](https://www.pnas.org/doi/10.1073/pnas.1912440117). And far from being duped by simple emotional manipulation and other non-rational techniques, people are [generally sophisticated](https://press.princeton.edu/books/hardcover/9780691178707/not-born-yesterday?srsltid=AfmBOoqLALpbbyibiOgGqmUlbz5mwkWria9LCoBK4xL3wgeYOk7uzAAl) in how they evaluate messages, implicitly weighing the plausibility of claims, the validity of arguments, and the trustworthiness of sources.
+>
+> To illustrate, recent [research](https://www.science.org/doi/10.1126/science.adq1814) by Tom Costello and colleagues shows that engaging with a chatbot that presents tailored evidence and arguments reduced participants’ beliefs in conspiracy theories by 20% on average, with the effect persisting for at least 2 months. Follow-up research has demonstrated that the intervention works by providing [factual, targeted counterarguments](https://osf.io/preprints/psyarxiv/h7n8u) (when AIs are prompted to persuade without using facts, the effect disappears), and that it [still works](https://osf.io/preprints/psyarxiv/apmb5_v4) even when people believe they are speaking to a human being.
+>
+> Although one can reasonably question the methodology of these studies, the findings align with [a large body of high-quality research](https://www.conspicuouscognition.com/p/people-are-persuaded-by-rational).
+>
+> ... much of the frustration that evidence and rational arguments don’t persuade audiences stems from the fact that people aren’t actually being presented with persuasive evidence or rational arguments. They’re presented with exasperated spluttering and talking points from the speaker’s own information bubble.
+>
+> ... None of this means that persuasion is easy. You must meet people where they are, address their questions and objections, and be willing to revise your own beliefs in the process. It’s also often uncomfortable. People don’t like to discover that they’re mistaken about something. This is why there must be significant institutional and cultural changes to incentivise people to do this hard work.
+>
+> Moreover, persuasion can only achieve so much. Both communicators and audiences have many goals other than discovering what’s true, including [propaganda](https://www.conspicuouscognition.com/p/the-stench-of-propaganda-clings-to), [ingroup signalling](https://www.conspicuouscognition.com/p/people-embrace-beliefs-that-signal), and [demonising](https://www.conspicuouscognition.com/p/demonizing-narratives) target groups. Nevertheless, as Hannah Arendt [observed long ago](http://chrome-extension//efaidnbmnnnibpcajpcglclefindmkaj/https://blogs.law.columbia.edu/praxis1313/files/2018/08/Arendt_-Truth-and-Politics-LQ.pdf), inserting factual information into the public conversation can still helpfully constrain how people pursue those goals.
+>
+> It’s also important to stress that rational persuasion doesn’t mean always being boring, civil, or a pushover. Social media is a brutal attention economy. The bottleneck in persuading people is often reaching them with persuasive messages in the first place. The most successful pundits and influencers are highly entertaining, and usually more than willing to provoke fights and conflict. These things aren’t inconsistent with also presenting evidence-based, rational arguments. Polite, well-mannered discourse is desirable when possible, but it’s neither sufficient nor necessary for rational persuasion to occur.
+>
+> ... even when shaming is the appropriate response to speech, it is not an alternative to persuasion. It depends on persuasion." - [Let's Not Bring Back The Gatekeepers, by Dan Williams](https://www.conspicuouscognition.com/p/lets-not-bring-back-the-gatekeepers)
+
+> "Western universities and governments have abdicated science in favor of ideology, bureaucratic sinecure, and fraud." - [Samo Burja](https://x.com/SamoBurja/status/1902753946831319347)
+
+> "Cultures are not museum pieces. They are the working machinery of everyday life. Unlike objects of aesthetic contemplation, working machinery is judged by how well it works, compared to the alternatives." - [Thomas Sowell](https://www.amazon.com/Conquests-Cultures-International-Thomas-Sowell/dp/0465014003)
+
+
+> "Wait… You think you understand reality, but still posit an either / or distinction with regard to individualism and collectivism, and can’t see the fractally nested generative tension between individuated autonomy and collective agency that extends back to the origin of life itself?" - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1865672024477327411)
 
 > "In our infinite ignorance we are all equal." - [Karl Popper](https://www.goodreads.com/quotes/640011-while-differing-widely-in-the-various-little-bits-we-know)
 

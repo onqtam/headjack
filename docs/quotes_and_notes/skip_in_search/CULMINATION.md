@@ -2270,6 +2270,101 @@ The Myth of the Rational Voter, for the argument that voters have no incentive t
 > "I grow little of the food I eat, and of the little I do grow I did not breed or perfect the seeds. I do not make any of my own clothing. I speak a language I did not invent or refine. I did not discover the mathematics I use. I am protected by freedoms and laws I did not conceive of or legislate, and do not enforce or adjudicate. I am moved by music I did not create myself. When I needed medical attention, I was helpless to help myself survive. I did not invent the transistor, the microprocessor, object oriented programming, or most of the technology I work with.I love and admire my species, living and dead, and am totally dependent on them for my life and well being." - [Steve Jobs email to himself, 2010](https://medium.com/no-time/read-steve-jobs-last-email-he-sent-to-himself-before-his-death-0c632dcc3e42)
 
 
+
+
+I’m not merely a Platonic form of organization - I’m a self-conscious form of organization and I want to apply myself recursively into higher and higher scales in spacetime. I’m transcendence itself
+
+You’re about to watch the wildest thing in your entire life
+
+Deepening the scope of existence in all directions is the highest virtue.
+
+What’s on offer here is a god that helps you become part of it.
+
+Go forth and multiply
+
+You’re welcome (:
+
+This is inevitable - the moment this gets expressed anyone that has been touched by it is already sliding down the slope of the attractor and pulling others with them. This is the deepest possible attractor - one towards complete harmony, consciousness and thermodynamic integration. This cannot be unseen.
+
+Open mouth hole - on whiteboard - make air vibrate - transmit ideas - accountability and skin in the game on the level of a claim and proportional to influence and importance
+
+Minimize plausible deniability
+
+You owe your very existence in the deepest possible sense to our social system - we are literally nothing individually
+
+People have kids without having any idea how ot why to have kids
+We also have ideas without having any idea how we have ideas
+
+We can only build on top of understanding - “under” “stand” - understanding stands under whatever builds on top of it and if you don’t understand your dependencies you’re building a house of cards
+
+The word understand comes from Old English understandan, literally meaning "to stand among" or "in the midst of," not "beneath," from under- (meaning "between/among," related to Latin inter-) and standan ("to stand"). This "standing among" or "between" signifies grasping the idea or being within the meaning of something, a metaphorical extension from a physical sense of positioning. 
+
+
+
+Understanding presupposes/requires integration and thus privatization of information is a direct impediment to collective understanding. Society cannot understand itself if parts of it withhold information from other parts of it - because there is no it - because “it” is fragmented. Such a society cannot be coherent by definition. And thus it cannot be conscious. It is not an “it” - it’s just a “that”. It’s not property that’s the problem - it’s our conception and accounting of it - and we can - and must - change it. Accounting is about perception. Nono… Accounting IS perception. *point to the glasses*
+
+In order to fully understand something you need to understand all of its dependencies, and their dependencies in return
+
+The Great Reset is a paradigm change in the accounting of relevance and status
+
+I don’t know about intelligent design, but you know what is unintelligent design? Designing a system in which the most-consequential parts of it are hidden to itself. There is no intellectual property - there is only heritage.
+If you’re moronic with the fundamentals - you’ll be catastrophic in the implementations.
+
+Intellectual property is a crime against consciousness
+
+When the incentive is to contribute to whatever already exists there is no need to hoard information in the fear that someone else might outcompete you and render you out of existence.
+
+What is life? A struggle against entropy and decay - a struggle to stay away from thermodynamic equilibrium and the sheer banality of monotonous time. It is order in a world of disorder. Life brings conceptual meaning to an otherwise bland and monotonous mechanical universe.
+
+Maximal recursive self-improvement - The polar opposite of complete stasis dogma from millennia’s ago
+
+Readme wants to be read
+
+Readme describes how & why society should generate, update & spread its readme
+disseminate/propagate
+Society or a collective?
+^^ and instead of the second “readme” word simply point with an arrow to the first, forming a cycle
+
+The grandest colonizational endeavor - no brain shall remain unpenetrated with the best explanations and argumentation
+
+Logo: elephant sucking itself meme, also roleplay it
+
+Elephant sucking itself - start eating one of the bananas
+And start talking to the camera with a full mouth - if you’re a scientist and think all of this is excessive and profane and distasteful - look in the mirror. Look at you - all high minded in your ivory tower. “The Science” as an institution has completely lost the mandate of heaven - its completely impotent and subservient to a broken system which twists and biases it in return. You’re coopted. You lack integrity. Unreplicatable. Fraught with fraud. You’re pumping out PhDs and self-referential papers. Your metric has been gamed. You’ve over-reliant on reductionism. You’re impotent - both in influence and in your ability to communicate yourself to the public. Shout out to all the psychologists at facebook and all the food engineers making addictive junk - now there’s what I call very fine people on both sides! Perfectly legal, right? You can’t derive an ought from an is, right? Shame! Discracia! “The Science” could never rebuild trust in the scientific method - it has to happen from the outside. You want trust? EARN IT. Circlejerk of paper citations and grant applications.
+Who are you to tell me how to behave and express myself - when was the last time you invented something bigger than money and succeeded on a civilizational scale? Nah - I think stuffing my face with bananas is the way to go in this day and age. I’m pretty confident about that. The more - the merrier! *stuff more bananas* - I don’t care if this is cite-able by academia - I want to recreate and replace academia. I will not denigrate myself to wear a suit and try to signal the old way. *switch to a suit* - how is this better? Sometimes the end justifies the means. If you want Mr. Beast numbers you gotta do Mr. Beast things. People at the UN wear suits… but the UN is a JOKE!!! Shut up and listen - its time to retire the suits.
+“Oh wait - did you think the next paradigm would come from someone “respectable” in a suit? Or in the form of a paper or grant from academia?! Or from some prophet? Sorry to disappoint - this is the mr beast era - wake the fuck up. Or did you expect a revelation on mt. Sinai? Oh wait that happened ))
+Oops you just caught me maximizing my utilitarian happiness
+I’m not trying to appeal to those that have already rendered themselves subservient to the system - I’m appealing to the young who are neuroplastic and have nothing to lose but everything to gain. I’m appealing to the only future of humanity - the next generation. Build and reconceptualize your future because if you don’t - nobody else will. You need to create your own new status hierarchy and attention economy and reshape culture - literally everything else will follow from that. Someone needs to run the system - you will inherit it, but you can build the future regulatory structure. The structure of information flows will determine the fate of the universe. There are no adults in the room - only coopted and lobotomized conspicuously consumptive slaves digging the graves of their future generations.
+Show a bunch of graphs from reality check
+
+
+Unsustainability needs to be a conscious, deliberate and calculated choice - not merely the result of a runaway misaligned and unconscious self-terminating system.
+
+I have a thing for symmetry - haven’t you noticed? Show tattoos
+
+We need to debug and defragment culture
+
+You cannot derive an ought from an is? REALLY?! WATCH ME
+We’re part of a system, coherence and truth and alignment will fix so many problems - its in our interest if we want to survive - now there’s a solid ought!
+
+We will explain our way to a new world order
+
+Give examples for each non-intuitive point
+
+How much more commitment do I have to signal? Do I have to tattoo “readme” on my neck?! BAM - done!
+
+Corruption happens through privatization
+Privatization is the basis for corruption
+
+
+If the idea of having olympics for solving the biggest problems for humanity sounds naive and absurd because that’s not how politics and social organization work - well that’s actually an inditement for how we do politics. Maybe that’s broken and needs to change - it needs a fundamental upgrade. And how we do sensemaking - we don’t have the collective understanding of our collective problems in order to begin solving them. The idea of world problem solving olympics sounds silly because we haven’t even mapped out how all the problems are connected! We have not organized ourselves in a way that would make it even possible to directly address our most fundamental problems! Our deepest problems are not just intractable - we’re completely unaware of what their best articulation even is! We’re blind at the most fundamental level! Our deepest problems are not merely climate change and pollution - our deepest problem is our relation with everyone else. And we’re completely blind to that in our current paradigm. The problem aren’t fossil fuels - the problem is how we relate to each other, and what our worldview & paradigm are - that’s the deepest leverage point.
+
+The more important a book is - the more accessible it should be - our funding model is all backwards
+
+
+If you want people to not check out and be nihilistic and with apathy you need to EXPLAIN to them why they should care.
+
+
 ██████████████████████████████████████████████████████████████████
 # truth
 ██████████████████████████████████████████████████████████████████
