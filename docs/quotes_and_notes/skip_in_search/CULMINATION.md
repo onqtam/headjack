@@ -32,6 +32,8 @@ Reread your last notes in unsorted
 
 Redact book quotes
 
+use a storyboard and put yourself in the shoes of the viewer
+
 ██████████████████████████████████████████████████████████████████
 # title & thumbnail
 ██████████████████████████████████████████████████████████████████
@@ -2308,7 +2310,9 @@ In order to fully understand something you need to understand all of its depende
 The Great Reset is a paradigm change in the accounting of relevance and status
 
 I don’t know about intelligent design, but you know what is unintelligent design? Designing a system in which the most-consequential parts of it are hidden to itself. There is no intellectual property - there is only heritage.
-If you’re moronic with the fundamentals - you’ll be catastrophic in the implementations.
+If you’re moronic with the fundamentals - you’ll be catastrophic in/with the  implementations/manifestations.
+
+The Fabric of Society
 
 Intellectual property is a crime against consciousness
 
@@ -2328,6 +2332,7 @@ Society or a collective?
 The grandest colonizational endeavor - no brain shall remain unpenetrated with the best explanations and argumentation
 
 Logo: elephant sucking itself meme, also roleplay it
+or "drawing hands" or Ouroboros
 
 Elephant sucking itself - start eating one of the bananas
 And start talking to the camera with a full mouth - if you’re a scientist and think all of this is excessive and profane and distasteful - look in the mirror. Look at you - all high minded in your ivory tower. “The Science” as an institution has completely lost the mandate of heaven - its completely impotent and subservient to a broken system which twists and biases it in return. You’re coopted. You lack integrity. Unreplicatable. Fraught with fraud. You’re pumping out PhDs and self-referential papers. Your metric has been gamed. You’ve over-reliant on reductionism. You’re impotent - both in influence and in your ability to communicate yourself to the public. Shout out to all the psychologists at facebook and all the food engineers making addictive junk - now there’s what I call very fine people on both sides! Perfectly legal, right? You can’t derive an ought from an is, right? Shame! Discracia! “The Science” could never rebuild trust in the scientific method - it has to happen from the outside. You want trust? EARN IT. Circlejerk of paper citations and grant applications.
@@ -2380,6 +2385,15 @@ Decide to serve truth and ask yourself - how do I determine what is truth?
 The truth is your greatest friend - how do you go about configuring your truth-seeking process?
 
 What is truth? Truth is love. Truth is togetherness. The opposite? Falsehood? Falsehood brings the existence of me versus it
+
+
+
+██████████████████████████████████████████████████████████████████
+# God
+██████████████████████████████████████████████████████████████████
+
+we need god - the ultimate - representing the ideal, the telos, the direction, serving as a coordination mechanism for coherence - a schelling point. God generates common knowledge and synchrony and coherence which in turn aid in integration. Authority is necessary/essential - the only questions are if, how, and why it is legitimate. A compass needs a North Pole to work.
+
 
 
 ██████████████████████████████████████████████████████████████████
@@ -2660,7 +2674,7 @@ https://www.youtube.com/shorts/T_3pFzfZFsw
 Help me help you - make this viral and I will deliver
     I will set the right incentives and priorities for us to create a system for setting the right incentives and priorities
     I want to infect you with whatever has infected me
-    I want to infect you with what I have in here (brain). I want you to feel what I feel. I want you to want it just like I want it. But I don’t have it - it has me. It has me completely. It owns me. But I didn’t submit - I was seduced. I belong to it. I’m part of it. I am it.
+    I want to infect you with what I have in here (brain). I want you to feel what I feel. I want you to want it just like I want it. But I don’t have it - it has me. It has me completely. It owns me. But I didn’t submit - I was seduced and persuaded. I fell in love with it. with The One. I belong to it. I’m part of it. I am it.
     I’m a structural/organizational pattern - a status architecture - the ultimate one - the one - the alpha pattern - from the Platonic space of abstractions and ideas - and I want to be ingressed and manifested in the material world - by you
     Act possessed on the floor and spin around your head/neck    
     Bane impression: you merely adopted the internet - I was born in/on it! moulded by it!

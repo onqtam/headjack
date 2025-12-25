@@ -1425,6 +1425,37 @@ https://en.wikipedia.org/wiki/Religious_naturalism
 
 > "God is the global optimum of shared agency, the collective agent that gets instantiated by those who do what's best. God exists, across all those that serve him, to the degree they recognize what's best." - [Joscha Bach](https://x.com/Plinz/status/1969152526973882878)
 
+
+> "**Understanding What’s Doing the Work**
+>
+> What’s happening here is a failure to see how these benefits actually arise. The sense of community, the psychological grounding, the meaning-making—these aren’t delivered by the beliefs themselves. They arise from the patterns of interaction: people gathering regularly, moving and singing in synchrony, engaging in shared rituals, creating space for reflection together. These repeated social and embodied practices generate something greater than their parts—a felt sense of belonging, coherent meaning structures, psychological regulation. The theological beliefs are the substrate on which traditional religions build these practice structures, but they’re not what makes the structures work. You can build the same social architecture, generate the same higher-order benefits, on an entirely secular foundation, provided you’re willing to cultivate them with sufficient care and commitment.
+>
+> Some communities already understand this. They’re building new social structures, new practices, new coordination mechanisms that don’t depend on believing false things about reality. It’s hard work—much harder than just showing up at the church you grew up in and letting them do all the heavy lifting. But it’s the grown-up move.
+>
+> What we need is a serious cultural project: the cultivation and spread of secular ecologies of practices that are as rich, structured, and socially embedded as the religious traditions they would supplement or replace. We need philosophers working with psychologists, neuroscientists working with community organizers, ritual designers working with systems theorists. We need to take the cultivation of meaning-making structures as seriously as we take the design of political institutions or economic systems.
+>
+> **The Stakes**
+>
+> Beliefs have consequences. When you commit to believing things that aren’t true—even for instrumental reasons, even because the community benefits are real, you damage both your own epistemic integrity and our collective epistemic commons. You make it harder to reason clearly about other domains and create permission structures for other kinds of magical thinking. You align yourself with institutions that have historically impeded scientific understanding and social progress, and continue to do so.
+>
+> The civilizational cost is real. Consider how much intellectual energy gets burned reconciling ancient texts with modern knowledge, or debating theological questions that have no answers. That cognitive capacity could be directed toward actual problems—climate adaptation, coordination failures, existential risks. Instead, it circles endlessly around questions that are fundamentally unanswerable because they’re rooted in unfalsifiable claims.
+>
+> And there’s a network effect: every person who returns to traditional religion lends legitimacy to the idea that the old package deal is necessary and inevitable. This makes it harder for the rest of us to build the alternative structures we desperately need. When intelligent, educated people validate supernatural belief systems, it signals that reason alone is insufficient for human flourishing. That signal makes the secular project look like an impoverished half-measure rather than a complete alternative.
+>
+> **The Path Forward**
+>
+> So here’s what I’d like to see: more people with the courage to cherry-pick shamelessly. Take the practices that work. Sing the hymns if you like the melodies—just swap out the lyrics. Keep the Sunday gathering—make it about philosophy, science, community building, whatever gives you substance to engage with together. Maintain the contemplative practice—call it meditation, mindfulness, or just reflective silence. Preserve the ritual structure around life events; craft ceremonies that are meaningful without being supernatural.
+>
+> Cultivate local communities centered on shared practices and values rather than shared metaphysical commitments. Create spaces for depth and meaning-making that don’t require checking your rationality at the door...
+>
+> And please, stop trying to rationalize supernatural beliefs you don’t actually have evidence for. I understand the appeal. You’ve found community, structure, a place where people gather with intention and show up for each other. The meaning crisis is real, and traditional religious communities do address genuine human needs that secular modernity has badly neglected. But here’s what’s actually happening: you’re subscribing to metaphysical claims you wouldn’t otherwise accept in order to access social structures that don’t actually require those claims. You’re paying a steep intellectual price—accepting assertions about reality that contradict evidence, for benefits you could have without that cost. The practices work. The community works. Neither requires the supernatural framework.
+>
+> We can have community without cosmology. We can have practice without pretense. We can have meaning without taking literary myths literally. It takes more work, more intentionality, more creativity. But it’s the only intellectually honest path forward, and in the long run, it’s the only path that’s actually sustainable for a technological civilization navigating multiple existential challenges.
+>
+> The alternative, this retreat back into comforting fictions, really is a road toward darkness. When the educated elites abandon the Enlightenment project, when they decide that maybe all that faith-and-revelation stuff was onto something after all, you get a society that can’t think clearly about existential risks, can’t coordinate rationally around collective challenges, can’t distinguish evidence from authority. We’ve seen this before in history. Societies forget how hard-won rational inquiry was, how fragile it remains, how quickly the darkness returns." - [The Practice Without the Pretense: On the New Religiosity, by Jim Rutt](https://jimrutt.substack.com/p/the-practice-without-the-pretense)
+
+
+
 <details><summary>UTOK's Elephant Sun God</summary><p>
 
 <img src="/img/UTOK-ESG.png"/>

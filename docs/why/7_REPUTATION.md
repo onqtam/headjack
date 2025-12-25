@@ -956,6 +956,7 @@ we can even give more weight to recent successful predictions and discount the e
 > "Love truth, but pardon error." - [Voltaire](https://www.goodreads.com/quotes/248-love-truth-but-pardon-error)
 > "Perfect is the enemy of good." - [Voltaire](https://www.goodreads.com/quotes/108491-perfect-is-the-enemy-of-good)
 
+financial prediction markets are zero sum (or even negative sum) - whereas investing is positive sum - we can make identity-based prediction competitions that are positive sum (or at least not negative sum)
 
 Prediction markets are not necessarily for telling you what's true - they're for separating the winners from the losers. A constant influx of new entrants enables the aggregate to be skewed. We can have something like prediction markets that are non-financial but tied around identity
 

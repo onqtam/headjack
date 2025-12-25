@@ -169,6 +169,20 @@ if we shift from knowing the world to acting in the world, "ought" and evaluatio
 > "[57] A rudimentary beginning of “emotion” emerges here… The bacterium must sense its world and act to avoid toxins and to obtain food. The evaluation of “good” versus “bad,” arguably the “first sense,” enters here. …I note also that Hume’s famous: “one cannot deduce an ‘ought’ from an ‘is’”, the famous naturalistic fallacy, rests on the critical fallacy that Hume, like Descartes, thought of a mind “knowing” its world. Hume did not think of an agent “acting” in its world. Given “action” and “doing”, doing “it” well or poorly enters inevitably, and with it, “ought.” With ought, the need for evaluation, the rudiments of emotion without positing consciousness, enter. (“Evolution Beyond Newton, Darwin, and Entailing Law: The Origin of Complexity in the Evolving Biosphere,” in Complexity and the Arrow of Time, ed. Charles H. Lineweaver, Paul Davies, and Michael Ruse (Cambridge: Cambridge University Press, 2013), 169)" - [Stuart Kauffman](quote_taken_from_the_book_A_Universal_Learning_Process,_by_Brendan_Graham_Dempsey)
 
 
+
+> "Moral philosophy has been stuck in a three-way stalemate for millennia. Which tells us that the answer is probably “all of the above”, each capturing something real. Each draws the line between bad and evil in a different place.
+>
+> **Virtue ethics** says the good is rooted in choice, the capacity to act according to your values, character, and principles. We can’t know the consequences of our actions, so what matters is showing up right: brave, honest, paying attention...
+>
+> **Utilitarianism** takes the (theoretical) God’s-eye view. Suffering is self-evidently bad; wellbeing is good. If we could calculate the total impact of our actions across all sentient beings across all time, we’d know what to do. Unfortunately, the hardware running that computation (us) struggles to remember a phone number. Still, the framework gives us something: Conscious experience is the basis of all value...
+>
+> **Deontology** is the ethics of rules. Since we can’t calculate consequences and good intentions routinely backfire, we need heuristics. Don’t lie, don’t steal, don’t kill. These norms are load-bearing. The problem is that rules work until they don’t, and then they keep working anyway. But get rid of too many rules, and there’s no society left. Breaking a rule is bad." - [Why You Are Probably Working for the Devil, by Octopusyarn](https://octopusyarn.substack.com/p/why-you-are-probably-working-for)
+
+
+
+virtue ethics and deontology are ultimately just good consequentialist heuristics for when the consequences of specific actions are too hard to account for.
+
+
 > "One can buy anything with money except morality." - [Jean-Jacques Rousseau](https://www.azquotes.com/quote/1117236)
 
 > "I have made the most important discovery of my career, the most important discovery of my life: It is only in the mysterious equations of love that any logic or reasons can be found." - [John Forbes Nash](https://www.azquotes.com/quote/526908)
@@ -562,6 +576,33 @@ Constraints are affordances.
 > "The game B synthesis at its deepest is if you're not constraining a society in relationships and obligations and trustworthy people and you've undermined the concept of virtue ethics - of course game theory is going to run amok and what is late game A but game theory run extensively amok." - [Jim Rutt](https://youtu.be/vUwlp6R57p0?t=1259)
 
 > "You do not rise to the level of your goals. You fall to the level of your systems." - [James Clear](https://www.goodreads.com/quotes/9536717-you-do-not-rise-to-the-level-of-your-goals)
+
+
+
+individualism, freedom & personal choice, addiction, impulsivity, attention hijacking, meaninglessness, lack of coherence, atomization
+
+> "**Beelzebub: The Rotting Swarm**
+>
+> Beelzebub means “Lord of the Flies”. He doesn’t command the flies; he is the swarm. That buzzing haze of small hungers, none significant enough to resist, all of them together enough to strip a carcass clean. His domain is rot, but not the dramatic rot of plague or apocalypse. The quiet kind. The kind you don’t notice until you realize you’ve been scrolling for three hours and can’t remember why you picked up your phone. Beelzebub is why you’ve opened the fridge four times in an hour without being hungry.
+>
+> Beelzebub arrives wearing the mask of the emancipator. He speaks of freedom, choice, and personal agency. But his liberation is a trap. He maximizes choice until it becomes meaningless among a thousand options that don’t matter. Junk food, porn, doomscrolling. The more you can do whatever you want, the less “you” remains to want anything, the more you act like the rest of the swarm. Freedom without structure isn’t freedom, but diffusion. Beelzebub invented notifications, variable reward schedules, and infinite scroll feeds with autoplay.
+>
+> Beelzebub’s trick is not lying but bullshit, diffusing attention while totally indifferent to truth. He doesn’t argue or convince, he just makes other things salient. Were you going to work on something meaningful? Here’s a thirst trap, and your friend just posted this meme. Buzzing, demanding attention, because attention is all he eats. The inner swarm manifests as impulse unchained from intention, the accumulation of micro-surrenders slowly rotting attention spans. The sum total: You have access to all human knowledge, yet you find yourself watching a 12-second video of a hydraulic press crushing a rubber duck.
+>
+> The devil doesn’t need your soul if he has your attention.
+>
+> ... The Atomization Paradox is what provides the fuel. Egregores run on humans. The best hosts don’t have anything other than Late Capitalism OS running. If they are bound by deep loyalties (religion, family, culture, etc.), they might not mindlessly follow the incentive gradients laid out for them. The best fuel is atomized humans only bound to their own self-interest. Fungible, neutral building blocks. “Free individuals” who must “find their own truth” don’t have an immune system. The Result: A paradox where everyone is obsessed with “being unique,” yet everyone acts exactly the same. An atomized population is like loose sand, easy for a demonic egregore to mold into bricks. This is Beelzebub’s feeding ground.
+>
+> These three drivers are the anatomy of a demon. They combine like this: the metric provides direction. The legible process field removes friction. The atomized population removes resistance. The system self-organizes into a predator, and the people inside it can’t see what they’re part of. They’re just following the incentives, making locally rational choices, doing their jobs. The loop closes. The egregore wakes up.
+>
+> ... Deontology cares about the social fabric. Beelzebub, with his atomizing rot, represents evil. When everyone is liberated into pure individual choice, unbound by loyalty or norm or shared reality, there’s no society left to have rules. The swarm consumes the polis.
+>
+> ... But she is so locked onto the Beelzebubian good (choice, fluidity, personal sovereignty) that she doesn’t notice structurelessness turning into tyranny.
+>
+> ... The rebellion against structure left me rotting in a swarm of distractions I mistook for freedom. What broke the spell wasn’t more liberation. It was binding the devil with some good old discipline." - [Why You Are Probably Working for the Devil, by Octopusyarn](https://octopusyarn.substack.com/p/why-you-are-probably-working-for)
+
+
+
 
 > "“Disciplined” people are better at structuring their lives in a way that does not require heroic willpower and self-control. In other words, they spend less time in tempting situations." - [James Clear](https://www.goodreads.com/quotes/9941975-when-scientists-analyze-people-who-appear-to-have-tremendous-self-control)
 

@@ -1635,6 +1635,13 @@ https://theosophy.wiki/en/Egregore
 > "Egregore: A causal closure over memetic catalysts, which drives its networked hosts to precipitate artifacts that further reinforce the autocatalytic growth of the network, thus increasingly cohering and scaling its global agency beyond the sum of its constituents' local agency." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1967696396255113243)
 > "Those who take egregores seriously, thus gain the capacity to harness their power, can, will, and typically have outcompeted those who argue about their material  / factual status." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1981452615746789803)
 
+> "Why use the egregore frame? First, it helps us see how structures can “want” things that no individual inside them wants... But there’s a deeper reason. Evil at scale is hard to perceive. It’s like climate change, too distributed in time and space for our brains to grab. We evolved to detect agents, not gradients. Giving the system a face, a name, even a personality, is compression that actually helps. Egregores are a UI for hyperobjects.
+>
+> And it redirects blame. When a system fails (a financial crisis or a slowly boiling planet) we hunt for a villain. But often there isn’t one. Everyone was following the rules, maximizing local metrics, and behaving rationally within their scope. The structure was the villain. Egregores let us stop witch-hunting individuals and start exorcising the incentives that summoned the demon.
+>
+> ... The Devil is the generator function of misaligned egregores." - [Why You Are Probably Working for the Devil, by Octopusyarn](https://octopusyarn.substack.com/p/why-you-are-probably-working-for)
+
+
 
 > "Markets amplify, they do not steer. By supplanting transcendent telos with faith in unconstrained amplification, we encourage the degradation of all restraint-dependent virtue... anything immanent produces self-destructive externalities when elevated above transcendent telos, and markets are no exception." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1982493902935560518)
 
@@ -5122,6 +5129,8 @@ PERSUASION WORKS !!!
 > ... even when shaming is the appropriate response to speech, it is not an alternative to persuasion. It depends on persuasion." - [Let's Not Bring Back The Gatekeepers, by Dan Williams](https://www.conspicuouscognition.com/p/lets-not-bring-back-the-gatekeepers)
 
 > "Western universities and governments have abdicated science in favor of ideology, bureaucratic sinecure, and fraud." - [Samo Burja](https://x.com/SamoBurja/status/1902753946831319347)
+
+> "The “international rules-based liberal order” is neither liberal, nor rules-based, nor orderly." - [Samo Burja](https://x.com/SamoBurja/status/2003095499315020104)
 
 > "Cultures are not museum pieces. They are the working machinery of everyday life. Unlike objects of aesthetic contemplation, working machinery is judged by how well it works, compared to the alternatives." - [Thomas Sowell](https://www.amazon.com/Conquests-Cultures-International-Thomas-Sowell/dp/0465014003)
 

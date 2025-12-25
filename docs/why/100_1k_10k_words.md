@@ -93,6 +93,8 @@ The Third Attractor
 The Fifth Joint Point - ala Gregg Henriques & his UTOK diagram
 The Architecture of Infinity
     The [Beginning](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) ought to have an architecture, no?
+The Fabric of Society
+    david's book
 Self-Interest - and the expansion of the self (with an expanding cognitive light cone from michael levin's paper)
 Collective Intelligence: a Primer / for Dummies
 Reputation/Identity in the 21st century / 3rd millenium - like the book about capital
