@@ -198,8 +198,7 @@ once you find/understand it you'll never think about anything else more than abo
 I’ve been sitting on my hands (roleplay it) for more than 3 years with the technical design - everyone kept asking me why I haven't started coding - initially I had no fucking clue what I had stumbled on - I just felt it had immense potential
 I don’t want to try
 I want to succeed
-Those who tell the stories rule the world
-    > "Those who tell the stories rule society." - [Plato](https://www.goodreads.com/quotes/20382-those-who-tell-the-stories-rule-society)
+> "Those who tell the stories rule society." - [Plato](https://www.goodreads.com/quotes/20382-those-who-tell-the-stories-rule-society)
 I was not accounting pilled in 2022
 Theoretically optimal solution - no other design can get even close to the optimal set of technical tradeoffs in my architecture
 The more compelling and refined the story becomes - the sooner will the system reach a billion people
@@ -520,7 +519,6 @@ To be something against the monotony of space and time
 
 Structure of organization & the universe
 
-Those who tell the stories rule the world
 We can invent something bigger than money itself
 
 What are we and what our place in the universe is
@@ -793,7 +791,7 @@ You can’t separate is from ought
 
 Its the paradigm, stupid!
 
-Its just a fucking horse! about when we designed representative democracy and capitalism
+
 
 
 
@@ -1342,7 +1340,7 @@ Freedom of speech != of reach
 this is the real end of slavery - the masses will have complete sovereignty over their identities and expressions for the first time in human history - what you said doesn't matter and even how you voted doesn't matter - show the VOX article/chart - sometimes you don't even vote in a primary and get a candidate in a box! - make a gesture handing a wrapped gift
 what you say is ephemeral - it fades and is forgotten - and is never deduplicated and aggregated
 
-who watches the watchmen? who brainwashes the brainwashers?
+
 
 
 Women are nature itself - they select. Money is mostly just a proxy for sex (not the only one) and we can redefine it. The 2 biggest drives are sex and intellectual achievement/creation/expression/discovery.
@@ -1413,7 +1411,8 @@ A moral high ground so high you can’t even see it from below - the kingdom of 
 
 Fungibility spectrum - sometimes the truth really is in the middle - sketch of fence sitting and feeling pain in the crotch
 
-Its a fucking horse - draw it on paper like that ugly stick pic
+Its a fucking horse - draw it on paper like that ugly stick pic - and zoom into its silly cartoonish face with its tongue out - or even your tongue out sticking through the piece of paper
+Its just a fucking horse! about when we designed representative democracy and capitalism
 Draw the horse crosseyed with tongue out
 Fifth/bonus/wildcard inversion: smartphone > horse
 The age of horse and lift heavy shit is over !!!
@@ -1897,6 +1896,8 @@ I think that at this point i’m not even necessary for this to come true - and 
 
 Who watches the watchmen? Its kind of obviously, actually - other watchmen!
 Other watchmen as a service
+Who nudges the nudgers?
+who brainwashes the brainwashers?
 
 This is what our destiny looks like
 

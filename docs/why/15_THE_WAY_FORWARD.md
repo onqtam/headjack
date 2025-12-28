@@ -1369,6 +1369,20 @@ concluding remarks
 
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: Purpose, Meaning, Agency, Will
+██████████████████████████████████████████████████████████████████
+
+> "**The simple essence of agency**
+>
+> Agency, in its simplest and most universal sense, is **the ability to produce actions**.
+>
+> An *action* is a process that transforms a condition A into another condition B: A → B
+>
+> This elementary form already contains two profound properties: **directedness** and **contingency**.
+>
+> " - [Why the Universe Has Meaning — Without Invoking God, by Francis Heylighen](https://francisheylighen.substack.com/p/why-the-universe-has-meaning-without)
+
+██████████████████████████████████████████████████████████████████
 # SECTION: The Third Story
 ██████████████████████████████████████████████████████████████████
 
