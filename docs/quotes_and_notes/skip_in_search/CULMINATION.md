@@ -354,6 +354,7 @@ frame control & manipulation
 
 the highest form of nationalism is seeking the best ways to integrate and cooperate with others - to be part of a larger whole
     if you care about your nation you should ultimately care about the world
+    but also to enforce accountability within your nation - integration with others doesn't mean open borders where anything goes - it's about rules and accountability and trust (and boundries?)
 
 everyone is preoccupied with their corner of reality and almost nobody sees or understands the big picture
 
@@ -425,6 +426,7 @@ To be, to contribute, to be recognized? And appreciated and loved?
 Education doesn’t end with school
 
 Value coding society
+
 
 
 Later on:
@@ -531,7 +533,7 @@ Coherence about how and about what to have coherence about
 
 There is such a thing as raising kids optimally
 
-We need to reward truth more than anything else
+
 
 this is not capitalism, not communism or socialism or fascism or anarchism or any kind of ism or shism we've ever had - this is something new! like entirely new! like ... it didn't exist before! like ... a synthesis of everything we've learned and we're pushing forward! We can have new things, you know...
 
@@ -1883,10 +1885,9 @@ By giving your word you begin to serve
 
 You serve truth by reporting your experience as unbiased a spossible
 
-
 We need to implement “the word” for people if we want them to keep it (their word)
 
-Onoy an “other” would mislead. Only a misaligned other would distort the truth. Find the other that distorts the truth the least.
+Only an “other” would mislead. Only a misaligned other would distort the truth. Find the other that distorts the truth the least.
 
 The depth of consciousness is the depth (up and down) of the light cone it cares about.
 
@@ -2146,6 +2147,7 @@ What is your life for? What do you live for
 The only way to fight incentives is with incentives. There will be war as long as there's incentive for war.
 
 If God is constituded by you - if you’re a part of him and his existence depends on you - you don’t have to eat his flesh and drink his blood in the form of wine because you simply are him
+The truth is we don't know why the universe exists. Be honest - we don't really know! We don't know if there is a creator
 
 
 How do we not completely destroy the innate curiosity and agency in kids - how do we end this mass lobotomization - it makes me sick - games are their only outlet and its a meaningless shadow career
@@ -2386,7 +2388,8 @@ The truth is your greatest friend - how do you go about configuring your truth-s
 
 What is truth? Truth is love. Truth is togetherness. The opposite? Falsehood? Falsehood brings the existence of me versus it
 
-
+truth worshiper
+We need to reward truth more than anything else
 
 ██████████████████████████████████████████████████████████████████
 # God
@@ -2431,6 +2434,8 @@ look at this fucking shit - mandelbrot set - it keeps on going!
 ██████████████████████████████████████████████████████████████████
 # learning & prediction & credit assignment & collective intelligence
 ██████████████████████████████████████████████████████████████████
+
+what accurately predicts is what persists
 
 The future belongs to those who can predict it and that’s why we should incentivise them to share their predictions openly with skin in the game and contribute to our commons
 predictive commons

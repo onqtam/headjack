@@ -20,6 +20,10 @@ TOPICS TO FINISH AS A SECTION:
 - preference falsification
 
 •
+•
+•
+•
+•
 
 █████ IN EXPANDED SECTION
 

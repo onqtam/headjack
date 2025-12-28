@@ -1643,6 +1643,10 @@ https://theosophy.wiki/en/Egregore
 
 
 
+
+
+
+
 > "Markets amplify, they do not steer. By supplanting transcendent telos with faith in unconstrained amplification, we encourage the degradation of all restraint-dependent virtue... anything immanent produces self-destructive externalities when elevated above transcendent telos, and markets are no exception." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1982493902935560518)
 
 
@@ -2021,6 +2025,7 @@ If we crowdsource the collective intelligence for every aspect of a problem alon
 The moral offramp from GameA is to start contributing as much as possible
 
 Universal basic rewards bundle - recognition - that can & should be given to others. Who do u recognise and for what?
+    and what if someone gets X amount of recognition and then in return are allowed to give half of that X recognition (in addition to their alotted points for distribution) to whoever they recognize the most as having helped them get where they are?
 
 What is a facebook group? Information and membership curation - a silo. We could have so many such different clubs with differing settings and customs and etc.
 
@@ -5102,9 +5107,6 @@ what if teachers were evaluated not only based on the success of their current c
 
 
 > "The brain is an inference generator, negotiating its internal model with sensation." - Karl Friston
-
-> "We have a formal measure for this too: [semantic information](https://arxiv.org/abs/1806.08053), developed by SFI’s David Wolpert and Artemy Kolchinsky and later by [theoretical physicist Carlo Rovelli](https://arxiv.org/abs/1611.02420). Semantic information is the mutual information between a system and its environment that is causally necessary for the system’s continued existence. That means if you remove a gene that represents knowledge, you will get a dysfunctional organism that can’t maintain its far from equilibrium state. Not just any correlation counts—only correlation that serves persistence. This is knowledge in the precise sense: predictive information that keeps you alive. Terrence Deacon has also described this perspective in his paper [Shannon-Boltzman-Darwin: Redefining Information](https://www.informationphilosopher.com/solutions/scientists/deacon/Deacon_Redefining_II.pdf). “What counts as useful information in biological evolution is determined after the fact with respect to its ability to pass through the functional error-correction mechanism of natural selection.” Semantic information measures the information ABOUT something: external correlation that serves survival." - [Bobby Azarian](https://roadtoomega.substack.com/p/the-hidden-thread-connecting-information)
-^^ or maybe quote everything from "Information ABOUT Something: Knowledge (Semantic Information)"
 
 
 PERSUASION WORKS !!!

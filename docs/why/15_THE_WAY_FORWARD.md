@@ -1253,6 +1253,7 @@ something beyond our cells, the invidivual or the genome with all of its rivalro
 > "You have enemies? Good. That means you've stood up for something, sometime in your life." - [Winston Churchill](https://www.azquotes.com/quote/56283)
 
 
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Evolution's Arrow
 ██████████████████████████████████████████████████████████████████
@@ -1365,6 +1366,15 @@ concluding remarks
 > **The proposed mechanisms are not intended to show that evolution follows a preordained course towards some kind of Omega Point of maximal complexity. Rather, it is assumed that evolution is largely unpredictable and contingent on a host of uncontrollable factors, which may steer its course in any of an infinite number of directions. However, it is noted that directions in which complexity increases are generally preferred.** This follows from the more fundamental result that evolutionary transitions are asymmetric with respect to time (cf. Heylighen, 1992), since they tend to monotonously increase fitness. Though fitness is relative to the environment, it has two components that can increase in an absolute sense, internal fitness (strength of linkages between components) and number of environmental perturbations that can be counteracted. Increases in these two components tend to be accompanied by respective increases in structural and functional complexity, although selection for simplicity is likely to minimize complexification.
 >
 > Still, it can happen that systems evolve towards a simpler organization, although this seems rare. It is most likely to occur when the system enters a simpler environment, as when an organism becomes an internal parasite or moves back from the land to the water, but these are obviously unusual examples which go against the general trend of environments becoming more complex." - [The Growth of Structural and Functional Complexity during Evolution, by Francis Heylighen](https://www.researchgate.net/publication/228607447_The_growth_of_structural_and_functional_complexity_during_evolution)
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: The Third Story
+██████████████████████████████████████████████████████████████████
+
+
+
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Progress

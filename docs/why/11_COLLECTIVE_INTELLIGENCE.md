@@ -1122,6 +1122,17 @@ Liquid democracy will enable patterns of representation that are impossible toda
 the potential of liquid democracy is way beyond what Google used it for internally - voting for what kinds of snacks to have in the cafeteria and be dumbfounded on the low participation - well duuh - this is the most inconsequential thing ever
 
 
+> "Eliezer's [proposed solution](https://x.com/allTheYud/status/1994461330795839571) is a new twist on liquid democracy. Approximately:
+>
+> • Every voter chooses a delegate. Delegates gain power if they have at least 50-200 votes
+>
+> • You have two or three levels of higher-tier delegation: 50-200 delegates can empower a second-level delegate
+>
+> • The delegates chosen at the top of this multi-level structure are the parliament
+>
+> Again, this is a really cool idea: it biases for sophistication (because each level would end up more sophisticated than the previous) and guards against populism (because a delegate can't amass extreme power by gaining a huge following directly) but in a way that avoids empowering pre-selected aristocracies." - [Let a thousand societies bloom, by Vitalik Buterin](https://vitalik.eth.limo/general/2025/12/17/societies.html)
+
+
 A good read to point to about voting theory:
 https://www.lesswrong.com/posts/D6trAzh6DApKPhbv4/a-voting-theory-primer-for-rationalists
 (I've read it, no need to quote anything from it - simply link to it)
