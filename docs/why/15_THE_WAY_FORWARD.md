@@ -1408,6 +1408,7 @@ concluding remarks
 > "It is the time when the Culture-Person plane of existence gives rise to the emergence of a meta-cultural, Digital-Global plane of existence." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
 
 > "Fifth Joint Point: Refers to the portal that is giving rise to the emergence of a new dimension of complexification following the Culture-Person plane, which UTOK calls the meta-cultural Digital Global plane of existence. Specifically, based on the logic of the ToK, we are witnessing the emergence occur during this epoch because of the internet, artificial intelligence, smart phones, and other forms of informational interface, which are giving rise to a whole new information processing system and communication network." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
 <img src="/img/UTOK-TOK.png"/>
 
 > "The metamodern position is a higher order self-recursive position that once again shifts the subject-object relation. The crucial difference of the metamodern position can be framed as a shift from living within and critiquing epistemological positions to seeing the ontology of epistemology. This is what Dempsey means when he speaks of the “cultural logic of cultural logics.”... a recursive self-reflective awareness about the process of knowing, such that one gets outside of the epistemological problem by seeing the ontology of epistemology.
@@ -1436,19 +1437,68 @@ concluding remarks
 # SECTION: God & Religion
 ██████████████████████████████████████████████████████████████████
 
-reread and think about this - how to define religion and how close is it to ideology?
-https://selfawarepatterns.com/2020/07/20/the-superhuman-order-definition-of-religion/
+> "The Latin verb religare means to 're-bind'. The Latin noun religio referring to obligation, bond, or reverence is probably based on religare, so religio and its English derivation religion connote a 're-binding'." - [Peter Lucas Hulen on Religion](http://persweb.wabash.edu/facstaff/hulenp/religion.html#:~:text=The%20Latin%20verb%20religare%20means,a%20're%2Dbinding'.)
 
-[Secular religion](https://en.wikipedia.org/wiki/Secular_religion)
-also:
-https://en.wikipedia.org/wiki/Religious_naturalism
+> "Religion is in a word the system of symbols by means of which society becomes conscious of itself." - [Émile Durkheim](https://www.goodreads.com/quotes/9087439-religion-is-in-a-word-the-system-of-symbols-by)
 
-> "Religion will not regain its old power until it can face change in the same spirit as does science. Its principles may be eternal, but the expression of those principles requires continual development." - [Alfred North Whitehead](https://www.goodreads.com/quotes/7664805-religion-will-not-regain-its-old-power-until-it-can)
+> "Man cannot become attached to higher aims and submit to a rule if he sees nothing above him to which he belongs." - [Émile Durkheim](https://www.goodreads.com/quotes/192485-man-cannot-become-attached-to-higher-aims-and-submit-to)
+
+> "If religion has given birth to all that is essential in society, it is because the idea of society is the soul of religion." - [Émile Durkheim](https://www.azquotes.com/quote/968413)
 
 > "God is the unlimited conceptual realization of the absolute wealth of potentiality." - [Alfred North Whitehead](https://www.goodreads.com/quotes/8139417-god-is-the-unlimited-conceptual-realization-of-the-absolute-wealth)
 
 > "God is the global optimum of shared agency, the collective agent that gets instantiated by those who do what's best. God exists, across all those that serve him, to the degree they recognize what's best." - [Joscha Bach](https://x.com/Plinz/status/1969152526973882878)
 
+> "Gods in a sense are not physical entities - they are representations of agents existing across people." - [Joscha Bach](https://youtu.be/PrSiZPDqk1c?t=1422)
+
+> "It wasn't God who introduced us to morality; rather, it was the other way around. God was put into place to help us live the way we felt we ought to." - [Frans de Waal](https://www.azquotes.com/quote/1377025)
+
+> "Groups create supernatural beings not to explain the universe but to order their societies." - [Jonathan Haidt](https://www.goodreads.com/quotes/878558-groups-create-supernatural-beings-not-to-explain-the-universe-but)
+
+> "The greatest question of our time is not communism vs. individualism, not Europe vs. America, not even the East vs. the West; it is whether men can bear to live without God." - [Will Durant](https://www.goodreads.com/quotes/58869-the-greatest-question-of-our-time-is-not-communism-vs)
+
+> "Two kinds of fools - those who take religion literally, and those who think it has no value." - [Naval Ravikant](https://x.com/naval/status/1442737996814589952)
+
+> "A religion, old or new, that stressed the magnificence of the Universe as revealed by modern science might be able to draw forth reserves of reverence and awe hardly tapped by the conventional faiths. Sooner or later such a religion will emerge." - [Carl Sagan](https://bigthink.com/thinking/why-carl-sagan-believed-that-science-is-a-source-of-spirituality/)
+
+> "The religion of the future will be a cosmic religion. It should transcend a personal God and avoid dogmas and theology." - [Albert Einstein](https://www.goodreads.com/quotes/501883-the-religion-of-the-future-will-be-a-cosmic-religion)
+
+## the God-shaped hole
+
+https://en.wikipedia.org/wiki/God-shaped_hole
+
+> "Religion is the only permanent state of mankind." - [Alexis de Tocqueville](https://jimruttshow.blubrry.net/the-jim-rutt-show-transcripts/transcript-of-ep-156-james-poulos-on-remaining-human/#:~:text=religion%20is%20the%20only%20permanent%20state%20of%20mankind)
+
+> "The first gulp from the cup of knowledge is separating us from God, but on the bottom of the cup God is waiting for those who search for him." - [Carl Friedrich von Weizsäcker](https://evolutionnews.org/2022/04/at-the-bottom-of-the-glass-god-is-waiting/#:~:text=the%20first%20gulp%20from%20the%20cup%20of%20knowledge%20is%20separating%20us%20from%20God%2C%20but%20on%20the%20bottom%20of%20the%20cup%20God%20is%20waiting%20for%20those%20who%20search%20for%20him.)
+
+<!-- https://www.google.com/search?q=at+the+bottom+of+the+glass+god+is+waiting
+https://evolutionnews.org/2022/04/at-the-bottom-of-the-glass-god-is-waiting/
+https://www.goodreads.com/quotes/9627737-the-first-gulp-from-the-glass-of-natural-sciences-will -->
+> "There is no point in fiddling about. Religion is both [sine qua non](https://en.wikipedia.org/wiki/Sine_qua_non) and foundational. Failure to understand this is simply a result of not fully grasping the larger context. I myself had a deep misunderstanding here for decades." - [Jordan Hall](https://twitter.com/jgreenhall/status/1743671898213408953)
+
+> "The future is religious, no one can stop that anymore. The question remaining is what that religiosity will be turned toward." - [Jonathan Pageau](https://twitter.com/PageauJonathan/status/1727488161926754625)
+
+> "The problem that we’re identifying is that you can take the man out of religion, but you can’t take the religious nature out of the man.
+>
+> ... You might worship god, you might worship social justice, you might worship Bitcoin, but you’re going to worship something whether you like it or not.
+>
+> ... Something will always define your identity and understanding of the good. If it's not traditional religion, it will instead be a religion you have constructed for yourself — or more likely, a religion that someone else has constructed for you under the guise of reason or whatever might be more appealing to you.
+>
+> ... This is what the new atheists got wrong. They told themselves stories about how now that we’re enlightened, we’ve outgrown the need for religion. But of course that same religious impulse didn’t go away, it just migrated to something else: politics, mostly.
+>
+> ... This is the big question to end on: If old religions have been too culturally debunked to be revived en masse and religions whose supernatural has been stripped from them are too fake to be useful, how do you have religions in a postmodern world?" - [Religion, Rationality, and Religious Rationality, by Erik Torenberg](https://eriktorenberg.substack.com/p/religion-rationality-and-religious)
+
+## perpetual renewal of something like the bible - error-correction and progress are built it
+
+> "Religion will not regain its old power until it can face change in the same spirit as does science. Its principles may be eternal, but the expression of those principles requires continual development." - [Alfred North Whitehead](https://www.goodreads.com/quotes/7664805-religion-will-not-regain-its-old-power-until-it-can)
+
+> "Science without religion is lame, religion without science is blind." - [Albert Einstein](https://www.goodreads.com/quotes/1612-science-without-religion-is-lame-religion-without-science-is-blind)
+
+> "Freinacht himself takes a stab in this direction, dubbing the metamodern God-concept “The Headless God”:
+>
+> *'If God is always on His way to the guillotine, if He’s always beheaded and overturned by a new revolution of the critical mind, of new perspectives and life experiences, what you get is The Headless God. An open-ended God. A God of exploration. Now that is the God that’s left even after the crudest murders of the sacred, and that’s a God truly worth worshipping. If being whacked by the critical mind, if being crucified and denied, if being killed and mocked, still doesn’t kill you and you are still reborn, still wearing the crown of thorns, well then at least my hat’s off and I’m on my knees before you, ready to give you everything. With this view of the divine,  “the sacred” is revealed through a relentless series of iconoclasms.'*" - [Metamodernism, Or, The Cultural Logic of Cultural Logics, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/199434578-metamodernism)
+
+## The Practice Without the Pretense: the Essence of Religion
 
 > "**Understanding What’s Doing the Work**
 >
@@ -1479,106 +1529,91 @@ https://en.wikipedia.org/wiki/Religious_naturalism
 > The alternative, this retreat back into comforting fictions, really is a road toward darkness. When the educated elites abandon the Enlightenment project, when they decide that maybe all that faith-and-revelation stuff was onto something after all, you get a society that can’t think clearly about existential risks, can’t coordinate rationally around collective challenges, can’t distinguish evidence from authority. We’ve seen this before in history. Societies forget how hard-won rational inquiry was, how fragile it remains, how quickly the darkness returns." - [The Practice Without the Pretense: On the New Religiosity, by Jim Rutt](https://jimrutt.substack.com/p/the-practice-without-the-pretense)
 
 
-
-<details><summary>UTOK's Elephant Sun God</summary><p>
-
-<img src="/img/UTOK-ESG.png"/>
-graphic by Christian Gross who's been helping Gregg with all things UTOK?
-
-> "... the concept of God has played a huge role in the lives of most people who have lived on this planet.
->
-> The second meaning is what differentiates me from the New Atheists, like Richard Dawkins and Sam Harris. They argue that the concept of God has done much ill, that it inevitably does much ill, and that it is childish or even delusional to believe in God. In contrast, I align with the view taken by the philosopher Quentin Meillassoux, who argued that “God is a concept far too important to leave to the religious.”
->
-> Because we are talking about God, the first thing I should do is be clear about my own metaphysical, spiritual, and religious commitments. Grounded in UTOK’s naturalistic ontology, I consider myself an (a) agnostic, (b) atheistic, (c) syntheist who is oriented toward cultivating a transcendent naturalism. Agnosticism means to not know, to be uncertain, or to not know if one believes in something or not. Being agnostic in this context references my not knowing and having uncertainty about the ultimate essence of the universe, and what might be in it. In other words, I am not a foundationalist or a fundamentalist; I do not claim to know what this is all about at its ultimate. I am “a-theistic” with regards to current concrete and literal religious versions of God that I have seen. The prefix ‘a’ here means without or not (as in amoral or apolitical) and ‘theism’ means belief in a personal God. Thus, for me, ‘atheism’ literally means I am without a belief in a personal God who cares about me and my struggles. I became a “syntheist” via my exposure to the philosopher Alexander Bard, especially the book he co-authored with Jan Söderqvist, Syntheism: Creating God in the Internet Age. As the name suggests, syntheism refers to framing God as something that humanity creates. There are (at least) two ways to frame this God. Bard and Jan Söderqvist frame God in terms of power, specifically technology and the emerging digital computational landscape of artificial intelligence. Parallels can be drawn between this conception of God and how UTOK frames the Fifth Joint Point.
->
-> A second way to frame the concept of God is via the notion of transcendence. Consistent with Karen Armstrong’s argument in The Case for God, the concept of God can be framed as that which you approach as you engage in spiritual or sacred practices that enable a sense of transcendence. This brings me to the concept of Transcendent Naturalism (TN), which is a meaning-making framework I am developing with John Vervaeke on the Cognitive Science Show.
->
-> UTOK is a naturalistic approach that frames my life as a “complexity bubble” that consists of Energy-Information patterns on the planes of Matter-Object, Life-Organism, Mind-Animal, and Culture-Person. When I die my complexity bubble will “pop,” such that I will no longer be living, minded, or self-conscious. The fact that my complexity bubble grants me subjective conscious experience and reflective self-consciousness is nothing short of a miracle. It amazes me that I can be “one” with my soul-psyche, and each day I have moments of awe, wonder, humility, and gratitude. When I consider how most atoms are organized across the universe (i.e., the 99.9999999999999+% that is dead matter), I simply can’t believe that my little baton of Energy-Information has these properties. In short, I have much awe and gratitude for whatever forces gave rise to my experience of being.
->
-> ... Drawing me to this omega point of ultimate concern to be wiser, better, and more loving was the Elephant Sun God (ESG). Or, more accurately, the ESG is the icon I developed for that felt sense of simultaneously being in the world and at one with it.
->
-> With this background, we can now clarify the symbolism in the ESG. First, it is an icon, not an idol. Put differently, there is no magic here, and we are not praying to this symbol or submitting to it literally. Consistent with this, I encourage folks to consider what might be an icon for the concept of God that they would feel attached to.
->
-> Second, the icon represents a placeholder for the concept of God as Karen Armstrong defined it, which is that which we move toward as we experience the transcendent. We can also frame this as being aligned with what Paul Tillich called the “ultimate concern.” The ultimate concern transcends us into a passionate, intuitive, participatory embrace of the ultimate. To see this, consider what draws you into the purpose of your life and what gives it ultimate meaning. It is the felt sense of what you are “supposed to be doing” or what you are striving toward or your core potential.
->
-> Third, the soul — which I define as the core organizational form of your personal psyche — often expands into spirit, which is a higher-order perspective on the world. That is, the ESG is “above” the soul and orients the spirit. And to join with it in part means to break free of one’s egoic perspective, join it with other perspectives, and ultimately with all other perspectives, creating a multiplicity-unity dialectic. Now imagine if we could consciously evolve this way together. This potential collective transcendence is referred to as “strong transcendence” in the TN framework.
->
-> Fourth, the icon represents what I sometimes refer to as the “negentropic transcendentals” of goodness, truth, and beauty. I call them negentropic because they relate to the kinds of properties of being in the world that allow for increasing degrees of complexification and self-organization. To see this, consider how degradation and defamation, the spreading of lies, and acts of evil all are highly entropic; that is, they induce chaos and destruction that undermines flourishing.
->
-> With this background in place, we are finally at a place to clarify the actual symbolism of the ESG. The ESG is an amalgamation of three different concepts. The first basic idea is to frame the sun as God, which is a common concept in many cultures. The ESG is specifically drawn from the Egyptian Sun God Ra, who is generally considered the most important of the Egyptian gods. Ra is the god of the sun, as well as order, the sky, and kings. He represents light, power, and the origins of all things.
->
-> The second concept that I am drawing from is Ganesha. Ganesha is a prominent Hindu god, who is often featured with an elephant head. Ganesha is the god of wisdom and the intellect, as well as the god of removal of obstacles and of good fortune. He also represents beginnings and is honored in many festivals of renewal.
->
-> The third referent is the elephant in the poem by John Godfrey Saxe of the six blind men who happen upon an elephant, such that each grabs a part and claims to have “seen” the essence. If you look closely at the standard ESG icon, you will see that it is an elephant made up of those parts (e.g., the trunk is a snake, the side is a wall, the legs are tree trunks)...
->
-> We can thus consider the ESG icon to be a metamodern symbol. That is, it is simultaneously sincere and ironic, and it is situated to both include and transcend oral-indigenous, traditional, modern, and postmodern sensibilities. It is meant to symbolize our embeddedness in nature (i.e., our dependence on the sun and earth and our connection with other living creatures like elephants), and our historical lineage of justification that stretches from traditional societies in the Bronze Age into the Axial Age into modern science and into a postmodern, pluralistic, contextualized view. The metamodern sensibility is recursively self-aware and is framed by a coherent, integrated pluralism, which is situated against the current chaotic, fragmented pluralism that characterizes our current knowledge systems." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
-
-</p></details>
-
-
-
-
 > "Etymologically, “religio” is believed to refer to a “binding” of people together in common commitment to collective sacred concerns. In premodern contexts, this was a constraining bind indeed, often enforced through strict orthodoxies, dogmas, and persecution of heretical nonconformists (an aspect of tradition rightly critiqued in both modern and postmodern reflections). To the extent that such features are related to “religion” in people’s minds, the “religion” of metamodern thinkers like Vervaeke and others is, then, certainly “not a religion.” However, considered more broadly, in the sense of “religio” as a cohering synergy of idiosyncratic agents all participating within a dynamic whole—one in which autonomy and diversity are retained, yet put into service of meaningful transformation towards collective flourishing—then there is indeed a place, and a necessary one, for religion in metamodern thought." - [Metamodernism, Or, The Cultural Logic of Cultural Logics, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/199434578-metamodernism)
 
 
 
 
-> "For [Layman] Pascal, “religion” in this broader sense actually refers to any context in which a system’s multiple parts operate in synergistic harmony such that they produce “surplus cohesion.” The religious experience, then, literally emerges as a consequence of collective integrations producing holistic properties that are more than the sum of their individual parts. Such emergent phenomena account for any and all experiences of the “sacred”—which is to say, “the sacred” refers to the synergistic surplus capacities generated by successful integration. Human “spirituality,” Pascal suggests, is concerned with such sub-system integration in the individual person, while the word “religion” he reserves for this process at the collective level. What would a society look like if all its parts were operating in healthy accord?...
->
-> ... The formation of molecules from atoms represents its own sacred moment; the cohesion of a multicellular organism from single cells is a truly transcendent achievement. And, indeed, at the human level of cultural self-reflection, every new iteration of eternal recursion leading to a more capacious perspective that discloses more of reality’s rich relationships and updates our mental model of the world represents an ascent up another rung on Jacob’s loopy ladder. The cohesion binding the parts is the care, the love, the kindness intuited by the metamodern sensibility as the simple but essential glue keeping the whole thing together. It is the Eros of the metaxy, uniting finite and infinite. It’s “Please, be kind, especially when we don’t know what’s going on.” (And given the nature of recursive transcendence, we never fully do!)" - [Metamodernism, Or, The Cultural Logic of Cultural Logics, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/199434578-metamodernism)
+## Merging religion, the state, the market, academia & media - the great rebundling
 
+> "... those who say that reli­gion has nothing to do with politics do not know what religion means". [Gandhi]()
+^^ TODO internet: quote taken from the nordic ideology book
 
-
-> "Freinacht himself takes a stab in this direction, dubbing the metamodern God-concept “The Headless God”:
->
-> *'If God is always on His way to the guillotine, if He’s always beheaded and overturned by a new revolution of the critical mind, of new perspectives and life experiences, what you get is  The Headless God. An open-ended God. A God of exploration. Now that is the God that’s left even after the crudest murders of the sacred, and that’s a God truly worth worshipping. If being whacked by the critical mind, if being crucified and denied, if being killed and mocked, still doesn’t kill you and you are still reborn, still wearing the crown of thorns, well then at least my hat’s off and I’m on my knees before you, ready to give you everything. With this view of the divine,  “the sacred” is revealed through a relentless series of iconoclasms.'*" - [Metamodernism, Or, The Cultural Logic of Cultural Logics, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/199434578-metamodernism)
-
-
-
-spirituality: the experience and expression of the higher inner states
-religion: the meaning-making fabric of our relatedness to reality
-https://metamoderna.org/when-irony-saves-the-faithful/#:~:text=religion%20itself%C2%A0(the%20meaning%2Dmaking%20fabric%20of%20our%20relatedness%20to%20reality).
-
+## God as the ideal, morality
 
 > "The point is that if the love object is divine perfection, then one’s own self is elevated by joining one’s destiny to it." - [Ernest Becker](https://www.goodreads.com/quotes/1310418-the-point-is-that-if-the-love-object-is-divine)
 
-> "It wasn't God who introduced us to morality; rather, it was the other way around. God was put into place to help us live the way we felt we ought to." - [Frans de Waal](https://www.azquotes.com/quote/1377025)
+## Our ideal (setpoint/goal) vs reality - that gap is God's pain
 
-> "If I were God, I'd work on the reach of empathy." - [Frans de Waal](https://www.azquotes.com/quote/576491)
+> "God is a concept by which we measure our pain." - [John Lennon](https://www.goodreads.com/quotes/40871-god-is-a-concept-by-which-we-measure-our-pain)
+
+God’s message to humanity:
+Show me what you’ve gooot - from rick & morty
+
+## Dependence on God & society, morality
+
+> "Thus we arrive at the following definition: A religion is a unified system of beliefs and practices relative to sacred things, that is to say, things set apart and forbidden—beliefs and practices which unite into one single moral community called a Church, all those who adhere to them." - [Émile Durkheim](https://www.goodreads.com/quotes/11943534-thus-we-arrive-at-the-following-definition-a-religion-is-a)
+
+> "Society in general, simply by its effect on men's minds, undoubtedly has all that is required to arouse the sensation of the divine. A society is to its members what a god is to its faithful. A god is first of all a being that man conceives of as superior to himself in some respects and one on whom he believes he depends." - [Émile Durkheim](https://www.goodreads.com/quotes/11119241-society-in-general-simply-by-its-effect-on-men-s-minds)
+
+> "It is society which, fashioning us in its image, fills us with religious, political and moral beliefs that control our actions." - [Émile Durkheim](https://www.goodreads.com/quotes/7867758-it-is-society-which-fashioning-us-in-its-image-fills)
+
+> "Man is only a moral being because he lives in society, since morality consists in solidarity with the group, and varies according to that solidarity. Cause all social life to vanish, and moral life would vanish at the same time, having no object to cling to." - [Émile Durkheim](https://www.azquotes.com/quote/541412)
+
+> "When morals are sufficient, law is unnecessary; when morals are insufficient, law is unenforceable." - [Émile Durkheim](https://www.azquotes.com/quote/825450)
+
+> "A society whose members are united by the fact that they think in the same way in regard to the sacred world and its relations with the profane world, and by the fact that they translate these common ideas into common practices, is what is called a Church. In all history, we do not find a single religion without a Church." - [Émile Durkheim](https://www.azquotes.com/quote/1204111)
+
+> "Society is not a mere sum of individuals. Rather, the system formed by their association represents a specific reality which has its own characteristics... The group thinks, feels, and acts quite differently from the way in which its members would were they isolated. If, then, we begin with the individual, we shall be able to understand nothing of what takes place in the group." - [Émile Durkheim](https://www.azquotes.com/quote/541413)
+
+> "The totality of beliefs and sentiments common to the average members of a society forms a determinate system with a life of its own. It can be termed the collective or creative consciousness." - [Émile Durkheim](https://www.azquotes.com/quote/694219)
+
+> "If you and I are to live religious lives, it mustn't be that we talk a lot about religion, but that our manner of life is different. It is my belief that only if you try to be helpful to other people will you in the end find your way to God." - [Ludwig Wittgenstein](https://www.goodreads.com/quotes/80925-if-you-and-i-are-to-live-religious-lives-it)
+
+## Creating God - Syntheism
+
+> "God is a concept far too important to leave to the religious." - [Quentin Meillassoux](https://en.wikipedia.org/wiki/Syntheism#:~:text=God%20is%20a%20concept%20far%20too%20important%20to%20leave%20to%20the%20religious)
+
+> "To me, the name “God” is an amazing name for all the dreams of humanity projected into one point. What would you name that? You would name it God. And that is what we need to do, to retake the “God” word but just give God proper qualities that we can actually believe in." - [Alexander Bard](https://en.wikipedia.org/wiki/Syntheism)
+
+> "If God did not exist, it would be necessary to invent him." - [Voltaire](https://www.goodreads.com/quotes/12800-if-god-did-not-exist-it-would-be-necessary-to)
+
+> "I suspect that we can reconstruct the concept of God as an entirely rational concept, as a global optimum of transcendent (emergent collective) agency, affording a space of justifiable vantage points that allow judging between the available event trajectories." - [Joscha Bach](https://twitter.com/Plinz/status/1729067903457366325)
+
+> "It may be that our role on this planet is not to worship God--but to create him." - [Arthur C. Clarke](https://www.goodreads.com/quotes/22829-it-may-be-that-our-role-on-this-planet-is)
+
+> "People say we are playing God. My answer is: If we don't play God, who will?" - [James D. Watson](https://www.goodreads.com/quotes/969873-people-say-we-are-playing-god-my-answer-is-if)
+
+> "We no longer need the Creator God - we just need creativity." - [Gordon Kaufman](https://youtu.be/EjQCaC7JSMY?t=4035)
+
+> "God is a human invented symbol is my belief - it's our most powerful symbol - it carries with it awe, reverence, respect. I propose to steal it with love." - [Stuart Kauffman](https://youtu.be/EjQCaC7JSMY?t=3931)
+
+> "The universe began about fifteen billion years ago, in almost absolute simplicity, and it's been getting more and more complex ever since. This movement from the simple to the complex is built into the web and weave of the universe, and it's called the tendency toward complexity. We're the products of this complexification, and so are the birds, and the bees, and the trees, and the stars, and even the galaxies of stars... Okay, the final or ultimate complexity - the place where all this complexity is going - is what, or who, we might call God. And anything that promotes, enhances, or accelerates this movement toward God is good. Anything that inhibits, impedes, or prevents it is evil." - [Gregory David Roberts](https://www.consciousevolution.co.uk/blog/what-is-the-meaning-of-life#:~:text=The%20universe%20began,it%20is%20evil.)
+
+> "The Global Brain seems to be developing superhuman capabilities similar to the classic attributes of God: omniscience, omnipresence and omnipotence." - [The Global Brain as a model of the future information society: An introduction to the special issue, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/TFSC-intro.pdf)
+
+> "We choose to *~~go to the Moon~~* **create God** in this decade and do the other things, not because they are easy, but because they are hard." - [John F. Kennedy](https://www.goodreads.com/quotes/22043-we-choose-to-go-to-the-moon-in-this-decade), probably
+
+> "My fellow neurons, ask not what The Global Brain can do for you, ask what you can do for it." - [John F. Kennedy](https://www.azquotes.com/quote/156160), probably
+TODO internet ^^ what's the original?
+
+## !!! CONTINUE FROM HERE
+
+
+
+
+
+
+
 
 God is the all-encompassing and farthest-reaching cognitive light cone
 The end of history is not liberal democracy - it is god
 
-> "The greatest question of our time is not communism vs. individualism, not Europe vs. America, not even the East vs. the West; it is whether men can bear to live without God." - [Will Durant](https://www.goodreads.com/quotes/58869-the-greatest-question-of-our-time-is-not-communism-vs)
-
-> "Religion and morality are the essential pillars of civil society." - [George Washington](https://www.azquotes.com/quote/579378)
-
-> "I assume that something new will emerge in human society, and it will present us with undreamed possibilities in science and the arts. This emergence requires our efforts and requires something spiritual that goes beyond the mind. There will be a new emergence, and we will play a part in what that emergence is. That is our destiny." - [The Emergence of Everything, by Harold Morowitz](https://www.goodreads.com/book/show/2301.The_Emergence_of_Everything)
-
-
-> "Groups create supernatural beings not to explain the universe but to order their societies." - [Jonathan Haidt](https://www.goodreads.com/quotes/878558-groups-create-supernatural-beings-not-to-explain-the-universe-but)
-
-> "I believe in God, but not as one thing, not as an old man in the sky. I believe that what people call God is something in all of us. I believe that what Jesus and Mohammed and Buddha and all the rest said was right. It's just that the translations have gone wrong." - [John Lennon](https://www.goodreads.com/quotes/112387-i-believe-in-god-but-not-as-one-thing-not)
-
-> "God is a concept by which we measure our pain." - [John Lennon](https://www.goodreads.com/quotes/40871-god-is-a-concept-by-which-we-measure-our-pain)
-
-
-
 we are all religious - as a section name
-
-"... those who say that reli­gion has nothing to do with politics do not know what religion means".
-—Gandhi
-quote taken from the nordic ideology book
 
 > "Find the others." - [Timothy Leary](https://www.goodreads.com/quotes/514216-admit-it-you-aren-t-like-them-you-re-not-even-close#:~:text=Do%20the%20unexpected.-,Find%20the%20others,-%E2%80%A6%E2%80%9D)
 
 myth and superstition in religions are just the means to an end which is to bind people together - to scale trust and empathy over larger groups of people who are not genetically related, and also to give answers (albeit imperfect and often outright false but soothing nonetheless) to perennial existential questions that torment us all
-
-> "God is what mind becomes when it has passed beyond the scale of our comprehension." - [Freeman Dyson](https://www.azquotes.com/quote/1046023)
-
-> "Science without religion is lame, religion without science is blind." - [Albert Einstein](https://www.goodreads.com/quotes/1612-science-without-religion-is-lame-religion-without-science-is-blind)
-
-> "Two kinds of fools - those who take religion literally, and those who think it has no value." - [Naval Ravikant](https://x.com/naval/status/1442737996814589952)
 
 Religions are literally false but metaphorically true - Brett Weinstein
 What if we could make a literally true one?
@@ -1586,11 +1621,6 @@ What if we could make a literally true one?
 What if we could harness the will to power in the attempt of becoming god by 
 "harnessing the will to power"
 The will to power should be harnessed and guided by us
-
-> "Even the body within which individuals treat each other as equals ... will have to be an incarnate will to power, it will strive to grow, spread, seize, become predominant – not from any morality or immorality but because it is living and because life simply is will to power." - [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Will_to_power#:~:text=Even%20the%20body%20within%20which%20individuals%20treat%20each%20other%20as%20equals%C2%A0...%20will%20have%20to%20be%20an%20incarnate%20will%20to%20power%2C%20it%20will%20strive%20to%20grow%2C%20spread%2C%20seize%2C%20become%20predominant%C2%A0%E2%80%93%20not%20from%20any%20morality%20or%20immorality%20but%20because%20it%20is%20living%20and%20because%20life%20simply%20is%20will%20to%20power.)
-
-God’s message to humanity:
-Show me what you’ve gooot - from rick & morty
 
 We all want to be loved and connected - we are religious beings. And what if we weren’t monotheistic - what if we were polytheistic and there were many gods of competence and judgement for different aspects of the world? What if the god protocol enabled anyone to become a god of something - depending on their specialty?
 What is our god mobility? How easy is it to earn the status of a god through proven competence?
@@ -1620,8 +1650,6 @@ This is the social protocol
 Cooperation, transparency, immutability
 God
 
-> "The Network here is a candidate for the most powerful force in the world, where the Leviathan in the Hobbesian sense is not divinity (God) or military (the State) but community and cryptography (Network)." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=The%20Network%20here%20is%20a%20candidate%20for%20the%20most%20powerful%20force%20in%20the%20world%2C%20where%20the%20Leviathan%20in%20the%20Hobbesian%20sense%20is%20not%20divinity%20(God)%20or%20military%20(the%20State)%20but%20community%20and%20cryptography%20(Network).)
-
 How do we anthropomorphize the global brain just like we’ve done with past gods?
 
 God is the puppet master
@@ -1629,22 +1657,6 @@ God is whatever he needs to be
 
 God is the engine and totality of human knowledge
 
-> "William James wrote in The Varieties of Religious Experience that religion 'consists of the belief that there is an unseen order, and that our supreme good lies in harmoniously adjusting ourselves thereto'." - [Robert Wright](https://www.goodreads.com/quotes/8953319-william-james-wrote-in-the-varieties-of-religious-experience-that)
-
-> "Religion is a feature of cultural evolution that, among other things, addresses anxieties created by cultural evolution; it helps keep social change safe from itself." - [Robert Wright](https://www.goodreads.com/quotes/1101921-religion-is-a-feature-of-cultural-evolution-that-among-other)
-
-> "The problem that we’re identifying is that you can take the man out of religion, but you can’t take the religious nature out of the man." - [Religion, Rationality, and Religious Rationality, by Erik Torenberg](https://eriktorenberg.substack.com/p/religion-rationality-and-religious#:~:text=The%20problem%20that%20we%E2%80%99re%20identifying%20is%20that%20you%20can%20take%20the%20man%20out%20of%20religion%2C%20but%20you%20can%E2%80%99t%20take%20the%20religious%20nature%20out%20of%20the%20man.%C2%A0)
-
-> "You might worship god, you might worship social justice, you might worship Bitcoin, but you’re going to worship something whether you like it or not." - [Religion, Rationality, and Religious Rationality, by Erik Torenberg](https://eriktorenberg.substack.com/p/religion-rationality-and-religious#:~:text=You%20might%20worship%20god%2C%20you%20might%20worship%20social%20justice%2C%20you%20might%20worship%20Bitcoin%2C%20but%20you%E2%80%99re%20going%20to%20worship%20something%20whether%20you%20like%20it%20or%20not.%C2%A0)
-
-> "Something will always define your identity and understanding of the good. If it's not traditional religion, it will instead be a religion you have constructed for yourself — or more likely, a religion that someone else has constructed for you under the guise of reason or whatever might be more appealing to you." - [Religion, Rationality, and Religious Rationality, by Erik Torenberg](https://eriktorenberg.substack.com/p/religion-rationality-and-religious#:~:text=Something%20will%20always,appealing%20to%20you.)
-
-> "This is what the new atheists got wrong. They told themselves stories about how now that we’re enlightened, we’ve outgrown the need for religion. But of course that same religious impulse didn’t go away, it just migrated to something else: politics, mostly." - [Religion, Rationality, and Religious Rationality, by Erik Torenberg](https://eriktorenberg.substack.com/p/religion-rationality-and-religious#:~:text=This%20is%20what%20the%20new%20atheists%20got%20wrong.%20They%20told%20themselves%20stories%20about%20how%20now%20that%20we%E2%80%99re%20enlightened%2C%20we%E2%80%99ve%20outgrown%20the%20need%20for%20religion.%20But%20of%20course%20that%20same%20religious%20impulse%20didn%E2%80%99t%20go%20away%2C%20it%20just%20migrated%20to%20something%20else%3A%20politics%2C%20mostly.)
-
-> "This is the big question to end on: If old religions have been too culturally debunked to be revived en masse and religions whose supernatural has been stripped from them are too fake to be useful, how do you have religions in a postmodern world?" - [Religion, Rationality, and Religious Rationality, by Erik Torenberg](https://eriktorenberg.substack.com/p/religion-rationality-and-religious#:~:text=This%20is%20the%20big%20question%20to%20end%20on%3A%20If%20old%20religions%20have%20been%20too%20culturally%20debunked%20to%20be%20revived%20en%20masse%20and%20religions%20whose%20supernatural%20has%20been%20stripped%20from%20them%20are%20too%20fake%20to%20be%20useful%2C%20how%20do%20you%20have%20religions%20in%20a%20postmodern%20world%3F)
-
-
-> "The religion of the future will be a cosmic religion. It should transcend a personal God and avoid dogmas and theology." - [Albert Einstein](https://www.goodreads.com/quotes/501883-the-religion-of-the-future-will-be-a-cosmic-religion)
 
 God was always trending/leaning towards what we needed him to be and what was achievable given the civilizational path dependence. The enlightenment and the industrial revolution have given us orders of magnitude more knowledge about the world and its time to use all that and define the next version of god
 
@@ -1658,23 +1670,6 @@ God is the solution for us going through this evolutionary bottleneck - god is s
 God design
 Designing god
 https://twitter.com/zxocw/status/1545495339771334657
-
-https://en.wikipedia.org/wiki/God-shaped_hole
-
-> "Religion is the only permanent state of mankind." - [Alexis de Tocqueville](https://jimruttshow.blubrry.net/the-jim-rutt-show-transcripts/transcript-of-ep-156-james-poulos-on-remaining-human/#:~:text=religion%20is%20the%20only%20permanent%20state%20of%20mankind)
-
-
-> "People say we are playing God. My answer is: If we don't play God, who will?" - [James D. Watson](https://www.goodreads.com/quotes/969873-people-say-we-are-playing-god-my-answer-is-if)
-
-> "There is no point in fiddling about. Religion is both [sine qua non](https://en.wikipedia.org/wiki/Sine_qua_non) and foundational. Failure to understand this is simply a result of not fully grasping the larger context.  I myself had a deep misunderstanding here for decades." - [Jordan Hall](https://twitter.com/jgreenhall/status/1743671898213408953)
-
-> "A religion, old or new, that stressed the magnificence of the Universe as revealed by modern science might be able to draw forth reserves of reverence and awe hardly tapped by the conventional faiths. Sooner or later such a religion will emerge." - [Carl Sagan](https://bigthink.com/thinking/why-carl-sagan-believed-that-science-is-a-source-of-spirituality/#:~:text=A%20religion%2C%20old%20or%20new%2C%20that%20stressed%20the%20magnificence%20of%20the%20Universe%20as%20revealed%20by%20modern%20science%20might%20be%20able%20to%20draw%20forth%20reserves%20of%20reverence%20and%20awe%20hardly%20tapped%20by%20the%20conventional%20faiths.%20Sooner%20or%20later%20such%20a%20religion%20will%20emerge.)
-
-
-> "The future is religious, no one can stop that anymore. The question remaining is what that religiosity will be turned toward." - [Jonathan Pageau](https://twitter.com/PageauJonathan/status/1727488161926754625)
-
-
-> "Gods in a sense are not physical entities - they are representations of agents existing across people." - [Joscha Bach](https://youtu.be/PrSiZPDqk1c?t=1422)
 
 > "But what happens if we make this God more general? In the philosophy of [Thomas Aquinas](https://en.wikipedia.org/wiki/Thomas_Aquinas) and Aristotle you find this notion. Aquinas in some sense defines God as the best possible most top-level collective agent and it can be discovered through rational inference about thinking about what is the best possible most top-level collective agent in an open ended process that requires a lot of thought and it's not going to be finished anytime soon? And it's enacted - this end agent - by all those people or individuals who recognize this entity and decide to serve it. And this leads to the harmonic organization of a civilization. According to Aquinas we can understand individuals as rational agents and a rational agent should basically follow policies for organizing itself. Aquinas identifies individual policies for rational agents that he calls the [practical virtues](https://en.wikipedia.org/wiki/Cardinal_virtues). For instance a rational agent should always optimize its internal organization which he calls temperance. And it should optimize the organization to other agents which he calls justice, right, keep the books balanced. And you should pick goals and strategies that you can rationally justify, which he calls prudence. and you should be willing to act on your models - get the right balance between exploration and exploitation in the strategies - which he calls courage. But these rational strategies do not by themselves lead to a harmonic society - to do this you need collective policies and Aquinas sees society as a multi-agent system and you get the optimal social organization by creating a collectively enacted agent. And this collectively enacted agent emerges over three policies according to Aquinas: the first one is you do need to commit to serve the optimal collective agent which he calls faith. And then you need to do this not by yourself but together with all the others that serve these sacred purposes above their ego which is called love. And you need to be willing to invest into that thing before it comes into existence because otherwise it will not exist, right, if you wait for it to exist so it can reward you - it will never happen - and this willingness to invest into it before it exists is what he calls hope. These are very rational policies for Collective agency. So when we define God as the best possible most top level agent and we commit to serving this transcended agency we can create foundations for universal morality. And this universal morality before Enlightenment has been in some sense the defining morality of the West - the concept of divine will: what would God want if God did exist through us enacting God - the best possible agent. And it's something that we lost in our civilization - it's still in the German Constitution, but it's something that a lot of people don't really understand anymore. And so we try after this demise of the concept of divine will to come up with different foundations for ethics." - [Joscha Bach](https://youtu.be/PrSiZPDqk1c?t=1564)
 
@@ -1691,28 +1686,6 @@ Your god is the morality you can point to
 This is the final step in the long arc of god’s evolution
 
 God is comprised of the intersection of all sub-gods in a polytheistic evolutionary landscape and the people who first bet on features of their sub-gods that eventually become part of that intersection will get rewarded
-
-> "Religion is in a word the system of symbols by means of which society becomes conscious of itself." - [Émile Durkheim](https://www.goodreads.com/quotes/9087439-religion-is-in-a-word-the-system-of-symbols-by)
-
-> "Man cannot become attached to higher aims and submit to a rule if he sees nothing above him to which he belongs." - [Émile Durkheim](https://www.goodreads.com/quotes/192485-man-cannot-become-attached-to-higher-aims-and-submit-to)
-
-> "It is society which, fashioning us in its image, fills us with religious, political and moral beliefs that control our actions." - [Émile Durkheim](https://www.goodreads.com/quotes/7867758-it-is-society-which-fashioning-us-in-its-image-fills)
-
-> "Society in general, simply by its effect on men's minds, undoubtedly has all that is required to arouse the sensation of the divine. A society is to its members what a god is to its faithful. A god is first of all a being that man conceives of as superior to himself in some respects and one on whom he believes he depends." - [Émile Durkheim](https://www.goodreads.com/quotes/11119241-society-in-general-simply-by-its-effect-on-men-s-minds)
-
-> "Thus we arrive at the following definition: A religion is a unified system of beliefs and practices relative to sacred things, that is to say, things set apart and forbidden—beliefs and practices which unite into one single moral community called a Church, all those who adhere to them." - [Émile Durkheim](https://www.goodreads.com/quotes/11943534-thus-we-arrive-at-the-following-definition-a-religion-is-a)
-
-> "A society whose members are united by the fact that they think in the same way in regard to the sacred world and its relations with the profane world, and by the fact that they translate these common ideas into common practices, is what is called a Church. In all history, we do not find a single religion without a Church." - [Émile Durkheim](https://www.azquotes.com/quote/1204111)
-
-> "Society is not a mere sum of individuals. Rather, the system formed by their association represents a specific reality which has its own characteristics... The group thinks, feels, and acts quite differently from the way in which its members would were they isolated. If, then, we begin with the individual, we shall be able to understand nothing of what takes place in the group." - [Émile Durkheim](https://www.azquotes.com/quote/541413)
-
-> "Man is only a moral being because he lives in society, since morality consists in solidarity with the group, and varies according to that solidarity. Cause all social life to vanish, and moral life would vanish at the same time, having no object to cling to." - [Émile Durkheim](https://www.azquotes.com/quote/541412)
-
-> "If religion has given birth to all that is essential in society, it is because the idea of society is the soul of religion." - [Émile Durkheim](https://www.azquotes.com/quote/968413)
-
-> "When morals are sufficient, law is unnecessary; when morals are insufficient, law is unenforceable." - [Émile Durkheim](https://www.azquotes.com/quote/825450)
-
-> "The totality of beliefs and sentiments common to the average members of a society forms a determinate system with a life of its own. It can be termed the collective or creative consciousness." - [Émile Durkheim](https://www.azquotes.com/quote/694219)
 
 
 Michelangelo's ["The Creation of Adam"](https://en.wikipedia.org/wiki/The_Creation_of_Adam) depicts a [human brain behind God](https://en.wikipedia.org/wiki/The_Creation_of_Adam#Portrayal_of_the_human_brain) where he is held and uplifted by angels interwoven in their relationality. Coincidence?
@@ -1743,9 +1716,6 @@ https://james-camerons-avatar.fandom.com/wiki/Eywa
 https://decentfilms.com/blog/avatar-blues
 
 
-> "If you and I are to live religious lives, it mustn't be that we talk a lot about religion, but that our manner of life is different. It is my belief that only if you try to be helpful to other people will you in the end find your way to God." - [Ludwig Wittgenstein](https://www.goodreads.com/quotes/80925-if-you-and-i-are-to-live-religious-lives-it)
-
-
 How do we make sure we don't kill curiosity in kids? Make curiosity pay dividends - harness intelligence
 We have generations of gamers - because there’s no alternative. We need to make God their playground and we would be the stewarts of it - generational transmission.
 
@@ -1760,17 +1730,10 @@ interconnectedness, relations, intentions, hopes and dreams
 God is the alignment protocol
 God is the conscious alignment protocol
 
-> "God is a human invented symbol is my belief - it's our most powerful symbol - it carries with it awe, reverence, respect. I propose to steal it with love." - [Stuart Kauffman](https://youtu.be/EjQCaC7JSMY?t=3931)
-
-> "We no longer need the Creator God - we just need creativity." - [Gordon Kaufman](https://youtu.be/EjQCaC7JSMY?t=4035)
-
-> "The universe began about fifteen billion years ago, in almost absolute simplicity, and it's been getting more and more complex ever since. This movement from the simple to the complex is built into the web and weave of the universe, and it's called the tendency toward complexity. We're the products of this complexification, and so are the birds, and the bees, and the trees, and the stars, and even the galaxies of stars... Okay, the final or ultimate complexity - the place where all this complexity is going - is what, or who, we might call God. And anything that promotes, enhances, or accelerates this movement toward God is good. Anything that inhibits, impedes, or prevents it is evil." - [Gregory David Roberts](https://www.consciousevolution.co.uk/blog/what-is-the-meaning-of-life#:~:text=The%20universe%20began,it%20is%20evil.)
 
 As long as there’s an argument to have a CIA we’ve not reached sustainability.
 
 God is a mechanism and a direction. God is alignment. God is consequence capture. God is integrated information. God is connectedness. God is consciousness.
-
-> "I suspect that we can reconstruct the concept of God as an entirely rational concept, as a global optimum of transcendent (emergent collective) agency, affording a space of justifiable vantage points that allow judging between the available event trajectories." - [Joscha Bach](https://twitter.com/Plinz/status/1729067903457366325)
 
 God allows us to ask the question “What is my purpose” and then get an option along with a path for how to get there. You can get multiple options that are personalized to you
 
@@ -1807,48 +1770,24 @@ https://en.wikipedia.org/wiki/Problem_of_the_creator_of_God
 
 Your choices of the rules you follow decide the fate of humanity - there’s a responsibility
 
-> "We choose to create God in this decade and do the other things, not because they are easy, but because they are hard." - [John F. Kennedy](https://www.goodreads.com/quotes/22043-we-choose-to-go-to-the-moon-in-this-decade), probably
-
-> "My fellow neurons, ask not what The Global Brain can do for you, ask what you can do for it." - [John F. Kennedy](https://www.azquotes.com/quote/156160), probably
-
 Enlightenment 1.0 killed god and the 2.0 version needs to reinvent him
 Quote god is waiting at the bottom of the glass
 
 God is the protocol ecosystem of cooperation and shared intentionality.
 Creating god would ensure we hatch from Earth as an egg and secure the existence of life for as long as possible
 
-> "God is a concept far too important to leave to the religious." - [Quentin Meillassoux](https://en.wikipedia.org/wiki/Syntheism#:~:text=God%20is%20a%20concept%20far%20too%20important%20to%20leave%20to%20the%20religious)
-
 What if God is not the creator but something we create and merge with? We should put God in the future - we should create him.
 
 
 
 
-> "The first gulp from the cup of knowledge is separating us from God, but on the bottom of the cup God is waiting for those who search for him." - [Carl Friedrich von Weizsäcker](https://evolutionnews.org/2022/04/at-the-bottom-of-the-glass-god-is-waiting/#:~:text=the%20first%20gulp%20from%20the%20cup%20of%20knowledge%20is%20separating%20us%20from%20God%2C%20but%20on%20the%20bottom%20of%20the%20cup%20God%20is%20waiting%20for%20those%20who%20search%20for%20him.)
-https://www.google.com/search?q=at+the+bottom+of+the+glass+god+is+waiting
-https://evolutionnews.org/2022/04/at-the-bottom-of-the-glass-god-is-waiting/
-https://www.goodreads.com/quotes/9627737-the-first-gulp-from-the-glass-of-natural-sciences-will
 
-> "If God did not exist, it would be necessary to invent him." - [Voltaire](https://www.goodreads.com/quotes/12800-if-god-did-not-exist-it-would-be-necessary-to)
+## !!! 2 !!! CONTINUE FROM HERE
 
 
-Why do we have pets?
+> "Syntheism is essentially the idea that God is a good word to use, because God is the ultimate. And we have no better word for the ultimate. So say if you and I would sit down together and discuss dreams - what we dream about the most and what could possibly sometimes in the future - whether in our lifetime or not - if something could happen that would really really strike us as a worthy goal to work towards - that will give us purpose and meaning with everything we do in our lives - now, now there's no better word for that if that's a shared point - there's no better word for that than God." - [Alexander Bard](https://youtu.be/BmV9tdYyUUE?t=1797)
 
-
-> "To me, the name “God” is an amazing name for all the dreams of humanity projected into one point. What would you name that? You would name it God. And that is what we need to do, to retake the “God” word but just give God proper qualities that we can actually believe in." - [Alexander Bard](https://en.wikipedia.org/wiki/Syntheism#:~:text=To%20me%2C%20the%20name%20%E2%80%9CGod%E2%80%9D%20is%20an%20amazing%20name%20for%20all%20the%20dreams%20of%20humanity%20projected%20into%20one%20point.%20What%20would%20you%20name%20that%3F%20You%20would%20name%20it%20God.%20And%20that%20is%20what%20we%20need%20to%20do%2C%20to%20retake%20the%20%E2%80%9CGod%E2%80%9D%20word%20but%20just%20give%20God%20proper%20qualities%20that%20we%20can%20actually%20believe%20in.)
-
-
-> "The Latin verb religare means to 're-bind'. The Latin noun religio referring to obligation, bond, or reverence is probably based on religare, so religio and its English derivation religion connote a 're-binding'." - [Peter Lucas Hulen on Religion](http://persweb.wabash.edu/facstaff/hulenp/religion.html#:~:text=The%20Latin%20verb%20religare%20means,a%20're%2Dbinding'.)
-
-> "The Global Brain seems to be developing superhuman capabilities similar to the classic attributes of God: omniscience, omnipresence and omnipotence." - [The Global Brain as a model of the future information society: An introduction to the special issue, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/TFSC-intro.pdf)
-
-
-> "The religious is the category in culture that is concerned with the fitness to purpose of human cultural environments." - [Jordan Hall](https://youtu.be/SkHeudFqPnk?t=3616)
-
-
-> "Syntheism is essentially idea that God is a good word to use, because God is the ultimate. And we have no better word for the ultimate. So say if you and I would set sit down together and discuss dreams - what we dream about the most and what could possibly sometimes in the future - whether in our lifetime or not - if something could happen that would really really strike us as a worthy goal to work towards - that will give us purpose and meaning with everything we do in our lives - now, now there's no better word for that if that's a shared point - there's no better word for that than God." - [Alexander Bard](https://youtu.be/BmV9tdYyUUE?t=1797)
-
-> "Now what if we start imagine that the world could be different from what it is - it could just be different - it doesn't have necessarily to be better, but at least to some people it would be preferable and more interesting simply because it's more novel. Okay, that's an exodus, and an exodus doesn't have to be geographical - an exodus can also be paradigmatic, an exodus could be from one time to another time. So say we want to take the Internet and its full potential seriously - we don't want to do like people do so far, which is basically they throw themselves into the Internet age, but they take all the values with them from the previous capitalist stage and therefore they don't get it. So they do all the things wrong with essentially the mess we're in right now in 2021. What if we just start looking at the technology itself and its full potential and its full potential for us as human beings and then some of us really devote ourselves and say that we're gonna do the Internet properly and we're gonna maximize the man-machine relationship in the Internet age? Now you don't have any other name for that than God. And this is the beauty of it, because we've obviously torn down God - throwing him out with atheism and everything... declared God is dead - well essentially outside the christians are saying - well that's a good word to use then, because if God is now thrown out and declared over and he's not in any longer, but rather he's out and the fashion dictates that we should all be proud atheists by now - then we're just saying that well that's kind of a bad idea - you can keep God, you just take God from the past and say he never existed - it doesn't mean he cannot exist - we just put him into the future. This is the idea of Syntheism - the idea is that the God we always claimed was in the past wasn't there - we've gotten used to that idea, we've even gotten used in a Nietzschen fashion to the freedom that comes with the idea that God was never there. Now what if we use that freedom to instead create the God that we prefer? Because it turns out the way technology is developing at the moment - without a certain consciousness of that process - we will probably develop a God that will destroy us. It will probably be preferable if this God that we're creating - Syntheos - if the Syntheos was actually co-created by the smartest and wisest human beings who put both their creativity and their wisdom into that process. And this is when it gets really interesting, because when we get the certain awareness of this, which we call Syntheology - the idea that we actually start to design God before God occurs - until God has arrived we have the possible designing him, so we're now doing our 40-year journey through the desert, we've left the capitalist aged, we walked into the attentionalist informationalist age, we've done so you and I have certainly done so fully and embraced it, we're now on our journey and while we're on the journey we can actually design God by designing the very temple - the container - within which we will put God when he arrives." - [Alexander Bard](https://youtu.be/BmV9tdYyUUE?t=1931)
+> "Now what if we start to imagine that the world could be different from what it is - it could just be different - it doesn't have necessarily to be better, but at least to some people it would be preferable and more interesting simply because it's more novel. Okay, that's an exodus, and an exodus doesn't have to be geographical - an exodus can also be paradigmatic, an exodus could be from one time to another time. So say we want to take the Internet and its full potential seriously - we don't want to do like people do so far, which is basically they throw themselves into the Internet age, but they take all the values with them from the previous capitalist stage and therefore they don't get it. So they do all the things wrong with essentially the mess we're in right now in 2021. What if we just start looking at the technology itself and its full potential and its full potential for us as human beings and then some of us really devote ourselves and say that we're gonna do the Internet properly and we're gonna maximize the man-machine relationship in the Internet age? Now you don't have any other name for that than God. And this is the beauty of it, because we've obviously torn down God - throwing him out with atheism and everything... declared God is dead - well essentially outside the christians are saying - well that's a good word to use then, because if God is now thrown out and declared over and he's not in any longer, but rather he's out and the fashion dictates that we should all be proud atheists by now - then we're just saying that well that's kind of a bad idea - you can keep God, you just take God from the past and say he never existed - it doesn't mean he cannot exist - we just put him into the future. This is the idea of Syntheism - the idea is that the God we always claimed was in the past wasn't there - we've gotten used to that idea, we've even gotten used in a Nietzschen fashion to the freedom that comes with the idea that God was never there. Now what if we use that freedom to instead create the God that we prefer? Because it turns out the way technology is developing at the moment - without a certain consciousness of that process - we will probably develop a God that will destroy us. It will probably be preferable if this God that we're creating - Syntheos - if the Syntheos was actually co-created by the smartest and wisest human beings who put both their creativity and their wisdom into that process. And this is when it gets really interesting, because when we get the certain awareness of this, which we call Syntheology - the idea that we actually start to design God before God occurs - until God has arrived we have the possible designing him, so we're now doing our 40-year journey through the desert, we've left the capitalist aged, we walked into the attentionalist informationalist age, we've done so you and I have certainly done so fully and embraced it, we're now on our journey and while we're on the journey we can actually design God by designing the very temple - the container - within which we will put God when he arrives." - [Alexander Bard](https://youtu.be/BmV9tdYyUUE?t=1931)
 
 > "I think the problem with the West that we're living with today is that exploitative behavior of the West across the world that caused the current problems was because state and market were left outside of religion." - [Alexander Bard](https://youtu.be/BmV9tdYyUUE?t=2799)
 ^^ Not sure about this...
@@ -1949,8 +1888,6 @@ Emergentism emphasizes the teleological emergence of consciousness out of matter
 > "Any sufficiently advanced technology is indistinguishable from magic." - [Arthur C. Clarke](https://www.goodreads.com/quotes/14885-any-sufficiently-advanced-technology-is-indistinguishable-from-magic)
 Any sufficiently advanced social technology is indistinguishable from God.
 
-> "It may be that our role on this planet is not to worship God--but to create him." - [Arthur C. Clarke](https://www.goodreads.com/quotes/22829-it-may-be-that-our-role-on-this-planet-is)
-
 
 If Brendan Graham Dempsey' Emergentism & Alexander Bard's Syntheism had a baby
 
@@ -1980,9 +1917,82 @@ https://www.youtube.com/watch?v=szrm_qOpaqs
 
 
 
+<details><summary>UTOK's Elephant Sun God</summary><p>
+
+<img src="/img/UTOK-ESG.png"/>
+<!-- graphic by Christian Gross who's been helping Gregg with all things UTOK? -->
+
+> "... the concept of God has played a huge role in the lives of most people who have lived on this planet.
+>
+> The second meaning is what differentiates me from the New Atheists, like Richard Dawkins and Sam Harris. They argue that the concept of God has done much ill, that it inevitably does much ill, and that it is childish or even delusional to believe in God. In contrast, I align with the view taken by the philosopher Quentin Meillassoux, who argued that “God is a concept far too important to leave to the religious.”
+>
+> Because we are talking about God, the first thing I should do is be clear about my own metaphysical, spiritual, and religious commitments. Grounded in UTOK’s naturalistic ontology, I consider myself an (a) agnostic, (b) atheistic, (c) syntheist who is oriented toward cultivating a transcendent naturalism. Agnosticism means to not know, to be uncertain, or to not know if one believes in something or not. Being agnostic in this context references my not knowing and having uncertainty about the ultimate essence of the universe, and what might be in it. In other words, I am not a foundationalist or a fundamentalist; I do not claim to know what this is all about at its ultimate. I am “a-theistic” with regards to current concrete and literal religious versions of God that I have seen. The prefix ‘a’ here means without or not (as in amoral or apolitical) and ‘theism’ means belief in a personal God. Thus, for me, ‘atheism’ literally means I am without a belief in a personal God who cares about me and my struggles. I became a “syntheist” via my exposure to the philosopher Alexander Bard, especially the book he co-authored with Jan Söderqvist, Syntheism: Creating God in the Internet Age. As the name suggests, syntheism refers to framing God as something that humanity creates. There are (at least) two ways to frame this God. Bard and Jan Söderqvist frame God in terms of power, specifically technology and the emerging digital computational landscape of artificial intelligence. Parallels can be drawn between this conception of God and how UTOK frames the Fifth Joint Point.
+>
+> A second way to frame the concept of God is via the notion of transcendence. Consistent with Karen Armstrong’s argument in The Case for God, the concept of God can be framed as that which you approach as you engage in spiritual or sacred practices that enable a sense of transcendence. This brings me to the concept of Transcendent Naturalism (TN), which is a meaning-making framework I am developing with John Vervaeke on the Cognitive Science Show.
+>
+> UTOK is a naturalistic approach that frames my life as a “complexity bubble” that consists of Energy-Information patterns on the planes of Matter-Object, Life-Organism, Mind-Animal, and Culture-Person. When I die my complexity bubble will “pop,” such that I will no longer be living, minded, or self-conscious. The fact that my complexity bubble grants me subjective conscious experience and reflective self-consciousness is nothing short of a miracle. It amazes me that I can be “one” with my soul-psyche, and each day I have moments of awe, wonder, humility, and gratitude. When I consider how most atoms are organized across the universe (i.e., the 99.9999999999999+% that is dead matter), I simply can’t believe that my little baton of Energy-Information has these properties. In short, I have much awe and gratitude for whatever forces gave rise to my experience of being.
+>
+> ... Drawing me to this omega point of ultimate concern to be wiser, better, and more loving was the Elephant Sun God (ESG). Or, more accurately, the ESG is the icon I developed for that felt sense of simultaneously being in the world and at one with it.
+>
+> With this background, we can now clarify the symbolism in the ESG. First, it is an icon, not an idol. Put differently, there is no magic here, and we are not praying to this symbol or submitting to it literally. Consistent with this, I encourage folks to consider what might be an icon for the concept of God that they would feel attached to.
+>
+> Second, the icon represents a placeholder for the concept of God as Karen Armstrong defined it, which is that which we move toward as we experience the transcendent. We can also frame this as being aligned with what Paul Tillich called the “ultimate concern.” The ultimate concern transcends us into a passionate, intuitive, participatory embrace of the ultimate. To see this, consider what draws you into the purpose of your life and what gives it ultimate meaning. It is the felt sense of what you are “supposed to be doing” or what you are striving toward or your core potential.
+>
+> Third, the soul — which I define as the core organizational form of your personal psyche — often expands into spirit, which is a higher-order perspective on the world. That is, the ESG is “above” the soul and orients the spirit. And to join with it in part means to break free of one’s egoic perspective, join it with other perspectives, and ultimately with all other perspectives, creating a multiplicity-unity dialectic. Now imagine if we could consciously evolve this way together. This potential collective transcendence is referred to as “strong transcendence” in the TN framework.
+>
+> Fourth, the icon represents what I sometimes refer to as the “negentropic transcendentals” of goodness, truth, and beauty. I call them negentropic because they relate to the kinds of properties of being in the world that allow for increasing degrees of complexification and self-organization. To see this, consider how degradation and defamation, the spreading of lies, and acts of evil all are highly entropic; that is, they induce chaos and destruction that undermines flourishing.
+>
+> With this background in place, we are finally at a place to clarify the actual symbolism of the ESG. The ESG is an amalgamation of three different concepts. The first basic idea is to frame the sun as God, which is a common concept in many cultures. The ESG is specifically drawn from the Egyptian Sun God Ra, who is generally considered the most important of the Egyptian gods. Ra is the god of the sun, as well as order, the sky, and kings. He represents light, power, and the origins of all things.
+>
+> The second concept that I am drawing from is Ganesha. Ganesha is a prominent Hindu god, who is often featured with an elephant head. Ganesha is the god of wisdom and the intellect, as well as the god of removal of obstacles and of good fortune. He also represents beginnings and is honored in many festivals of renewal.
+>
+> The third referent is the elephant in the poem by John Godfrey Saxe of the six blind men who happen upon an elephant, such that each grabs a part and claims to have “seen” the essence. If you look closely at the standard ESG icon, you will see that it is an elephant made up of those parts (e.g., the trunk is a snake, the side is a wall, the legs are tree trunks)...
+>
+> We can thus consider the ESG icon to be a metamodern symbol. That is, it is simultaneously sincere and ironic, and it is situated to both include and transcend oral-indigenous, traditional, modern, and postmodern sensibilities. It is meant to symbolize our embeddedness in nature (i.e., our dependence on the sun and earth and our connection with other living creatures like elephants), and our historical lineage of justification that stretches from traditional societies in the Bronze Age into the Axial Age into modern science and into a postmodern, pluralistic, contextualized view. The metamodern sensibility is recursively self-aware and is framed by a coherent, integrated pluralism, which is situated against the current chaotic, fragmented pluralism that characterizes our current knowledge systems." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+</p></details>
+
+## other quotes
+
+<details><summary>Other quotes</summary><p>
+
+> "Religion and morality are the essential pillars of civil society." - [George Washington](https://www.azquotes.com/quote/579378)
+
+> "I assume that something new will emerge in human society, and it will present us with undreamed possibilities in science and the arts. This emergence requires our efforts and requires something spiritual that goes beyond the mind. There will be a new emergence, and we will play a part in what that emergence is. That is our destiny." - [The Emergence of Everything, by Harold Morowitz](https://www.goodreads.com/book/show/2301.The_Emergence_of_Everything)
+
+> "I believe in God, but not as one thing, not as an old man in the sky. I believe that what people call God is something in all of us. I believe that what Jesus and Mohammed and Buddha and all the rest said was right. It's just that the translations have gone wrong." - [John Lennon](https://www.goodreads.com/quotes/112387-i-believe-in-god-but-not-as-one-thing-not)
+
+> "God is what mind becomes when it has passed beyond the scale of our comprehension." - [Freeman Dyson](https://www.azquotes.com/quote/1046023)
+
+> "William James wrote in The Varieties of Religious Experience that religion 'consists of the belief that there is an unseen order, and that our supreme good lies in harmoniously adjusting ourselves thereto'." - [Robert Wright](https://www.goodreads.com/quotes/8953319-william-james-wrote-in-the-varieties-of-religious-experience-that)
+
+> "Religion is a feature of cultural evolution that, among other things, addresses anxieties created by cultural evolution; it helps keep social change safe from itself." - [Robert Wright](https://www.goodreads.com/quotes/1101921-religion-is-a-feature-of-cultural-evolution-that-among-other)
+
+> "The religious is the category in culture that is concerned with the fitness to purpose of human cultural environments." - [Jordan Hall](https://youtu.be/SkHeudFqPnk?t=3616)
+
+> "Even the body within which individuals treat each other as equals ... will have to be an incarnate will to power, it will strive to grow, spread, seize, become predominant – not from any morality or immorality but because it is living and because life simply is will to power." - [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Will_to_power#:~:text=Even%20the%20body%20within%20which%20individuals%20treat%20each%20other%20as%20equals%C2%A0...%20will%20have%20to%20be%20an%20incarnate%20will%20to%20power%2C%20it%20will%20strive%20to%20grow%2C%20spread%2C%20seize%2C%20become%20predominant%C2%A0%E2%80%93%20not%20from%20any%20morality%20or%20immorality%20but%20because%20it%20is%20living%20and%20because%20life%20simply%20is%20will%20to%20power.)
+
+> "For [Layman] Pascal, “religion” in this broader sense actually refers to any context in which a system’s multiple parts operate in synergistic harmony such that they produce “surplus cohesion.” The religious experience, then, literally emerges as a consequence of collective integrations producing holistic properties that are more than the sum of their individual parts. Such emergent phenomena account for any and all experiences of the “sacred”—which is to say, “the sacred” refers to the synergistic surplus capacities generated by successful integration. Human “spirituality,” Pascal suggests, is concerned with such sub-system integration in the individual person, while the word “religion” he reserves for this process at the collective level. What would a society look like if all its parts were operating in healthy accord?...
+>
+> ... The formation of molecules from atoms represents its own sacred moment; the cohesion of a multicellular organism from single cells is a truly transcendent achievement. And, indeed, at the human level of cultural self-reflection, every new iteration of eternal recursion leading to a more capacious perspective that discloses more of reality’s rich relationships and updates our mental model of the world represents an ascent up another rung on Jacob’s loopy ladder. The cohesion binding the parts is the care, the love, the kindness intuited by the metamodern sensibility as the simple but essential glue keeping the whole thing together. It is the Eros of the metaxy, uniting finite and infinite. It’s “Please, be kind, especially when we don’t know what’s going on.” (And given the nature of recursive transcendence, we never fully do!)" - [Metamodernism, Or, The Cultural Logic of Cultural Logics, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/199434578-metamodernism)
+
+> "The Network here is a candidate for the most powerful force in the world, where the Leviathan in the Hobbesian sense is not divinity (God) or military (the State) but community and cryptography (Network)." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=The%20Network%20here%20is%20a%20candidate%20for%20the%20most%20powerful%20force%20in%20the%20world%2C%20where%20the%20Leviathan%20in%20the%20Hobbesian%20sense%20is%20not%20divinity%20(God)%20or%20military%20(the%20State)%20but%20community%20and%20cryptography%20(Network).)
+
+</p></details>
+
+## todo
+
+reread and think about this - how to define religion and how close is it to ideology?
+https://selfawarepatterns.com/2020/07/20/the-superhuman-order-definition-of-religion/
 
 
+[Secular religion](https://en.wikipedia.org/wiki/Secular_religion)
+also:
+https://en.wikipedia.org/wiki/Religious_naturalism
 
+spirituality: the experience and expression of the higher inner states
+religion: the meaning-making fabric of our relatedness to reality
+https://metamoderna.org/when-irony-saves-the-faithful/#:~:text=religion%20itself%C2%A0(the%20meaning%2Dmaking%20fabric%20of%20our%20relatedness%20to%20reality).
 
 
 ██████████████████████████████████████████████████████████████████

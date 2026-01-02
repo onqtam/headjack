@@ -723,6 +723,7 @@ The tripple/quadrupple inversion - the holy trinity - thats my holy trinity - or
 Identity > Money, Public > Private, who surveils who, top-down vs bottom-up social credit score
 roleplay as an inverter - put yourself in a box and jump at 180 degrees or go with your feet from one side to the other over the top and fall
 Inversion: seduction > domination
+Inversion: Creating God > Being Created by him
 
 I command my tongue, but if I hurt it I hurt myself because we are one - our goals are completely in alignment
 

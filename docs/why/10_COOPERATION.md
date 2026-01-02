@@ -157,6 +157,7 @@ Science is the clearest example of global coordination.
 # SECTION: Morality, Ethics, Compassion & Empathy
 ██████████████████████████████████████████████████████████████████
 
+> "If I were God, I'd work on the reach of empathy." - [Frans de Waal](https://www.azquotes.com/quote/576491)
 
 > "Right is right even if no one is doing it; wrong is wrong even if everyone is doing it." - [Saint Augustine](https://www.goodreads.com/quotes/126110-right-is-right-even-if-no-one-is-doing-it)
 
