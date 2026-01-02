@@ -99,6 +99,11 @@ this next bit is more about the importance of Twitter and the overwhelm of infor
 
 > "Anyone who has used a computer in the last decade is well aware of the problem of malware: be careful installing 3rd party software on your system. Oddly, we are vastly less circumspect when installing 3rd party narrative into our sensemaker." - [Constructing a New Narrative, by Jordan Hall](https://medium.com/emergent-culture/constructing-a-new-narrative-6b717b566fc4)
 
+
+
+> "What does it mean to give up on making sense of the world you live in? In the most consequential topics? Well it's a form of nihilism. Right? It's a kind of epistemic nihilism because if reality is meaningful then I need to understand it to know how to interact in an appropriate way. And if I give up on understanding it because it seems impossible or too fucking hard - can I actually make choices that are aligned with what's meaningful if I have no idea what world I live in? ... What I would encourage is for people to look at the nature of their epistemic drive and their epistemic nihilism and like how much are they actually committed to making sense earnestly of the world they live in as a basis to have their choice possibly be meaningful." - [Daniel Schmachtenberger](https://youtu.be/TpBGY3NiFlE)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Availability cascades
 ██████████████████████████████████████████████████████████████████

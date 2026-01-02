@@ -1497,8 +1497,6 @@ Co-operati
 
 The role of a God is to tell you what to do
 
-Who nudges the nudgers?
-
 We need to consciously guide our development throughout time - we need to specify what the most appropriate way to be is, and have a trustworthy and legitimate process for determining that
 
 Legitimacy needs to be CONTINUALLY/perpetually earned
