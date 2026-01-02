@@ -285,6 +285,11 @@ divide and conquer
 
 
 
+<!--
+██████████████████████████████████████████████████████████████████
+█ CURSOR 2 ███████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
+-->
 
 > "God painstakingly keeps track of all of our sins as well as our good deeds." - [Syntheism - Creating God in the Internet Age, by Alexander Bard & Jan Soderqvist](https://www.goodreads.com/book/show/24583533-syntheism---creating-god-in-the-internet-age)
 

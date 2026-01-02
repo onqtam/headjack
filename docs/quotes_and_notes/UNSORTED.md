@@ -1639,6 +1639,8 @@ https://theosophy.wiki/en/Egregore
 >
 > ... The Devil is the generator function of misaligned egregores." - [Why You Are Probably Working for the Devil, by Octopusyarn](https://octopusyarn.substack.com/p/why-you-are-probably-working-for)
 
+> "It makes sense to think of the Devil as a transpersonal being, an egregore. Evil, in turn, is a relational process that creates suffering, not a fixed characteristic. The Devil rises from social conditions that foster Evil." - [Redeeming Christian concepts, by Octopusyarn](https://octopusyarn.substack.com/p/redeeming-christian-concepts)
+
 
 
 
