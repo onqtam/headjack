@@ -2317,8 +2317,6 @@ The Great Reset is a paradigm change in the accounting of relevance and status
 I don’t know about intelligent design, but you know what is unintelligent design? Designing a system in which the most-consequential parts of it are hidden to itself. There is no intellectual property - there is only heritage.
 If you’re moronic with the fundamentals - you’ll be catastrophic in/with the  implementations/manifestations.
 
-The Fabric of Society
-
 Intellectual property is a crime against consciousness
 
 When the incentive is to contribute to whatever already exists there is no need to hoard information in the fear that someone else might outcompete you and render you out of existence.
@@ -2373,6 +2371,195 @@ The more important a book is - the more accessible it should be - our funding mo
 
 
 If you want people to not check out and be nihilistic and with apathy you need to EXPLAIN to them why they should care.
+
+
+
+Coherent hierarchy of values
+
+We can do a lot better than simply doing a lot better - in regards to what decentralized identity can do - not just a better twitter
+
+The Source - for all creativity and consciousness - the system that delivers it the best
+
+Unaccountability stands for fragmentation, separateness, lack of integration and synergy, lack of accounting and thus perception for self-awareness and error correction, shielded from the consequences of actions, breaking feedback
+
+Let there be light! Where there is light - there is no shadow
+
+There is no individualism without collectivism
+
+Nationalism - accountability within and across
+Or you’re a globalist - well then again its about accountability and trust but you also should want separate regions trying different things and only matters of ultimate concern for all should be adjudicated on the global level - subsidiarity - and what’s our process of determining what should matter where
+Cultures aren’t equal - not by a long shot
+Not X nation first - its fairness and truth and accountability and trust first
+And this is true for all levels of organization - not just the top most
+
+Civilizational collapse is a collapse of meaning
+
+The culture war is a perspective and aggregation war
+
+Syntropic law #1: accountability shall scale with consequentiality
+
+The purpose of a system is what it does
+
+Gold has no smell! A $ is a $! This accounting is loses information
+
+Exit the world that’s dying by opting in to what’s flourishing
+
+Parameterising society
+
+Human relations as a service
+
+Fold it at home => govern it at home
+
+Alignment as a service
+
+Collectivism with individualistic characteristics
+
+A new credit and financing system
+
+When you are godless you are smaller
+
+Trust and fairness are built in public
+
+How do we generate a perspective from which we’ve removed as much distortion of the perspective as possible?
+
+Life is not just about you - it is just a bit about you and mostly about others.
+
+Corruption can hide in the shadows only to the extent that they exist - without shadows there is only light and 0 corruption
+
+Fractal description of the system - the deeper you go the more concepts open up that can be explored fractally in their own right
+
+I’m a fine-tuning worshiper - I worship whatever is the reason for these specific values of the constants
+
+We need to redefine fame and status
+
+We can render war obsolete
+Self-governance software as a service
+
+We will penetrate culture itself and make it self-aware
+We will penetrate not only the cabinets but the very heads of people!
+
+Patreon 2.0
+
+Learning == behaviour change, observation, making distinctions
+
+This is the infinite game
+
+Life is an ode to creation
+
+This is the real deep mind - a deeper and more expansive self-aware knowledge set - our culture - the mind virus that is running society
+Mind virus as a service
+
+Prediction is accounting into the future!!!
+
+The only things worth storing in your reserves are not gold but legitimacy and capacity to mobilize and do work
+
+Who watches the watchmen? Well it would have to be other watchmen - only they can watch - duuh! We will all become watchmen to different extents - this is the only way! The more consequential an entity is - the more watchmen it will have! Take on some responsibility
+
+How do we learn how to better learn?
+
+2 pictures: getting a monkey out of a status seeking game, and trying to rip the status seeking out of the monkey conceptually
+
+Currently we reward people to solve problems by giving them equity and ownership in the business - but then the business obsoleting itself goes directly against their interests - we need to reward people to solve problems in a way that doesn’t require the problem to persist. We need to give problem solvers credit in a way such that the problem persisting isn’t in their best interest. Ditto for bureaucracy. This is FUNDAMENTAL - what we have is not a recipe for problem solving but a recipe for problem continuation - this is also why we still have so much war and a military industrial complex - it could be a lot less
+
+Accounting IS perception - of the different dimensions and aspects of a thing - we’re sizing it up
+
+We need a system that puts everyone in their proper place
+
+Account or get accounted
+
+John Barrow: “if a religion is defined as a system of ideas that contains unprovable statements, then Godel taught us that mathematics is not only a religion, it is the only religion that can prove itself to be one.”
+
+Moronic with the fundamentals ==> catastrophic with the simulations
+
+There is no “me” - I live only for this idea and I try to be it as faithfully/best as I can
+
+Configurations as objects in their own right, that you can subscribe to, inherit, follow, and transform
+
+
+Neo quote from the end of the first matrix
+
+
+Reputation cannot be bought - it can only be earned
+
+
+Isegoria is a term derived from the Greek words "isos" (equal) and "agoreuo" (to speak publicly), meaning equality of all citizens in the right to speak in public assembly [1]. 
+While the term specifically referred to the right to free speech in ancient Athens, it is often used in a modern context to describe the value of ensuring everyone has the opportunity to voice their perspectives, regardless of status or background, thus promoting an environment where arguments are evaluated on their own merit [1, 2]. 
+Key aspects of isegoria include:
+Equality in Voice: The principle that every individual's opinion or argument holds the same initial weight and is entitled to be heard.
+Focus on Merit: Encouraging a culture where the content and logic of an argument are the primary factors for consideration, rather than the identity, status, or popularity of the person presenting it.
+Open Discourse: Fostering an environment conducive to free and open exchange of ideas, essential for robust debate and decision-making. 
+
+
+
+This is literally the optimal way of coordinating and we can actually do it!
+
+This service is priceless and I will pay any price for it
+
+I want to be governed well.
+
+Only trust can build security indefinitely
+
+Identity is the ultimate savings account - the ultimate store of value is identity
+
+We need a better system to have kids in
+
+Welcome to your collective sense of self. The sixth sense is the religious one - we all worship one memeplex or another simply based on how we live our lives
+
+How do we build/create collective knowledge?
+
+This is the real band of brothers
+
+An association graph
+
+All I’m offering is meaning, truth, goodness/love and beauty - nothing more, nothing less
+
+Address the audience: “look, you don’t have to agree with everything here - and you probably dont - but pets build the system that would best resolve our dispute - why not?
+You don’t have to agree with everything here - lets build this to debate it
+
+The purpose of life is to give birth to even more life!
+
+Collective self justification
+
+Wake the f up! We’re at the beginning of infinity!!!
+
+Make the collective a self again! Again and again on each further level - one metasystem transition at a time - evolution’s direction
+
+Collective self
+God is the collective self - always has been - there’s aways the next metasystem transition
+
+This is Meta Architecture - the designing of the metas of the different aspects of the world
+
+I dont feel only politically homeless but also religiously homeless. I am religious. I am a collectivist. I long to care about a collective - imagine not actually wanting that lol
+
+The ultimate prestige game
+Prestige/Status redefined
+
+Minimum viable civilization - one in which you profit from the wellbeing of others
+
+“What is it like to be a part of a collective self”
+The collective self
+
+One world governance
+One world self
+The world self
+
+The great convergence
+
+Our ouroboros religion has an official logo - we’re ouroboros
+
+This is the mind melt - the collective mind melt is upon us
+
+We need an accounting system in which insider trading is not a thing
+
+What is the effect of religion? Its coherence!
+
+Its a decentralized non-financial betting market
+
+Different presets of the fractal relevance matrix for different roles/people
+
+People can opt-in to different degrees in different aspects and even have their vote counted with different weight in certain aspects based on their level of commitment
+
+
 
 
 ██████████████████████████████████████████████████████████████████
@@ -2522,6 +2709,12 @@ Reconceptualize property
 decouple resources for personal use from control over the economy
 prestige
 
+██████████████████████████████████████████████████████████████████
+# 
+██████████████████████████████████████████████████████████████████
+
+truly solving a problem - not simply making a company that would be managing the problem with a service in perpetuity
+when we give ownership to founders of their companies their incentive is to keep the sharade going and not to solve the problem once and for all - they're looking for an excuse for their thing to persist
 
 ██████████████████████████████████████████████████████████████████
 # evolution's arrow
@@ -2720,7 +2913,7 @@ congratulations! you found the single most important video on the internet!
 We will change the world! Oh - you don't believe me?! LOOK! I have the ENTIRE plan already!
     on the t-shirt
 
-Hep me build a better system
+Help me build a better system
 
 Welcome to the end of money
 
@@ -2775,4 +2968,7 @@ Ending - say “download this video”
 ██████████████████████████████████████████████████████████████████
 
 This is taking process philosophy seriously
+
+you might say it's not possible - no - it's necessary
+
 

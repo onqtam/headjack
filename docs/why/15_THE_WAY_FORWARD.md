@@ -1488,6 +1488,8 @@ https://www.goodreads.com/quotes/9627737-the-first-gulp-from-the-glass-of-natura
 >
 > ... This is the big question to end on: If old religions have been too culturally debunked to be revived en masse and religions whose supernatural has been stripped from them are too fake to be useful, how do you have religions in a postmodern world?" - [Religion, Rationality, and Religious Rationality, by Erik Torenberg](https://eriktorenberg.substack.com/p/religion-rationality-and-religious)
 
+<!-- > "I grew up atheist/agnostic. I see now clearly: we need God" - [Joe Norman](https://x.com/normonics/status/1349344615321772037) -->
+
 ## perpetual renewal of something like the bible - error-correction and progress are built it
 
 > "Religion will not regain its old power until it can face change in the same spirit as does science. Its principles may be eternal, but the expression of those principles requires continual development." - [Alfred North Whitehead](https://www.goodreads.com/quotes/7664805-religion-will-not-regain-its-old-power-until-it-can)
@@ -1874,17 +1876,20 @@ What if God is not the creator but something we create and merge with? We should
 
 > "God emerges from an ever-evolving, interconnected net of relations." - [A Headless God or religion for our times, by Octopusyarn](https://octopusyarn.substack.com/p/a-headless-god-or-religion-for-our)
 
+
+
 > "Traditionally religious speculations have already been coming back as hypotheses wrapped in “science-y” language for the past decades already (see the demarcation problem). The simulation hypothesis is just tech bro gnosticism. The Omega point and the singularity are Silicon Valley eschatology. Cosmological inflation, complexification, quantum entanglement, many worlds. Many words. And all of them have religious implications and offer competing grand narratives, whether their pundits admit it or not. Many of them tie in with great religious traditions and philosophers alike (Hegel, Whitehead, Bergson, de Chardin). A re-integration therefore does not seem out of reach, and we will continue to see more convincing attempts. The prototypical example is Wilber’s Integralism, and more recently, Metamodernism. Interesting attempts that focus even more on the narrative aspects continue to show up, e.g. Emergentism or The Romance of Reality.
 >
 > While the vanguard of science is still undecided on major questions (e.g. interpretations of quantum mechanics or the nature of consciousness) and different narrative strands will end up with quite different interpretations, some common elements seem clear. First and foremost, a development through time with distinct phase changes of emergence with increasing complexity seems like a common denominator." - [A Headless God or religion for our times, by Octopusyarn](https://octopusyarn.substack.com/p/a-headless-god-or-religion-for-our)
 
-> "Being self-aware of its constructedness, a metamodern God concept needs to be able to sustain critique. Daniel Görtz describes this concept of a headless God as follows: “It is a God whose altar can be pissed upon, is insulted again and again, yet remains sacred, is resurrected. (...) Always on its way to the guillotine.” This allows for an anti- fragile dynamic where whatever belief structures are left after ferocious critique can be believed in with much more conviction. This constant critique also acts as a pruning function to get rid of structures no longer needed. Since our God is anti- fragile, there should be no hesitation in tearing down any narratives that are disproven by our scientific advances and reconstructing ones that better reflect reality." - [A Headless God or religion for our times, by Octopusyarn](https://octopusyarn.substack.com/p/a-headless-god-or-religion-for-our)
+
+
+
+> "Being self-aware of its constructedness, a metamodern God concept needs to be able to sustain critique. Daniel Görtz describes this concept of a headless God as follows: “It is a God whose altar can be pissed upon, is insulted again and again, yet remains sacred, is resurrected. (...) Always on its way to the guillotine.” This allows for an anti-fragile dynamic where whatever belief structures are left after ferocious critique can be believed in with much more conviction. This constant critique also acts as a pruning function to get rid of structures no longer needed. Since our God is anti-fragile, there should be no hesitation in tearing down any narratives that are disproven by our scientific advances and reconstructing ones that better reflect reality." - [A Headless God or religion for our times, by Octopusyarn](https://octopusyarn.substack.com/p/a-headless-god-or-religion-for-our)
 
 > "This ain’t no fun as a single-player game; Metamodern Religion only comes to life with a collective of believers. Self-aware narrativity is also how we might hope that an increasing number of people will resonate with the stories we come up with: Any valid critique and additions that are useful while being coherent should be included without hesitation. As time progresses, the petrified dogmas of traditional religions will become ever more inconsistent. All the while, the population on average develops further and Metamodern Religion will exert an inexorable pull on adherents of traditional religions. At the same time, more scientific minded people would notice that the stories are in agreement with their worldview but provide much more personal and collective meaningfulness, so they too would be tempted to join in. Filling the God-shaped hole in our hearts in a way that doesn’t compromise on rationality is somewhat of a no-brainer.
 >
 > Metamodern religion will only feel intersubjectively real once a critical mass of “believers” subscribe to it. Just because we know that it’s just a story we made up doesn’t make it feel any less real. Even more so, we can believe it because we know we made it up. There is a certain bootstrapping principle at play here that reminds of Alexander Bard’s Syntheos, the created God, and the concept of Hyperstition. Like a collective placebo effect, we might be surprised how real our headless God will feel once enough of us have agreed on a version we could believe in." - [A Headless God or religion for our times, by Octopusyarn](https://octopusyarn.substack.com/p/a-headless-god-or-religion-for-our)
-
-> "Even God seems to create by designing incentives." - [Gordon Brander](https://twitter.com/gordonbrander/status/1700228049399148932)
 
 
 
@@ -1986,7 +1991,7 @@ https://www.youtube.com/watch?v=szrm_qOpaqs
 
 > "The Network here is a candidate for the most powerful force in the world, where the Leviathan in the Hobbesian sense is not divinity (God) or military (the State) but community and cryptography (Network)." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=The%20Network%20here%20is%20a%20candidate%20for%20the%20most%20powerful%20force%20in%20the%20world%2C%20where%20the%20Leviathan%20in%20the%20Hobbesian%20sense%20is%20not%20divinity%20(God)%20or%20military%20(the%20State)%20but%20community%20and%20cryptography%20(Network).)
 
-> "I grew up atheist/agnostic. I see now clearly: we need God" - [Joe Norman](https://x.com/normonics/status/1349344615321772037)
+<!-- > "Even God seems to create by designing incentives." - [Gordon Brander](https://twitter.com/gordonbrander/status/1700228049399148932) -->
 
 </p></details>
 
@@ -2057,11 +2062,11 @@ or a world without grift/corruption and unearned wealth? and instead of "you're 
 
 > "The empires of the future are the empires of the mind." - [Winston Churchill](https://www.goodreads.com/quotes/21921-the-empires-of-the-future-are-the-empires-of-the)
 
+> "Listen, the next revolution is gonna be a revolution of ideas." - [Bill Hicks](https://www.azquotes.com/quote/131769)
+
 > "You want to recruit producers, not consumers, and for that, you’ll need a purpose." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/god-state-network#:~:text=You%20want%20to%20recruit%20producers%2C%20not%20consumers%2C%20and%20for%20that%2C%20you%E2%80%99ll%20need%20a%20purpose.)
 
 > "Why join the navy if you can be a pirate?" - [Steve Jobs](https://www.goodreads.com/quotes/513460-why-join-the-navy-if-you-can-be-a-pirate)
-
-> "Listen, the next revolution is gonna be a revolution of ideas." - [Bill Hicks](https://www.azquotes.com/quote/131769)
 
 > "Here's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They're not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can't do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do." - [Steve Jobs](https://www.goodreads.com/quotes/924-here-s-to-the-crazy-ones-the-misfits-the-rebels-the)
 

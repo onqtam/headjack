@@ -285,11 +285,10 @@ divide and conquer
 
 
 
-<!--
 ██████████████████████████████████████████████████████████████████
 █ CURSOR 2 ███████████████████████████████████████████████████████
 ██████████████████████████████████████████████████████████████████
--->
+
 
 > "God painstakingly keeps track of all of our sins as well as our good deeds." - [Syntheism - Creating God in the Internet Age, by Alexander Bard & Jan Soderqvist](https://www.goodreads.com/book/show/24583533-syntheism---creating-god-in-the-internet-age)
 
@@ -299,7 +298,7 @@ What if we collectively tracked our sins & good deeds in culture & the economy a
 
 > "The Internet has not developed into one big global village where everyone communicates with everyone else in a way that reflects mutual understanding and trust – which many digital pioneers naively had hoped it would." - [Syntheism - Creating God in the Internet Age, by Alexander Bard & Jan Soderqvist](https://www.goodreads.com/book/show/24583533-syntheism---creating-god-in-the-internet-age)
 
-> "“War is merely a continuation of politics by other means,” writes the German General Carl von Clausewitz in his book On War from 1832. This is his answer to the question: What is war? Similarly, if we ask ourselves what politics really is, the answer is that politics is merely a continuation of religion by other means. And it definitely not only applies to Bolshevism or to other more or less doctrinal and airy-fairy movements with distinct features of sectarianism. Activities in the modern capitals of Western democracies do not constitute exceptions to this rule, whatever many secularised men and women in government and opposition would like to believe." - [Syntheism - Creating God in the Internet Age, by Alexander Bard & Jan Soderqvist](https://www.goodreads.com/book/show/24583533-syntheism---creating-god-in-the-internet-age)
+<!-- > "“War is merely a continuation of politics by other means,” writes the German General Carl von Clausewitz in his book On War from 1832. This is his answer to the question: What is war? Similarly, if we ask ourselves what politics really is, the answer is that politics is merely a continuation of religion by other means. And it definitely not only applies to Bolshevism or to other more or less doctrinal and airy-fairy movements with distinct features of sectarianism. Activities in the modern capitals of Western democracies do not constitute exceptions to this rule, whatever many secularised men and women in government and opposition would like to believe." - [Syntheism - Creating God in the Internet Age, by Alexander Bard & Jan Soderqvist](https://www.goodreads.com/book/show/24583533-syntheism---creating-god-in-the-internet-age) -->
 
 > "It is, as psychology professor Jonathan Haidt maintains in his book The Righteous Mind, impossible to understand the human being – as well as politics and religion – if we do not realise and bear in mind that our ancestors could not have survived and procreated with any success unless they had been extremely adept at belonging to groups. This is what people do and devote their lives to. We are, as Haidt writes, no saints, but sometimes we are really good team players. “Religion is loyalty to the world”, as the forefather of syntheism Alfred North Whitehead puts it." - [Syntheism - Creating God in the Internet Age, by Alexander Bard & Jan Soderqvist](https://www.goodreads.com/book/show/24583533-syntheism---creating-god-in-the-internet-age)
 
