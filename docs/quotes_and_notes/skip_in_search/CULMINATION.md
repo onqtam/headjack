@@ -1112,7 +1112,7 @@ Signal from noise
 There isnt a single problem on any scale that wouldnt benefit from better aggregation  & integration & better incentives
 
 I wanted to solve the single biggest problem for humanity - the kind of system it runs
-Oh u want to go to mars? Thats cute. You know what would help immensely? The Great Enabler! A better F System!
+Oh u want to go to mars? fuck yeah - count me in! Thats cute. You know what would help immensely? The Great Enabler! A better F System!
 Bigger than mars - an enabler for it
 You know what would help? Like A LOT?! A better fucking system! Pardon my french
 You want not to get sued by the DOJ for not having hired enough refugees and asylum seekers
@@ -2075,8 +2075,6 @@ Attention is all we have
 
 We need to see and take control of the web of interconnections
 
-The only measure of life is how much you’ve given
-How others feel around you and how much you’ve helped them
 
 
 This is the real situational assessment
@@ -2225,7 +2223,9 @@ strange loop, recursion, consciousness, wheeler's eye
 
 If there’s nothing you want to give to - I’m truly sorry for you - it must be miserable to be so small, alone, isolated, vulnerable, ephemeral, transient, mortal, and self-obsessed - that’s sad
 Give till it hurts
-The only measure of life is how much you’ve given and created
+The only measure of life is how much you’ve given (and created) - and the best way to maximize your impact is by contributing to the public commons because the greatest synergy and emergence happens there
+How others feel around you and how much you’ve helped them
+
 
 Love, truth, integrity, ego, wholeness - related - point from actualized.org integrity episode
 Truth is integrity, it has no room for contradictions
@@ -2254,7 +2254,7 @@ what are banks & finance ultimately for? to grow wealth & the economy. What shou
 
 if there is no symmetry between consequentiality and responsibility/accountability there is no fairness or justice
 
-Shared intentionality - separates us from the apes
+Shared intentionality & joint attention - separates us from the apes
 
 You probably have a lot of questions - so do I !!!
 There are many things I haven’t thought through, but I’ve fully thought through how to (optimally) think through anything!
@@ -2865,6 +2865,7 @@ The limits of my models are the limits of my thinking - our models completely sh
 
 we have a self-perpetuating system - and in it thrives only that which serves (to maintain) it - it's a runaway train where nobody is truly in control
 
+gov programs that aren't working: they don't solve problems. they just perpetuate a perception that something is being done. - Joel Salatin, taken from here at 38:20: "This book (by Joel Salatin) will help you understand how corporations took over everything" [tBWOf49zsVs]
 
 When mentioning the call to action at the end add a 100-200ms short flash of the photo of the American president saying “I want you!”
 

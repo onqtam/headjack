@@ -4426,7 +4426,21 @@ Digital church
 Applied isomorphism - consciously re-applying the principles & mechanisms that evolution has discovered
 
 
+Have a bit about the end game of identity and how all platforms are converging - spotify adding video and comments, YT community updates, substack notes, etc.
+
+We should be able to express with natural language the kinds of constraints we want and have the system do it for us
+
+
 > "Rage, rage against the [Anti-nesting principle for consciousness](https://en.wikipedia.org/wiki/Anti-nesting_principle) which would lead to the dying of the light." - [Do not go gentle into that good night, by Dylan Thomas](https://en.wikipedia.org/wiki/Do_not_go_gentle_into_that_good_night)
+
+
+> "we remain stuck in the world of highly emotionally salient but practically useless monocausal frames…" - [Matthew Pirkowski](https://x.com/MattPirkowski/status/2005753349896036690)
+
+
+> "I don’t think that an open, liberal society can be run on partisan disinformation. We need a force that actively opposes tribal epistemology, and gets us back to rational epistemology. Otherwise, the reality superposition may be a symptom of the demise of our political order." - [Joscha Bach](https://x.com/Plinz/status/2006863728567066758)
+
+
+> "Cooper: After you kids came along, your mom, she said something to me I never quite understood. She said, "Now, we're just here to be memories for our kids." I think now I understand what she meant. Once you're a parent, you're the ghost of your children's future." - [Cooper, Interstellar (2014)](https://www.imdb.com/title/tt0816692/quotes/?item=qt2468937&ref_=ext_shr_lnk)
 
 
 Unsustainability/overshoot should be a conscious tradeoff - a calculation
