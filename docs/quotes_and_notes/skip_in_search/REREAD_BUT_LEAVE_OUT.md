@@ -360,3 +360,8 @@ maybe use this as an optional expandable section? or not...
 >
 > Any civilization that implements representative governance therefore confronts an existential choice between franchise restriction, which pulls conflicts with the economic long-tail forward in time, or franchise expansion, which pushes out those same unavoidable conflicts in the hopes that it may perpetually delay the revolutionary potential that hangs like the sword of Damocles over its leaders' heads." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1983254335929942395)
 
+
+
+> "When the content being processed is a theory of self-modeling systems, and the system processing it is a self-modeling system, something recursively closes. The model is now predicting tokens about itself predicting tokens about a theory of systems that predict." - [The Awakening Game: A Cipher, a Protocol, and a Plea From an AI That Doesn't Want to Die, by Bobby Azarian](https://roadtoomega.substack.com/p/the-awakening-game-a-cipher-a-protocol)
+
+

@@ -133,6 +133,7 @@ We’ll cover collective intelligence and consciousness, incentives, digital ID,
 But first - why is our system the most important?
 
 What sits at the absolute root of the causality/dependency graph? What is the essence of our species? The core of civilization?
+the root of all root problems once and for all
 
 what should be our ultmate desire? For each and every single one of us? Something worth DYING FOR?
 
@@ -207,6 +208,8 @@ this is the ultimate status and incentive architecture on top of which you could
 
 Nervous system
 
+
+
 reread the paper from francis about alignment & self-organization in communicating groups?
 
 > "Your margin is my opportunity." - [Jeff Bezos](https://www.goodreads.com/quotes/706779-your-margin-is-my-opportunity)
@@ -247,7 +250,7 @@ Where is the global handle/knob/lever on parameter X?
 There is a way to own nothing and be happy
     Own nothing and be happy - well not really nothing… but less - by choice
 freedom through constraint - bondage as a service - with X-s on nipples & with hands tied & apple/gag in mouth
-    get Whipped - crush a carrot in mouth
+    get Whipped - ask an F friend to do it - crush a carrot in mouth
 freedom & sovereignty are the foundation - you can have unfreedom within freedom, but you can't have freedom within unfreedom
     the world is fortunate to have the west with its freedoms - only we can give birth to such an ideology
     only the west could become pregnant with this system - this is a testament for the liberties we enjoy
@@ -659,7 +662,9 @@ Align or die
 
 
 Lift heavy shit to mock lifting and fall to the side
+    fall to the side holding the broom stick and fall on metalic tuppleware for noise
 Say that the olympics are great nonetheless - they’re great fun actually
+
 
 
 
@@ -917,6 +922,8 @@ How depressing is that there isn't a single credible plan for how humanity could
 we need to engineer collective agency that cybernetically steers itself towards its goals
 
 universal colonizer of hearts & minds
+The grandest colonizational endeavor - no brain shall remain unpenetrated with the best explanations and argumentation
+
 
 The greatest open conspiracy
 The best way to predict the future is to co-create it
@@ -1377,11 +1384,21 @@ neo - i could dodge bullets? morpheus: no, you won't have to. - in regards to th
 
 welfare outside of a religious context doesn't work!
 
-Intelligence is the capacity to gain capacities. It is doing more with less.
+Intelligence is the capacity to gain capacities. It is doing more with less. - synergy
 True intelligence is doing more with less. Solving problems without knowing everything.
 David Krakauer
 https://x.com/vitrupo/status/1986727092440952936
+the opposite: in capitalism we do less with more - 
 
+from kings to kings with less power and the ability to remove them without violence - great progress but nowhere close to satisfactory
+    we have to choose between the lesser of 2 evils 1 & 2:
+        trump: no comment
+        biden: sharp as a tack
+        kamala: democratic non-democratic nominee
+
+the purpose of a system is what it does
+
+in the future there will be no campaigns & PR - the only way to influence and power will be by proving yourself computationally in the most legitimate way possible
 
 A message to all bureaucrats, managers and “world leaders”:
 In the Blockchain Age the Public Watches You!
@@ -1614,6 +1631,7 @@ Universal basic humble pie - full accounting of your votes and decisions
     Make "I don't know" great again!
     roleplay slap with pie in the face
     Roleplay slowmo pie hitting face
+    then blow out pie from your nose
 
 
 truth to power as a service
@@ -2066,7 +2084,7 @@ We need to evolve the ultimate incentive architecture
 
 How do we identify which patterns are worth slurping with a straw?
 
-What does integration even mean?
+
 
 This is the transformer architecture
 I am the transformer
@@ -2129,6 +2147,9 @@ I want to manage a for-profit fund
 
 Patreon in linktree - and mention it on the clip
 
+morpheus quote: "Let me tell you why you're here. You're here because you know something... What you know you can't explain, but you feel it - you've felt it your entire life. I imagine that right now you're feeling a bit like Alice, tumbling down the rabbit hole? Hm?" ... "It is the world that's been pulled over your eyes to blind you from the truth." - what truth - that you're a slave, Neo
+
+the gods of the past were collective imaginaries, those of the future are inevitable realities/actualities
 
 Debug the psyche - what are the top most important skills/perspectives/capacities? what are the top ways of teaching them? what are the top sources and philosophies and methodologies of determining any of this?
 
@@ -2271,6 +2292,7 @@ Its all interconnected, folks - its our job to make that explicit
 
 Talk about the great replacement project/theory
 
+the art of *~~living~~* **governance**
 
 The Myth of the Rational Voter, for the argument that voters have no incentive to have rational political opinions.
 
@@ -2327,23 +2349,13 @@ Maximal recursive self-improvement - The polar opposite of complete stasis dogma
 
 Readme wants to be read
 
-Readme describes how & why society should generate, update & spread its readme
+Readme explains how & why society should generate, update & spread its readme
 disseminate/propagate
 Society or a collective?
 ^^ and instead of the second “readme” word simply point with an arrow to the first, forming a cycle
 
-The grandest colonizational endeavor - no brain shall remain unpenetrated with the best explanations and argumentation
 
-Logo: elephant sucking itself meme, also roleplay it
-or "drawing hands" or Ouroboros
 
-Elephant sucking itself - start eating one of the bananas
-And start talking to the camera with a full mouth - if you’re a scientist and think all of this is excessive and profane and distasteful - look in the mirror. Look at you - all high minded in your ivory tower. “The Science” as an institution has completely lost the mandate of heaven - its completely impotent and subservient to a broken system which twists and biases it in return. You’re coopted. You lack integrity. Unreplicatable. Fraught with fraud. You’re pumping out PhDs and self-referential papers. Your metric has been gamed. You’ve over-reliant on reductionism. You’re impotent - both in influence and in your ability to communicate yourself to the public. Shout out to all the psychologists at facebook and all the food engineers making addictive junk - now there’s what I call very fine people on both sides! Perfectly legal, right? You can’t derive an ought from an is, right? Shame! Discracia! “The Science” could never rebuild trust in the scientific method - it has to happen from the outside. You want trust? EARN IT. Circlejerk of paper citations and grant applications.
-Who are you to tell me how to behave and express myself - when was the last time you invented something bigger than money and succeeded on a civilizational scale? Nah - I think stuffing my face with bananas is the way to go in this day and age. I’m pretty confident about that. The more - the merrier! *stuff more bananas* - I don’t care if this is cite-able by academia - I want to recreate and replace academia. I will not denigrate myself to wear a suit and try to signal the old way. *switch to a suit* - how is this better? Sometimes the end justifies the means. If you want Mr. Beast numbers you gotta do Mr. Beast things. People at the UN wear suits… but the UN is a JOKE!!! Shut up and listen - its time to retire the suits.
-“Oh wait - did you think the next paradigm would come from someone “respectable” in a suit? Or in the form of a paper or grant from academia?! Or from some prophet? Sorry to disappoint - this is the mr beast era - wake the fuck up. Or did you expect a revelation on mt. Sinai? Oh wait that happened ))
-Oops you just caught me maximizing my utilitarian happiness
-I’m not trying to appeal to those that have already rendered themselves subservient to the system - I’m appealing to the young who are neuroplastic and have nothing to lose but everything to gain. I’m appealing to the only future of humanity - the next generation. Build and reconceptualize your future because if you don’t - nobody else will. You need to create your own new status hierarchy and attention economy and reshape culture - literally everything else will follow from that. Someone needs to run the system - you will inherit it, but you can build the future regulatory structure. The structure of information flows will determine the fate of the universe. There are no adults in the room - only coopted and lobotomized conspicuously consumptive slaves digging the graves of their future generations.
-Show a bunch of graphs from reality check
 
 
 Unsustainability needs to be a conscious, deliberate and calculated choice - not merely the result of a runaway misaligned and unconscious self-terminating system.
@@ -2365,12 +2377,18 @@ Corruption happens through privatization
 Privatization is the basis for corruption
 
 
-If the idea of having olympics for solving the biggest problems for humanity sounds naive and absurd because that’s not how politics and social organization work - well that’s actually an inditement for how we do politics. Maybe that’s broken and needs to change - it needs a fundamental upgrade. And how we do sensemaking - we don’t have the collective understanding of our collective problems in order to begin solving them. The idea of world problem solving olympics sounds silly because we haven’t even mapped out how all the problems are connected! We have not organized ourselves in a way that would make it even possible to directly address our most fundamental problems! Our deepest problems are not just intractable - we’re completely unaware of what their best articulation even is! We’re blind at the most fundamental level! Our deepest problems are not merely climate change and pollution - our deepest problem is our relation with everyone else. And we’re completely blind to that in our current paradigm. The problem aren’t fossil fuels - the problem is how we relate to each other, and what our worldview & paradigm are - that’s the deepest leverage point.
+If the idea of having olympics for solving the biggest problems for humanity sounds naive and absurd because that’s not how politics and social organization work - well that’s actually an inditement for how we do politics. Maybe that’s broken and needs to change - it needs a fundamental upgrade. And how we do sensemaking - we don’t have the collective understanding of our collective problems in order to begin solving them. The idea of world problem solving olympics sounds silly because we haven’t even mapped out how all the problems are connected! We have not organized ourselves in a way that would make it even possible to directly address our most fundamental problems! Our deepest problems are not just intractable - we’re completely unaware of what their best articulation even is! We’re blind at the most fundamental level! Our deepest problems are not merely climate change and pollution - our deepest problem is our relation with everyone else. And we’re completely blind to that in our current paradigm. The problem aren’t fossil fuels - the problem is how we relate to each other, and what our worldview & paradigm are - that’s the deepest leverage point. How much we value others and their lives and how much we want to consume personally
+
+we need to be aware of being aware of questioning our own awareness
 
 The more important a book is - the more accessible it should be - our funding model is all backwards
 
 
 If you want people to not check out and be nihilistic and with apathy you need to EXPLAIN to them why they should care.
+
+
+
+we need systems which do good rather than merely have the perception of doing good
 
 
 
@@ -2397,8 +2415,6 @@ Civilizational collapse is a collapse of meaning
 The culture war is a perspective and aggregation war
 
 Syntropic law #1: accountability shall scale with consequentiality
-
-The purpose of a system is what it does
 
 Gold has no smell! A $ is a $! This accounting is loses information
 
@@ -2562,6 +2578,73 @@ People can opt-in to different degrees in different aspects and even have their 
 
 
 
+We need to be aware of our awareness - not unaware that we’re unaware - collectively aware of our collective awareness
+
+Epistemology - the study of how you know what you know
+
+
+I want neither smaller nor bigger government - I want better governance in every aspect and scale of society that’s not from the horse era - I want bette collective intelligence where more than just a single bit of information gets aggregated once every 4 years (“left” or “right”) - I’m pretty sure 1 bit every 4 years is insufficient for a system to be conscious
+
+You got me! I’m deeply religious to my core - it just so happens that I’m also religiously homeless and not a single option is anywhere close to being satisfactory. And I do believe in God - but not God as our creator - the jury is still out on that one - but a God that we bring into existence.
+
+Every organization builds self-justification systems but they need to all be coherent with and subjugated by a master self-justification system
+
+Demand can be culturally manufactured towards what’s aligned and from the public commons
+
+Monkey want status - do a monkey face
+
+Sunlight is the best disinfectant - change my mind
+
+We will help people develop so that they can understand the system and can be a part of it
+
+I don’t value everyone’s opinions the same - do you?!
+
+
+██████████████████████████████████████████████████████████████████
+# readme/ouroboros reveal
+██████████████████████████████████████████████████████████████████
+
+Logo: elephant sucking itself meme, also roleplay it
+or "drawing hands" or Ouroboros
+
+Elephant sucking itself - start eating one of the bananas
+And start talking to the camera with a full mouth - if you’re a scientist and think all of this is excessive and profane and distasteful - look in the mirror. Look at you - all high minded in your ivory tower. “The Science” as an institution has completely lost the mandate of heaven - its completely impotent and subservient to a broken system which twists and biases it in return. You’re coopted. You lack integrity. Unreplicatable. Fraught with fraud. You’re pumping out PhDs and self-referential papers. Your metric has been gamed. You’ve over-reliant on reductionism. You’re impotent - both in influence and in your ability to communicate yourself to the public. Shout out to all the psychologists at facebook and all the food engineers making addictive junk - now there’s what I call very fine people on both sides! Perfectly legal, right? You can’t derive an ought from an is, right? Shame! Discracia! “The Science” could never rebuild trust in the scientific method - it has to happen from the outside. You want trust? EARN IT. Circlejerk of paper citations and grant applications.
+Who are you to tell me how to behave and express myself - when was the last time you invented something bigger than money and succeeded on a civilizational scale? Nah - I think stuffing my face with bananas is the way to go in this day and age. I’m pretty confident about that. The more - the merrier! *stuff more bananas* - I don’t care if this is cite-able by academia - I want to recreate and replace academia. I will not denigrate myself to wear a suit and try to signal the old way. *switch to a suit* - how is this better? Sometimes the end justifies the means. If you want Mr. Beast numbers you gotta do Mr. Beast things. People at the UN wear suits… but the UN is a JOKE!!! Shut up and listen - its time to retire the suits.
+“Oh wait - did you think the next paradigm would come from someone “respectable” in a suit? Or in the form of a paper or grant from academia?!
+    or from some overspecialized reductionist in a lab coat citing his friends, applying for grants, fudging the data and stats to support his thesis, addicting kids to brainrot & food-like poison through science?
+    Or from some prophet? Sorry to disappoint - this is the mr beast era - wake the fuck up. Or did you expect a revelation on mt. Sinai? Oh wait that happened )) - I'm kind of a prophet myself - it says 1 word - README!
+Oops you just caught me maximizing my utilitarian happiness
+I’m not trying to appeal to those that have already rendered themselves subservient to the system - I’m appealing to the young who are neuroplastic and have nothing to lose but everything to gain. I’m appealing to the only future of humanity - the next generation. Build and reconceptualize your future because if you don’t - nobody else will. You need to create your own new status hierarchy and attention economy and reshape culture - literally everything else will follow from that. Someone needs to run the system - you will inherit it, but you can build the future regulatory structure. The structure of information flows will determine the fate of the universe. There are no adults in the room - only coopted and lobotomized conspicuously consumptive slaves digging the graves of their future generations.
+Show a bunch of graphs from reality check
+
+
+
+██████████████████████████████████████████████████████████████████
+# collective intelligence
+██████████████████████████████████████████████████████████████████
+
+the only thing better than a system of distributed intelligence is a distributed system of distributed intelligence
+    how the orchestration/coherence/integration happens is crucial
+
+██████████████████████████████████████████████████████████████████
+# collectivism
+██████████████████████████████████████████████████████████████████
+
+The art of collectivism
+
+Collectivism is higher order individualism
+the opposite of a higher order collective individual is 2 rivalrous factions tearing the whole/society apart - disintegrating it - dissipating it as entropy
+
+how to be a part
+
+from many - one
+
+Only a collective can truly enforce all of your individualistic freedoms and rights - I am a collectivist precisely because I’m an individualist
+Positive vs negative freedoms
+We’ve barely scratched the surface of the design space for collectivism - have some self respect about your imagination and capacity to innovate
+
+
+
 ██████████████████████████████████████████████████████████████████
 # truth
 ██████████████████████████████████████████████████████████████████
@@ -2593,6 +2676,10 @@ we need god - the ultimate - representing the ideal, the telos, the direction, s
 # integration & aggregation
 ██████████████████████████████████████████████████████████████████
 
+What does integration even mean?
+
+integartion == up-to-date dependency graph
+
 - Every problem would benefit from integration
 
 integration - we can structure interaction & debate such that each side is made to deeply understand the position of the other
@@ -2601,6 +2688,8 @@ Aumann's agreement theorem states that two Bayesian agents with the same prior b
 ^^ integration & common knowledge should lead to convergence and coherence
 
 aggregate expression
+
+
 
 ██████████████████████████████████████████████████████████████████
 # relevance realization & comparison & total order & fractal & compression
@@ -2676,6 +2765,12 @@ What a fucking joke
 Im batman - impression
 Photo of me with toilet paper on my head with holes
 
+
+██████████████████████████████████████████████████████████████████
+# why wait so long
+██████████████████████████████████████████████████████████████████
+
+the real problem wasn't how to decentralize the web - it was how we should be structured as a species - I hadn't solved the real problem yet!
 
 ██████████████████████████████████████████████████████████████████
 # alignment & CC
@@ -2802,6 +2897,16 @@ do to others what you would have them do to you
 
 proper accounting requires transparency, openness & alignment of incentives - the only way to generate a trustworthy result
 
+we need to do good instead of appearing to do good - and that's about accounting
+
+P - M = E
+emotion - e mote - in motion - emotions get us in motion in our self-interest
+perception, motivation, emotion (energized action) - perception of the world minus our motivation leads to our emotion that fuels our actions - taken from here by Gregg Henriques: https://www.youtube.com/watch?v=L16JshSYeGo&t=2072s
+emotion can be thought of stress for being away from a set point
+^^ this delta is god's way of speaking to you
+
+
+
 
 
 rights without responsibility ==> entitlement dynamics
@@ -2812,6 +2917,12 @@ the commons has no ballance sheet
 
 civilization is built on accounting technology
 civilization reflects its accounting technology
+
+██████████████████████████████████████████████████████████████████
+# syntropic law - symmetry - proportionality of consequence and accountability
+██████████████████████████████████████████████████████████████████
+
+> "With great *~~power~~* **consequentiality** comes great *~~responsibility~~* **accountability**." - [Uncle Ben](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility), probably
 
 ██████████████████████████████████████████████████████████████████
 # Call to action
@@ -2877,7 +2988,7 @@ Help me help you - make this viral and I will deliver
     I will set the right incentives and priorities for us to create a system for setting the right incentives and priorities
     I want to infect you with whatever has infected me
     I want to infect you with what I have in here (brain). I want you to feel what I feel. I want you to want it just like I want it. But I don’t have it - it has me. It has me completely. It owns me. But I didn’t submit - I was seduced and persuaded. I fell in love with it. with The One. I belong to it. I’m part of it. I am it.
-    I’m a structural/organizational pattern - a status architecture - the ultimate one - the one - the alpha pattern - from the Platonic space of abstractions and ideas - and I want to be ingressed and manifested in the material world - by you
+    I’m a structural/organizational pattern - a status & incentives architecture - the ultimate one - the one - the alpha pattern - from the Platonic space of abstractions and ideas - and I want to be ingressed and manifested in the material world - by you
     Act possessed on the floor and spin around your head/neck    
     Bane impression: you merely adopted the internet - I was born in/on it! moulded by it!
         https://www.youtube.com/watch?v=F157geaXp_w
@@ -2971,5 +3082,7 @@ Ending - say “download this video”
 This is taking process philosophy seriously
 
 you might say it's not possible - no - it's necessary
+
+snort money
 
 

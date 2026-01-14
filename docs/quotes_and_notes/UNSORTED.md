@@ -96,9 +96,13 @@ The death of capital’s fungibility
 Designing Inequality
 
 P - M = E
+emotion - e mote - in motion - emotions get us in motion in our self-interest
 perception, motivation, emotion (energized action) - perception of the world minus our motivation leads to our emotion that fuels our actions - taken from here by Gregg Henriques: https://www.youtube.com/watch?v=L16JshSYeGo&t=2072s
 emotion can be thought of stress for being away from a set point
 ^^ this delta is god's way of speaking to you
+
+
+
 
 Semantic associative network theory is a cognitive psychology model that posits knowledge is stored in a network of interconnected concepts. These concepts, represented as "nodes," are linked by "arcs" or connections that represent the strength and type of relationship between them. This model explains how the human mind organizes information, leading to concepts like "spreading activation," where the activation of one node spreads to related nodes. - from Gemini
 
