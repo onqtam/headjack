@@ -6,6 +6,8 @@ https://drive.google.com/file/d/1csNawGCTUmghYz6fPQ8169wijoxbLJvj/view
 The California Institute for Machine Consciousness Research Program
 https://drive.google.com/file/d/1IztggGcF19hYvGKCHLenIcPyfX2Nszyr/view
 
+A Disproof of Large Language Model Consciousness The Necessity of Continual Learning for Consciousness
+https://arxiv.org/abs/2512.12802
 
 
 
@@ -56,7 +58,7 @@ Williams, A. E., Defining a Continuum from Individual, to Swarm, to Collective I
 
 alignment requires theory of mind - by emmet shear from #47 ep of win win podcast - and the better and more unambiguously and concretely we express our collective goals and requirements with skin in the game in a contractual way where defection has a real cost - the better
 
-
+> "America is Brazil with an economy... A society increasingly characterized by social decay and interminable unwinnable battles between ever-weaker rival elite factions with ever-greater collateral damage for institutional functionality and state capacity." - [Marko Jukic](https://x.com/mmjukic/status/2013401039605473443)
 
 > "Money is an information theory problem" - [Elon Musk](https://x.com/elonmusk/status/1984283962450350375)
 ^^ resource allocation is an information theory problem
@@ -143,6 +145,10 @@ The Collective/Social Singularity - an organizational event horizon beyond which
 Relevance is All You Need
 
 Incentive is All You Need
+
+We can have separate pre-specified prompts and contexts for LLMs for different tasks
+
+KPI for integration: time from discovery to application - discovery of anything including a better argument
 
 Our Shared Context Window
 

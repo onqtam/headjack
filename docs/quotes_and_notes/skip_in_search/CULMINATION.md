@@ -350,7 +350,8 @@ collective intelligence - If Anyone Builds It, Everyone Thrives
 
 
 LLMs are good at connecting known dots, not creating new dots
-They navigate - not create
+They navigate - not 
+TODO not sure about this
 
 
 System fails at communicating why and how to care for others
