@@ -1,4 +1,14 @@
 
+
+The Machine Consciousness Hypothesis
+https://drive.google.com/file/d/1csNawGCTUmghYz6fPQ8169wijoxbLJvj/view
+
+The California Institute for Machine Consciousness Research Program
+https://drive.google.com/file/d/1IztggGcF19hYvGKCHLenIcPyfX2Nszyr/view
+
+
+
+
 An Integrated World Modeling Theory (IWMT) of Consciousness: Combining Integrated Information and Global Neuronal Workspace Theories With the Free Energy Principle and Active Inference Framework; Toward Solving the Hard Problem and Characterizing Agentic Causation
 https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2020.00030/full
 
@@ -140,14 +150,10 @@ Remaking Humanity
 
 Rebuilding Society
 
-Evolutionary alignment
-
 ARCINET Advanced Research Collective Intelligence Network
 The Great Filter - separating signal from noise
 
 Cassandra as a service
-
-Solving the Meta/Meaning Crisis
 
 Actually colonising Mars
 The prerequisite to colonising Mars is macro system change at home
@@ -180,9 +186,6 @@ The Discontinuitiy after millenia of playing the same game
 The Giant Leap (Forward) for Mankind
 Yes dear pomos, nihilists and ought-from-is deniers, there is a direction
 
-Make God your only boss.
-https://x.com/naval/status/1958633313272570250
-
 Control of resources should be proportional to contribution but the collective decides what % of that can be taken for personal consumption and the rest has to be redirected towards the collective as the individual that “earned” it best sees fit.
 
 Some people with kids literally don’t care that there are better and worse ways of raising children and don’t feel any urge to even ask questions and change
@@ -198,15 +201,13 @@ A: How the heck does one even start translating all of this into such a model?! 
 FAQ: how could this system depolarise the US?
 How could this architecture depolarize the US and help the left and right cohere?
 
-FAQ: why write a book? Do it my way song
-
 Problems with representative democracy
 - nobody represents you perfectly
 - No person can be competent in everything or good at delegating for everything
 - Even if you find someone who represents you very well - someone exactly opposite to them could get elected and you get to have 0 say on anything - instead of at least having some influence on the weights
 - Many issues never get raised simply because they are too niche
 
-Pipeline Composer - ala palantir for the GGG
+Pipeline/Transform Composer/Orchestrator - ala palantir for the GGG
 
 Sort the predictions to sort the people to sort the ideas
 
@@ -221,6 +222,7 @@ Also somewhere in the beginning about valence - maybe 17:14 - look at the topics
 
 Status architecture
 
+> "A useful heuristic: Does this [institution / company / mechanism] benefit more from my autonomy or my predictability?" - [Matthew Pirkowski](https://x.com/MattPirkowski/status/2008988550336008546)
 
 > "If doing the right thing is the wrong thing, there’s something fundamentally wrong with the system." - [Jim Rutt](https://youtu.be/RkhZfDXkX74?t=2602)
 
@@ -232,12 +234,11 @@ Radical minimalism and against inheritance
 
 The consciousness guide to the galaxy - what you as a unique being with an experience to do with your life
 
-The end of nation states
 
 
 The good thing about teaching people the most important and fundamental and far reaching stuff is that they’ll see it how and where it is applied in many aspects of their lives and they will not forget it - they will reinforce their understanding
 
-if we allowed anyone to bet on any aspect of the economy people wouldn't be betting on  sports or whatever but would be trying to learn how the economy functions - the demand is insane - we've simply architected our society in a way such that all that energy goes to waste
+if we allowed anyone to bet on any aspect of the economy people wouldn't be betting on sports or whatever but would be trying to learn how the economy functions - the demand is insane - we've simply architected our society in a way such that all that energy goes to waste
 
 A new creator economy not about creating content but generating trustworthiness - line taken from tristan harris
 

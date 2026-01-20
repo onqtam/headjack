@@ -248,6 +248,7 @@ https://newrepublic.com/article/115821/einsteins-famous-quote-science-religion-d
 Where is the global handle/knob/lever on parameter X?
 
 There is a way to own nothing and be happy
+    I will own nothing and be happy and you'll choose for yourself how much you'd want to own
     Own nothing and be happy - well not really nothing… but less - by choice
 freedom through constraint - bondage as a service - with X-s on nipples & with hands tied & apple/gag in mouth
     get Whipped - ask an F friend to do it - crush a carrot in mouth
@@ -346,6 +347,11 @@ The most important diffusion model/architecture diffuses knowledge in population
 
 
 collective intelligence - If Anyone Builds It, Everyone Thrives
+
+
+LLMs are good at connecting known dots, not creating new dots
+They navigate - not create
+
 
 System fails at communicating why and how to care for others
 convincingly
@@ -2598,6 +2604,167 @@ Sunlight is the best disinfectant - change my mind
 We will help people develop so that they can understand the system and can be a part of it
 
 I don’t value everyone’s opinions the same - do you?!
+
+
+
+You can’t have god without religion and vice versa - the absolute and its role for orchestration and alignment of the vectors
+
+Might makes right is suboptimal
+
+A revolution in human relations - in relations - in relationality
+
+Representation is a vector !!!
+Representation alignment
+Agents acting on your behalf, aggregating representations and learning from them interactively
+
+The need for militarism is the biggest drag on humanity
+
+We have evolved for a capacity to believe in god - because the absolute serves a very important function
+
+A ritual that we are one - producing it as common knowledge
+
+The need for the absolute
+
+We will our belief in god into existence and this god becomes causally significant and thus he exists causally
+
+
+Culture is an adversarial & collaborative Q&A
+
+Our #1 concern should be how we personally relate with our own species and our system
+
+Diff yourself with God
+
+Cooperation is the ultimate attractor
+The right cooperation can outcompete competition
+
+A new memetic jurisdiction
+
+Coherence and convergance are the same thing
+
+Opt in to whichever configuration/system to whichever level you’re comfortable with
+
+Dualities: individ vs collect, cooper vs compete - one is defined with/by the other
+
+There’s no one form of collectivism - we’ve simply tried just a few - the space of possible configurations and structure is enormous
+
+Fractal zoom all the way - what does it mean?! Double rainbow roleplay
+
+Social singularity
+
+Phase shift
+
+An AGI/ASI doesn’t need you - “if you don’t use it - you lose it” - what I’m proposing literally depends on you as it is constituted by you
+You dont serve something that created you - you serve something you create - it needs to depend on you in order to be served - in order to need things and to depend on you in a meaningful way - that’s meaning folks
+
+The grand plan: We develop people and help them become more valuable and conscious - that’s the grand plan - imagine not trying to do that - how stupid!
+
+You can’t align something you can’t perceive
+
+Good enough is not good enough
+
+Disunited States
+Left vs right, women vs men, young vs old, white vs non-white, citizen vs foreigner, religious type 1 vs religious type 2 - this polarization is terminal - point from Balaji on the x vs y
+
+Unaccountability implies/presupposes disintegration
+
+More is different
+
+Evolving evolvability
+
+Rethink the positive/negative freeodm stuff
+Individualism and collectivism are defined in terms of one another - they are inseparable
+
+Hey hey hey! Pay attention! Stop scrolling! We’re trying to take over the world over here! Make an impression of a brainrot face scrolling
+This is “how to take over the world 101” and you’re not paying attention?! TikTok can wait! Jesus… the misallocation of attention
+
+The abyss is staring at us - cosmic failure, meaninglessness
+
+If you think its foolish to try as a collective to have a causal understanding of what’s important then you’re advocating for collective cognitive impairment - you’re arguing against what makes systems more effective at solving problems! If you lack those - you’re cognitively impaired
+
+Trust, empathy, familiarity, coherence and respect go hand in hand
+
+Consciousness expands with context
+
+The biggest game is the stewardship of the commons
+
+In search of structure
+
+The 3 versions of the book and why u rushed this one
+
+Code based order is the only way towards a rules based order
+
+Witgenstein quote - to understand is to know what to do
+
+Eradicate hypocrisy & double standards
+
+Evil is selfishness - a small self
+
+Contribution must be the main virtue
+
+The final story about non-finality
+
+The opposite of self-deception is self-reflection
+
+The first fully self-aware/conscious structural pattern
+“I am the one…” - “CUUUUT! Nailed it!”- break the fourth wall
+
+We all long for belonging - it is wired into us
+
+Our incentive structure is medieval compared to its potential
+
+The social matrix is the most important cultural object in existence
+
+The adjacent possible and how we steer the growth of that set
+Steering the growth of the adjacent possible
+
+The day you die is the day you give yourself your own verdict on your life and come to terms with it
+
+I want to have kids and teach them a better system
+
+The intelligence economy
+
+The degree to which you don’t value error correction is the degree to which you are deluded about reality
+
+The art of agency is the art of living
+
+Defining the problem well is at least as important as coming up with a solution
+
+The better you express and define and understand a problem - the more self-evident the solution is
+
+Collective context window
+
+Ignorance is the only/greatest liability
+
+Gradient Ascent
+
+Democratic Broadcast
+
+Evolve how we evolve
+
+Information asymmetry ==> market failure
+
+No, the system does not generate the understanding of why you should care about others and their value to you - nowhere are the explicit causal links and accompanying justifications/explanations
+
+Map of already solved explanations
+Understanding, causality
+
+I know why I get up every single morning - do you? Do you know how it feels? To do the right thing?
+
+“The quiet part out loud”
+
+Pomisli za tvoqta game engine architecture i kak se prilaga
+
+You cant remove our desire to relatedness
+
+We need collective gradient descent
+
+Conflict of interest - not solving the problem but finding ways to not obsolete yourself and inflate your importance
+
+Constraints society ==> free will as a service - point from Balaji
+
+Humanity has given you everything you have
+
+
 
 
 ██████████████████████████████████████████████████████████████████

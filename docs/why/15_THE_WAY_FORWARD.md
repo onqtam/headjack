@@ -3,6 +3,7 @@
 # SECTION: Worldview
 ██████████████████████████████████████████████████████████████████
 
+> "We do not have a worldview that legitimates or encourages the project of meaning-making (self-transcendence) and the cultivation of wisdom. It’s the reason why people are forced to cobble together their own personal responses to perennial problems (like loss of agency, alienation, despair, existential anxiety) without guidance, communities, and well-worked-out sets of practices. Most cultures cultivated such sets of practices, but they have to be fitted into a legitimizing and sustaining worldview...and historical factors have undermined that possibility for us." - [John Vervaeke](https://x.com/DrJohnVervaeke/status/2008508148298961221)
 
 
 > "After all, what could be more important or influential than the way an individual, a family, a community, a nation, or an entire culture conceptualizes reality? Is there anything more profound or powerful than the shape and content of human consciousness and its primary interpretation of the nature of things? When it comes to the deepest questions about human life and existence, does anything surpass the final implications of the answers supplied by one's essential Weltanschauung? 1
