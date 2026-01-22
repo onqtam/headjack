@@ -823,11 +823,6 @@ The extent to which those predictions are shared is the extent to which the futu
 
 
 
-fallibilism
-Fallibilism is the philosophical principle that no belief can be proven true with absolute certainty, as all knowledge is potentially mistaken and can be revised or overturned by new evidence.
-
-
-
 A product worth dying for
 the most consequences for your life
 

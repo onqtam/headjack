@@ -619,6 +619,8 @@ When these principles are applied, they ensure that whatever structures are deve
 ██████████████████████████████████████████████████████████████████
 
 
+> "In other words, the web of life consists of networks within networks. At each scale, under closer scrutiny, the nodes of the network reveal themselves as smaller networks. We tend to arrange these systems, all nesting within larger systems, in a hierarchical scheme by placing the larger systems above the smaller ones in pyramid fashion. But this is a human projection. In nature there is no ‘above’ or ‘below’, and there are no hierarchies. There are only networks nesting within other networks." - [The Systems View of Life: A Unifying Vision, by Fritjof Capra](https://www.goodreads.com/book/show/18554985-the-systems-view-of-life)
+
 
 > "Most complex systems — be they natural, human or artificial — are hierarchical in structure. This does not refer to their internal relations of power or authority, but to the fact that they are divided into parts, and the parts into parts, and so on, like an elaborate collection of Chinese boxes... Complex systems will evolve from simple systems much more rapidly if there are stable intermediate forms than if there are not. The resulting complex forms in the former case will be hierarchic… Among possible complex forms, hierarchies are the ones that have the time to evolve." - [The Architecture of Complexity — Herbert Simon on Watchmaking, Hierarchies, and Decomposable Systems](https://athenarium.com/the-architecture-of-complexity-herbert-simon/)
 
@@ -844,3 +846,4 @@ What if people were willing to pay for better UIs to participate in the global b
 > Missouri Senator Josh Hawley’s recent bill to ban loot boxes and certain payment incentives in video games is perhaps an early signal of this kind of state-driven domestication action—though one which also shows how difficult it can be to regulate such hyper-specific practices, and inadequate on its own to tackle the problems with the dynamic profit-driven ecosystem of video game development. But American society is at a historical low point of state capacity and strength of social fabric, so our governing institutions may not recognize the problem and get a jump on it, or have the capacity to intervene successfully.
 >
 > For mercenary nihilists, now might be a good time to invest in life-absorbing VR pods. But for the rest of us, it’s a good time to start thinking about how to build real state and community capacity." - [Virtual Addiction Is Not an Individual Problem, Palladium Magazine](https://www.palladiummag.com/2019/09/12/virtual-addiction-is-not-an-individual-problem/#:~:text=Many%20video%20games%20exploit,state%20and%20community%20capacity.)
+
