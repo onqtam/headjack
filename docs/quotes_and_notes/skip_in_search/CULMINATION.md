@@ -2993,7 +2993,15 @@ HA!
 
 I felt your gambling addict dopamine spike through the camera - hope is not a strategy!
 
+... *after explaining all the connections*
 
+But it's not really a wheel - its a graph! With openness & transparency as the root - the beginning - and progress as the end! There! A refutation of private IP!
+
+Openness & access & transparency lead to truth! They are truth!
+*puf puf puf - mind blown*
+
+Now this is what a progressive movement looks like!
+*trace with your finger from openness to progress*
 
 ██████████████████████████████████████████████████████████████████
 # 
