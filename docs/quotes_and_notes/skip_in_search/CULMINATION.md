@@ -460,7 +460,6 @@ An open and integrated system is one in which every problem has to be solved jus
 
 What is the best argument for what makes a good argument?
     Argument ==> explanation
-How do we better understand what understanding is?
 What is the best way to determine what is best?
 What is the best incentive structure to improve the incentive structure?
 How do we make common knowledge what common knowledge is and why it is important for coordination?
@@ -719,9 +718,12 @@ A paradigm is a framework of beliefs, assumptions, and practices that shapes how
 
 Division of labor - sight and recognizing edges & features
 
+How do we better understand what understanding is?
 How do we better understand what understanding even is?
 Foundational, firm, solid, dependable, necessary
-Everything depends on it and builds on top
+    Everything depends on it and builds on top
+    NOPE - not the etymology of "under stand"
+understanding is a causal graph
 
 Make fun of handshakes in ape politics
 
@@ -975,8 +977,6 @@ even if you don't want to participate in the system - if you're important enough
 Solving the Meta/Meaning Crisis
 
 Social resonance and coherence
-
-Merging the market, state, religion, media, academia and education under *~~sha~~* syntropic law
 
 the function of religion is to solve a thermodynamic problem - it scales empathy, provides a common worldview and coherence, and a source of authority for coordination - everything else "like an afterlife" was in service to these fundamental goals
 
@@ -1385,12 +1385,6 @@ Intellectual property and secrecy is a cock blocker for ideas having sex and I�
 neo - i could dodge bullets? morpheus: no, you won't have to. - in regards to the existence of militaries & intelligence agencies - not against them - simply obsoleting the need for them and giving an offramp for the people there to transition to a different part of the economy without losing what they've built and acquired as skills - there will be even better opportunities for those people - just like we need to think of how to actually raise the living standard of poachers instead of simply banning poaching, we should think of an offramp for every misaligned organization in society
 
 welfare outside of a religious context doesn't work!
-
-Intelligence is the capacity to gain capacities. It is doing more with less. - synergy
-True intelligence is doing more with less. Solving problems without knowing everything.
-David Krakauer
-https://x.com/vitrupo/status/1986727092440952936
-the opposite: in capitalism we do less with more - 
 
 from kings to kings with less power and the ability to remove them without violence - great progress but nowhere close to satisfactory
     we have to choose between the lesser of 2 evils 1 & 2:
@@ -2246,7 +2240,9 @@ strange loop, recursion, consciousness, wheeler's eye
 
 If there’s nothing you want to give to - I’m truly sorry for you - it must be miserable to be so small, alone, isolated, vulnerable, ephemeral, transient, mortal, and self-obsessed - that’s sad
 Give till it hurts
-The only measure of life is how much you’ve given (and created) - and the best way to maximize your impact is by contributing to the public commons because the greatest synergy and emergence happens there
+The only measure of life is how much you’ve given (and created)
+    because life is fundamentally collective & cooperative
+    and the best way to maximize your impact is by contributing to the public commons because the greatest synergy and emergence happens there
 How others feel around you and how much you’ve helped them
 
 
@@ -2283,8 +2279,6 @@ You probably have a lot of questions - so do I !!!
 There are many things I haven’t thought through, but I’ve fully thought through how to (optimally) think through anything!
 
 What are the top lists of structuring top lists?
-
-Its all cooperation/thermodynamics all the way down
 
 Epistemology - how do we know what we know?
 
@@ -2348,6 +2342,7 @@ When the incentive is to contribute to whatever already exists there is no need 
 What is life? A struggle against entropy and decay - a struggle to stay away from thermodynamic equilibrium and the sheer banality of monotonous time. It is order in a world of disorder. Life brings conceptual meaning to an otherwise bland and monotonous mechanical universe.
 
 Maximal recursive self-improvement - The polar opposite of complete stasis dogma from millennia’s ago
+    The only unchangable aspect is that any other aspect is subject to change.
 
 Readme wants to be read
 
@@ -2415,8 +2410,6 @@ And this is true for all levels of organization - not just the top most
 Civilizational collapse is a collapse of meaning
 
 The culture war is a perspective and aggregation war
-
-Syntropic law #1: accountability shall scale with consequentiality
 
 Gold has no smell! A $ is a $! This accounting is loses information
 
@@ -2671,7 +2664,11 @@ Rethink the positive/negative freeodm stuff
 Individualism and collectivism are defined in terms of one another - they are inseparable
 
 Hey hey hey! Pay attention! Stop scrolling! We’re trying to take over the world over here! Make an impression of a brainrot face scrolling
-This is “how to take over the world 101” and you’re not paying attention?! TikTok can wait! Jesus… the misallocation of attention
+This is “how to take over the world 101” and you’re not paying attention?! TikTok can wait! Jesus… such a colossal misallocation of attention and retardation of the youth at scale
+
+we need to pay attention to how & what we pay attention (to)
+
+god: that's how we get an "it from bit" (slogan by John Archibald Wheeler - (1990). 'Information, Physics, Quantum: The Search for Links.')
 
 The abyss is staring at us - cosmic failure, meaninglessness
 
@@ -2776,11 +2773,26 @@ Who are you to tell me how to behave and express myself - when was the last time
 “Oh wait - did you think the next paradigm would come from someone “respectable” in a suit? Or in the form of a paper or grant from academia?!
     or from some overspecialized reductionist in a lab coat citing his friends, applying for grants, fudging the data and stats to support his thesis, addicting kids to brainrot & food-like poison through science?
     Or from some prophet? Sorry to disappoint - this is the mr beast era - wake the fuck up. Or did you expect a revelation on mt. Sinai? Oh wait that happened )) - I'm kind of a prophet myself - it says 1 word - README!
+    Or did you expect some kind of (bearded) prophet on mount Sinai with a stone tablet from God?! **and roleplay it before showing the photo** - FINE - here you go - happy now?
 Oops you just caught me maximizing my utilitarian happiness
 I’m not trying to appeal to those that have already rendered themselves subservient to the system - I’m appealing to the young who are neuroplastic and have nothing to lose but everything to gain. I’m appealing to the only future of humanity - the next generation. Build and reconceptualize your future because if you don’t - nobody else will. You need to create your own new status hierarchy and attention economy and reshape culture - literally everything else will follow from that. Someone needs to run the system - you will inherit it, but you can build the future regulatory structure. The structure of information flows will determine the fate of the universe. There are no adults in the room - only coopted and lobotomized conspicuously consumptive slaves digging the graves of their future generations.
 Show a bunch of graphs from reality check
 
 
+
+
+
+██████████████████████████████████████████████████████████████████
+# intelligence
+██████████████████████████████████████████████████████████████████
+
+Intelligence is the capacity to gain capacities. It is doing more with less. - synergy
+True intelligence is doing more with less. Solving problems without knowing everything.
+David Krakauer
+https://x.com/vitrupo/status/1986727092440952936
+the opposite: in capitalism we do less with more - 
+
+> "... operational definitions of intelligence that correspond to different theories about its nature: the ability to build models in the service of control, the ability to generalize from observations, the efficiency of acquiring new skills... general intelligence might best be understood as the ability to adaptively match arbitrary patterns." - [The Machine Consciousness Hypothesis, CIMC](https://drive.google.com/file/d/1csNawGCTUmghYz6fPQ8169wijoxbLJvj/view)
 
 ██████████████████████████████████████████████████████████████████
 # collective intelligence
@@ -2833,7 +2845,11 @@ We need to reward truth more than anything else
 
 we need god - the ultimate - representing the ideal, the telos, the direction, serving as a coordination mechanism for coherence - a schelling point. God generates common knowledge and synchrony and coherence which in turn aid in integration. Authority is necessary/essential - the only questions are if, how, and why it is legitimate. A compass needs a North Pole to work.
 
+██████████████████████████████████████████████████████████████████
+# consciousness/awareness
+██████████████████████████████████████████████████████████████████
 
+consciousness & awareness are about perception of perception
 
 ██████████████████████████████████████████████████████████████████
 # integration & aggregation
@@ -2968,6 +2984,18 @@ decouple resources for personal use from control over the economy
 prestige
 
 ██████████████████████████████████████████████████████████████████
+# wheel of fortune ==> openness leads to progress
+██████████████████████████████████████████████████████████████████
+
+Let's take the wheel of fortune for a spin!
+HA!
+*remove the wheel paper overlay and reveal what's underneath on the board - the connections between the concepts*
+
+I felt your gambling addict dopamine spike through the camera - hope is not a strategy!
+
+
+
+██████████████████████████████████████████████████████████████████
 # 
 ██████████████████████████████████████████████████████████████████
 
@@ -2979,6 +3007,10 @@ when we give ownership to founders of their companies their incentive is to keep
 ██████████████████████████████████████████████████████████████████
 
 > "we are cooperators that are made of cooperators that are made of cooperators and so on. It is cooperation all the way down." - [source](https://www.evolutionarymanifesto.com/EvArrowBook.pdf)
+
+Its all cooperation/thermodynamics all the way down
+
+survival of the synergistic
 
 Ev has direction
 - greater scales of differentiation, (thermodynamic) integration & cooperation
@@ -3084,6 +3116,10 @@ civilization reflects its accounting technology
 ██████████████████████████████████████████████████████████████████
 # syntropic law - symmetry - proportionality of consequence and accountability
 ██████████████████████████████████████████████████████████████████
+
+Syntropic law #1: accountability shall scale with consequentiality
+
+Merging the market, state, religion, media, academia and education under *~~sha~~* syntropic law
 
 > "With great *~~power~~* **consequentiality** comes great *~~responsibility~~* **accountability**." - [Uncle Ben](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility), probably
 
@@ -3247,5 +3283,7 @@ This is taking process philosophy seriously
 you might say it's not possible - no - it's necessary
 
 snort money
+
+if you want MrBeast views, you gotta do MrBeast things
 
 

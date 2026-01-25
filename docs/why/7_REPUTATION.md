@@ -732,7 +732,7 @@ this is not page rank - this is entity rank
 
 > "I have this sence that there's just going to be a new startup that's going to basically be the page rank inventor which will become the new tech giant." - [Lex Fridman](https://youtu.be/-hxeDjAxvJ8?t=2249)
 
-> "There's several things that is page rank - there's page rank the algorithm and the idea, and there's like the implementation of it. And I feel like the killer product is not just the idea - like the transformer - its the implementation - something, something really compelling about it, like you just can't look away." - [Lex Fridman](https://youtu.be/-hxeDjAxvJ8?t=2450)
+> "There's several things that is page rank - there's page rank the algorithm and the idea, and there's like the implementation of it. And I feel like the killer product is not just the idea - like the transformer - its the implementation - something, **something really compelling about it, like you just can't look away.**" - [Lex Fridman](https://youtu.be/-hxeDjAxvJ8?t=2450)
 
 When tracking portfolio success - ppl will initially define the parameters & risk against which they should be judged - aiming for 100x vs minimizing downside
 

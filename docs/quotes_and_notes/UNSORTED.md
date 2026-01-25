@@ -1,18 +1,14 @@
 
 
-The Machine Consciousness Hypothesis
-https://drive.google.com/file/d/1csNawGCTUmghYz6fPQ8169wijoxbLJvj/view
-
 The California Institute for Machine Consciousness Research Program
 https://drive.google.com/file/d/1IztggGcF19hYvGKCHLenIcPyfX2Nszyr/view
-
-A Disproof of Large Language Model Consciousness The Necessity of Continual Learning for Consciousness
-https://arxiv.org/abs/2512.12802
 
 
 
 An Integrated World Modeling Theory (IWMT) of Consciousness: Combining Integrated Information and Global Neuronal Workspace Theories With the Free Energy Principle and Active Inference Framework; Toward Solving the Hard Problem and Characterizing Agentic Causation
 https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2020.00030/full
+older link:
+    https://www.frontiersin.org/articles/10.3389/frai.2020.00030/full
 
 https://sci-hub.se/10.1016/j.tics.2018.08.008
 Being a Beast Machine: The Somatic Basis of Selfhood
@@ -4439,11 +4435,7 @@ Applied isomorphism - consciously re-applying the principles & mechanisms that e
 
 Have a bit about the end game of identity and how all platforms are converging - spotify adding video and comments, YT community updates, substack notes, etc.
 
-We should be able to express with natural language the kinds of constraints we want and have the system do it for us
-
-
-> "Rage, rage against the [Anti-nesting principle for consciousness](https://en.wikipedia.org/wiki/Anti-nesting_principle) which would lead to the dying of the light." - [Do not go gentle into that good night, by Dylan Thomas](https://en.wikipedia.org/wiki/Do_not_go_gentle_into_that_good_night)
-
+We should be able to express with natural language the kinds of constraints we want for ourselves and have the system do it for us
 
 > "we remain stuck in the world of highly emotionally salient but practically useless monocausal frames…" - [Matthew Pirkowski](https://x.com/MattPirkowski/status/2005753349896036690)
 

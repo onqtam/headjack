@@ -1868,6 +1868,7 @@ What if God is not the creator but something we create and merge with? We should
 ## !!! 2 !!! CONTINUE FROM HERE
 
 
+> "A self inhabiting a single mind is usually considered a person, while selves capable of possessing multiple minds are called gods. Gods are agentic representations of the collective agency of organisms, not more or less real than personal selves. Many human cultures are co-created by the interaction between persons and gods, while the minds of members of the western scientific culture often only harbor a personal self, to the point where many scientists are unaware of the existence of gods and their psychological reality." - [The Machine Consciousness Hypothesis, CIMC](https://drive.google.com/file/d/1csNawGCTUmghYz6fPQ8169wijoxbLJvj/view)
 
 
 
