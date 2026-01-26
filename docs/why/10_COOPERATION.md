@@ -850,7 +850,6 @@ Coherent pluralism - Jim Rutt
 
 What shouldn't we be divided on?
 
-> "The work is done when every actuator is sentient and fully coherent with all the others." - [Joscha Bach](https://x.com/Plinz/status/1834928906559954958)
 
 Most people have read at leats a couple of books in their life. What if we could socially nudge ourselves into coherence for what is most important and point to the most important books?
 
