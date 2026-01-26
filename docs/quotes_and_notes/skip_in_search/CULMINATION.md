@@ -2622,6 +2622,9 @@ Culture is an adversarial & collaborative Q&A
 Our #1 concern should be how we personally relate with our own species and our system
 
 Diff yourself with God
+> "Pain and suffering are not physical events at the boundary between an agent’s body and the world,
+but representational states created within the mind of a conscious agent, as an expression of a mismatch between crucial regulation targets and the agent’s model of its present state." - [The California Institute for Machine Consciousness Research Program](https://drive.google.com/file/d/1IztggGcF19hYvGKCHLenIcPyfX2Nszyr/view)
+
 
 Cooperation is the ultimate attractor
 The right cooperation can outcompete competition
@@ -2987,7 +2990,7 @@ prestige
 # wheel of fortune ==> openness leads to progress
 ██████████████████████████████████████████████████████████████████
 
-Let's take the wheel of fortune for a spin!
+Let's take the wheel of fortune for a spin! Do you feel lucky? ^^
 HA!
 *remove the wheel paper overlay and reveal what's underneath on the board - the connections between the concepts*
 

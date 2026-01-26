@@ -4437,6 +4437,11 @@ Have a bit about the end game of identity and how all platforms are converging -
 
 We should be able to express with natural language the kinds of constraints we want for ourselves and have the system do it for us
 
+
+
+
+
+
 > "we remain stuck in the world of highly emotionally salient but practically useless monocausal frames…" - [Matthew Pirkowski](https://x.com/MattPirkowski/status/2005753349896036690)
 
 
