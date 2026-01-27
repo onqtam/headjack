@@ -251,7 +251,10 @@ There is a way to own nothing and be happy
     I will own nothing and be happy and you'll choose for yourself how much you'd want to own
     Own nothing and be happy - well not really nothing… but less - by choice
 freedom through constraint - bondage as a service - with X-s on nipples & with hands tied & apple/gag in mouth
-    get Whipped - ask an F friend to do it - crush a carrot in mouth
+    get Whipped - ask an F friend (or multiple) to do it - crush a carrot in mouth
+        "you've been a bad boy!"
+        "yes my queen"
+        multiple angles - on my knees, face towards the wall, and lying on the ground, or being held by 2 of them
 freedom & sovereignty are the foundation - you can have unfreedom within freedom, but you can't have freedom within unfreedom
     the world is fortunate to have the west with its freedoms - only we can give birth to such an ideology
     only the west could become pregnant with this system - this is a testament for the liberties we enjoy
@@ -820,7 +823,7 @@ we need to recognize culture for what it is - the next substrate of evolution - 
 Those who can predict the future
 The extent to which those predictions are shared is the extent to which the future will be shared
 
-
+we need a shared map
 
 
 
@@ -2761,7 +2764,12 @@ Constraints society ==> free will as a service - point from Balaji
 Humanity has given you everything you have
 
 
+██████████████████████████████████████████████████████████████████
+# knowledge in people's heads & the economy
+██████████████████████████████████████████████████████████████████
 
+how do we optimally distribute knowledge in people's heads? how do we optimally dissipate knowledge?
+knowledge in the world increases exponentially, but the capacity for individuals to hold all of it does not change - so how do we optimally distribute it and then coordinate/orchestrate the people?
 
 ██████████████████████████████████████████████████████████████████
 # readme/ouroboros reveal
@@ -2853,6 +2861,12 @@ we need god - the ultimate - representing the ideal, the telos, the direction, s
 ██████████████████████████████████████████████████████████████████
 
 consciousness & awareness are about perception of perception
+
+██████████████████████████████████████████████████████████████████
+# common knowledge
+██████████████████████████████████████████████████████████████████
+
+common knowledge: when everyone knows that everyone knows
 
 ██████████████████████████████████████████████████████████████████
 # integration & aggregation
@@ -3005,6 +3019,7 @@ Openness & access & transparency lead to truth! They are truth!
 
 Now this is what a progressive movement looks like!
 *trace with your finger from openness to progress*
+fortune favors the open and transparent!
 
 ██████████████████████████████████████████████████████████████████
 # 

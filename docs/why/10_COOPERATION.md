@@ -163,7 +163,9 @@ Science is the clearest example of global coordination.
 
 > "Those people who treat politics and morality separately will never understand either of them." - [Jean-Jacques Rousseau](https://www.azquotes.com/quote/688553)
 
-> "Ethics: Ethics species the values (abstract concepts of what is good), norms (more specific social standards) and rules (explicit dos and don'ts) that individuals should follow in order to positively contribute to the larger system to which they belong. This includes avoiding actions that harm other people, society, and the encompassing ecosystem." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
+> "Ethics: Ethics specifies the values (abstract concepts of what is good), norms (more specific social standards) and rules (explicit dos and don'ts) that individuals should follow in order to positively contribute to the larger system to which they belong. This includes avoiding actions that harm other people, society, and the encompassing ecosystem." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
+
+> "Ethics is the principal negotiation of conflicts of interest under conditions of shared purpose - if you don't share purpose with that other agent you don't need ethics, you just need transactional measures. But when we want to talk about substrate-agnostic minds and how they can coordinate their actions - we need ethics for collective agency." - [Joscha Bach](https://youtu.be/PrSiZPDqk1c?t=1828)
 
 if we shift from knowing the world to acting in the world, "ought" and evaluation become indispensable and the naturalistic fallacy simply does not apply
 

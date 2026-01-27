@@ -275,6 +275,8 @@ shorter versions by Ricardo Hausmann:
     https://www.youtube.com/watch?v=2FeugaLv5Bo
     Ricardo Hausmann on Economic Complexity and Productive Knowledge
     https://www.youtube.com/watch?v=0JC24CBVsdo
+    GEM13： Ricardo Hausmann on the Puzzle of Development
+    https://www.youtube.com/watch?v=F3qd-A1acGU
 
 The Big Myth: How American Business Taught Us to Loathe Government and Love the Free Market
 https://www.youtube.com/watch?v=_V_AZRZfu9I
