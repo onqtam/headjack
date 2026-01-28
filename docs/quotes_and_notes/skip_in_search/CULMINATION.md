@@ -42,6 +42,8 @@ Why Our ULTIMATE Desire Should Be The Great Enabler
 
 Our ULTIMATE Desire Should Be The Great Enabler
 
+“The Social Singularity”
+
 must?
 
 desire => concern?
@@ -254,6 +256,7 @@ freedom through constraint - bondage as a service - with X-s on nipples & with h
     get Whipped - ask an F friend (or multiple) to do it - crush a carrot in mouth
         "you've been a bad boy!"
         "yes my queen"
+        show hash on back, also show merkle tree with only "change W" revealed by pausing the whipping and overlaying it next to my back
         multiple angles - on my knees, face towards the wall, and lying on the ground, or being held by 2 of them
 freedom & sovereignty are the foundation - you can have unfreedom within freedom, but you can't have freedom within unfreedom
     the world is fortunate to have the west with its freedoms - only we can give birth to such an ideology
@@ -753,10 +756,6 @@ We need to engineer our society
 we can prove some identity made a death thread in DMs using LLMs & ZK & MPC & TEE - compatible with full end-to-end privacy - only on user request, and the llm can respond with different magnitudes of the aspects - certainty, ambiguity, 
 
 
-
-CIA - don’t suicide me - I love life - you wont be out of a job anytime soon, and ultimately what I’m proposing is in your best interest if you factor everything in - your descendants will curse you if you actively work towards eroding real progress and the pursuit of truth
-Plus I’m just a comedian - I don't sway politics and shit - I just make people puff our air while uncontrollingly and rapidly contracting their lungs up and down through their larings and thair eyes are squinting and their mouth makes the shape of a banana! (and put a banana in my mouth) - I’m just talking shit… what do I know… nobody is gonna take me seriously
-im just a chill guy
 
 The densest cultural object/artifact imaginable
 
@@ -1422,6 +1421,13 @@ Give ipfs hash of the files (git repo and previous recordings)
 Only the paranoid survive
 This video can also be found in the archive
 plus im just a comedian - what do I know - that's the excuse from responsibility nowadays, right? this whole thing is insane - it would never work! ;)
+Im just a comedian - what do I know about cultural rev - aaa - evolution
+CIA - don’t suicide me - I love life - you wont be out of a job anytime soon, and ultimately what I’m proposing is in your best interest if you factor everything in - your descendants will curse you if you actively work towards eroding real progress and the pursuit of truth
+Plus I’m just a comedian - I don't sway politics and shit - I just make people puff our air while uncontrollingly and rapidly contracting their lungs up and down through their larings and thair eyes are squinting and their mouth makes the shape of a banana! (and put a banana in my mouth) - I’m just talking shit… what do I know… nobody is gonna take me seriously
+im just a chill guy
+
+
+
 
 if someone rereads all my notes and sit with them for some time they'd be able to see at least 70-80% of what I see - ALL unique ideas I've ever had or important quotes are in the notes. And some needs to be removed - there's a lot of duplication and even some I'd change now in hindsight, but most of it is good. But hopefully noone would have to dig through them and I'd just be able to finish the book in the next 1-2 years undisturbed.
 
@@ -2671,6 +2677,9 @@ Individualism and collectivism are defined in terms of one another - they are in
 
 Hey hey hey! Pay attention! Stop scrolling! We’re trying to take over the world over here! Make an impression of a brainrot face scrolling
 This is “how to take over the world 101” and you’re not paying attention?! TikTok can wait! Jesus… such a colossal misallocation of attention and retardation of the youth at scale
+What a colossal misallocation of attention and potential
+Tiktok - you’re not only destroying your own life but also indirectly you’re diminishing the life of my kids and the kids of my friends and the kids of our kids by becoming a lesser version of yourself thanks to the thousands of psychologists of zucky and friends - staring at paint dry is infinitely better - so you rotting your brain is personal for me whoever you are - so I take it personal when your brain is rotting - whoever you are - you’re making the likes of this paperclip maximizer more powerful - show zuck in his swagger clothes or with the army of headsets - EVERYTHING is personal if the self includes everybody
+
 
 we need to pay attention to how & what we pay attention (to)
 
@@ -2764,6 +2773,54 @@ Constraints society ==> free will as a service - point from Balaji
 Humanity has given you everything you have
 
 
+I want to have kids, read, think, and teach.
+
+Einstein quote compound interest wonder of world - in regards to identity
+
+Instagram will be nothing but a specific configuration - a .yaml config for how to display photos, how to show likes, etc. - and configs will compete and merge with parts of others
+
+Love, cooperation, alignment, trust - these are thermodynamic imperatives
+We need to start from the ideal end state attractor of complete cooperation and thermodynamic efficiency and work our way backwards to figure out how to plausibly achieve it or which constrains to relax. And we should constantly reevaluate all our prior conclusions as the adjacent possible set expands and we have new affordances. That’s how we would go about our system if we think from first principles.
+Kierkegaard quote: life can only be understood backwards but must be lived forward - my take: the perfect system can only be conceptualized backwards from the ideal state but must be implemented forward - 1 step at a time
+
+I want to impregnate you with whatever this thing is that has conceptualized itself within me
+
+I’m afraid of time
+
+Ok, fine, you dont want to call it a religion or an ideology… how about a worldview? A participatory society? I DONT CARE WHAT YOU CALL IT - deng quote here about catching mice
+
+“Why so serious” with the pie on the face instead of paint
+
+We’re not living in a 3D or 4D world - there are 8 billion of dimensions of human experience and how we produce coherence out of them is all that matters
+
+Example = analogy = understanding
+
+Point to “cards & contraband”: im the #1 expert in the world - can’t you tell ?!?! Look at all this work!
+
+I don’t believe any of the existing religions came from our creator out of respect for people - I respect people in the past and their ability to create genius social psycho technologies. Despite its many flaws, religion served very important functions and it must once again. And I respect (or hold reverence to) evolution to have eventually come up with many ways of evolving in a smarter way than mere blind random mutations.
+
+Every critique or question will be fed into the system for analysis which will promptly lead to either a refutation, correction, or an answer!
+
+Another problem with financial prediction markets: they cannot fork based on a dispute about the resolution whereas this architecture is fundamentally multiperspectival
+
+Win over the rich - persuade/seduce - make them fall in love with something bigger than themselves - give them a way to expand their self and give them a way to participate in its creation. Redefine prestige in their heads to be less monetary and more reputational. Meaning is priceless.
+Money is the ultimate optionality token, but we can change that - we can engineer new kinds of scarcity - social scarcity - post-material scarcity
+
+Qualified vote == not everybody can vote or have equal vote
+
+Captain obvious - make a shield out of cardboard
+
+Every single personal perspective is inherently wrong (and to different degrees in different aspects) - what we need to focus on is a process of cancelling the bias and aggregating as much information and context as possible with the aim of coming as close to the truth as possible. We need to move past specific biased and partial personalities and towards a process philosophy. And we can make talking heads great again - by conveying the result of the process. Statements from talking heads should be downstream from comprehensive debate maps with adequate processes & checks
+
+People have a disincentive to speak against bad policies of their own party because that would give credence to the opposition that are against those same bad policies and thus the first party has less error correction feedback and is like a herd of sheep walking towards the cliff. People censor themselves to not critique their party as to not concede points to the other side
+
+If businesses were ran entirely open and transparent it would be self-evident if they’re price gauging & colluding or if their input costs simply went up. How many laws and institutions and suspicions wouldn’t be necessary if everything was open and transparent? Opacity and fragmentation (lack of integration) creates unnecessary complexity and inefficiency and brittleness and friction.
+
+
+So what - god created the universe and now what - he’s eating popcorn ?! I serve a god that actually needs me and serves me in return - now that’s a real relationship with god
+
+
+
 ██████████████████████████████████████████████████████████████████
 # knowledge in people's heads & the economy
 ██████████████████████████████████████████████████████████████████
@@ -2785,6 +2842,7 @@ Who are you to tell me how to behave and express myself - when was the last time
     or from some overspecialized reductionist in a lab coat citing his friends, applying for grants, fudging the data and stats to support his thesis, addicting kids to brainrot & food-like poison through science?
     Or from some prophet? Sorry to disappoint - this is the mr beast era - wake the fuck up. Or did you expect a revelation on mt. Sinai? Oh wait that happened )) - I'm kind of a prophet myself - it says 1 word - README!
     Or did you expect some kind of (bearded) prophet on mount Sinai with a stone tablet from God?! **and roleplay it before showing the photo** - FINE - here you go - happy now?
+    Thug life glasses after showing the sinai selfie
 Oops you just caught me maximizing my utilitarian happiness
 I’m not trying to appeal to those that have already rendered themselves subservient to the system - I’m appealing to the young who are neuroplastic and have nothing to lose but everything to gain. I’m appealing to the only future of humanity - the next generation. Build and reconceptualize your future because if you don’t - nobody else will. You need to create your own new status hierarchy and attention economy and reshape culture - literally everything else will follow from that. Someone needs to run the system - you will inherit it, but you can build the future regulatory structure. The structure of information flows will determine the fate of the universe. There are no adults in the room - only coopted and lobotomized conspicuously consumptive slaves digging the graves of their future generations.
 Show a bunch of graphs from reality check
@@ -3020,6 +3078,11 @@ Openness & access & transparency lead to truth! They are truth!
 Now this is what a progressive movement looks like!
 *trace with your finger from openness to progress*
 fortune favors the open and transparent!
+
+
+
+old: Progress requires error correction which requires introspection & self-awareness which requires integration which requires trust/accountability which is built upon openness, access and visibility. Also alignment & perception...
+
 
 ██████████████████████████████████████████████████████████████████
 # 

@@ -1,8 +1,7 @@
 
 
-The California Institute for Machine Consciousness Research Program
-https://drive.google.com/file/d/1IztggGcF19hYvGKCHLenIcPyfX2Nszyr/view
-
+Request confirmation networks for neuro-symbolic script execution
+https://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_6.pdf
 
 
 An Integrated World Modeling Theory (IWMT) of Consciousness: Combining Integrated Information and Global Neuronal Workspace Theories With the Free Energy Principle and Active Inference Framework; Toward Solving the Hard Problem and Characterizing Agentic Causation
@@ -6655,8 +6654,6 @@ Applied RR
 
 
 
-
-
 > "You think because you understand 'one' you must also understand 'two', because one and one make two. But you must also understand 'and'." - [Mawlana Jalal-al-Din Rumi](https://www.goodreads.com/quotes/245285-you-think-because-you-understand-one-you-must-also-understand)
 
 ^^ complexity science, emergence vs reductionism
@@ -6690,6 +6687,8 @@ division of powers & the branches of government is a problem in our current soci
 > "At the atomic level there’s no atom in your body that you didn’t eat, drink, or breathe from the planet. So we usually think of ourselves as living beings that sit on the planet, but it’s just as reasonable to say—complementarity—that we are the planet that has self-organized its material into beings that think of themselves as separate." - [Neil Theise](https://www.organism.earth/library/document/inherent-compassion#:~:text=At%20the%20atomic,themselves%20as%20separate.)
 
 > "Remember, all I'm offering is *~~the truth~~* **a competitive advantage for collectives** – nothing more." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/1158642-this-is-your-last-chance-after-this-there-is-no), probably
+
+> "You see there is only one constant. One universal. It is the only real truth. Causality. Action, reaction. Cause and effect." - [Merovingian, The Matrix Reloaded](https://www.imdb.com/title/tt0234215/characters/nm0933727/?item=qt0283159)
 
 > "The solution to our problems is exclusively the development of a rational social worldview and an aggressive new elite capable of explicitly taking society in hand for transcendent ends. Nothing will be solved short of that, only muddled through." - [Wolf Tivy](https://x.com/wolftivy/status/1874190841658667518)
 
