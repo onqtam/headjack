@@ -1,17 +1,27 @@
 
+> "We will rise or fall to the level of our cultural affordances." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1757530236894552448)
+
+Hawk tuah! - did you buy the memecoin before the rug pull?
+
+"its perfectly legal" - but is it perfectly moral?
+big tech is betting on gambling and scams - coffeezilla
+https://www.youtube.com/watch?v=julHFXsKsdQ
+
+god: that's how we get an "it from bit" (slogan by John Archibald Wheeler - (1990). 'Information, Physics, Quantum: The Search for Links.')
+
+
+hearts and minds
+
+Solving the Meta/Meaning Crisis
+
+This is the real situational assessment
+^^ this fails by assuming familiarity ("if you know you know")
 
 # cursor
 
 
 
 
-"its perfectly legal" - but is it perfectly moral?
-big tech is betting on gambling and scams - coffeezilla
-https://www.youtube.com/watch?v=julHFXsKsdQ
-
-fundamentally uncensorable
-will replace email, 
-every single internet service in existence today will eventually migrate & merge with this architecture or fade into irrelevance
 
 the infinite game
     To desire the ultimate social system means wanting a form of collective organization that perfectly harmonizes individual and collective flourishing — a system that:
@@ -22,48 +32,18 @@ the infinite game
     It’s a desire for the ideal environment in which human (and perhaps non-human) potential can fully unfold.
     The ultimate social system is the most general enabler of all other desires.
 
-Syntropy
-    A tendency towards complexity, structure, order, and organization of ever more advantageous and orderly patterns. Originally coined as a synonym for negentropy (the opposite of entropy)
-    often contrasted with the concept of entropy
 
-
-once you find/understand it you'll never think about anything else more than about this thing
-
-I’ve been sitting on my hands (roleplay it) for more than 3 years with the technical design - everyone kept asking me why I haven't started coding - initially I had no fucking clue what I had stumbled on - I just felt it had immense potential
-I don’t want to try
-I want to succeed
-> "Those who tell the stories rule society." - [Plato](https://www.goodreads.com/quotes/20382-those-who-tell-the-stories-rule-society)
-I was not accounting pilled in 2022
-Theoretically optimal solution - no other design can get even close to the optimal set of technical tradeoffs in my architecture
-The more compelling and refined the story becomes - the sooner will the system reach a billion people
-    einstein quote about understanding the problem fully
-this is the ultimate status and incentive architecture on top of which you could build anything - ANYTHING - and so with great power comes great responsibility
 
 Nervous system
 
 
 
-reread the paper from francis about alignment & self-organization in communicating groups?
-
-> "Your margin is my opportunity." - [Jeff Bezos](https://www.goodreads.com/quotes/706779-your-margin-is-my-opportunity)
-Your conspicuous consumption is our opportunity
-
-
 we need an ideal towards which to strive towards - as a society, and as males and females
 
-if we have a weighted causality graph and we have goals and a hierarchy of values - we also have a morality structure - we can assign valence to any single thing that's part of that causality graph
-is it easy or straightforward to create this graph? Heck no! but the sooner we start working on our process - the sooner we'd have something better than what we have now
-With a causal graph we can solve the root of problems once and for all instead of treating their symptoms in a whack-em-all
-
-social copying, veblen goods, conformity, mimetic desire - we want what others want
-
-Meaning comes from being consequential
 
 Multiscale competency architecture
 Subsidiarity
 Hierarchy
-
-> "In a very deep sense, architecture really is destiny." - [The Meta-Crises and Digital Identity, by Jordan Hall](https://deepcode.substack.com/p/the-meta-crises-and-digital-identity#:~:text=in%20a%20very%20deep%20sense%2C%20architecture%20really%20is%20destiny.)
 
 PP & FEP & Active Inference
 
@@ -72,11 +52,6 @@ We call things alive to the extent its cognitive light cone is bigger than than 
 
 The upstream of the upstream
 
-Status dominance prestige
-Status and prestige are in our dna
-
-"Science without religion is lame, religion without science is blind" - Einstein
-https://newrepublic.com/article/115821/einsteins-famous-quote-science-religion-didnt-mean-taught
 
 Where is the global handle/knob/lever on parameter X?
 
@@ -104,19 +79,9 @@ cooper from interstellar: "It's not possible". "No, it's necessary".
 
 Differentiation and specialization coupled with alignment and integration
 
-Put your favourite pictures in the video
-
-This is the real situational assessment
-^^ this fails by assuming familiarity ("if you know you know")
-
-hearts and minds
-
 anything that's altruistic needs to be rewarded (making it no longer altruistic)
-sharing is synergetic - it is more efficient for the whole
 
 Aggregation
-
-We haven’t scratched the surface of the potential of enculturation
 
 a new game the likes of which we could have never even conceived
 
@@ -187,14 +152,14 @@ collective intelligence - If Anyone Builds It, Everyone Thrives
 
 
 LLMs are good at connecting known dots, not creating new dots
-They navigate - not 
+They navigate - not create/invent
 TODO not sure about this
 
 
 System fails at communicating why and how to care for others
 convincingly
 
-We have all the pieces if the puzzle because of the great unbundling - all we need to do is the great integration
+We have all the pieces of the puzzle because of the great unbundling - all we need to do is the great integration
 
 frame control & manipulation
 
@@ -216,21 +181,13 @@ when there isn't huge wealth to steal there's less need for security and worry
 
 > "Any company where the world would be better if it didn't exist - we should figure out how to have it not exist." - [Daniel Schmachtenberger](https://youtu.be/JTz4Mncy1u0?t=4245)
 
-we need to give scaffolding for people to express their causal model of the world and to think about it
-
 people think of the iron hand (gesture - a shake of the hand) and the invisible hand (gesture - money with hand) but they rarely think of the intangible hand of status
 
 built-in error correction as the highest priority
 
-engineered scarcity
-
 New motivation/mobilization system
 
 Self justifying
-
-Prestige
-
-Choose life
 
 Regulating and steering desire and consumption through culture - redefining status
 
@@ -807,11 +764,8 @@ Shared Context Window
 
 even if you don't want to participate in the system - if you're important enough the system will construct a representation of you whether you like it or not - based on your expressed opinions outside of it. There is no escaping - if you're important you'll go in the ledger of record.
 
-Solving the Meta/Meaning Crisis
-
 Social resonance and coherence
 
-the function of religion is to solve a thermodynamic problem - it scales empathy, provides a common worldview and coherence, and a source of authority for coordination - everything else "like an afterlife" was in service to these fundamental goals
 
 Making the Collective Unconscious Conscious
     Karl jung - until you make the unconscious conscious…
@@ -1189,12 +1143,6 @@ what you say is ephemeral - it fades and is forgotten - and is never deduplicate
 Women are nature itself - they select. Money is mostly just a proxy for sex (not the only one) and we can redefine it. The 2 biggest drives are sex and intellectual achievement/creation/expression/discovery.
 
 
-> "We will rise or fall to the level of our cultural affordances." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1757530236894552448)
-
-Hawk tuah! - did you buy the memecoin before the rug pull?
-
-
-I tried reading Marx and it was boring & outdated as hell! I prefer to read about complexity science
 
 
 
@@ -1233,53 +1181,20 @@ A message to all bureaucrats, managers and “world leaders”:
 In the Blockchain Age the Public Watches You!
 You are legible to the public!
 
-I wasn't supposed to go psycho this early but the ONLY reason was fear - fear that I wouldn't get to finish my book. But I guess I decided to toss the coin and "take a fucking chance, will you?" - george carlin clip - grow some balls - even a few percent are troubling, but the upside of starting the whole thing 1 year earlier is that we get to solve the biggest problems in the world 1 year earlier. Also martyrdom is the mother of all streisand effects so perhaps its a win-win - if I get suicided the streisand effect will be renamed after me.
-> "You can take the monkey out of the status-seeking game, but you can't take the status-seeking out of the monkey." - [Status as a Service (StaaS), Eugene Wei](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
-in the tiktok age ppl don't read books - this right here is the right medium
-"civilization is a race between education and catastrophe" is a famous quote attributed to the English writer H.G. Wells 
-I was hesitant to make such media before finishing my book and making it as uncensorable as information theoretically possible - I do not want to be suicided - but I just want to get something out there - the very much unfinished book is in a github repo - here’s the git hash of a checkpoint in its history if it needs to be finished by someone else - it would take 2-3 years for someone coming into it to write it properly as they’d need for things to imprint in their heads
-I don't even have a good model for how to think how worried I should be and if I'm taking a huge risk - I'm embracing the unknown with a leap of faith - my faith is in the goodness of the world and in the persuadability of human beings
-All the peace lovers get shot for some reason - reenact the quote from bill hicks with paper people and shoot them 1 by 1 with your middle fingers and then blow one of them like a smoking gun and show it to the camera
-> "Did you ever stop to thnk about all the people we kill? They're always people who tell us to live together in harmony and try to love one another: Jesus, Ghandi, Lincoln, John Kennedy, Bobby Kennedy, Medgar Evers, Malcolm X, Martin Luther King, John Lennon. They all said: 'Try to live together peacefully.' BAM! Right in the f--in head! Aparently we're not ready for that!" - [George Carlin](https://www.azquotes.com/quote/891216)
-the only reason that keeps happening to them is because we tolerate that being done to them - we've allowed that to happen to them
-> "Opportunists are promoted, realists are co-opted, idealists are frightened and radicals are shot." - [Heather Marsh](https://www.goodreads.com/quotes/7996445-opportunists-are-promoted-realists-are-co-opted-idealists-are-frightened-and)
-Draw a circle on your forehead and then makeup yourself like the joker and ask - why so serious and hold the camera and laugh - lets put a target on that face - you think this is dangerous for me? I think the status quo is dangerous for everyone
-    use a match cut multiple times as I'm putting on the white paint while talking the preamble before "why so serious"
-    white paint joker
-        https://www.kuku-bg.com/?term=&s=%D0%B1%D0%BE%D1%8F+%D0%B1%D1%8F%D0%BB%D0%B0&post_type=product&taxonomy=product_cat
-        https://maps.app.goo.gl/8hZCVczuyZ5UL3XV7
-Give ipfs hash of the files (git repo and previous recordings)
-Only the paranoid survive
-This video can also be found in the archive
-plus im just a comedian - what do I know - that's the excuse from responsibility nowadays, right? this whole thing is insane - it would never work! ;)
-Im just a comedian - what do I know about cultural rev - aaa - evolution
-CIA - don’t suicide me - I love life - you wont be out of a job anytime soon, and ultimately what I’m proposing is in your best interest if you factor everything in - your descendants will curse you if you actively work towards eroding real progress and the pursuit of truth
-Plus I’m just a comedian - I don't sway politics and shit - I just make people puff our air while uncontrollingly and rapidly contracting their lungs up and down through their larings and thair eyes are squinting and their mouth makes the shape of a banana! (and put a banana in my mouth) - I’m just talking shit… what do I know… nobody is gonna take me seriously
-im just a chill guy
 
 
 
 
-if someone rereads all my notes and sit with them for some time they'd be able to see at least 70-80% of what I see - ALL unique ideas I've ever had or important quotes are in the notes. And some needs to be removed - there's a lot of duplication and even some I'd change now in hindsight, but most of it is good. But hopefully noone would have to dig through them and I'd just be able to finish the book in the next 1-2 years undisturbed.
+
+
 
 A moral high ground so high you can’t even see it from below - the kingdom of heaven is in the clouds! the closer you are to truth - the closer you are to true morality (and love) as well - without discerning truth you cannot discern morality! some things are more moral than others - some actions are more right than others - feeling like captain obvious over here!!1
 
 Fungibility spectrum - sometimes the truth really is in the middle - sketch of fence sitting and feeling pain in the crotch
 
-Its a fucking horse - draw it on paper like that ugly stick pic - and zoom into its silly cartoonish face with its tongue out - or even your tongue out sticking through the piece of paper
-Its just a fucking horse! about when we designed representative democracy and capitalism
-Draw the horse crosseyed with tongue out
-Fifth/bonus/wildcard inversion: smartphone > horse
-The age of horse and lift heavy shit is over !!!
-we have paleolithic emotions medieval institutions and godlike technology eo wilson
-They didn’t have complexity science and information theory back then
-Horse - giddy up - i go bii s kamshika
-1 or a few bits of information every 4 years (elections) is very little gathered from the public and what it cares about
-> "I find bundling policies to be an absurd inheritance of 18th century technology... And then what happens when the party changes stances? ... You shouldn’t start with the idea of left vs right. Politics is about solving the coordination problems of people, so the right question is: What are people’s main issues? Then you go and solve those." - [What Are My Politics? by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/what-are-my-politics)
 
 
 
-"You have to let it all go, Neo. Fear, doubt, and disbelief. You've felt it your entire life, that there's something wrong with the world," - Morpheus.
 
 
 The fifth joint point
@@ -2382,8 +2297,6 @@ This is Meta Architecture - the designing of the metas of the different aspects 
 
 I dont feel only politically homeless but also religiously homeless. I am religious. I am a collectivist. I long to care about a collective - imagine not actually wanting that lol
 
-The ultimate prestige game
-Prestige/Status redefined
 
 Minimum viable civilization - one in which you profit from the wellbeing of others
 
@@ -2425,8 +2338,6 @@ You got me! I’m deeply religious to my core - it just so happens that I’m al
 Every organization builds self-justification systems but they need to all be coherent with and subjugated by a master self-justification system
 
 Demand can be culturally manufactured towards what’s aligned and from the public commons
-
-Monkey want status - do a monkey face
 
 Sunlight is the best disinfectant - change my mind
 
@@ -2513,8 +2424,6 @@ Tiktok - you’re not only destroying your own life but also indirectly you’re
 
 
 we need to pay attention to how & what we pay attention (to)
-
-god: that's how we get an "it from bit" (slogan by John Archibald Wheeler - (1990). 'Information, Physics, Quantum: The Search for Links.')
 
 The abyss is staring at us - cosmic failure, meaninglessness
 

@@ -169,10 +169,6 @@ its like the water - we don't see it, we don't question it, or if we do - we fee
 ultimate ==> most consequential, most important, most fundamental - second place is not even close
 
 
-# !!! AAAAAAAAAAA
-
-
-
 ██████████████████████████████████████████████████████████████████
 # knowledge in people's heads & the economy
 ██████████████████████████████████████████████████████████████████
@@ -201,6 +197,67 @@ Show a bunch of graphs from reality check
 
 
 
+
+██████████████████████████████████████████████████████████████████
+# the tech & why I waited so long
+██████████████████████████████████████████████████████████████████
+
+fundamentally uncensorable
+will replace email, 
+every single internet service in existence today will eventually migrate & merge with this architecture or fade into irrelevance
+
+
+I’ve been sitting on my hands (roleplay it) for more than 3 years with the technical design - everyone kept asking me why I haven't started coding - initially I had no fucking clue what I had stumbled on - I just felt it had immense potential
+I don’t want to try
+I want to succeed
+> "Those who tell the stories rule society." - [Plato](https://www.goodreads.com/quotes/20382-those-who-tell-the-stories-rule-society)
+I was not accounting pilled in 2022
+Theoretically optimal solution - no other design can get even close to the optimal set of technical tradeoffs in my architecture
+The more compelling and refined the story becomes - the sooner will the system reach a billion people
+    einstein quote about understanding the problem fully
+this is the ultimate status and incentive architecture on top of which you could build anything - ANYTHING - and so with great power comes great responsibility
+
+"You have to let it all go, Neo. Fear, doubt, and disbelief. You've felt it your entire life, that there's something wrong with the world," - Morpheus.
+once you find/understand it you'll never think about anything else more than about this thing
+
+the real problem wasn't how to decentralize the web - it was how we should be structured as a species - I hadn't solved the real problem yet!
+
+I wasn't supposed to go psycho this early but the ONLY reason was fear - fear that I wouldn't get to finish my book. But I guess I decided to toss the coin and "take a fucking chance, will you?" - george carlin clip - grow some balls - even a few percent are troubling, but the upside of starting the whole thing 1 year earlier is that we get to solve the biggest problems in the world 1 year earlier. Also martyrdom is the mother of all streisand effects so perhaps its a win-win - if I get suicided the streisand effect will be renamed after me.
+
+"civilization is a race between education and catastrophe" is a famous quote attributed to the English writer H.G. Wells 
+I was hesitant to make such media before finishing my book and making it as uncensorable as information theoretically possible - I do not want to be suicided - but I just want to get something out there - the very much unfinished book is in a github repo - here’s the git hash of a checkpoint in its history if it needs to be finished by someone else - it would take 2-3 years for someone coming into it to write it properly as they’d need for things to imprint in their heads
+I don't even have a good model for how to think how worried I should be and if I'm taking a huge risk - I'm embracing the unknown with a leap of faith - my faith is in the goodness of the world and in the persuadability of human beings
+All the peace lovers get shot for some reason - reenact the quote from bill hicks with paper people and shoot them 1 by 1 with your middle fingers and then blow one of them like a smoking gun and show it to the camera
+> "Did you ever stop to thnk about all the people we kill? They're always people who tell us to live together in harmony and try to love one another: Jesus, Ghandi, Lincoln, John Kennedy, Bobby Kennedy, Medgar Evers, Malcolm X, Martin Luther King, John Lennon. They all said: 'Try to live together peacefully.' BAM! Right in the f--in head! Aparently we're not ready for that!" - [George Carlin](https://www.azquotes.com/quote/891216)
+the only reason that keeps happening to them is because we tolerate that being done to them - we've allowed that to happen to them
+> "Opportunists are promoted, realists are co-opted, idealists are frightened and radicals are shot." - [Heather Marsh](https://www.goodreads.com/quotes/7996445-opportunists-are-promoted-realists-are-co-opted-idealists-are-frightened-and)
+Draw a circle on your forehead and then makeup yourself like the joker and ask - why so serious and hold the camera and laugh - lets put a target on that face - you think this is dangerous for me? I think the status quo is dangerous for everyone
+    use a match cut multiple times as I'm putting on the white paint while talking the preamble before "why so serious"
+    white paint joker
+        https://www.kuku-bg.com/?term=&s=%D0%B1%D0%BE%D1%8F+%D0%B1%D1%8F%D0%BB%D0%B0&post_type=product&taxonomy=product_cat
+        https://maps.app.goo.gl/8hZCVczuyZ5UL3XV7
+Give ipfs hash of the files (git repo and previous recordings)
+Only the paranoid survive
+This video can also be found in the archive
+plus im just a comedian - what do I know - that's the excuse from responsibility nowadays, right? this whole thing is insane - it would never work! ;)
+Im just a comedian - what do I know about cultural rev - aaa - evolution
+CIA - don’t suicide me - I love life - you wont be out of a job anytime soon, and ultimately what I’m proposing is in your best interest if you factor everything in - your descendants will curse you if you actively work towards eroding real progress and the pursuit of truth
+Plus I’m just a comedian - I don't sway politics and shit - I just make people puff our air while uncontrollingly and rapidly contracting their lungs up and down through their larings and thair eyes are squinting and their mouth makes the shape of a banana! (and put a banana in my mouth) - I’m just talking shit… what do I know… nobody is gonna take me seriously
+
+if someone rereads all my notes and sit with them for some time they'd be able to see at least 70-80% of what I see - ALL unique ideas I've ever had or important quotes are in the notes. And some needs to be removed - there's a lot of duplication and even some I'd change now in hindsight, but most of it is good. But hopefully noone would have to dig through them and I'd just be able to finish the book in the next 1-2 years undisturbed.
+
+██████████████████████████████████████████████████████████████████
+# meaning
+██████████████████████████████████████████████████████████████████
+
+Meaning comes from being consequential
+
+
+██████████████████████████████████████████████████████████████████
+# synergy
+██████████████████████████████████████████████████████████████████
+
+sharing is synergetic - it is more efficient for the whole
 
 
 ██████████████████████████████████████████████████████████████████
@@ -261,10 +318,39 @@ truth worshiper
 We need to reward truth more than anything else
 
 ██████████████████████████████████████████████████████████████████
-# God
+# horse & outdated social tech
+██████████████████████████████████████████████████████████████████
+
+Its a fucking horse - draw it on paper like that ugly stick pic - and zoom into its silly cartoonish face with its tongue out - or even your tongue out sticking through the piece of paper
+Its just a fucking horse! about when we designed representative democracy and capitalism
+Draw the horse crosseyed with tongue out
+Fifth/bonus/wildcard inversion: smartphone > horse
+The age of horse and lift heavy shit is over !!!
+we have paleolithic emotions medieval institutions and godlike technology eo wilson
+They didn’t have complexity science and information theory back then
+Horse - giddy up - i go bii s kamshika
+1 or a few bits of information every 4 years (elections) is very little gathered from the public and what it cares about
+> "I find bundling policies to be an absurd inheritance of 18th century technology... And then what happens when the party changes stances? ... You shouldn’t start with the idea of left vs right. Politics is about solving the coordination problems of people, so the right question is: What are people’s main issues? Then you go and solve those." - [What Are My Politics? by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/what-are-my-politics)
+
+
+██████████████████████████████████████████████████████████████████
+# authority, (web of) trust, delegation
+██████████████████████████████████████████████████████████████████
+
+
+
+██████████████████████████████████████████████████████████████████
+# God & religion
 ██████████████████████████████████████████████████████████████████
 
 we need god - the ultimate - representing the ideal, the telos, the direction, serving as a coordination mechanism for coherence - a schelling point. God generates common knowledge and synchrony and coherence which in turn aid in integration. Authority is necessary/essential - the only questions are if, how, and why it is legitimate. A compass needs a North Pole to work.
+
+the function of religion is to solve a thermodynamic problem - it scales empathy, provides a common worldview and coherence, and a source of authority for coordination - everything else "like an afterlife" was in service to these fundamental goals
+
+
+"Science without religion is lame, religion without science is blind" - Einstein
+https://newrepublic.com/article/115821/einsteins-famous-quote-science-religion-didnt-mean-taught
+
 
 ██████████████████████████████████████████████████████████████████
 # consciousness/awareness
@@ -333,15 +419,13 @@ a Worldwide collective Self Model
 > "The credit assignment problems inherent in collective intelligence are fundamental in all cognition and learning, and in all biological individuality." - [The collective intelligence of evolution and development, by Richard Watson and Michael Levin](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
 
 
-██████████████████████████████████████████████████████████████████
-# authority, (web of) trust, delegation
-██████████████████████████████████████████████████████████████████
-
 
 
 ██████████████████████████████████████████████████████████████████
-# social engineering
+# social engineering & enculturation
 ██████████████████████████████████████████████████████████████████
+
+We haven’t scratched the surface of the potential of enculturation
 
 social engineering - our sociality is what's most important about our species - how our interaction is structured is foundational
 its been happening since forever
@@ -362,6 +446,8 @@ Everyone - including kids - instantly realise the word I censored and despite th
 This is another inversion - we should value truth over appearance and feelings when those feelings are not in accordance with truth
 What a fucking joke
 
+social copying, veblen goods, conformity, mimetic desire - we want what others want
+
 ██████████████████████████████████████████████████████████████████
 # digital ID
 ██████████████████████████████████████████████████████████████████
@@ -370,13 +456,6 @@ What a fucking joke
 
 Im batman - impression
 Photo of me with toilet paper on my head with holes
-
-
-██████████████████████████████████████████████████████████████████
-# why wait so long
-██████████████████████████████████████████████████████████████████
-
-the real problem wasn't how to decentralize the web - it was how we should be structured as a species - I hadn't solved the real problem yet!
 
 ██████████████████████████████████████████████████████████████████
 # alignment & CC
@@ -394,8 +473,22 @@ externalities
 
 we're gonna have such absolutely COMPLETE accounting of causes and effects that even Godel would reconsider his findings
 
+
 ██████████████████████████████████████████████████████████████████
-# economics & property
+# status & prestige
+██████████████████████████████████████████████████████████████████
+
+The ultimate prestige game
+Prestige/Status redefined
+Status dominance prestige
+Status and prestige are in our dna
+
+Monkey want status - do a monkey face
+
+> "You can take the monkey out of the status-seeking game, but you can't take the status-seeking out of the monkey." - [Status as a Service (StaaS), Eugene Wei](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
+
+██████████████████████████████████████████████████████████████████
+# economics & property & surplus & scarcity
 ██████████████████████████████████████████████████████████████████
 
 PROPERTY! That thing which we fight for
@@ -409,6 +502,9 @@ Reconceptualize property
 
 decouple resources for personal use from control over the economy
 prestige
+
+> "Your margin is my opportunity." - [Jeff Bezos](https://www.goodreads.com/quotes/706779-your-margin-is-my-opportunity)
+Your conspicuous consumption is our opportunity
 
 ██████████████████████████████████████████████████████████████████
 # wheel of fortune ==> openness leads to progress
@@ -480,6 +576,12 @@ we can't build with happiness as a moral foundation - because it is actually bul
 > "All models are wrong, but some are useful." - [George E. P. Box](https://en.wikipedia.org/wiki/All_models_are_wrong)
 
 > "Systems fool us by presenting themselves as a series of events." - [Donella Meadows, 2008, Thinking in Systems](https://en.wikipedia.org/wiki/Thinking_In_Systems:_A_Primer)
+
+if we have a weighted causality graph and we have goals and a hierarchy of values - we also have a morality structure - we can assign valence to any single thing that's part of that causality graph
+is it easy or straightforward to create this graph? Heck no! but the sooner we start working on our process - the sooner we'd have something better than what we have now
+With a causal graph we can solve the root of problems once and for all instead of treating their symptoms in a whack-em-all
+
+we need to give scaffolding for people to express their causal model of the world and to think about it
 
 
 ██████████████████████████████████████████████████████████████████
@@ -557,6 +659,10 @@ civilization reflects its accounting technology
 ██████████████████████████████████████████████████████████████████
 # syntropic law - symmetry - proportionality of consequence and accountability
 ██████████████████████████████████████████████████████████████████
+
+Syntropy
+    A tendency towards complexity, structure, order, and organization of ever more advantageous and orderly patterns. Originally coined as a synonym for negentropy (the opposite of entropy)
+    often contrasted with the concept of entropy
 
 Syntropic law #1: accountability shall scale with consequentiality
 
