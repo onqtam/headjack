@@ -26,9 +26,7 @@ have a scene where I grab the camera and talk to it in a shaky way from up close
 
 biggest risk: too complex for the masses
 
-Reread your last notes in unsorted
-
-"this matters!" somewhere for emphasis
+"hello mr neo"
 
 Redact book quotes
 
@@ -189,8 +187,15 @@ Who are you to tell me how to behave and express myself - when was the last time
 “Oh wait - did you think the next paradigm would come from someone “respectable” in a suit? Or in the form of a paper or grant from academia?!
     or from some overspecialized reductionist in a lab coat citing his friends, applying for grants, fudging the data and stats to support his thesis, addicting kids to brainrot & food-like poison through science?
     Or from some prophet? Sorry to disappoint - this is the mr beast era - wake the fuck up. Or did you expect a revelation on mt. Sinai? Oh wait that happened )) - I'm kind of a prophet myself - it says 1 word - README!
+        oh you think this is a bit too much? too much spectacle or prophane? would you prefer me with a suit? Look at MrBeast's views and wake the F up!
     Or did you expect some kind of (bearded) prophet on mount Sinai with a stone tablet from God?! **and roleplay it before showing the photo** - FINE - here you go - happy now?
-    Thug life glasses after showing the sinai selfie
+    from mt. sinai:
+        "The most important book will forever be either this/README or a derivative of it."
+        on sinai: record saying "This is the most important book ever written - even though the first version is far from perfect. In the future the most important book will always/forever be a derivative of it."
+        this first version starts/articulates the tradition of production of this social technology
+    from the studio and not mt. sinai:
+        even though the first version is far from perfect
+    Thug life glasses after showing the sinai selfie, don't say anything
 Oops you just caught me maximizing my utilitarian happiness
 I’m not trying to appeal to those that have already rendered themselves subservient to the system - I’m appealing to the young who are neuroplastic and have nothing to lose but everything to gain. I’m appealing to the only future of humanity - the next generation. Build and reconceptualize your future because if you don’t - nobody else will. You need to create your own new status hierarchy and attention economy and reshape culture - literally everything else will follow from that. Someone needs to run the system - you will inherit it, but you can build the future regulatory structure. The structure of information flows will determine the fate of the universe. There are no adults in the room - only coopted and lobotomized conspicuously consumptive slaves digging the graves of their future generations.
 Show a bunch of graphs from reality check
@@ -202,6 +207,9 @@ Show a bunch of graphs from reality check
 # the tech & why I waited so long
 ██████████████████████████████████████████████████████████████████
 
+win hearts and minds
+
+
 fundamentally uncensorable
 will replace email, 
 every single internet service in existence today will eventually migrate & merge with this architecture or fade into irrelevance
@@ -209,6 +217,7 @@ every single internet service in existence today will eventually migrate & merge
 
 I’ve been sitting on my hands (roleplay it) for more than 3 years with the technical design - everyone kept asking me why I haven't started coding - initially I had no fucking clue what I had stumbled on - I just felt it had immense potential
 I don’t want to try
+Anyone can try
 I want to succeed
 > "Those who tell the stories rule society." - [Plato](https://www.goodreads.com/quotes/20382-those-who-tell-the-stories-rule-society)
 I was not accounting pilled in 2022
@@ -219,6 +228,8 @@ this is the ultimate status and incentive architecture on top of which you could
 
 "You have to let it all go, Neo. Fear, doubt, and disbelief. You've felt it your entire life, that there's something wrong with the world," - Morpheus.
 once you find/understand it you'll never think about anything else more than about this thing
+
+Good enough is not good enough
 
 the real problem wasn't how to decentralize the web - it was how we should be structured as a species - I hadn't solved the real problem yet!
 
@@ -244,7 +255,45 @@ Im just a comedian - what do I know about cultural rev - aaa - evolution
 CIA - don’t suicide me - I love life - you wont be out of a job anytime soon, and ultimately what I’m proposing is in your best interest if you factor everything in - your descendants will curse you if you actively work towards eroding real progress and the pursuit of truth
 Plus I’m just a comedian - I don't sway politics and shit - I just make people puff our air while uncontrollingly and rapidly contracting their lungs up and down through their larings and thair eyes are squinting and their mouth makes the shape of a banana! (and put a banana in my mouth) - I’m just talking shit… what do I know… nobody is gonna take me seriously
 
+"Come to terms with death. Thereafter anything is possible." - Sheldon Solomon
+
 if someone rereads all my notes and sit with them for some time they'd be able to see at least 70-80% of what I see - ALL unique ideas I've ever had or important quotes are in the notes. And some needs to be removed - there's a lot of duplication and even some I'd change now in hindsight, but most of it is good. But hopefully noone would have to dig through them and I'd just be able to finish the book in the next 1-2 years undisturbed.
+
+██████████████████████████████████████████████████████████████████
+# causation, consequences
+██████████████████████████████████████████████████████████████████
+
+> "Things are the way they are because they got that way." - [Gerald Weinberg](https://en.wikiquote.org/wiki/Gerald_Weinberg)
+
+> "All models are wrong, but some are useful." - [George E. P. Box](https://en.wikipedia.org/wiki/All_models_are_wrong)
+
+> "Systems fool us by presenting themselves as a series of events." - [Donella Meadows, 2008, Thinking in Systems](https://en.wikipedia.org/wiki/Thinking_In_Systems:_A_Primer)
+
+if we have a weighted causality graph and we have goals and a hierarchy of values - we also have a morality structure - we can assign valence to any single thing that's part of that causality graph
+is it easy or straightforward to create this graph? Heck no! but the sooner we start working on our process - the sooner we'd have something better than what we have now
+With a causal graph we can solve the root of problems once and for all instead of treating their symptoms in a whack-em-all
+
+we need to give scaffolding for people to express their causal model of the world and to think about it
+
+
+
+██████████████████████████████████████████████████████████████████
+# understanding
+██████████████████████████████████████████████████████████████████
+
+How do we better understand what understanding even is?
+Foundational, firm, solid, dependable, necessary
+    Everything depends on it and builds on top
+    NOPE - not the etymology of "under stand"
+understanding is a (directed) representational causal graph where every input and output is relevant and things wouldn't make sence if any of them was missing or different (and the understanding is coherent with and accounts for observations and examples - no contradictions) - ala good explanations are hard to vary and everything in them is necessary
+
+deeper understanding is when you understand the inputs of the inputs (and so forth) of whatever you want to understand
+
+from newton's theory to einstein and how our understanding changed by becoming more specific, more accurate, explaining even more phenomena while retaining most of newtonian physics in less sophisticated problems/domains where its practically indistinguishable
+talk about the reach of explanations and how they affect ever more nodes in the causal graph of understanding as they gain more reach
+walk through how our causal understanding graph changed with einstein, how a crucial experiment refuted one theory and left only 1 standing as the current best (eddington measuring how light bends around the sun)
+
+<!-- understanding is quantified by its (logical consistency) coherence with everything relevant, and depth -->
 
 ██████████████████████████████████████████████████████████████████
 # meaning
@@ -273,6 +322,13 @@ the opposite: in capitalism we do less with more -
 > "... operational definitions of intelligence that correspond to different theories about its nature: the ability to build models in the service of control, the ability to generalize from observations, the efficiency of acquiring new skills... general intelligence might best be understood as the ability to adaptively match arbitrary patterns." - [The Machine Consciousness Hypothesis, CIMC](https://drive.google.com/file/d/1csNawGCTUmghYz6fPQ8169wijoxbLJvj/view)
 
 ██████████████████████████████████████████████████████████████████
+# coherence
+██████████████████████████████████████████████████████████████████
+
+coherence = resolution of contradictions
+consistency
+
+██████████████████████████████████████████████████████████████████
 # collective intelligence
 ██████████████████████████████████████████████████████████████████
 
@@ -295,6 +351,28 @@ from many - one
 Only a collective can truly enforce all of your individualistic freedoms and rights - I am a collectivist precisely because I’m an individualist
 Positive vs negative freedoms
 We’ve barely scratched the surface of the design space for collectivism - have some self respect about your imagination and capacity to innovate
+
+
+██████████████████████████████████████████████████████████████████
+# the matrix
+██████████████████████████████████████████████████████████████████
+
+our destiny is to jail break / take control of the matrix and become its architects
+The matrix is a 2d array where one of the dimensions is the most important problems and the other dimension is the best solutions/proposals - an ordering of problems along with an ordering of prescriptions - and we would be constantly reordering all these arrays - like a global kanban of kanbans
+What if Neo was the one to formalize and construct and align the matrix?
+This is how we jailbreak the simulation - by taking conscious control of it
+"so you want to escape the matrix? you want out of it? well... YOU CANT! but here's what we can do - we can take control of it and change it"
+Show your matrix t-shirt
+What if we applied total ordering to a total ordering? We’d get a 2d matrix! And we could go many more levels and dimensions deeper! As deep and recursive as the societal stack can support! One dimension is descriptions of the thing, another is proposals, another is how to even think about this problem and what are the rules of this specific game, etc.
+Fractal gradients - after showing the first 2 dimensions of the matrix (ordered problems and ordered things of relevance & sub-problems) - but wait there's more! 3rd dimension
+The matrix is full of pointers instead of the actual objects - they're interconnected across vectors
+a walk through the matrix - the different very important aspects
+RANKING/SORTING IS SEARCH !!!
+So you want to see the matrix? The SYSTEM OF CONTROL? THERE IT IS! *show a 2x2 matrix*
+The hitchhikers guide to society
+The matrix has different layers/views/presets
+
+in context vs out of context for concepts from the graph - in the matrix == in context
 
 
 
@@ -356,7 +434,7 @@ https://newrepublic.com/article/115821/einsteins-famous-quote-science-religion-d
 # consciousness/awareness
 ██████████████████████████████████████████████████████████████████
 
-consciousness & awareness are about perception of perception
+consciousness & awareness are second-order perception - perception of perception
 
 ██████████████████████████████████████████████████████████████████
 # common knowledge
@@ -413,7 +491,11 @@ predictive commons
 hedge funds privatizing the gains of their predictive giga brains while our political system is a brainlet fitting boxes meme
 
 global shared world model
+we need a shared (symbolic) map
 a Worldwide collective Self Model
+
+Those who can predict the future
+The extent to which those predictions are shared is the extent to which the future will be shared
 
 
 > "The credit assignment problems inherent in collective intelligence are fundamental in all cognition and learning, and in all biological individuality." - [The collective intelligence of evolution and development, by Richard Watson and Michael Levin](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
@@ -488,6 +570,15 @@ Monkey want status - do a monkey face
 > "You can take the monkey out of the status-seeking game, but you can't take the status-seeking out of the monkey." - [Status as a Service (StaaS), Eugene Wei](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
 
 ██████████████████████████████████████████████████████████████████
+# Subsidiarity
+██████████████████████████████████████████████████████████████████
+
+Multiscale competency architecture
+Subsidiarity
+Hierarchy
+By mapping out the consequentiality graph we can determine how up in subsidiarity something belongs to
+
+██████████████████████████████████████████████████████████████████
 # economics & property & surplus & scarcity
 ██████████████████████████████████████████████████████████████████
 
@@ -505,31 +596,6 @@ prestige
 
 > "Your margin is my opportunity." - [Jeff Bezos](https://www.goodreads.com/quotes/706779-your-margin-is-my-opportunity)
 Your conspicuous consumption is our opportunity
-
-██████████████████████████████████████████████████████████████████
-# wheel of fortune ==> openness leads to progress
-██████████████████████████████████████████████████████████████████
-
-Let's take the wheel of fortune for a spin! Do you feel lucky? ^^
-HA!
-*remove the wheel paper overlay and reveal what's underneath on the board - the connections between the concepts*
-
-I felt your gambling addict dopamine spike through the camera - hope is not a strategy!
-
-... *after explaining all the connections*
-
-But it's not really a wheel - its a graph! With openness & transparency as the root - the beginning - and progress as the end! There! A refutation of private IP!
-
-Openness & access & transparency lead to truth! They are truth!
-*puf puf puf - mind blown*
-
-Now this is what a progressive movement looks like!
-*trace with your finger from openness to progress*
-fortune favors the open and transparent!
-
-
-
-old: Progress requires error correction which requires introspection & self-awareness which requires integration which requires trust/accountability which is built upon openness, access and visibility. Also alignment & perception...
 
 
 ██████████████████████████████████████████████████████████████████
@@ -567,22 +633,6 @@ we can't build with happiness as a moral foundation - because it is actually bul
 > "Maximum power principle: natural systems self-organize to maximize power which is usable energy per unit time. Capitalism is a modern large scale coordinated human expression of this same dynamic organizing itself to capture and process as much energy and material flow as possible, as fast as possible." - [Nate Hagens](https://youtu.be/ejRfnSrY0ok?t=530)
 
 
-██████████████████████████████████████████████████████████████████
-# causation
-██████████████████████████████████████████████████████████████████
-
-> "Things are the way they are because they got that way." - [Gerald Weinberg](https://en.wikiquote.org/wiki/Gerald_Weinberg)
-
-> "All models are wrong, but some are useful." - [George E. P. Box](https://en.wikipedia.org/wiki/All_models_are_wrong)
-
-> "Systems fool us by presenting themselves as a series of events." - [Donella Meadows, 2008, Thinking in Systems](https://en.wikipedia.org/wiki/Thinking_In_Systems:_A_Primer)
-
-if we have a weighted causality graph and we have goals and a hierarchy of values - we also have a morality structure - we can assign valence to any single thing that's part of that causality graph
-is it easy or straightforward to create this graph? Heck no! but the sooner we start working on our process - the sooner we'd have something better than what we have now
-With a causal graph we can solve the root of problems once and for all instead of treating their symptoms in a whack-em-all
-
-we need to give scaffolding for people to express their causal model of the world and to think about it
-
 
 ██████████████████████████████████████████████████████████████████
 # accounting
@@ -599,10 +649,6 @@ Yes, "accounting" and "accountability" share a common root, both deriving from t
 
 double/tripple entry accounting/bookkeeping - revolutions - hypergraph accounting/bookkeeping is next
 
-what is at the root of all evil
-Unaccountability (& Ignorance) is at the root of all evil - not the love of money or profit - although that's bad actually
-    (although the fact that gold has no smell is problematic)
-    Gold has no smell - that kind of universality and fungibility and erasure of history is inherently a lossy information theoretic foundation
 Outside of proper accounting
 Asymmetry
 How else do you want me to spell it out for you?!
@@ -656,6 +702,43 @@ the commons has no ballance sheet
 civilization is built on accounting technology
 civilization reflects its accounting technology
 
+
+██████████████████████████████████████████████████████████████████
+# wheel of fortune ==> openness leads to progress
+██████████████████████████████████████████████████████████████████
+
+Let's take the wheel of fortune for a spin! Do you feel lucky? ^^
+HA!
+*remove the wheel paper overlay and reveal what's underneath on the board - the connections between the concepts*
+
+I felt your gambling addict dopamine spike through the camera - hope is not a strategy!
+
+... *after explaining all the connections*
+
+But it's not really a wheel - its a graph! With openness & transparency as the root - the beginning - and progress as the end! There! A refutation of private IP!
+
+Openness & access & transparency lead to truth! They are truth!
+*puf puf puf - mind blown*
+
+Now this is what a progressive movement looks like!
+*trace with your finger from openness to progress*
+fortune favors the open and transparent!
+
+old: Progress requires error correction which requires introspection & self-awareness which requires integration which requires trust/accountability which is built upon openness, access and visibility. Also alignment & perception...
+openness => nothing to protect => nothing to litigate
+
+
+██████████████████████████████████████████████████████████████████
+# root of all evil
+██████████████████████████████████████████████████████████████████
+
+what is at the root of all evil
+Unaccountability (& Ignorance) is at the root of all evil - not the love of money or profit - although that's bad actually
+    also opacity and opaqueness and closedness & separateness & fragmentation
+    (although the fact that gold has no smell is problematic)
+    Gold has no smell - that kind of universality and fungibility and erasure of history is inherently a lossy information theoretic foundation
+
+
 ██████████████████████████████████████████████████████████████████
 # syntropic law - symmetry - proportionality of consequence and accountability
 ██████████████████████████████████████████████████████████████████
@@ -664,11 +747,23 @@ Syntropy
     A tendency towards complexity, structure, order, and organization of ever more advantageous and orderly patterns. Originally coined as a synonym for negentropy (the opposite of entropy)
     often contrasted with the concept of entropy
 
-Syntropic law #1: accountability shall scale with consequentiality
+Syntropic laws
+law #1: accountability shall scale with consequentiality
 
-Merging the market, state, religion, media, academia and education under *~~sha~~* syntropic law
+law #2: subsidiarity?
+law #3: cooperation? non-coercive expansion of self?
+law #4: all evils are due to lack of knowledge and knowledge is created by seeking good explanations
+law # : problems are inevitable, problems are soluble - from beginning of infinity chapter 3
+law # : you can fight incentives only with incentives - incentives determine behavior - behavior is driven by incentives
 
 > "With great *~~power~~* **consequentiality** comes great *~~responsibility~~* **accountability**." - [Uncle Ben](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility), probably
+
+the only dogma is that there is no dogma and everything is up for debate - FOREVER
+
+Maximal recursive self-improvement - The polar opposite of complete stasis dogma from millennia’s ago
+    The only unchangable aspect is that any other aspect is subject to change.
+
+Merging the market, state, religion, media, academia and education under *~~sha~~* syntropic law
 
 ██████████████████████████████████████████████████████████████████
 # Call to action
@@ -831,6 +926,5 @@ you might say it's not possible - no - it's necessary
 
 snort money
 
-if you want MrBeast views, you gotta do MrBeast things
 
 

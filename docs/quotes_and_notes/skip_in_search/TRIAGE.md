@@ -10,9 +10,6 @@ https://www.youtube.com/watch?v=julHFXsKsdQ
 god: that's how we get an "it from bit" (slogan by John Archibald Wheeler - (1990). 'Information, Physics, Quantum: The Search for Links.')
 
 
-hearts and minds
-
-Solving the Meta/Meaning Crisis
 
 This is the real situational assessment
 ^^ this fails by assuming familiarity ("if you know you know")
@@ -41,9 +38,6 @@ Nervous system
 we need an ideal towards which to strive towards - as a society, and as males and females
 
 
-Multiscale competency architecture
-Subsidiarity
-Hierarchy
 
 PP & FEP & Active Inference
 
@@ -512,13 +506,6 @@ A paradigm is a framework of beliefs, assumptions, and practices that shapes how
 
 Division of labor - sight and recognizing edges & features
 
-How do we better understand what understanding is?
-How do we better understand what understanding even is?
-Foundational, firm, solid, dependable, necessary
-    Everything depends on it and builds on top
-    NOPE - not the etymology of "under stand"
-understanding is a causal graph
-
 Make fun of handshakes in ape politics
 
 People want money because it gets you almost everything - we need to engineer goods that cannot be bought but can only be earned
@@ -607,26 +594,19 @@ we need to optimize the means of production and steer the desires of consumption
 
 we need to recognize culture for what it is - the next substrate of evolution - the ether that binds us
 
-Those who can predict the future
-The extent to which those predictions are shared is the extent to which the future will be shared
-
-we need a shared map
 
 
 
-
-A product worth dying for
 the most consequences for your life
 
 but before answering that we need to talk about what makes our species special - reveal the answer at the end of the video??
 
 The next OpenAI will be open collective intelligence OpenCI - Open by Design, Forever - open not by decree but by necessity
 
-Thumbnail: ants / network
-
 Nobody in the world has EVER thought more about the intersection of digital ID, incentives, reputation and collective intelligence than me
 No single person or group
 put this quite early
+
 
 
 Journalism goes hand in hand with frame control ([Russell conjugation](https://en.wikipedia.org/wiki/Emotive_conjugation) - **what is** vs **how to feel about what is**), [Gell-Mann Amnesia](https://en.wikipedia.org/wiki/Michael_Crichton#GellMannAmnesiaEffect), cherry picking and many other problems. Imagine the introspection possible if everything was expressed as thought-graphs and was interlinked. What if we could fork & edit thought-graphs to remove bias? Can we become post-narrative?
@@ -789,19 +769,7 @@ Dependency graph
 what you are is what we are - a collective of cooperative parts
 A cooperative collective intelligence of parts that gives rise to a higher order entity
 
-our destiny is to jail break / take control of the matrix and become its architects
-The matrix is a 2d array where one of the dimensions is the most important problems and the other dimension is the best solutions/proposals - an ordering of problems along with an ordering of prescriptions - and we would be constantly reordering all these arrays - like a global kanban of kanbans
-What if Neo was the one to formalize and construct and align the matrix?
-This is how we jailbreak the simulation - by taking conscious control of it
-"so you want to escape the matrix? you want out of it? well... YOU CANT! but here's what we can do - we can take control of it and change it"
-Show your matrix t-shirt
-What if we applied total ordering to a total ordering? We’d get a 2d matrix! And we could go many more levels and dimensions deeper! As deep and recursive as the societal stack can support! One dimension is descriptions of the thing, another is proposals, another is how to even think about this problem and what are the rules of this specific game, etc.
-Fractal gradients - after showing the first 2 dimensions of the matrix (ordered problems and ordered things of relevance & sub-problems) - but wait there's more! 3rd dimension
-The matrix is full of pointers instead of the actual objects - they're interconnected across vectors
-a walk through the matrix - the different very important aspects
-RANKING/SORTING IS SEARCH !!!
-So you want to see the matrix? The SYSTEM OF CONTROL? THERE IT IS! *show a 2x2 matrix*
-The hitchhikers guide to society
+
 
 
 
@@ -1081,6 +1049,9 @@ so am I a hard line consequentialist? a utilitarian? no! I'm not going to kidnap
 
 
 market vs company boundry - theory of the firm
+theory of the firm, ronald coase
+
+an opt-in consentual system of generative constraints
 
 Life is the opposite of the physical monotony of physical space, matter, and time - life is agency despite all odds
 life is islands of order
@@ -1506,7 +1477,7 @@ Fix the epistemic commons - fix the world
 
 Justice depends on truth, consequentiality and understanding
 
-By mapping out the consequentiality graph we can determine how up i subsidiarity something belongs to
+
 
 Is cannot be so easily separated from ought
 As much as there “is”, there is just as much“ought”
@@ -1574,6 +1545,7 @@ I felt for the first time that I loved something more than my own existence - my
 Coherence around truth - that’s collective consciousness
 
 I’ve come to terms with death, although I do have hope
+TODO use the quote from Sheldon
 
 “The farewell”
 
@@ -1581,7 +1553,8 @@ Join the game! We will have kids! We will be happy! We will be fulfilled! We wil
 
 We need an NPC-friendly environment - where 
 
-“You dob’t have time” - how I wonder whether this means no time in the world or in your own life that’s about to end
+“You don’t have time” - how I wonder whether this means no time in the world or in your own life that’s about to end
+    and it actually depends on you in either case - you can help make this a cultural phenomenon and can help make it inevitable and for it to pick up on its own - rendering me obsolete - we can put the current system in the position of "if you can't beat them - join them"
 
 List all the books you want to read and all your bookmarks
 And mention in the clip which file in the repo to look at as a guide for reading it
@@ -1868,7 +1841,6 @@ Sankey-ty of the matrix
 
 Feel the CGI - collective general intelligence
 
-The matrix has different layers/views/presets
 
 “The higher standard”
 I am no man - i am dynamite
@@ -2096,9 +2068,6 @@ When the incentive is to contribute to whatever already exists there is no need 
 
 What is life? A struggle against entropy and decay - a struggle to stay away from thermodynamic equilibrium and the sheer banality of monotonous time. It is order in a world of disorder. Life brings conceptual meaning to an otherwise bland and monotonous mechanical universe.
 
-Maximal recursive self-improvement - The polar opposite of complete stasis dogma from millennia’s ago
-    The only unchangable aspect is that any other aspect is subject to change.
-
 Readme wants to be read
 
 Readme explains how & why society should generate, update & spread its readme
@@ -2127,6 +2096,8 @@ How much more commitment do I have to signal? Do I have to tattoo “readme” o
 
 Corruption happens through privatization
 Privatization is the basis for corruption
+
+Google - you organized nothing! you merely indexed - partially - and imperfectly
 
 
 If the idea of having olympics for solving the biggest problems for humanity sounds naive and absurd because that’s not how politics and social organization work - well that’s actually an inditement for how we do politics. Maybe that’s broken and needs to change - it needs a fundamental upgrade. And how we do sensemaking - we don’t have the collective understanding of our collective problems in order to begin solving them. The idea of world problem solving olympics sounds silly because we haven’t even mapped out how all the problems are connected! We have not organized ourselves in a way that would make it even possible to directly address our most fundamental problems! Our deepest problems are not just intractable - we’re completely unaware of what their best articulation even is! We’re blind at the most fundamental level! Our deepest problems are not merely climate change and pollution - our deepest problem is our relation with everyone else. And we’re completely blind to that in our current paradigm. The problem aren’t fossil fuels - the problem is how we relate to each other, and what our worldview & paradigm are - that’s the deepest leverage point. How much we value others and their lives and how much we want to consume personally
@@ -2309,8 +2280,6 @@ The world self
 
 The great convergence
 
-Our ouroboros religion has an official logo - we’re ouroboros
-
 This is the mind melt - the collective mind melt is upon us
 
 We need an accounting system in which insider trading is not a thing
@@ -2394,6 +2363,8 @@ Fractal zoom all the way - what does it mean?! Double rainbow roleplay
 
 Social singularity
 
+intolerant to the intolerant
+
 Phase shift
 
 An AGI/ASI doesn’t need you - “if you don’t use it - you lose it” - what I’m proposing literally depends on you as it is constituted by you
@@ -2403,7 +2374,7 @@ The grand plan: We develop people and help them become more valuable and conscio
 
 You can’t align something you can’t perceive
 
-Good enough is not good enough
+we have settled for a mere local maximum in our organization with the way we do property
 
 Disunited States
 Left vs right, women vs men, young vs old, white vs non-white, citizen vs foreigner, religious type 1 vs religious type 2 - this polarization is terminal - point from Balaji on the x vs y
@@ -2528,6 +2499,7 @@ I want to impregnate you with whatever this thing is that has conceptualized its
 I’m afraid of time
 
 Ok, fine, you dont want to call it a religion or an ideology… how about a worldview? A participatory society? I DONT CARE WHAT YOU CALL IT - deng quote here about catching mice
+    **whisper** p.s. it's totally a religion
 
 “Why so serious” with the pie on the face instead of paint
 
@@ -2557,5 +2529,5 @@ People have a disincentive to speak against bad policies of their own party beca
 If businesses were ran entirely open and transparent it would be self-evident if they’re price gauging & colluding or if their input costs simply went up. How many laws and institutions and suspicions wouldn’t be necessary if everything was open and transparent? Opacity and fragmentation (lack of integration) creates unnecessary complexity and inefficiency and brittleness and friction.
 
 
-So what - god created the universe and now what - he’s eating popcorn ?! I serve a god that actually needs me and serves me in return - now that’s a real relationship with god
+So what - god created the universe and now what - he’s eating popcorn ?! **stuff my face with popcorn and point at something and smile in disbelief** I serve a god that actually needs me and serves me in return - now that’s a real relationship with god
 

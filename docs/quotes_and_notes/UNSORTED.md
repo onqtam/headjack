@@ -3,6 +3,12 @@
 Request confirmation networks for neuro-symbolic script execution
 https://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_6.pdf
 
+The Cortical Conductor Theory: Towards Addressing Consciousness in AI Models
+http://bach.ai/pub/Bach%20-%20Cortical%20Conductor%20Theory%20(BICA%202018).pdf
+
+TESTING THE MACHINE CONSCIOUSNESS HYPOTHESIS
+https://arxiv.org/abs/2512.01081
+
 
 An Integrated World Modeling Theory (IWMT) of Consciousness: Combining Integrated Information and Global Neuronal Workspace Theories With the Free Energy Principle and Active Inference Framework; Toward Solving the Hard Problem and Characterizing Agentic Causation
 https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2020.00030/full
@@ -45,6 +51,47 @@ http://nobeahfoundation.org/
 https://doi.org/10.31234/osf.io/dr8qn
 https://doi.org/10.31235/osf.io/r2dxq
 Williams, A. E., Defining a Continuum from Individual, to Swarm, to Collective Intelligence, to General Collective Intelligence, International Journal of Collaborative Intelligence, In print (2021)
+
+“Knowledge is not a series of self-consistent theories that converges toward an ideal view; it is rather an ever increasing ocean of mutually incompatible (and perhaps even incommensurable) alternatives, each single theory, each fairy tale, each myth that is part of the collection forcing the others into greater articulation and all of them contributing, via this process of competition, to the development of our consciousness.”
+Paul Feyerabend
+
+> "When people or groups choose to optimize around narrow goals—such as quickly and efficiently mining valuable minerals—they often end up creating unintended negative consequences for other people and the broader environment. This phenomenon is not limited to the minerals industry, or to the world of business. The same dynamic occurs in biology, psychology, economics, politics, human resources, sustainable development, virology, artificial intelligence, and other fields." - [The Darwinian Trap: The Hidden Evolutionary Forces That Explain Our World, by Kristian Rönn](https://www.goodreads.com/book/show/204316964-the-darwinian-trap)
+
+> "" - [The Darwinian Trap: The Hidden Evolutionary Forces That Explain Our World, by Kristian Rönn](https://www.goodreads.com/book/show/204316964-the-darwinian-trap)
+
+> "" - [The Darwinian Trap: The Hidden Evolutionary Forces That Explain Our World, by Kristian Rönn](https://www.goodreads.com/book/show/204316964-the-darwinian-trap)
+
+> "" - [The Darwinian Trap: The Hidden Evolutionary Forces That Explain Our World, by Kristian Rönn](https://www.goodreads.com/book/show/204316964-the-darwinian-trap)
+
+> "" - [The Darwinian Trap: The Hidden Evolutionary Forces That Explain Our World, by Kristian Rönn](https://www.goodreads.com/book/show/204316964-the-darwinian-trap)
+
+> "" - [The Darwinian Trap: The Hidden Evolutionary Forces That Explain Our World, by Kristian Rönn](https://www.goodreads.com/book/show/204316964-the-darwinian-trap)
+
+> "" - [The Darwinian Trap: The Hidden Evolutionary Forces That Explain Our World, by Kristian Rönn](https://www.goodreads.com/book/show/204316964-the-darwinian-trap)
+
+
+
+
+
+
+
+
+
+Einstein remarked, ‘My pencil and I are more clever than I.’
+
+
+
+
+> "civilization is the capacity to trust others frequently enough such that our world models accrete, and in so doing generate compounding returns to collective action under uncertainty. If we wish to retain an existence as something other than mechanistic livestock, we must cherish the connection to first-order reality, and valorize our responsibility to communicate truthfully." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/2016201292226691428)
+
+> "when decoupled from the transcendental memetics that underpin Western culture, the direct pursuit of material utility will forever lead to ruin... The desire to sever ourselves from this mythopoetic lineage constituted the greatest mistake of Enlightenment Liberals, and its resentful shadow haunts us to this very day. This doesn’t imply we must return to the exact dogmas of our seminal mythopoetics, but if we’re to avoid self-termination we must integrate and extend those memetics such that their constraints continuously steer us away from our worst and most predictable failure modes at scale.
+" - [Matthew Pirkowski](https://x.com/MattPirkowski/status/2015928743328677992)
+
+> "Humans are still at their best when their life is a story, one that contributes to civilization and others around them." - [@DanielCDolmar](https://x.com/DanielCDolmar/status/2015947813801374070)
+
+> "Our civilization has made rich and lazy the terminal metric and this is the predictable result. Our terminal metric must be production not consumption..." - [Marko Jukic](https://x.com/mmjukic/status/2016448409406718185)
+
+> "Humanity needs hard self-actualizing labor, not more comfort. The powers that be are effectively selling a vision of lifetime peace and comfort backed by whatever means necessary. The only way out of this mess is to sell a vision that is even better, cooler, more fun, and more exciting despite requiring hard labor. No other way out."  - [Marko Jukic](https://x.com/mmjukic/status/2016463684034273535)
 
 
 
@@ -2485,7 +2532,7 @@ Endorsing and amplifying something should have consequences and is a moral choic
 2 sets of 5-star ratings: quality and importance
 
 We need to engineer for emergence within a complex system - not constrain it
-A lot of information are held in the dynamics of a system - not in the statics - the flows
+A lot of information is held in the dynamics of a system - not in the statics - the flows
 You can turn off and on a complicated thing (a car) but not your body or an economy
 Theory-practice-theory loop - not everything will work
 

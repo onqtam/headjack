@@ -1450,6 +1450,8 @@ concluding remarks
 
 > "God is the global optimum of shared agency, the collective agent that gets instantiated by those who do what's best. God exists, across all those that serve him, to the degree they recognize what's best." - [Joscha Bach](https://x.com/Plinz/status/1969152526973882878)
 
+> "Gods in a sense are not physical entities - they are representations of agents existing across people." - [Joscha Bach](https://youtu.be/PrSiZPDqk1c?t=1422)
+
 > "It wasn't God who introduced us to morality; rather, it was the other way around. God was put into place to help us live the way we felt we ought to." - [Frans de Waal](https://www.azquotes.com/quote/1377025)
 
 > "Groups create supernatural beings not to explain the universe but to order their societies." - [Jonathan Haidt](https://www.goodreads.com/quotes/878558-groups-create-supernatural-beings-not-to-explain-the-universe-but)

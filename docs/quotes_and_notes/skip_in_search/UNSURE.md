@@ -373,3 +373,5 @@ the exciting times we are going through... agree, but not sure where to put it
 
 > "Whoever builds the next ideology for earnest, competent nerds is going to tear through the culture war like Napoleon through Europe." - [Ben Landau-Taylor](https://x.com/benlandautaylor/status/1998186458432311533)
 
+> "What a luxury––to use the experiences of another to update my real-time world model!" - [Matthew Pirkowski](https://x.com/MattPirkowski/status/2015949932226871510)
+

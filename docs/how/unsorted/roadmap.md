@@ -318,7 +318,7 @@ Genesis triplet
 Timestamp the stone tablet selfie as an NFT with a 5-10% royalty on each resale
 ConstitutionDAO raised 47$ million - this could eventually top that
 
-Unfortunately (or perhaps fortunately) hash chains cannot be self-referential and have loops
+Unfortunately (or fortunately?) hash chains cannot be self-referential and have loops
 
 also put the bitcoin genesis block hash on there with 15 or 16 AS (after satoshi)
 
@@ -333,4 +333,4 @@ Humanity’s constitution of the 21st century is the global brain as a participa
 And unlike the constitution there will only be one copy of this NFT - just one.
 The american constitution is in the process of crumbling under the weight of exponential complexity and entropy - what’s the price of a 0-to-1 upgrade of it that encompasses all of humanity and is unique?
 
-Hash the book and put it on the stone tablet - then hash the photo and put its hash on. The blockchain
+Hash the book and put it on the stone tablet - then hash the photo and put its hash on chain

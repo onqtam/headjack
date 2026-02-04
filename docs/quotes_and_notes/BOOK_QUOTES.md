@@ -653,10 +653,8 @@ private (intellectual) property, trade secrets and redundancy in companies reduc
 
 
 
-
-
 The Beginning of Infinity, by David Deutsch
-I've read only chapters 1, 2, 5 (abstractions), 13 (choices), 15 (culture)
+I've read only chapters 1 (explanations), 2 (instruments), 3 (humans as universal explainers & their cosmic significance), 5 (abstractions), 12 (bad philosophy), 13 (choices), 15 (culture)
 
 > "Behind it all is surely an idea so simple, so beautiful, that when we grasp it – in a decade, a century, or a millennium – we will all say to each other, how could it have been otherwise?"
 John Archibald Wheeler, Annals of the New York Academy of Sciences, 480 (1986)
@@ -665,7 +663,99 @@ John Archibald Wheeler, Annals of the New York Academy of Sciences, 480 (1986)
 
 > "There is no inconsistency in having multiple explanations of the same phenomenon, at different levels of emergence. Regarding microphysical explanations as more fundamental than emergent ones is arbitrary and fallacious." - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
 
-> "13 - Choices
+> "The quest for good explanations is" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
+
+> "**3 - The Spark**
+>
+> ... So the biosphere is incapable of supporting human life. From the outset, it was only human knowledge that made the planet even marginally habitable by humans, and the enormously increased capacity of our life-support system since then (in terms both of numbers and of security and quality of life) has been entirely due to the creation of human knowledge. To the extent that we are on a ‘spaceship’, we have never been merely its passengers, nor (as is often said) its stewards, nor even its maintenance crew: we are its designers and builders. Before the designs created by humans, it was not a vehicle, but only a heap of dangerous raw materials.
+>
+> The ‘passengers’ metaphor is a misconception in another sense too. It implies that there was a time when humans lived unproblematically: when they were provided for, like passengers, without themselves having to solve a stream of problems in order to survive and to thrive. But in fact, even with the benefit of their cultural knowledge, our ancestors continually faced desperate problems, such as where the next meal was coming from, and typically they barely solved these problems or they died. There are very few fossils of old people.
+>
+> The moral component of the Spaceship Earth metaphor is therefore somewhat paradoxical. It casts humans as ungrateful for gifts which, in reality, they never received. And it casts all other species in morally positive roles in the spaceship’s life-support system, with humans as the only negative actors. But humans are part of the biosphere, and the supposedly immoral behaviour is identical to what all other species do when times are good – except that humans alone try to mitigate the effect of that response on their descendants and on other species.
+>
+> ... This increasingly intimate connection between explaining the world and controlling it is no accident, but is part of the deep structure of the world. Consider the set of all conceivable transformations of physical objects. Some of those (like faster-than-light communication) never happen because they are forbidden by laws of nature; some (like the formation of stars out of primordial hydrogen) happen spontaneously; and some (such as converting air and water into trees, or converting raw materials into a radio telescope) are possible, but happen only when the requisite knowledge is present – for instance, embodied in genes or brains. But those are the only possibilities. That is to say, every putative physical transformation, to be performed in a given time with given resources or under any other conditions, is either
+>
+> – impossible because it is forbidden by the laws of nature; or
+>
+> – achievable, given the right knowledge.
+>
+> That momentous dichotomy exists because if there were transformations that technology could never achieve regardless of what knowledge was brought to bear, then this fact would itself be a testable regularity in nature. But all regularities in nature have explanations, so the explanation of that regularity would itself be a law of nature, or a consequence of one. And so, again, everything that is not forbidden by laws of nature is achievable, given the right knowledge.
+>
+> This fundamental connection between explanatory knowledge and technology is why the Haldane–Dawkins queerer-than-we-can-suppose argument is mistaken – why the reach of human adaptations does have a different character from that of all the other adaptations in the biosphere. The ability to create and use explanatory knowledge gives people a power to transform nature which is ultimately not limited by parochial factors, as all other adaptations are, but only by universal laws. This is the cosmic significance of explanatory knowledge – and hence of people, whom I shall henceforward define as entities that can create explanatory knowledge.
+>
+> ... all technological knowledge can eventually be implemented in automated devices. This is another reason that ‘one per cent inspiration and ninety-nine per cent perspiration’ is a misleading description of how progress happens: the ‘perspiration’ phase can be automated... And the more advanced technology becomes, the shorter is the gap between inspiration and automation.
+>
+> ... Using knowledge to cause automated physical transformations is, in itself, not unique to humans. It is the basic method by which all organisms keep themselves alive: every cell is a chemical factory. The difference between humans and other species is in what kind of knowledge they can use (explanatory instead of rule-of-thumb) and in how they create it (conjecture and criticism of ideas, rather than the variation and selection of genes). It is precisely those two differences that explain why every other organism can function only in a certain range of environments that are hospitable to it, while humans transform inhospitable environments like the biosphere into support systems for themselves. And, while every other organism is a factory for converting resources of a fixed type into more such organisms, human bodies (including their brains) are factories for transforming anything into anything that the laws of nature allow. They are ‘universal constructors’.
+>
+> This universality in the human condition... is a consequence of the ability to create explanations... The opportunities provided by the laws of nature for transforming resources are universal, and all entities with universal reach necessarily have the same reach.
+>
+> A few species other than humans are known to be capable of having cultural knowledge. For example, some apes can discover new methods of cracking nuts, and pass that knowledge on to other apes... no such organism is capable of creating or using explanatory knowledge. Hence the cultural knowledge of such organisms is of essentially the same type as genetic knowledge, and does indeed have only a small and inherently limited reach. They are not universal constructors, but highly specialized ones. For them, the Haldane–Dawkins argument is valid: the world is stranger than they can conceive.
+>
+> ... The only uniquely significant thing about humans (whether in the cosmic scheme of things or according to any rational human criterion) is our ability to create new explanations, and we have that in common with all people. You do not become less of a person if you lose a limb in an accident; it is only if you lose your brain that you do. Changing our genes in order to improve our lives and to facilitate further improvements is no different in this regard from augmenting our skin with clothes or our eyes with telescopes.
+>
+> ... So human reach is essentially the same as the reach of explanatory knowledge itself. An environment is within human reach if it is possible to create an open-ended stream of explanatory knowledge there. That means that if knowledge of a suitable kind were instantiated in such an environment in suitable physical objects, it would cause itself to survive and would then continue to increase indefinitely.
+>
+> ... Nor will we ever run out of problems. The deeper an explanation is, the more new problems it creates. That must be so, if only because there can be no such thing as an ultimate explanation: just as ‘the gods did it’ is always a bad explanation, so any other purported foundation of all explanations must be bad too. It must be easily variable because it cannot answer the question: why that foundation and not another? Nothing can be explained only in terms of itself. That holds for philosophy just as it does for science, and in particular it holds for moral philosophy: no utopia is possible, but only because our values and our objectives can continue to improve indefinitely.
+>
+> ... That progress is both possible and desirable is perhaps the quintessential idea of the Enlightenment. It motivates all traditions of criticism, as well as the principle of seeking good explanations. But it can be interpreted in two almost opposite ways, both of which, confusingly, are known as ‘perfectibility’. One is that humans, or human societies, are capable of attaining a state of supposed perfection – such as the Buddhist or Hindu ‘nirvana’, or various political utopias. The other is that every attainable state can be indefinitely improved. Fallibilism rules out that first position in favour of the second. Neither the human condition in particular nor our explanatory knowledge in general will ever be perfect, nor even approximately perfect. We shall always be at the beginning of infinity.
+>
+> ... More generally, if we want to predict what a star will do, we first have to guess whether there are any people near it, and, if so, what knowledge they may have and what they may want to achieve. Outside our parochial perspective, astrophysics is incomplete without a theory of people, just as it is incomplete without a theory of gravity or nuclear reactions. Note that this conclusion does not depend on the assumption that humans, or anyone, will colonize the galaxy and take control of any supernovae: the assumption that they will not is equally a theory about the future behaviour of knowledge. Knowledge is a significant phenomenon in the universe, because to make almost any prediction about astrophysics one must take a position about what types of knowledge will or will not be present near the phenomena in question. So all explanations of what is out there in the physical world mention knowledge and people, if only implicitly.
+>
+> ... Somehow that jet happens in such a way that billions of years later, on the other side of the universe, a chemical scum can know and predict what the jet will do, and can understand why. That means that one physical system – say, an astrophysicist’s brain – contains an accurate working model of the other, the jet. Not just a superficial image (though it contains that as well), but an explanatory theory that embodies the same mathematical relationships and causal structure. That is scientific knowledge. Furthermore, the faithfulness with which the one structure resembles the other is steadily increasing. That constitutes the creation of knowledge. Here we have physical objects very unlike each other, and whose behaviour is dominated by different laws of physics, embodying the same mathematical and causal structures – and doing so ever more accurately over time. Of all the physical processes that can occur in nature, only the creation of knowledge exhibits that underlying unity.
+>
+> ... Similar champagne bottles are stored in other laboratories. The popping of each such cork signals a discovery about something significant in the cosmic scheme of things. Thus the study of the behaviour of champagne corks and other proxies for what people do is logically equivalent to the study of everything significant. It follows that humans, people and knowledge are not only objectively significant: they are by far the most significant phenomena in nature – the only ones whose behaviour cannot be understood without understanding everything of fundamental importance." - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
+
+> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
+
+> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
+
+> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
+
+> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
+
+> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
+
+> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
+
+> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
+
+SUPERB chapter, quotes here are insufficient
+
+> "**12 - A Physicist’s History of Bad Philosophy**
+>
+> ... Let me define ‘bad philosophy’ as philosophy that is not merely false, but actively prevents the growth of other knowledge.
+>
+> ... Error is the normal state of our knowledge, and is no disgrace. There is nothing bad about false philosophy. Problems are inevitable, but they can be solved by imaginative, critical thought that seeks good explanations. That is good philosophy, and good science, both of which have always existed in some measure. For instance, children have always learned language by making, criticizing and testing conjectures about the connection between words and reality. They could not possibly learn it in any other way, as I shall explain in Chapter 16.
+>
+> Bad philosophy has always existed too. For instance, children have always been told, ‘Because I say so.’ Although that is not always intended as a philosophical position, it is worth analysing it as one, for in four simple words it contains remarkably many themes of false and bad philosophy. First, it is a perfect example of bad explanation: it could be used to ‘explain’ anything. Second, one way it achieves that status is by addressing only the form of the question and not the substance: it is about who said something, not what they said. That is the opposite of truth-seeking. Third, it reinterprets a request for true explanation (why should something-or-other be as it is?) as a request for justification (what entitles you to assert that it is so?), which is the justified-true-belief chimera. Fourth, it confuses the nonexistent authority for ideas with human authority (power) – a much-travelled path in bad political philosophy. And, fifth, it claims by this means to stand outside the jurisdiction of normal criticism.
+>
+> Bad philosophy before the Enlightenment was typically of the because-I-say-so variety. When the Enlightenment liberated philosophy and science, they both began to make progress, and increasingly there was good philosophy...
+>
+> ... One currently influential philosophical movement goes under various names such as postmodernism, deconstructionism and structuralism, depending on historical details that are unimportant here. It claims that because all ideas, including scientific theories, are conjectural and impossible to justify, they are essentially arbitrary: they are no more than stories, known in this context as ‘narratives’. Mixing extreme cultural relativism with other forms of anti-realism, it regards objective truth and falsity, as well as reality and knowledge of reality, as mere conventional forms of words that stand for an idea’s being endorsed by a designated group of people such as an elite or consensus, or by a fashion or other arbitrary authority. And it regards science and the Enlightenment as no more than one such fashion, and the objective knowledge claimed by science as an arrogant cultural conceit.
+>
+> Perhaps inevitably, these charges are true of postmodernism itself: it is a narrative that resists rational criticism or improvement, precisely because it rejects all criticism as mere narrative. Creating a successful postmodernist theory is indeed purely a matter of meeting the criteria of the postmodernist community – which have evolved to be complex, exclusive and authority-based. Nothing like that is true of rational ways of thinking: creating a good explanation is hard not because of what anyone has decided, but because there is an objective reality that does not meet anyone’s prior expectations, including those of authorities. The creators of bad explanations such as myths are indeed just making things up. But the method of seeking good explanations creates an engagement with reality, not only in science, but in good philosophy too – which is why it works, and why it is the antithesis of concocting stories to meet made-up criteria.
+>
+> Although there have been signs of improvement since the late twentieth century, one legacy of empiricism that continues to cause confusion, and has opened the door to a great deal of bad philosophy, is the idea that it is possible to split a scientific theory into its predictive rules of thumb on the one hand and its assertions about reality (sometimes known as its ‘interpretation’) on the other. This does not make sense, because – as with conjuring tricks – without an explanation it is impossible to recognize the circumstances under which a rule of thumb is supposed to apply...
+>
+> ... Since explanationless prediction is actually impossible, the methodology of excluding explanation from a science is just a way of holding one’s explanations immune from criticism. Let me give an example from a distant field: psychology.
+>
+> I have mentioned behaviourism, which is instrumentalism applied to psychology. It became the prevailing interpretation in that field for several decades, and, although it is now largely repudiated, research in psychology continues to downplay explanation in favour of stimulus-response rules of thumb. Thus, for instance, it is considered good science to conduct behaviouristic experiments to measure the extent to which a human psychological state such as, say, loneliness or happiness is genetically coded (like eye colour) or not (such as date of birth). Now, there are some fundamental problems with such a study from an explanatory point of view. First, how can we measure whether different people’s ratings of their own psychological state are commensurable? That is to say, some proportion of the people claiming to have happiness level 8 might be quite unhappy but also so pessimistic that they cannot imagine anything much better. And some of the people who claim only level 3 might in fact be happier than most, but have succumbed to a craze that promises extreme future happiness to those who can learn to chant in a certain way. And, second, if we were to find that people with a particular gene tend to rate themselves happier than people without it, how can we tell whether the gene is coding for happiness? Perhaps it is coding for less reluctance to quantify one’s happiness. Perhaps the gene in question does not affect the brain at all, but only how a person looks, and perhaps better-looking people are happier on average because they are treated better by others. There is an infinity of possible explanations. But the study is not seeking explanations.
+>
+> It would make no difference if the experimenters tried to eliminate the subjective self-assessment and instead observed happy and unhappy behaviour (such as facial expressions, or how often a person whistles a happy tune). The connection with happiness would still involve comparing subjective interpretations which there is no way of calibrating to a common standard; but in addition there would be an extra level of interpretation: some people believe that behaving in ‘happy’ ways is a remedy for unhappiness, so, for those people, such behaviours might be a proxy for unhappiness.
+>
+> For these reasons, no behavioural study can detect whether happiness is inborn or not. Science simply cannot resolve that issue until we have explanatory theories about what objective attributes people are referring to when they speak of their happiness, and also about what physical chain of events connects genes to those attributes.
+>
+> ... The interpreters of the study may respond that it has proved that there can be no such book! Certainly none of them will write such a book, or arrive at such a thesis. And so the bad philosophy will have caused bad science, which will have stifled the growth of knowledge. Notice that this is a form of bad science that may well have conformed to all the best practices of scientific method – proper randomizing, proper controls, proper statistical analysis. All the formal rules of ‘how to keep from fooling ourselves’ may have been followed. And yet no progress could possibly be made, because it was not being sought: explanationless theories can do no more than entrench existing, bad explanations.
+>
+> ... Behaviouristic studies of human psychology must, by their nature, lead to dehumanizing theories of the human condition. For refusing to theorize about the mind as a causative agent is the equivalent of regarding it as a non-creative automaton.
+>
+> ... The substance of scientific theories is explanation, and explanation of errors constitutes most of the content of the design of any non-trivial scientific experiment.
+>
+> ... Bad philosophy cannot easily be countered by good philosophy – argument and explanation – because it holds itself immune. But it can be countered by progress. People want to understand the world, no matter how loudly they may deny that. And progress makes bad philosophy harder to believe. That is not a matter of refutation by logic or experience, but of explanation.
+>
+> Bad philosophy is philosophy that denies the possibility, desirability or existence of progress. And progress is the only effective way of opposing bad philosophy. If progress cannot continue indefinitely, bad philosophy will inevitably come again into the ascendancy – for it will be true." - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
+
+> "**13 - Choices**
 >
 > ... The truth is simpler: if your conception of justice conflicts with the demands of logic or rationality then it is unjust. If your conception of rationality conflicts with a mathematical theorem (or, in this case, with many theorems) then your conception of rationality is irrational. To stick stubbornly to logically impossible values not only guarantees failure in the narrow sense that one can never meet them, it also forces one to reject optimism (‘every evil is due to lack of knowledge’), and so deprives one of the means to make progress. Wishing for something that is logically impossible is a sign that there is something better to wish for...
 >
@@ -703,9 +793,9 @@ John Archibald Wheeler, Annals of the New York Academy of Sciences, 480 (1986)
 >
 > It is a mistake to conceive of choice and decision-making as a process of selecting from existing options according to a fixed formula. That omits the most important element of decision-making, namely the creation of new options. Good policies are hard to vary, and therefore conflicting policies are discrete and cannot be arbitrarily mixed. Just as rational thinking does not consist of weighing the justifications of rival theories, but of using conjecture and criticism to seek the best explanation, so coalition governments are not a desirable objective of electoral systems. They should be judged by Popper’s criterion of how easy they make it to remove bad rulers and bad policies. That designates the plurality voting system as best in the case of advanced political cultures." - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
 
-> "Chapter 15: The Evolution of Culture
+> "**Chapter 15: The Evolution of Culture**
 >
-> ... Although we do not know exactly how creativity works, we do know that it is itself an evolutionary process within individual brains. For it depends on conjecture (which is variation) and criticism (for the purpose of selecting ideas). So, somewhere inside brains, blind vari - ations and selections are adding up to creative thought at a higher level of emergence.
+> ... Although we do not know exactly how creativity works, we do know that it is itself an evolutionary process within individual brains. For it depends on conjecture (which is variation) and criticism (for the purpose of selecting ideas). So, somewhere inside brains, blind variations and selections are adding up to creative thought at a higher level of emergence.
 >
 > ... But merely being present in a mind does not automatically get a meme expressed as behaviour: the meme has to compete for that privilege with other ideas – memes and non-memes, about all sorts of subjects – in the same mind. And merely being expressed as behaviour does not automatically get the meme copied into a recipient along with other memes: it has to compete for the recipients’ attention and acceptance with all sorts of behaviours by other people, and with the recipient’s own ideas.
 >
@@ -4980,4 +5070,6 @@ Gregg and him ruining Christmas in 2018, can relate a lot, lol
 > "" - [Holistic Darwinism: Synergy, Cybernetics, and the Bioeconomics of Evolution, by Peter A. Corning](https://www.goodreads.com/book/show/864864.Holistic_Darwinism)
 
 > "" - [Holistic Darwinism: Synergy, Cybernetics, and the Bioeconomics of Evolution, by Peter A. Corning](https://www.goodreads.com/book/show/864864.Holistic_Darwinism)
+
+
 
