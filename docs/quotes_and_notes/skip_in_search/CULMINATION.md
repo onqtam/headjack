@@ -168,6 +168,12 @@ ultimate ==> most consequential, most important, most fundamental - second place
 
 
 ██████████████████████████████████████████████████████████████████
+## show effort
+██████████████████████████████████████████████████████████████████
+
+This video is the culmination of 5 years of relentless obsession
+
+██████████████████████████████████████████████████████████████████
 # knowledge in people's heads & the economy
 ██████████████████████████████████████████████████████████████████
 
@@ -292,6 +298,26 @@ deeper understanding is when you understand the inputs of the inputs (and so for
 from newton's theory to einstein and how our understanding changed by becoming more specific, more accurate, explaining even more phenomena while retaining most of newtonian physics in less sophisticated problems/domains where its practically indistinguishable
 talk about the reach of explanations and how they affect ever more nodes in the causal graph of understanding as they gain more reach
 walk through how our causal understanding graph changed with einstein, how a crucial experiment refuted one theory and left only 1 standing as the current best (eddington measuring how light bends around the sun)
+
+Understanding - no fundamental questions unanswered, able to predict phenomenon without contradictions or simply make use of it productively - all relevant phenomena needs an explanation
+Intelligibility is a property of the thing, understanding is in the head
+Underlying pattern/simplicity capturing the essence, dimensionality reduction, cutting down complexity - how things fit into an intelligible order
+Coarse grained, enough for control
+Familiarity
+
+## from AIs
+
+A good explanation is a clear, logical, and testable account that details the causes of a phenomenon. It is "hard to vary," meaning its specific details are essential to the explanation and cannot be easily changed without ruining the explanation. Effective explanations are concise, accurate, and tailored to the audience's background knowledge. 
+Key Characteristics of a Good Explanation:
+- Hard to Vary: Every part of the explanation plays a functional role.
+- Testable or Falsifiable: It can be checked against reality to see if it is true.
+- Addresses "How" and "Why": It explores causes, effects, and the underlying mechanisms.
+- Simple yet Accurate: It accounts for all relevant evidence with the least amount of unnecessary complexity.
+- Tailored to the Listener: It connects new ideas to the recipient's prior knowledge. 
+Examples and Components:
+- Logical Reasoning: A good explanation provides reasons why evidence supports a claim.
+- Concrete and Abstract: It balances abstract concepts with concrete examples.
+- Non-Circular: It avoids circular reasoning (e.g., explaining that tigers eat meat because they are meat-eaters). 
 
 <!-- understanding is quantified by its (logical consistency) coherence with everything relevant, and depth -->
 

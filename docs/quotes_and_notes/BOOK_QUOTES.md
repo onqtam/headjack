@@ -654,7 +654,7 @@ private (intellectual) property, trade secrets and redundancy in companies reduc
 
 
 The Beginning of Infinity, by David Deutsch
-I've read only chapters 1 (explanations), 2 (instruments), 3 (humans as universal explainers & their cosmic significance), 5 (abstractions), 12 (bad philosophy), 13 (choices), 15 (culture)
+I've read only chapters 1 (explanations), 2 (instruments), 3 (humans as universal explainers & their cosmic significance), 4, 5 (abstractions), 12 (bad philosophy), 13 (choices), 15 (culture)
 
 > "Behind it all is surely an idea so simple, so beautiful, that when we grasp it – in a decade, a century, or a millennium – we will all say to each other, how could it have been otherwise?"
 John Archibald Wheeler, Annals of the New York Academy of Sciences, 480 (1986)
@@ -705,7 +705,13 @@ John Archibald Wheeler, Annals of the New York Academy of Sciences, 480 (1986)
 >
 > ... Similar champagne bottles are stored in other laboratories. The popping of each such cork signals a discovery about something significant in the cosmic scheme of things. Thus the study of the behaviour of champagne corks and other proxies for what people do is logically equivalent to the study of everything significant. It follows that humans, people and knowledge are not only objectively significant: they are by far the most significant phenomena in nature – the only ones whose behaviour cannot be understood without understanding everything of fundamental importance." - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
 
-> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
+> "**4 - Creation**
+>
+> ... A good design is hard to vary: If the different parts had been differently shaped from what they are, of a different size from what they are, or placed after any other manner, or in any other order, than that in which they are placed, either no motion at all would have been carried on in the machine, or none which would have answered the use that is now served by it. Merely being useful for a purpose, without being hard to vary while still serving that purpose, is not a sign of adaptation or design.
+>
+> ... The most general way of stating the central assertion of the neo-Darwinian theory of evolution is that a population of replicators subject to variation (for instance by imperfect copying) will be taken over by those variants that are better than their rivals at causing themselves to be replicated. This is a surprisingly deep truth which is commonly criticized either for being too obvious to be worth stating or for being false. The reason, I think, is that, although it is self-evidently true, it is not self-evidently the explanation of specific adaptations. Our intuition prefers explanations in terms of function or purpose: what does a gene do for its holder, or for its species? But we have just seen that the genes generally do not optimize such functionality.
+>
+> So the knowledge embodied in genes is knowledge of how to get themselves replicated at the expense of their rivals. Genes often do this by imparting useful functionality to their organism, and in those cases their knowledge incidentally includes knowledge about that functionality. Functionality, in turn, is achieved by encoding, into genes, regularities in the environment and sometimes even rule-of-thumb approximations to laws of nature, in which case the genes are incidentally encoding that knowledge too. But the core of the explanation for the presence of a gene is always that it got itself replicated more than its rival genes." - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
 
 > "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
 

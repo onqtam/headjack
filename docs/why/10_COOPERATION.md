@@ -964,7 +964,7 @@ It is disrespectful to nature to not learn from it - nature is wisdom
 # SECTION: multipolar traps & anti-rivalry
 ██████████████████████████████████████████████████████████████████
 
-> "Exponential tech is inexorable. We cannot put it away. So, we either figure out anti-rivalry, or we go extinct. The human experiment comes to a completion. That’s the core thing." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=%E2%80%9CAs%20technology%20is%20empowering%20our%20choices%20and%20we%20are%20getting%20something%20like%20the%20power%20of%20gods%2C%20you%20have%20to%20have%20something%20like%20the%20love%20and%20the%20wisdom%20of%20gods%20to%20wield%20that%20or%20you%20self%2Ddestruct.%E2%80%9D)
+> "Exponential tech is inexorable. We cannot put it away. So, we either figure out anti-rivalry, or we go extinct. The human experiment comes to a completion. That’s the core thing." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/)
 
 
 > "The concept of "multipolar traps" offers a fascinating and sobering lens through which to view certain aspects of human behavior and decision-making. It's a term rooted in game theory, yet it applies to a surprisingly broad array of real-world situations. So, what is a multipolar trap, and why is it so important? Imagine playing a game where everyone loses. Sounds bleak, doesn't it? Yet, that's precisely what a multipolar trap entails. Stemming from the principles of game theory, a multipolar trap is a scenario in which multiple actors, following their individual rational choices, inevitably end up in a collectively harmful situation. But why use the term 'multipolar'? At its core, 'polar' signifies direction. In the context of this concept, it refers to the multiple directions - or rational choices - pursued by different actors. It's these distinct paths that lead to the regrettable shared outcome.
@@ -1005,6 +1005,11 @@ Multipolar traps and the tragedy of the commons | Daniel Schmachtenberger
 > WHY IS THE CONCEPT IMPORTANT?
 >
 > " - [Multipolar Traps or Moloch Traps: Acting against our collective interest](https://conversational-leadership.net/multipolar-trap/)
+
+
+> "The prisoner’s dilemma, arms races, pollution, etc. all share the same underlying structure. The satanic logic of the multipolar trap is as follows: Everyone agrees the outcome we are racing towards is bad but all sides believe that the others will continue. Everyone keeps contributing to the problem because they don’t want to lose. No one can stop without being crushed by those who don’t. Moloch may never have been worshipped as a god at all... That’s fitting because he doesn’t need you to believe in him. He just needs you to believe that others believe in him...
+>
+> ... Climate change is Moloch. Every nation knows the trajectory but is “forced” to prioritize short-term growth. We are all locked in the burning building, arguing about who should pay for the fire extinguisher. Credential inflation is Moloch. Everyone gets a degree, the degree becomes worthless, now everyone needs a P.h.D. The escalation helps no one, everyone knows it, and no one can stop. Outrage media is Moloch. Platforms know they’re optimizing for polarization. They can’t stop without losing to competitors who won’t. The discourse degrades, everyone agrees it’s degrading, and the degradation continues." - [Octopusyarn](https://octopusyarn.substack.com/p/youve-been-taken-pan-and-moloch)
 
 
 

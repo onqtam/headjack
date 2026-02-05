@@ -1223,6 +1223,8 @@ Excessive/conspicuous consumption is immoral
 # SECTION: The best that money can't buy
 ██████████████████████████████████████████████████████████████████
 
+> "The way to love anything is to realize that it may be lost." - [G.K. Chesterton](https://www.goodreads.com/quotes/26026-the-way-to-love-anything-is-to-realize-that-it)
+
 “The best that money can’t buy” - book by Jacque Fresco (RIP) but reusing it - we need to design status games such that you can’t buy your way in
 
 Artificial/engineered scarcity non-fungible but not for diamonds but for social standing - better that De Beers

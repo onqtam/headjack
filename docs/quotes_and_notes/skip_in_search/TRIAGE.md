@@ -2530,4 +2530,136 @@ If businesses were ran entirely open and transparent it would be self-evident if
 
 
 So what - god created the universe and now what - he’s eating popcorn ?! **stuff my face with popcorn and point at something and smile in disbelief** I serve a god that actually needs me and serves me in return - now that’s a real relationship with god
+    God - popcorn - start slappig your leg
+
+
+
+
+
+We need to return to media where the product is the product
+
+Integrated ==> efficiency (in search & retrieval)
+
+You can’t build trust on top of a foundation that requires trust
+How best do we help people start helping other people?
+
+Religion will always be the biggest game and battleground and the religion of truth is the most optimal
+
+To organise the world’s information is a political and religious act - that’s what they do!
+
+Your word as a service
+If you make yourself belong to the world - the world will belong to you
+
+Being on the record leads to truth and then to accountability
+If you want the world to belong to you - first you need to belong to it
+
+The most important question is “how do I optimally relate with others?”
+
+Capitalism with humanistic characteristics
+
+But I lied to you - the real matrix is not this causality graph, but it is the matrix of social status which each one of us has in their heads
+
+ 
+All we have to do is define & sculpt the incentives and the rest will take care of itself
+
+All we have to do is get the objective function correct
+
+
+
+Education - wheel of fortune
+
+Legitimacy architecture
+
+We just need to realise that the other is a part of us and that it is about communicating that to them
+
+We embrace venturing past the party line in search of knowledge to be brought back into it - fishing for efficiency
+
+A society of minds
+
+Our knowledge is an ever expanding set of the adjacent possible - that just within reach
+
+Philosophy is architecture
+Evolutionary Epistemology part deux
+
+We want the truth! And we can handle the truth because truth does not need to be handled - it is self-evident & self-manifesting - truth is the ultimate attractor because its about perceiving reality clearly - truth is accurate perception which leads to reduced tensions and frictions and thus truth points towards love - toward not infighting but cooperating, toward not cheating
+
+Intellectual property is epistemic property and that needs to be aggregated and made coherent somehow
+
+The Human/Machine/Social Consciousness Hypothesis - Consciousness is a fundamental aspect or perspective of structural configurations
+
+This video is not enough to convince you of its conclusions and prescription but enough to intrigue and activate you politically
+The polity is all there is
+
+What did you expect - a peer-reviewed paper?!
+
+AI is at root a tool that allows for the arbitrary sampling of representative possibility space
+
+We’re collectivist even in our multipolar traps - we end up losing collectively because otherwise we would lose individually - we lose out of our fear to lose
+We lose because we don’t want to lose
+
+Representation is just a set of vectors and is tied to understanding and causality and explanation
+
+Evil is one taking advantage of another - evil is separateness & fragmentation & suboptimal and friction - evil is perspectival - it is relational - it is a matter of identity and of self. No leverage point is bigger than the conception of a self of itself and how it relates to a larger self
+
+Friction, tension, mistrust, inefficiency - these are the manifestations of evil
+
+What is the devil? What is evil, and why?
+Triumph over evil - bad epistemology and philosophy
+Good versus evil
+Anti mafia
+What is mafia?
+
+
+The expression multiverse
+
+Coherence is about fittedness - coherence is fitness
+
+We’re not meant to jailbreak the matrix/simulation but to understand it causally and take control of it
+
+Post-truth world - how to get back? What would it take? What is accountability?
+
+We need to define our political parties - to configure them - to express them
+
+How do we make the biggest blockbusters the right blockbusters and as affordable as possible?
+
+God is safety in numbers - god is true democracy and freedom of voice & representation - ultimate freedom of expression
+
+We’re gonna make comparison great again
+
+Logarithmic meritocracy
+
+God is a cooperation and coordination mechanism - we have a god shaped hole
+
+Goal alignment is a subset of representation alignment
+
+
+No need to campaign, raise funds, collect signatures, to be likeable, to lose your privacy, to have a hood handshake, to be a good debater in a broken debate format
+
+Less waste, fraud & abuse - efficiency
+
+Coherence - predictability - dependability - trust - less policing and friction
+
+More compounding & exponential growth
+
+Your AI representation in the CI
+AI to CI alignment
+
+Our perception is always limited by our understanding
+
+We can all become the policement of culture - thought police
+
+AI is a pattern/representation compressor that will enable all of humanity to merge together
+
+Fine not a religion - Its a philosophy - ultimately this is the highest leverage point
+
+What is epistemology, what is knowledge, what is creativity, what is explanation - talk about this
+
+Representational alignment, bcis, aligning individuals with AIs instead of with an amorphous collective
+Rlhf, agents of yourself, offloading cognition with a collective of your representations and
+Path to agi
+
+Take a red and blue pill together
+if you really wan to see the matrix you gotta take both the red and blue pill
+
+
 

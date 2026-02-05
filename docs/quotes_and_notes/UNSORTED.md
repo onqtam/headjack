@@ -93,10 +93,11 @@ Einstein remarked, ‘My pencil and I are more clever than I.’
 
 > "Humanity needs hard self-actualizing labor, not more comfort. The powers that be are effectively selling a vision of lifetime peace and comfort backed by whatever means necessary. The only way out of this mess is to sell a vision that is even better, cooler, more fun, and more exciting despite requiring hard labor. No other way out."  - [Marko Jukic](https://x.com/mmjukic/status/2016463684034273535)
 
+> "The ultimate problem is a total vacuum of visions of the future with a positive role for human labor... Our terminal metric must be production not consumption... the developed world gave up on the flame of Prometheus in favor of comfortable onanism. God punishes accordingly."  - [Marko Jukic](https://x.com/mmjukic/status/2016448409406718185)
 
+> "I don't like that... social media platforms fail to incentivize the movement beyond a transient stream of reductive takes, toward actual epistemic development and the kind of action that generates, rather than feeds upon, our civilization's adaptive capacity... I see little evidence of it providing infrastructure capable of mapping "takes" onto a broader shared epistemology, let alone using that shared epistemology to guide coordinated offline actions." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/2015886923265720408)
 
-
-
+> "You can just rank things." - [Samo Burja](https://x.com/SamoBurja/status/2017751435597996313)
 
 alignment requires theory of mind - by emmet shear from #47 ep of win win podcast - and the better and more unambiguously and concretely we express our collective goals and requirements with skin in the game in a contractual way where defection has a real cost - the better
 
