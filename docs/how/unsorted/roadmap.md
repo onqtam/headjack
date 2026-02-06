@@ -334,3 +334,19 @@ And unlike the constitution there will only be one copy of this NFT - just one.
 The american constitution is in the process of crumbling under the weight of exponential complexity and entropy - what’s the price of a 0-to-1 upgrade of it that encompasses all of humanity and is unique?
 
 Hash the book and put it on the stone tablet - then hash the photo and put its hash on chain
+
+
+-â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ The 10 themes of the Global Brain:
+
++- 1) EPISTEMICS - humility, error correction & Bayesian inference
++- 2) INFORMATION - transparency, openness, provenance & integration
++- 3) STRUCTURE - self-organization, emergence & subsidiarity
++- 4) ALIGNMENT - incentives, reputation & consequence capture
++- 5) DECISIONS - relevance realization & collective intelligence
++- 6) ATTENTION - availability cascades & The Medium is the Message
++- 7) SYSTEMICS - complexity, feedback, causality & adaptation
++- 8) MEANING - shared intentionality, service & beating entropy
++- 9) DIRECTION - greater scales of cooperation & evolvability
++- 10) TRANSCENDENCE - Know Thyself & conscious evolution
+
+

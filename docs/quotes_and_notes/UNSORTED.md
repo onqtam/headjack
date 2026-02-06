@@ -109,6 +109,9 @@ explainer for his tweet:
 https://x.com/CernBasher/status/1984286504596726061
 
 
+> "That the truth consists of hard to vary assertions about reality is the most important fact about the physical world." - [David Deutch](https://www.youtube.com/watch?v=folTvNDL08A&t=973s)
+
+
 > "Self destructive behavior is our species' Achilles' heel. We are the only species that actively engineers its own demise." - [Bryan Johnson](https://x.com/bryan_johnson/status/1993098172760309859)
 
 > "If it starts with the word “public,” it’s probably in decay." - [Naval Ravikant](https://x.com/naval/status/1984966114171089148)

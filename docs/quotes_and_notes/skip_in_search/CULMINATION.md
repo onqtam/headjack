@@ -780,7 +780,22 @@ law #2: subsidiarity?
 law #3: cooperation? non-coercive expansion of self?
 law #4: all evils are due to lack of knowledge and knowledge is created by seeking good explanations
 law # : problems are inevitable, problems are soluble - from beginning of infinity chapter 3
+law # : the truth consists of hard to vary assertions about reality
 law # : you can fight incentives only with incentives - incentives determine behavior - behavior is driven by incentives
+
+-â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ The 10 themes of the Global Brain:
+
++- 1) EPISTEMICS - humility, error correction & Bayesian inference
++- 2) INFORMATION - transparency, openness, provenance & integration
++- 3) STRUCTURE - self-organization, emergence & subsidiarity
++- 4) ALIGNMENT - incentives, reputation & consequence capture
++- 5) DECISIONS - relevance realization & collective intelligence
++- 6) ATTENTION - availability cascades & The Medium is the Message
++- 7) SYSTEMICS - complexity, feedback, causality & adaptation
++- 8) MEANING - shared intentionality, service & beating entropy
++- 9) DIRECTION - greater scales of cooperation & evolvability
++- 10) TRANSCENDENCE - Know Thyself & conscious evolution
+
 
 > "With great *~~power~~* **consequentiality** comes great *~~responsibility~~* **accountability**." - [Uncle Ben](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility), probably
 

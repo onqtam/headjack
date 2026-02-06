@@ -95,6 +95,9 @@ The Architecture of Infinity
     The [Beginning](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) ought to have an architecture, no?
 The Fabric of Society
     david's book
+The Jump to Universality
+    digital identity in the digital age that can be used for anything - ala "The Jump to Universality" from "The Beginning of Infinity"
+    > "All knowledge growth is by incremental improvement, but in many fields there comes a point when one of the incremental improvements in a system of knowledge or technology causes a sudden increase in reach, making it a universal system in the relevant domain." - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
 Self-Interest - and the expansion of the self (with an expanding cognitive light cone from michael levin's paper)
 Collective Intelligence: a Primer / for Dummies
 Reputation/Identity in the 21st century / 3rd millenium - like the book about capital
