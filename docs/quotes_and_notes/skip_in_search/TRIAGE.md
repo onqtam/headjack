@@ -668,6 +668,10 @@ The other major carbon emitter is militarism - not to mention all the other nega
 We can - and MUST - reinvent democracy for the digital age
 
 The highest leverage point is not the FEDs interest rate - it is our paradigm
+Is interest rate a fundamental parameter? No! Its the paradigm, stupid!
+**Roleplay up//down interest rates with lever**
+
+talk about bots in the video and how that problem will be solved
 
 Infinity is within our grasp
 
@@ -1327,8 +1331,6 @@ intellectual legitimacy, authority
 it will afect everything! - "will will affect ..." - "EVERYTHING!"
 
 pagerank 2.0 - source rank - who and how determines the weights?
-
-Is interest rate a fundamental parameter? No! Its the paradigm, stupid!
 
 growth redefined - growth in numbers
 
@@ -2663,3 +2665,89 @@ if you really wan to see the matrix you gotta take both the red and blue pill
 
 
 
+what do you think the ultimate truth to power architecture that counters "divide and conquer" through coherence means?
+
+a paradigmatic exodus
+talk about the plagues of the current internet
+god is causally real the moment he is conceptualized
+
+
+Openness => reuse => efficiency
+
+coherence => synchrony
+
+Think of a global multi-perspectival Git Repository for our governance
+
+Organizing the worlds information leads to global governance and if you’re not gonna fulfil your mission then somebody else will
+
+Superintelligence is intelligently networking intelligence
+
+The way we do economics and governance is a joke
+
+We don’t need to go beyond good and evil - they’re exactly what we need
+
+You can represent yourself with a personal AI and then ask it to summarize how its different from the collective one, and why ==> leading to “should I update my beliefs”
+
+We can implement any privacy and property and epistemology & coordination protocol
+Zero Knowledge will utterly transform the world
+
+We need to define our orchestrator
+Orchestration/Conductor as a Service
+
+Belief Injection
+
+This is where you go with questions about truth
+
+A message from God
+
+**roleplay drum playing to use as dramatic emphasis**
+
+The alignment problem is about representions
+
+The Incentive Landscape
+The Real Moral Landscape
+
+With current LLMs you have to ask and you might not know what to ask - we need to make a map of them - we need to make their “brain” browsable and governable - we need to collectively govern the weights of compression and automation
+
+This is the Large Explanation Collider - **do an impression of something colliding**
+
+Write about people aligning their personal AIs to represent them
+
+Representation as a service
+
+Opening the doors of multi-perspectival perception
+
+You dont have time - wondering whether I should hurry up? Or cherish every moment
+
+If you follow all the implications and arguments you will see things how I see them
+If you read it you will understand
+“Game Over”
+
+Most expressions can vary in some aspects and can be collectively tuned and programmed
+
+Our first collective act of distributed recognition
+
+External collective memory - who did what
+
+Understanding requires relevance realization - the curation and topology of the context window
+
+We need to help make people better. Ok, that’s actually supposed to not be controversial. I hope you’re not against progress because stasis is death. So what do we do about it? What’s our strategy? How do we even think about approaching this question? What do we want? What’s our plan to get it?
+^^ this chain of ideas deduplicated in the global graph for argumentation 
+
+Human Engineering as a Service
+Human Upgrade
+
+I am religeous to my core
+
+Esteemed cross paradigmatic religious scholar
+
+“Understanding” - this film is itself an exercise of applying the principles of collective understanding
+
+Halal as a Service
+
+You can only have progress with error correction
+
+
+Imagine if “investors” didn’t “profit” just when they guess the price direction and say whatever narrative they have, but when they actually were correct on the narrative (explanation) when their prediction comes true
+
+What should be the output of a Q? Yes/No? A number? A (weighted) list of propositions?

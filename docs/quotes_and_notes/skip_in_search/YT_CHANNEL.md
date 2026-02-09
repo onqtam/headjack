@@ -93,7 +93,7 @@ video structure:
         - blur things out that will be revealed later
     - provide context
     - introduce stakes/payoff
-    - input bias
+    - input bias - show effort
         - "The Input Bias: The Misuse of Input Information in Judgments of Outcomes"
         - specifically mention how much time & work you've poured into it - the more input - the bias goes - the more value?
         - can show the timeline of the video in the editor

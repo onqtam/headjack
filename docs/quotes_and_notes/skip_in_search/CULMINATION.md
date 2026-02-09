@@ -168,10 +168,13 @@ ultimate ==> most consequential, most important, most fundamental - second place
 
 
 ██████████████████████████████████████████████████████████████████
-## show effort
+## input bias - show effort
 ██████████████████████████████████████████████████████████████████
 
 This video is the culmination of 5 years of relentless obsession
+
+"You have no idea how much of my life I devoted to this"
+    **roleplay with long beard & uncut hair**
 
 ██████████████████████████████████████████████████████████████████
 # knowledge in people's heads & the economy
@@ -890,6 +893,11 @@ Hey boys, how’s the paradigm? - wear swimming goggles
 if you're one of the top 10000 (or 0.01%) software engineers on this planet and you want to build the future - find me!
 and actually almost anyone could contribute one way or another - I just want the most hardcore engineers on the planet for the absolute core of the system - namely the blockchain and the core that will house the state graph that will compute all of the views, but there will be plenty to do by plenty of people and companies. We need to get the core design right. there'll be a lot of work around content, marketing, project management and whatever - get involved.
 
+## download all files
+
+the password is "Pussy Riot" - "I'M NOT JOKING ABOUT THE PASSWORD!"
+    **show epstein mail with those words**
+    ok, I'm joking, there's no password
 
 ██████████████████████████████████████████████████████████████████
 # Ending
