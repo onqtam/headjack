@@ -57,6 +57,7 @@ freedom through constraint - bondage as a service - with X-s on nipples & with h
         "you've been a bad boy!"
         "yes my queen"
         show hash on back, also show merkle tree with only "change W" revealed by pausing the whipping and overlaying it next to my back
+            say "I have to do this - I don't have a choice" - and reveal hash tattoo
         multiple angles - on my knees, face towards the wall, and lying on the ground, or being held by 2 of them
 freedom & sovereignty are the foundation - you can have unfreedom within freedom, but you can't have freedom within unfreedom
     the world is fortunate to have the west with its freedoms - only we can give birth to such an ideology

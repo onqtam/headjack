@@ -654,7 +654,7 @@ private (intellectual) property, trade secrets and redundancy in companies reduc
 
 
 The Beginning of Infinity, by David Deutsch
-I've read only chapters 1 (explanations), 2 (instruments), 3 (humans as universal explainers & their cosmic significance), 4, 5 (abstractions), 12 (bad philosophy), 13 (choices), 15 (culture)
+I've skipped only the multiverse chapter (11)
 
 > "Behind it all is surely an idea so simple, so beautiful, that when we grasp it – in a decade, a century, or a millennium – we will all say to each other, how could it have been otherwise?"
 John Archibald Wheeler, Annals of the New York Academy of Sciences, 480 (1986)
@@ -819,17 +819,41 @@ this chapter is way over my head and above my paygrade
 
 > "**9 - Optimism**
 >
-> ... Both the future of civilization and the outcome of a game of Russian roulette are unpredictable, but in different senses and for entirely unrelated reasons. Russian roulette is merely random. Although we cannot predict the outcome, we do know what the possible outcomes are, and the probability of each, provided that the rules of the game are obeyed. The future of civilization is unknowable, because the knowledge that is going to affect it has yet to be created. Hence the possible outcomes are not yet known, let alone their probabilities." - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
+> ... Both the future of civilization and the outcome of a game of Russian roulette are unpredictable, but in different senses and for entirely unrelated reasons. Russian roulette is merely random. Although we cannot predict the outcome, we do know what the possible outcomes are, and the probability of each, provided that the rules of the game are obeyed. The future of civilization is unknowable, because the knowledge that is going to affect it has yet to be created. Hence the possible outcomes are not yet known, let alone their probabilities.
+>
+> ... Blind optimism is a stance towards the future. It consists of proceeding as if one knows that the bad outcomes will not happen. The opposite approach, blind pessimism, often called the precautionary principle, seeks to ward off disaster by avoiding everything not known to be safe. No one seriously advocates either of these two as a universal policy, but their assumptions and their arguments are common, and often creep into people’s planning. Blind optimism is also known as ‘overconfidence’ or ‘recklessness’...
+>
+> ... How can we formulate policies for the unknown? If we cannot derive them from our best existing knowledge, or from dogmatic rules of thumb like blind optimism or pessimism, where can we derive them from? Like scientific theories, policies cannot be derived from anything. They are conjectures. And we should choose between them not on the basis of their origin, but according to how good they are as explanations: how hard to vary.
+>
+> ... The question ‘How can we hope to detect and eliminate error?’ is echoed by Feynman’s remark that ‘science is what we have learned about how to keep from fooling ourselves’. And the answer is basically the same for human decision-making as it is for science: it requires a tradition of criticism, in which good explanations are sought – for example, explanations of what has gone wrong, what would be better, what effect various policies have had in the past and would have in the future.
+>
+> But what use are explanations if they cannot make predictions and so cannot be tested through experience, as they can be in science? This is really the question: how is progress possible in philosophy? As I discussed in Chapter 5, it is obtained by seeking good explanations. The misconception that evidence can play no legitimate role in philosophy is a relic of empiricism. Objective progress is indeed possible in politics just as it is in morality generally and in science.
+>
+> Political philosophy traditionally centred on a collection of issues that Popper called the ‘who should rule?’ question. Who should wield power? Should it be a monarch or aristocrats, or priests, or a dictator, or a small group, or ‘the people’, or their delegates? And that leads to derivative questions such as ‘How should a king be educated?’ ‘Who should be enfranchised in a democracy?’ ‘How does one ensure an informed and responsible electorate?’
+>
+> ... Ideas have consequences, and the ‘who should rule?’ approach to political philosophy is not just a mistake of academic analysis: it has been part of practically every bad political doctrine in history. If the political process is seen as an engine for putting the right rulers in power, then it justifies violence, for until that right system is in place, no ruler is legitimate; and once it is in place, and its designated rulers are ruling, opposition to them is opposition to rightness. The problem then becomes how to thwart anyone who is working against the rulers or their policies. By the same logic, everyone who thinks that existing rulers or policies are bad must infer that the ‘who should rule?’ question has been answered wrongly, and therefore that the power of the rulers is not legitimate, and that opposing it is legitimate, by force if necessary. Thus the very question ‘Who should rule?’ begs for violent, authoritarian answers, and has often received them. It leads those in power into tyranny, and to the entrenchment of bad rulers and bad policies; it leads their opponents to violent destructiveness and revolution.
+>
+> Advocates of violence usually have in mind that none of those things need happen if only everyone agreed on who should rule. But that means agreeing about what is right, and, given agreement on that, rulers would then have nothing to do. And, in any case, such agreement is neither possible nor desirable: people are different, and have unique ideas; problems are inevitable, and progress consists of solving them.
+>
+> Popper therefore applies his basic ‘how can we detect and eliminate errors?’ to political philosophy in the form how can we rid ourselves of bad governments without violence? Just as science seeks explanations that are experimentally testable, so a rational political system makes it as easy as possible to detect, and persuade others, that a leader or policy is bad, and to remove them without violence if they are. Just as the institutions of science are structured so as to avoid entrenching theories, but instead to expose them to criticism and testing, so political institutions should not make it hard to oppose rulers and policies, non-violently, and should embody traditions of peaceful, critical discussion of them and of the institutions themselves and everything else. Thus, systems of government are to be judged not for their prophetic ability to choose and install good leaders and policies, but for their ability to remove bad ones that are already there.
+>
+> ... This expectation is what I call optimism, and I can state it, in its most general form, thus: The Principle of Optimism - All evils are caused by insufficient knowledge.
+>
+> Optimism is, in the first instance, a way of explaining failure, not prophesying success. It says that there is no fundamental barrier, no law of nature or supernatural decree, preventing progress... Optimism follows from the explicability of the physical world, as I explained in Chapter 3. If something is permitted by the laws of physics, then the only thing that can prevent it from being technologically possible is not knowing how...
+>
+> ... The first attribute that Pericles cited was Athens’ democracy. And he explained why. Not because ‘the people should rule’, but because it promotes ‘wise action’. It involves continual discussion, which is a necessary condition for discovering the right answer, which is in turn a necessary condition for progress:
+>
+> 'Instead of looking upon discussion as a stumbling-block in the way of action, we think it an indispensable preliminary to any wise action at all.' - Pericles, ‘Funeral Oration’, c. 431 BCE
+>
+> He also mentioned freedom as a cause of success. A pessimistic civilization considers it immoral to behave in ways that have not been tried many times before, because it is blind to the possibility that the benefits of doing so might offset the risks. So it is intolerant and conformist. But Athens took the opposite view.
+>
+> ... SUMMARY
+>
+> Optimism (in the sense that I have advocated) is the theory that all failures – all evils – are due to insufficient knowledge. This is the key to the rational philosophy of the unknowable. It would be contentless if there were fundamental limitations to the creation of knowledge, but there are not. It would be false if there were fields – especially philosophical fields such as morality – in which there were no such thing as objective progress. But truth does exist in all those fields, and progress towards it is made by seeking good explanations. Problems are inevitable, because our knowledge will always be infinitely far from complete. Some problems are hard, but it is a mistake to confuse hard problems with problems unlikely to be solved. Problems are soluble, and each particular evil is a problem that can be solved. An optimistic civilization is open and not afraid to innovate, and is based on traditions of criticism. Its institutions keep improving, and the most important knowledge that they embody is knowledge of how to detect and eliminate errors." - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
 
-> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
-
-> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
-
-> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
-
-> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
-
-> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
+> "**10 - A Dream of Socrates**
+>
+> " - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
 
 SUPERB chapter, quotes here are insufficient
 
@@ -947,15 +971,9 @@ imitation is not at the heart of human meme replication, but I got tired of copy
 >
 > ... The primeval distribution of horses or llamas or flint or uranium can affect only the details, and then only after some human being has had an idea for how to use those things. The effects of ideas and decisions almost entirely determine which biogeographical factors have a bearing on the next chapter of human history, and what that effect will be. Marx, Engels and Diamond have it the wrong way round.
 >
-> ... Ehrlich thought that he was investigating a planet’s physical resources and predicting their rate of decline. In fact he was prophesying the content of future knowledge. And, by envisaging a future in which only the best knowledge of 1971 was deployed, he was implicitly assuming that only a small and rapidly dwindling set of problems would ever be solved again. Furthermore, by casting problems in terms of ‘resource depletion’, and ignoring the human level of explanation, he missed all the important determinants of what he was trying to predict, namely: did the relevant people and institutions have what it takes to solve problems? And, more broadly, what does it take to solve problems?" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
-
-> "****
+> ... Ehrlich thought that he was investigating a planet’s physical resources and predicting their rate of decline. In fact he was prophesying the content of future knowledge. And, by envisaging a future in which only the best knowledge of 1971 was deployed, he was implicitly assuming that only a small and rapidly dwindling set of problems would ever be solved again. Furthermore, by casting problems in terms of ‘resource depletion’, and ignoring the human level of explanation, he missed all the important determinants of what he was trying to predict, namely: did the relevant people and institutions have what it takes to solve problems? And, more broadly, what does it take to solve problems?
 >
-> " - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
-
-> "****
->
-> " - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
+> ... So there is no resource-management strategy that can prevent disasters, just as there is no political system that provides only good leaders and good policies, nor a scientific method that provides only true theories. But there are ideas that reliably cause disasters, and one of them is, notoriously, the idea that the future can be scientifically planned. The only rational policy, in all three cases, is to judge institutions, plans and ways of life according to how good they are at correcting mistakes: removing bad policies and leaders, superseding bad explanations, and recovering from disasters." - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
 
 
 
