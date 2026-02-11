@@ -1,4 +1,6 @@
 
+Esteemed cross paradigmatic religious scholar
+
 > "We will rise or fall to the level of our cultural affordances." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1757530236894552448)
 
 Hawk tuah! - did you buy the memecoin before the rug pull?
@@ -2541,8 +2543,6 @@ So what - god created the universe and now what - he’s eating popcorn ?! **stu
 
 We need to return to media where the product is the product
 
-Integrated ==> efficiency (in search & retrieval)
-
 You can’t build trust on top of a foundation that requires trust
 How best do we help people start helping other people?
 
@@ -2673,10 +2673,6 @@ talk about the plagues of the current internet
 god is causally real the moment he is conceptualized
 
 
-Openness => reuse => efficiency
-
-coherence => synchrony
-
 Think of a global multi-perspectival Git Repository for our governance
 
 Organizing the worlds information leads to global governance and if you’re not gonna fulfil your mission then somebody else will
@@ -2738,8 +2734,6 @@ Human Engineering as a Service
 Human Upgrade
 
 I am religeous to my core
-
-Esteemed cross paradigmatic religious scholar
 
 “Understanding” - this film is itself an exercise of applying the principles of collective understanding
 

@@ -272,6 +272,8 @@ if someone rereads all my notes and sit with them for some time they'd be able t
 # causation, consequences
 ██████████████████████████████████████████████████████████████████
 
+cause & effect - matrix quote?
+
 > "Things are the way they are because they got that way." - [Gerald Weinberg](https://en.wikiquote.org/wiki/Gerald_Weinberg)
 
 > "All models are wrong, but some are useful." - [George E. P. Box](https://en.wikipedia.org/wiki/All_models_are_wrong)
@@ -416,8 +418,22 @@ We’ve barely scratched the surface of the design space for collectivism - have
 
 
 ██████████████████████████████████████████████████████████████████
-# the matrix
+# matrix
 ██████████████████████████████████████████████████████████████████
+
+X can have its own array of what's most relevant to it
+    only direct causes?
+    X can have multiple different arrays for what's most relevant depending on context
+X can be present in the relevance arrays of many other elements
+the importance of X from a specific point of view in the causal graph can be calculated by
+    - pick a PoV - start from a node of importance (global one: what's most important for our civilization)
+    - recursively drill down into every sub-array and find any mentions of X
+        - take into account how much importance X plays within each such array
+        - total contrib of X == sum(all sub-multiplications)
+            something should be multiplied here - think about it later... draw an example matrix with numbers & priorities !!!
+    - this leads to a total order of things such as X for this point of view - one singular ordering within one array of everything that contributes to the node we picked as our PoV
+we are effectively representing a causal graph with arrays
+
 
 our destiny is to jail break / take control of the matrix and become its architects
 The matrix is a 2d array where one of the dimensions is the most important problems and the other dimension is the best solutions/proposals - an ordering of problems along with an ordering of prescriptions - and we would be constantly reordering all these arrays - like a global kanban of kanbans
@@ -436,7 +452,8 @@ The matrix has different layers/views/presets
 
 in context vs out of context for concepts from the graph - in the matrix == in context
 
-
+TODO: is there a name for an N dim array where each sub array has a different length? dimensions aren't uniform?
+what is a matrix?
 
 ██████████████████████████████████████████████████████████████████
 # truth
