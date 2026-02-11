@@ -124,7 +124,7 @@ something larger than ourselves that will persist beyond our lives
 - Reinventing governance and adding market discipline
 - Solving alignment for people
 - Final major evolutionary transition
-- Atick around if you want to be early in the final battle between good and evil
+- Stick around if you want to be early in the final battle between good and evil
 - Digital id can go horribly/terribly wrong & orwellian or incredibly right
 - The most flexible and scalable architecture for the evolution of culture and incentives
     read my lips: NO LIMITS, NADA
@@ -2680,12 +2680,11 @@ coherence => synchrony
 Think of a global multi-perspectival Git Repository for our governance
 
 Organizing the worlds information leads to global governance and if you’re not gonna fulfil your mission then somebody else will
+Organizing the worlds information is a political project on the global level
 
 Superintelligence is intelligently networking intelligence
 
 The way we do economics and governance is a joke
-
-We don’t need to go beyond good and evil - they’re exactly what we need
 
 You can represent yourself with a personal AI and then ask it to summarize how its different from the collective one, and why ==> leading to “should I update my beliefs”
 

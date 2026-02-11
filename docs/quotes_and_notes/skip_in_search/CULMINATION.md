@@ -290,6 +290,8 @@ we need to give scaffolding for people to express their causal model of the worl
 # understanding
 ██████████████████████████████████████████████████████████████████
 
+> "That the truth consists of hard to vary assertions about reality is the most important fact about the physical world." - [David Deutch](https://www.youtube.com/watch?v=folTvNDL08A&t=973s)
+
 How do we better understand what understanding even is?
 Foundational, firm, solid, dependable, necessary
     Everything depends on it and builds on top
@@ -307,6 +309,9 @@ Intelligibility is a property of the thing, understanding is in the head
 Underlying pattern/simplicity capturing the essence, dimensionality reduction, cutting down complexity - how things fit into an intelligible order
 Coarse grained, enough for control
 Familiarity
+
+
+we seek explanations that remain robust when we test them against those flickers and shadows, and against each other, and against criteria of logic and reasonableness and everything else we can think of.
 
 ## from AIs
 
@@ -654,6 +659,18 @@ prestige
 > "Your margin is my opportunity." - [Jeff Bezos](https://www.goodreads.com/quotes/706779-your-margin-is-my-opportunity)
 Your conspicuous consumption is our opportunity
 
+██████████████████████████████████████████████████████████████████
+# evil
+██████████████████████████████████████████████████████████████████
+
+ignorance ==> trouble
+ignorance ==> selfishness
+self vs other
+separateness, fragmentation
+one/benefitting at the expense of another
+
+We don’t need to go beyond good and evil - they’re exactly what we need
+We've never gone beyond good and evil - because how could we - we need them more than ever!
 
 ██████████████████████████████████████████████████████████████████
 # 
