@@ -2745,3 +2745,8 @@ You can only have progress with error correction
 Imagine if “investors” didn’t “profit” just when they guess the price direction and say whatever narrative they have, but when they actually were correct on the narrative (explanation) when their prediction comes true
 
 What should be the output of a Q? Yes/No? A number? A (weighted) list of propositions?
+
+God isn't happy with us worshipping metal calfs - show photo of me touching the wall st bull's balls
+"However, since Moses remained a long time on the mountain, some of the people feared that he might be dead, so they made a statue of a golden calf and worshipped it as an idol of God, thus disobeying and angering God and Moses."
+
+

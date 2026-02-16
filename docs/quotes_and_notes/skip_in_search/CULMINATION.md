@@ -306,6 +306,29 @@ from newton's theory to einstein and how our understanding changed by becoming m
 talk about the reach of explanations and how they affect ever more nodes in the causal graph of understanding as they gain more reach
 walk through how our causal understanding graph changed with einstein, how a crucial experiment refuted one theory and left only 1 standing as the current best (eddington measuring how light bends around the sun)
 
+
+When you understand something, you can usually:
+- Explain it in your own words
+- See relationships, causes, or implications
+- Apply it in a new situation
+- Recognize why it works the way it does
+
+
+understanding != knowing
+explanation vs mere statement of fact such as a correct description or prediction
+"But it is hard to give a precise definition of ‘explanation’ or ‘understanding’. Roughly speaking, they are about ‘why’ rather than ‘what’; about the inner workings of things; about how things really are, not just how they appear to be; about what must be so, rather than what merely happens to be so; about laws of nature rather than rules of thumb. They are also about coherence, elegance and simplicity, as opposed to arbitrariness and complexity, though none of those things is easy to define either." - [The Fabric of Reality, by David Deutsch](https://www.goodreads.com/book/show/177068.The_Fabric_of_Reality)
+
+good explanation == hard to vary == all the parts of it serve a purpose, such that none of them are arbitrary, and if you were to try to change any one of them you would break the explanation
+creating knowledge == creating explanations, explaining the world
+explanation == an account of why rather than what, an account of what is really out there, not how things appear to be but what must be so
+
+
+Occam’s razor (My formulation) Do not complicate explanations beyond necessity, because if you do, the unnecessary complications themselves will remain unexplained. - by david
+
+
+a theory that ‘sticks its neck out’ by being more specific about more phenomena opens up itself and its rivals to more forms of criticism, and therefore has more chance of taking the problem-solving process forward.
+
+
 Understanding - no fundamental questions unanswered, able to predict phenomenon without contradictions or simply make use of it productively - all relevant phenomena needs an explanation
 Intelligibility is a property of the thing, understanding is in the head
 Underlying pattern/simplicity capturing the essence, dimensionality reduction, cutting down complexity - how things fit into an intelligible order

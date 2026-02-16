@@ -26,8 +26,6 @@
 
 > "Sound strategy starts with having the right goal." - [Michael Porter](https://www.azquotes.com/quote/605346)
 
-> "All life is problem solving." - [Karl Popper](https://www.goodreads.com/quotes/66676-all-life-is-problem-solving)
-
 > "Regulation (or control): the process by which an agent continually neutralizes deviations from its goals, by effectively counteracting disturbances. Regulation implements negative feedback: deviations in one direction are compensated by reactions that push the state in the opposite direction, so as to reduce their effect. The classic example of regulation is the functioning of a thermostat, which switches on the heating as soon as the temperature moves below its set temperature or goal, and switches off the heating as soon as the temperature moves above the goal temperature." - [Self-organization of complex, intelligent systems: an action ontology for transdisciplinary integration, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ECCO-paradigm.pdf)
 
 > "Navigation: the process by which an agent constantly adjusts its course of action so as to dynamically maximize its advance in utility while taking into account the diversions it encounter. This means that the agent should optimally allocate its effort in simultaneously counteracting disturbances (regulation), finding affordances (exploration), and making use of the affordances it has found (exploitation). Navigating means that the agent needs to set out a well-thought out, but flexible course, using a combination of planning (to deal with known disturbances and affordances) and improvisation (to deal with new diversions)." - [Self-organization of complex, intelligent systems: an action ontology for transdisciplinary integration, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ECCO-paradigm.pdf)
@@ -129,8 +127,6 @@ https://www.edge.org/response-detail/27098 -->
 > "[Bayesian epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/) is a unifying approach to determining truth. Absolute truth is never attainable, but we do get closer to understanding objective reality by formulating and testing theories." - [Road to Omega: a plan to save the world with science, epistemology, and blockchain technology](https://roadtoomega.substack.com/p/savingtheworldwithscience)
 
 <!-- > "The logical reasoning system known as Bayesian inference is the only surefire way to acquire valid knowledge about the world." - [Road to Omega: a plan to save the world with science, epistemology, and blockchain technology](https://roadtoomega.substack.com/p/savingtheworldwithscience) -->
-
-> "The whole [scientific] process resembles biological evolution. A problem is like an ecological niche, and a theory is like a gene or a species which is being tested for viability in that niche." - [David Deutsch, The Fabric of Reality](https://www.goodreads.com/quotes/487229-the-whole-scientific-process-resembles-biological-evolution-a-problem-is)
 
 > "In recent years, a growing number of influential minds have recognized the societal significance of a statistical reasoning method known as Bayesian reasoning, which is a procedure for updating your theory, model, or belief system in the face of new evidence. What Bayesian reasoning provides in a nutshell is a universal approach to determining truth. Beliefs should not be believed blindly; they should be tested continually. Using this reasoning system is a way to minimize free energy, so it can be seen as an extension of the free energy principle...
 >

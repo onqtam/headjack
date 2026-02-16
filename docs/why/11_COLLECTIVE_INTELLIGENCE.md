@@ -1497,6 +1497,16 @@ Kickstarter is a very simple version of expressing and aggregating demand before
 
 
 
+██████████████████████████████████████████████████████████████████
+# SECTION: Problem solving
+██████████████████████████████████████████████████████████████████
+
+> "All life is problem solving." - [Karl Popper](https://www.goodreads.com/quotes/66676-all-life-is-problem-solving)
+
+> "While a problem is still in the process of being solved we are dealing with a large, heterogeneous set of ideas, theories, and criteria, with many variants of each, all competing for survival. There is a continual turnover of theories as they are altered or replaced by new ones. So all the theories are being subjected to variation and selection, according to criteria which are themselves subject to variation and selection. The whole process resembles biological evolution. A problem is like an ecological niche, and a theory is like a gene or a species which is being tested for viability in that niche. Variants of theories, like genetic mutations, are continually being created, and less successful variants become extinct when more successful variants take over. ‘Success’ is the ability to survive repeatedly under the selective pressures – criticism – brought to bear in that niche, and the criteria for that criticism depend partly on the physical characteristics of the niche and partly on the attributes of other genes and species (i.e. other ideas) that are already present there." - [The Fabric of Reality, by David Deutsch](https://www.goodreads.com/book/show/177068.The_Fabric_of_Reality)
+
+> "The whole [scientific] process resembles biological evolution. A problem is like an ecological niche, and a theory is like a gene or a species which is being tested for viability in that niche." - [David Deutsch, The Fabric of Reality](https://www.goodreads.com/quotes/487229-the-whole-scientific-process-resembles-biological-evolution-a-problem-is)
+^^ part of the bigger quote
 
 
 ██████████████████████████████████████████████████████████████████
