@@ -552,6 +552,7 @@ Taxation is theft only if you’re getting ripped off by a decrepit and morally 
 
 Im a humble - laugh (spit out water) - public servant - not a private individual - and im not calling for everyone to be as extreme as me - I'm actually pretty reasonable (believe it or not) - but I want to set an example and point towards the north star - this is my social contract
 not advocating it for everyone - and not the real north star - people should have the option to have personal privacy - uhh its complicated and tbd
+    god is north
 Consumption beyond a certain level simply is immoral
 
 the left-right political tug of war is literally the complete opposite of alignment (which is to point in the same direction) - its orthogonal - make a gesture - duverger's law
@@ -2103,6 +2104,8 @@ Corruption happens through privatization
 Privatization is the basis for corruption
 
 Google - you organized nothing! you merely indexed - partially - and imperfectly
+Don’t be evil - google - **roleplay a trick with a vanishing coin - and even fail the trick and awkwardly remove the coin from your hand**
+How about “can’t be evil”
 
 
 If the idea of having olympics for solving the biggest problems for humanity sounds naive and absurd because that’s not how politics and social organization work - well that’s actually an inditement for how we do politics. Maybe that’s broken and needs to change - it needs a fundamental upgrade. And how we do sensemaking - we don’t have the collective understanding of our collective problems in order to begin solving them. The idea of world problem solving olympics sounds silly because we haven’t even mapped out how all the problems are connected! We have not organized ourselves in a way that would make it even possible to directly address our most fundamental problems! Our deepest problems are not just intractable - we’re completely unaware of what their best articulation even is! We’re blind at the most fundamental level! Our deepest problems are not merely climate change and pollution - our deepest problem is our relation with everyone else. And we’re completely blind to that in our current paradigm. The problem aren’t fossil fuels - the problem is how we relate to each other, and what our worldview & paradigm are - that’s the deepest leverage point. How much we value others and their lives and how much we want to consume personally
@@ -2748,5 +2751,155 @@ What should be the output of a Q? Yes/No? A number? A (weighted) list of proposi
 
 God isn't happy with us worshipping metal calfs - show photo of me touching the wall st bull's balls
 "However, since Moses remained a long time on the mountain, some of the people feared that he might be dead, so they made a statue of a golden calf and worshipped it as an idol of God, thus disobeying and angering God and Moses."
+
+
+
+VUCA world
+
+God is the Oracle
+
+we should help people find their optimal way of helping other people
+
+Halal to Haram (forbidden) spectrum
+
+Nothing can integrate people better and faster than religion
+
+We see the world through our understanding of it
+
+We not only pay people to solve problems but also to create them - when they’re paid with equity and they want it to grow
+
+We prioritize PRIME information - PRestigious, Ingroup, Moral, Emotional
+
+Of course one side is better - what are the odds of them being perfectly equal 50/50?!?! But I have to stop your ego trip how you think self-righteously that “your side” is the better one because you’re missing the point - THERE SHOULDN’T BE 2 INCREDIBLY POLARIZED SIDES - there should be only unity! This is not a healthy generative tension of tho opposites that complete each other - what we have is pure dysfunction! Have you ever asked yourself if your side is actually the baddies?
+
+We’ve had countries for a few centuries but we’ve had collective identity since the dawn of time
+
+What happens if a charismatic utopian idealist with an incredible sense of certainty about what we should do for a better world comes along who proposes something you can’t object to in any way? When there isn’t any dirty work to be done, no killing, no imprisonment? What if there was a way to make an omelette without breaking a few eggs?
+
+
+I was violated as a kid - I’ve never spoken publicly about this… I was forced… to… memorize the different types of soil in my country in geography class - wasting my neuroplastic adolescent brain with useless shit - robbed of opportunity to learn actually useful mental models for life and the world - I will never forgive the education system for being such a joke from a past era. Memorizing pointless drudgery and having all my homework be meaningless exercises that are later thrown in the bin - **this is where I should roleplay trying to suck the useless crap out of my head** - we can do a lot better with our education - here are a few names to look at: … why didn’t I learn how money works? Or what a mental model is? Why didn’t I learn things that would have the greatest impact on my life?
+
+Don’t be cowards - stand up for something - signal your interest in what you’ve just seen - you don’t have to agree with all of it - in fact you should be vocal with what you disagree with - please!
+
+It’s time to upgrade the Turing test… here’s a good way to judge the AIs: “take over the world” as a prompt - apparently its still possible that a few people can pull it off but not a single AI is even close to being capable of that
+
+
+Our system is corrupt: oil & gas have been informing the governments of the world with false projections of the adoption of clean energy. Our system is broken on fundamental levels - literally how fast we would switch to the better choice - that has been corrupted on a civilizational scale. Who killed the electric car? How much of a delay was that? So a system like america has literally been handicapped by its own industry and corporations in geopolitical matters a few decades down the line. And on so many other issues. What’s necessary is a system with accountability and credit assignment
+
+I’ll go to whichever country wants me the most
+
+Every single potential action can be evaluated morally - the question is whether we have the depth of understanding of the world and if we can recognize what is what
+
+Matchmaking for anything
+Universal matchmaking - universal fittedness
+
+We need a knowledge dissipator and collider
+
+Collective Will as a Service
+
+Mapping out our best collective understanding
+
+the fundamental problem is broken feedback loops and error correction
+
+There is a right and wrong about literally every aspect of everything you think about and pay attention to and action you take - you are making a choice with the allocation of attention every moment of your life
+
+Collective Identity Formation as a Service
+
+Vouching for others as a service
+
+We all have one question to ask: what is absolute for us
+
+The Theory of Everything is Global Governance
+
+What we should do with our lives is the theory of everything
+
+Credit as a Service
+
+The most important is not to race technologically but morally
+
+Conformity as a Service
+
+We need incorruptible integration - one where misalignment is the devil 
+
+From Central Banking to Central Identity
+
+Religion is collective identity formation - an expansion of the self. This is the impetus of evolution - to cooperate at greater and greater scales thermodynamically
+
+God shall be manifested by harnessing the souls and free wills of all of us - god wants us to cooperate in order to be manifested
+
+This is a moral under-throw on a global level
+
+The Theory of Everything is about morality
+
+Religion is about The Commons - both memetically and materially
+
+The moral parameters of a religion can be put under scrutiny
+
+Products in an economy are explanations - self-contained descriptions and justifications
+
+To me this is an idea worth dying for - because this is god - thank you for watching my ted talk
+
+The theory of everything ala david Deutsch
+
+God told me all of this because god is the universe and all my creativity and intuition is predicated on it - I emerge from it, and there really is an I - abstractions and emergent levels are causally real
+
+Universal basic consciousness from the collective
+
+I dont want to die like a dog alonr at home from some poison - I want it public and SPLATTACULAR **roleplay slappinh a hand with red paint**
+
+Understanding is a pattern
+That can be selectively abstracted and pattern matched elsewhere
+We think through our understanding - through our implicit explanatory models
+
+Baptism - washing away your sins, cleansing
+The act of registering is a form of baptism
+
+Father, forgive them, for they do not know what they are doing
+Father, forgive them, for they do not know what the fuck they are doing - do you understand that?
+https://youtu.be/DQR6FzduRO8?si=Mpsnx07P6L8MVFiV
+
+Im religious to my core - and so are you whether you realize it or not
+
+I realized recently than I am a cultural christian but I’m still religiously homeless because I just can’t get myself to believe stories - as incredible as they are - that are man-made - I’m sorry for not believing in something unbelievable - or actually I’m not even sorry - I’m just too much of a sucker for good epistemology
+
+Things jesus taught - google all of them:
+- Love your enemies
+    "Love your enemies" (Matthew 5:44) is a core, challenging teaching from Jesus’ Sermon on the Mount, urging believers to replace retaliation with love, prayer, and kindness toward adversaries. It means acting with respect, forgiving, and seeking the well-being of those who wrong you, representing a higher standard of radical, divine love
+- turn the other cheek
+    Turning the other cheek is a phrase in Christian doctrine from the Sermon on the Mount that refers to responding to insult without retort. This passage is variously interpreted as accepting one's predicament, commanding nonresistance or advocating Christian pacifism.
+    "Turn the other cheek" is a New Testament teaching from Jesus' Sermon on the Mount (Matthew 5:39) instructing followers not to retaliate against evil or insults. Instead of matching violence with violence, it advocates for nonviolent resistance, breaking the cycle of revenge, and maintaining personal dignity. It is considered a proactive, courageous response rather than passive submission.
+    Context: Jesus taught this in opposition to the old law of "an eye for an eye," suggesting a higher, more merciful standard of behavior.
+    https://en.wikipedia.org/wiki/Turning_the_other_cheek
+- Those that live by the sword will die by the sword
+    https://en.wikipedia.org/wiki/Live_by_the_sword,_die_by_the_sword
+    "Live by the sword, die by the sword" is a proverb in the form of a parallel phrase, derived from the Gospel of Matthew (Matthew 26, 26:52): "Then said Jesus unto him, Put up again thy sword into his place: for all they that take the sword shall perish with the sword."
+    "Live by the sword, die by the sword" is a proverb meaning that those who use violence or aggressive, underhanded methods to achieve their goals will eventually be destroyed by those same methods. Originating from Matthew 26:52 in the Bible, it warns that a life built on conflict brings a violent, similar end.
+    Core Meaning: It signifies that violence begets violence, often interpreted as "what goes around comes around".
+    Broader Application: Figuratively, it implies that the very methods, vices, or tools (e.g., deceit, ruthlessness) used to gain success will ultimately cause one's downfall.
+    Modern Context: It is frequently used to describe scenarios where someone's aggressive, risky, or unethical behavior leads to their own destruction.
+    Essentially, it is a warning against relying on violence or immoral tactics, suggesting that such a lifestyle is unsustainable and inherently self-destructive.
+- The truth will set you free
+    "The truth will set you free" (John 8:32) is a profound biblical statement from Jesus, indicating that knowing and abiding in his teachings offers spiritual liberation from the bondage of sin, condemnation, and death. While often cited in academic contexts to promote knowledge, its original context refers to finding freedom through faith and spiritual truth, rather than just intellectual, social, or political liberty. 
+
+And please don’t use a poison where I die alone at home like a dog - make it public - make a spectacle out of it - i beg you
+Or better yet - don’t do it! In fact you should want me in your country for national security
+
+You don’t buy belonging transactionally - you earn it, you build it
+
+Our biggest problem is how to think about and approach problems
+
+Opacity and fragmentation should be indefensible
+
+Identity is as firm a foundation as possible
+
+“MAXIMUM COMPRESSION”
+
+How often do you ask yourself: why do we exist?
+
+This co-creation is the most exciting thing in the world!
+
+Corpo inefficiency cant hide in the open
+
+
 
 

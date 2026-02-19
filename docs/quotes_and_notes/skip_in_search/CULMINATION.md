@@ -32,6 +32,9 @@ Redact book quotes
 
 use a storyboard and put yourself in the shoes of the viewer
 
+“Taking over the world in 8 hours” or however long it is
+
+
 ██████████████████████████████████████████████████████████████████
 # title & thumbnail
 ██████████████████████████████████████████████████████████████████
@@ -41,8 +44,7 @@ Why Our ULTIMATE Desire Should Be The Great Enabler
 Our ULTIMATE Desire Should Be The Great Enabler
 
 “The Social Singularity”
-
-must?
+The Social Singularity & The Theory of Everything
 
 desire => concern?
 ultimate concern?
@@ -60,6 +62,10 @@ Our ULTIMATE Concern - Rearchitecting The Matrix - A Sermon on the Web
 Our ULTIMATE Concern == ??? — A Sermon on the Web
 
 Everyone's ULTIMATE Concern == ??? — A Sermon on the Web
+
+
+
+
 
 
 the greatest slaughter of sacred cows - democracy (1 man 1 vote), capitalism, communism, socialism
@@ -172,6 +178,8 @@ ultimate ==> most consequential, most important, most fundamental - second place
 ██████████████████████████████████████████████████████████████████
 
 This video is the culmination of 5 years of relentless obsession
+
+What you’re about to watch is my entire life’s work
 
 "You have no idea how much of my life I devoted to this"
     **roleplay with long beard & uncut hair**
@@ -561,6 +569,11 @@ Aumann's agreement theorem states that two Bayesian agents with the same prior b
 
 aggregate expression
 
+██████████████████████████████████████████████████████████████████
+# beliefs & epistemology
+██████████████████████████████████████████████████████████████████
+
+TODO: reword this: How do we form our beliefs of wha is true and false and how do those beliefs distort our perception? When we are born we know nothing about the world and we blindly accept what’s served to us on a plate by our culture. We don’t take epistemology and how we distinguish whats true and false seriously. We dont hold beliefs - they hold us. The greatest source of delusion and inaccurate perception and false beliefs is ourselves. How do we fix our beliefs about our beliefs? All Our beliefs feel true. Most of our beliefs came to us on a first come first serve basis when they feel true and we latch onto them - we didn’t scrutinise them based on evidence, logic and reason. And each new belief is matched against all our previously irrationally adopted beliefs - our criteria for judging new beliefs isn’t truth but how they feel in light of all our other/previous beliefs that we hold. And so epistemic error accumulates and compounds. We build our initial foundational web of beliefs without much conscious thought or questioning. We simply absorb most of our beliefs from our culture. We reject some beliefs if they don’t feel cohesive with our previous ones so that structural integrity is mantained. And most of our beliefs never change and become part of our identity. Our beliefs dictate our actions and behaviour and thus what the world looks like is a direct result of our beliefs. Meta beliefs - beliefs about beliefs - they determine what’s possible or not possible to occur within the web of beliefs itself. If you think you don’t hold beliefs - that’s a meta belief. Or you might think that most of your beliefs are accurate - also a meta belief. Or you might have the belief that you’ve already taken into account all the implications of how beliefs work. We misidentify beliefs as fact. When beliefs lodge themselves in our heads their main “objective” is to remain there. And we manifest our beliefs into the world. We go to war and kill because of our beliefs.
 
 
 ██████████████████████████████████████████████████████████████████
@@ -711,6 +724,12 @@ one/benefitting at the expense of another
 
 We don’t need to go beyond good and evil - they’re exactly what we need
 We've never gone beyond good and evil - because how could we - we need them more than ever!
+
+Evil is what’s bad for you, and whatever constrains the growth of knowledge and error correction is evil
+
+
+> "Evil is the attempt to exploit the group for the benefit of the individual." - [Jim Rutt](https://youtu.be/Z3STm-oUZk4?t=3446)
+
 
 ██████████████████████████████████████████████████████████████████
 # 
@@ -871,6 +890,12 @@ law # : problems are inevitable, problems are soluble - from beginning of infini
 law # : the truth consists of hard to vary assertions about reality
 law # : you can fight incentives only with incentives - incentives determine behavior - behavior is driven by incentives
 
+Syntropic law: make the omelette without breaking a few eggs
+Competence > loyalty
+Excessive unproductive rent seeking
+Intolerance only to the intolerant
+
+
 -â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ The 10 themes of the Global Brain:
 
 +- 1) EPISTEMICS - humility, error correction & Bayesian inference
@@ -983,6 +1008,8 @@ and actually almost anyone could contribute one way or another - I just want the
 the password is "Pussy Riot" - "I'M NOT JOKING ABOUT THE PASSWORD!"
     **show epstein mail with those words**
     ok, I'm joking, there's no password
+    Im joking - why would there be a password - secrecy is the complete polar opposite of what I’m talking about - secrecy is completely antithetical !!! If you want less of that - show epstein - I can deliver you a system where that cannot exist
+
 
 ██████████████████████████████████████████████████████████████████
 # Ending
