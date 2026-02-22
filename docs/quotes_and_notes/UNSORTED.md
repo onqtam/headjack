@@ -73,12 +73,15 @@ Paul Feyerabend
 
 
 
-
+the generative tension between collective agency and individual autonomy increases the adaptive capacity of a society.
 
 
 
 Einstein remarked, ‘My pencil and I are more clever than I.’
 
+
+
+> "" - [We Are Confused, Maladapted Apes Who Need Enlightenment, by Dan Williams](https://www.conspicuouscognition.com/p/we-are-confused-maladapted-apes-who)
 
 
 

@@ -972,7 +972,7 @@ imitation is not at the heart of human meme replication, but I got tired of copy
 > ... So there is no resource-management strategy that can prevent disasters, just as there is no political system that provides only good leaders and good policies, nor a scientific method that provides only true theories. But there are ideas that reliably cause disasters, and one of them is, notoriously, the idea that the future can be scientifically planned. The only rational policy, in all three cases, is to judge institutions, plans and ways of life according to how good they are at correcting mistakes: removing bad policies and leaders, superseding bad explanations, and recovering from disasters." - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
 
 
-
+chapters read: 1, 3, 4, 7, 
 
 > "**1 - The Theory of Everything**
 >
@@ -1102,6 +1102,34 @@ imitation is not at the heart of human meme replication, but I got tired of copy
 
 ^^ TODO continue from "The way I have defined it, a virtual-reality generator is a machine that gives the user"
 
+> "**7 - A Conversation About Justification**
+>
+> ... Science seeks better explanations. A scientific explanation accounts for our observations by postulating something about what reality is like and how it works. We deem an explanation to be better if it leaves fewer loose ends (such as entities whose properties are themselves unexplained), requires fewer and simpler postulates, is more general, meshes more easily with good explanations in other fields and so on.
+>
+> ... Theories postulating anomalies without explaining them are less likely than their rivals to make true predictions. More generally, it is a principle of rationality that theories are postulated in order to solve problems. Therefore any postulate which solves no problem is to be rejected. That is because a good explanation qualified by such a postulate becomes a bad explanation.
+>
+> ... The reverence that philosophers show for the historical sources of ideas is very perverse, you know. In science we do not consider the discoverer of a theory to have any special insight into it. On the contrary, we hardly ever consult original sources. They invariably become obsolete, as the problem-situations that prompted them are transformed by the discoveries themselves. For example, most relativity theorists today understand Einstein’s theory better than he did. The founders of quantum theory made a complete mess of understanding their own theory. Such shaky beginnings are to be expected; and when we stand upon the shoulders of giants, it may not be all that hard to see further than they did. But in any case, surely it is more interesting to argue about what the truth is, than about what some particular thinker, however great, did or did not think.
+>
+> ... In general, perverse but unrefuted theories which one can propose off the cuff fall roughly into two categories. There are theories that postulate unobservable entities, such as particles that do not interact with any other matter. They can be rejected for solving nothing (‘Occam’s razor’, if you like). And there are theories, like yours, that predict unexplained observable anomalies. They can be rejected for solving nothing and spoiling existing solutions. It is not, I hasten to add, that they conflict with existing observations. It is that they remove the explanatory power from existing theories by asserting that the predictions of those theories have exceptions, but not explaining how.
+>
+> ... The best existing theories, which cannot be abandoned lightly because they are the solutions of problems, contain predictions about the future. And these predictions cannot be severed from the theories’ other content, as you tried to do, because that would spoil the theories’ explanatory power. Any new theory we propose must therefore either be consistent with these existing theories, which has implications for what the new theory can say about the future, or contradict some existing theories but address the problems thereby raised, giving alternative explanations, which again constrains what they can say about the future.
+>
+> ... DAVID: What justifies the principles of rationality? Argument, as usual. What, for instance, justifies our relying on the laws of deduction, despite the fact that any attempt to justify them logically must lead either to circularity or to an infinite regress? They are justified because no explanation is improved by replacing a law of deduction.
+>
+> CRYPTO-INDUCTIVIST: That doesn’t seem a very secure foundation for pure logic.
+>
+> DAVID: It is not perfectly secure. Nor should we expect it to be, for logical reasoning is no less a physical process than scientific reasoning is, and it is inherently fallible. The laws of logic are not self-evident. There are people, the mathematical ‘intuitionists’, who disagree with the conventional laws of deduction (the logical ‘rules of inference’). I discuss their strange world-view in Chapter 10 of The Fabric of Reality. They cannot be proved wrong, but I shall argue that they are wrong, and I am sure you will agree that my argument justifies this conclusion.
+>
+> ... DAVID: The misconception is about the very nature of argument and explanation. You seem to be assuming that arguments and explanations, such as those that justify acting on a particular theory, have the form of mathematical proofs, proceeding from assumptions to conclusions. You look for the ‘raw material’ (axioms) from which our conclusions (theorems) are derived. Now, there is indeed a logical structure of this type associated with every successful argument or explanation. But the process of argument does not begin with the ‘axioms’ and end with the ‘conclusion’. Rather, it starts in the middle, with a version that is riddled with inconsistencies, gaps, ambiguities and irrelevancies. All these faults are criticized. Attempts are made to replace faulty theories. The theories that are criticized and replaced usually include some of the ‘axioms’. That is why it is a mistake to assume that an argument begins with, or is justified by, the theories that eventually serve as its ‘axioms’. The argument ends — tentatively — when it seems to have shown that the associated explanation is satisfactory. The ‘axioms’ adopted are not ultimate, unchallengeable beliefs. They are tentative, explanatory theories.
+>
+> CRYPTO-INDUCTIVIST: I see. Argument is not the same species of thing as deduction, or the non-existent induction. It is not based on anything or justified by anything. And it doesn’t have to be, because its purpose is to solve problems — to show that a given problem is solved by a given explanation." - [The Fabric of Reality, by David Deutsch](https://www.goodreads.com/book/show/177068.The_Fabric_of_Reality)
+
+> "**8 - The Significance of Life**
+>
+> " - [The Fabric of Reality, by David Deutsch](https://www.goodreads.com/book/show/177068.The_Fabric_of_Reality)
+
+^^ continue from "A phenomenon is ‘fundamental’ if a"...
+
 quantum physics Chapters 2, 9, 11, 12, 13, 14
 epistemology Chapters 3, 4, 7, 10, 13, 14
 the theory of computation Chapters 5, 6, 9, 10, 13, 14
@@ -1110,13 +1138,6 @@ the theory of evolution Chapters 8, 13, 14.
 read: 1, 3, 4, 7, 8, 10, 13, 14
 read: 1, 3, 4, 5, 6, 7, 8, 9, 10, 13, 14
 skipped because of too much quantum stuff: 2, 11, 12
-
-
-> "**7 - A Conversation About Justification**
->
-> " - [The Fabric of Reality, by David Deutsch](https://www.goodreads.com/book/show/177068.The_Fabric_of_Reality)
-
-> "" - [The Fabric of Reality, by David Deutsch](https://www.goodreads.com/book/show/177068.The_Fabric_of_Reality)
 
 > "" - [The Fabric of Reality, by David Deutsch](https://www.goodreads.com/book/show/177068.The_Fabric_of_Reality)
 
@@ -5154,13 +5175,35 @@ concepts thus entail directives.
 
 
 
-> "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+> "If you have the rewards, you must also get some of the risks, not let others pay the price of your mistakes. If you inflict risk on others, and they are harmed, you need to pay some price for it. Just as you should treat others in the way you’d like to be treated, you would like to share the responsibility for events without unfairness and inequity. If you give an opinion, and someone follows it, you are morally obligated to be, yourself, exposed to its consequences. In case you are giving economic views: *Don’t tell me what you “think,” just tell me what’s in your portfolio.*
+>
+> ... Do not mistake skin in the game as defined here and used in this book for just an incentive problem, just having a share of the benefits (as it is commonly understood in finance). No. It is about symmetry, more like having a share of the harm, paying a penalty if something goes wrong. The very same idea ties together notions of incentives, used car buying, ethics, contract theory, learning (real life vs. academia), Kantian imperative, municipal power, risk science, contact between intellectuals and reality, the accountability of bureaucrats, probabilistic social justice, option theory, upright behavior, bull***t vendors, theology…I stop for now.
+>
+> ... Skin in the game, applied as a rule, reduces the effects of the following divergences that grew with civilization: those between action and cheap talk (tawk), consequence and intention, practice and theory, honor and reputation, expertise and charlatanism, concrete and abstract, ethical and legal, genuine and cosmetic, merchant and bureaucrat, entrepreneur and chief executive, strength and display, love and gold-digging, Coventry and Brussels, Omaha and Washington, D.C., human beings and economists, authors and editors, scholarship and academia, democracy and governance, science and scientism, politics and politicians, love and money, the spirit and the letter, Cato the Elder and Barack Obama, quality and advertising, commitment and signaling, and, centrally, collective and individual.
+>
+> ... we end up populating what we call the intelligentsia with people who are delusional, literally mentally deranged, simply because they never have to pay for the consequences of their actions...
+>
+> ... Bureaucracy is a construction by which a person is conveniently separated from the consequences of his or her actions. And, one may ask, what can we do since a centralized system will necessarily need people who are not directly exposed to the cost of errors? Well, we have no choice but to decentralize or, more politely, to localize; to have fewer of these immune decision makers. Decentralization is based on the simple notion that it is easier to macrobull***t than microbull***t. Decentralization reduces large structural asymmetries." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
-> "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+> "... bank blowups came in 2008 because of the accumulation of hidden and asymmetric risks in the system: bankers, master risk transferors, could make steady money from a certain class of concealed explosive risks, use academic risk models that don’t work except on paper (because academics know practically nothing about risk), then invoke uncertainty after a blowup (that same unseen and unforecastable Black Swan and that same very, very stubborn author), and keep past income—what I have called the Bob Rubin trade.
+>
+> The Bob Rubin trade? Robert Rubin, a former Secretary of the United States Treasury, one of those who sign their names on the banknote you just used to pay for coffee, collected more than $120 million in compensation from Citibank in the decade preceding the banking crash of 2008. When the bank, literally insolvent, was rescued by the taxpayer, he didn’t write any check—he invoked uncertainty as an excuse. Heads he wins, tails he shouts “Black Swan.” Nor did Rubin acknowledge that he transferred risk to taxpayers: Spanish grammar specialists, assistant schoolteachers, supervisors in tin can factories, vegetarian nutrition advisors, and clerks for assistant district attorneys were “stopping him out,” that is, taking his risks and paying for his losses. But the worst casualty has been free markets, as the public, already prone to hating financiers, started conflating free markets and higher order forms of corruption and cronyism, when in fact it is the exact opposite: it is government, not markets, that makes these things possible by the mechanisms of bailouts. It is not just bailouts: government interference in general tends to remove skin in the game.
+>
+> ... The interventionista case is central to our story because it shows how absence of skin in the game has both ethical and epistemological effects (i.e., related to knowledge). We saw that interventionistas don’t learn because they are not the victims of their mistakes, and, as we hinted at with pathemata mathemata:
+>
+> The same mechanism of transferring risk also impedes learning... You will never fully convince someone that he is wrong; only reality can.
+>
+> ... There is no evolution without skin in the game.
+>
+> ... people don’t learn so much from their—and other people’s—mistakes; rather it is the system that learns by selecting those less prone to a certain class of mistakes and eliminating others." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
-> "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
-
-> "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+> "... risk transfer blows up systems. And the very idea of law, divine or otherwise, resides in fixing imbalances and remedying such asymmetries.
+>
+> ... Hammurabi’s law was posted on a basalt stele around 3,800 years ago in a central public place in Babylon, so every literate person could read it... It contains 282 laws and is deemed to be the first codification of our rule extant. The code has one central theme: it establishes symmetries between people in a transaction, so nobody can transfer hidden tail risk...
+>
+> ... Hammurabi’s best known injunction is as follows: “If a builder builds a house and the house collapses and causes the death of the owner of the house—the builder shall be put to death.”
+>
+> ... The well-known lex talionis, “an eye for one eye,” comes from Hammurabi’s rule. It is metaphorical, not literal: you don’t have to actually remove an eye—hence the rule is much more flexible than it appears at first glance." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
 > "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 

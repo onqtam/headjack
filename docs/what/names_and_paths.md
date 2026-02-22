@@ -88,3 +88,11 @@ Ethereum Name
 Service as NFTs
 
 https://imgflip.com/memegenerator/Buff-Doge-vs-Cheems -->
+
+
+
+<!--
+
+ZK - names/dns - a bunch of name ownership changes can be batched in mere index changes and the name operator has to submit a single ZK proof for all the changes, but if they don't do it then anyone who owns their account with private keys can directly interact with the name ownership
+
+-->

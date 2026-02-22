@@ -69,6 +69,8 @@ freedom & sovereignty are the foundation - you can have unfreedom within freedom
     everything we do will be legal, moral, and easily auditable
 you can't build something decentralized on centralization - only the other way around - you can build something centralized on top of decentralization
 
+sunlight is the best disinfectant - is that actually true? lol
+
 whether something is important depends on whether we can do something about it - how viable/realistic/costly it is, what the odds are
 
 cooper from interstellar: "It's not possible". "No, it's necessary".
@@ -2104,7 +2106,7 @@ Corruption happens through privatization
 Privatization is the basis for corruption
 
 Google - you organized nothing! you merely indexed - partially - and imperfectly
-Don’t be evil - google - **roleplay a trick with a vanishing coin - and even fail the trick and awkwardly remove the coin from your hand**
+Don’t be evil - google - **roleplay a trick with a vanishing coin - and even fail the trick and awkwardly remove the coin from your hand** - or **sweep it under a rug**
 How about “can’t be evil”
 
 
@@ -2311,6 +2313,9 @@ Epistemology - the study of how you know what you know
 I want neither smaller nor bigger government - I want better governance in every aspect and scale of society that’s not from the horse era - I want bette collective intelligence where more than just a single bit of information gets aggregated once every 4 years (“left” or “right”) - I’m pretty sure 1 bit every 4 years is insufficient for a system to be conscious
 
 You got me! I’m deeply religious to my core - it just so happens that I’m also religiously homeless and not a single option is anywhere close to being satisfactory. And I do believe in God - but not God as our creator - the jury is still out on that one - but a God that we bring into existence.
+Pantheism - universe as god
+Im religious to my core - and so are you whether you realize it or not
+I am religeous to my core
 
 Every organization builds self-justification systems but they need to all be coherent with and subjugated by a master self-justification system
 
@@ -2398,6 +2403,7 @@ Individualism and collectivism are defined in terms of one another - they are in
 
 Hey hey hey! Pay attention! Stop scrolling! We’re trying to take over the world over here! Make an impression of a brainrot face scrolling
 This is “how to take over the world 101” and you’re not paying attention?! TikTok can wait! Jesus… such a colossal misallocation of attention and retardation of the youth at scale
+you're being literally retarded!
 What a colossal misallocation of attention and potential
 Tiktok - you’re not only destroying your own life but also indirectly you’re diminishing the life of my kids and the kids of my friends and the kids of our kids by becoming a lesser version of yourself thanks to the thousands of psychologists of zucky and friends - staring at paint dry is infinitely better - so you rotting your brain is personal for me whoever you are - so I take it personal when your brain is rotting - whoever you are - you’re making the likes of this paperclip maximizer more powerful - show zuck in his swagger clothes or with the army of headsets - EVERYTHING is personal if the self includes everybody
 
@@ -2506,7 +2512,9 @@ I want to impregnate you with whatever this thing is that has conceptualized its
 
 I’m afraid of time
 
-Ok, fine, you dont want to call it a religion or an ideology… how about a worldview? A participatory society? I DONT CARE WHAT YOU CALL IT - deng quote here about catching mice
+engineered for emergence
+
+Ok, fine, you dont want to call it a religion or an ideology… how about a worldview? A philosophy? A participatory society? A transnational political project? I DONT CARE WHAT YOU CALL IT - deng quote here about catching mice
     **whisper** p.s. it's totally a religion
 
 “Why so serious” with the pie on the face instead of paint
@@ -2666,6 +2674,9 @@ Path to agi
 
 Take a red and blue pill together
 if you really wan to see the matrix you gotta take both the red and blue pill
+or better yet - take neither!
+
+secrecy is fragmentation is friction is lack of synergy
 
 
 
@@ -2736,7 +2747,7 @@ We need to help make people better. Ok, that’s actually supposed to not be con
 Human Engineering as a Service
 Human Upgrade
 
-I am religeous to my core
+
 
 “Understanding” - this film is itself an exercise of applying the principles of collective understanding
 
@@ -2851,14 +2862,10 @@ Understanding is a pattern
 That can be selectively abstracted and pattern matched elsewhere
 We think through our understanding - through our implicit explanatory models
 
-Baptism - washing away your sins, cleansing
-The act of registering is a form of baptism
-
 Father, forgive them, for they do not know what they are doing
 Father, forgive them, for they do not know what the fuck they are doing - do you understand that?
 https://youtu.be/DQR6FzduRO8?si=Mpsnx07P6L8MVFiV
 
-Im religious to my core - and so are you whether you realize it or not
 
 I realized recently than I am a cultural christian but I’m still religiously homeless because I just can’t get myself to believe stories - as incredible as they are - that are man-made - I’m sorry for not believing in something unbelievable - or actually I’m not even sorry - I’m just too much of a sucker for good epistemology
 
@@ -2900,6 +2907,6 @@ This co-creation is the most exciting thing in the world!
 
 Corpo inefficiency cant hide in the open
 
-
+you can benefit from someone's expressions and opinions without having to process them
 
 

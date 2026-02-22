@@ -596,6 +596,14 @@ look at this fucking shit - mandelbrot set - it keeps on going!
     https://thoughtforms.life/halleys-method-fractal-art/
 
 ██████████████████████████████████████████████████████████████████
+# skin in the game, symmetry
+██████████████████████████████████████████████████████████████████
+
+The Golden Rule of ethics says, *"Do unto others as you would have them do unto you."* (Matthew 7:12)
+
+**roleplay "I'm all about symmetry" and do an X with your hands showing the tats on the wrists - and then awkwardly hide the big tattoo on the left hand with the right hand**
+
+██████████████████████████████████████████████████████████████████
 # learning & prediction & credit assignment & collective intelligence
 ██████████████████████████████████████████████████████████████████
 
@@ -721,6 +729,8 @@ ignorance ==> selfishness
 self vs other
 separateness, fragmentation
 one/benefitting at the expense of another
+
+dostoyevsky brothers karamazov - "where there is no god everything is permitted"
 
 We don’t need to go beyond good and evil - they’re exactly what we need
 We've never gone beyond good and evil - because how could we - we need them more than ever!
@@ -884,7 +894,7 @@ Syntropic laws
 law #1: accountability shall scale with consequentiality
 
 law #2: subsidiarity?
-law #3: cooperation? non-coercive expansion of self?
+law #3: cooperation? non-coercive expansion of self? seduction & persuasion over/instead of coersion
 law #4: all evils are due to lack of knowledge and knowledge is created by seeking good explanations
 law # : problems are inevitable, problems are soluble - from beginning of infinity chapter 3
 law # : the truth consists of hard to vary assertions about reality
@@ -894,6 +904,7 @@ Syntropic law: make the omelette without breaking a few eggs
 Competence > loyalty
 Excessive unproductive rent seeking
 Intolerance only to the intolerant
+no walls to keep people inside by force/coersion
 
 
 -â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ The 10 themes of the Global Brain:
@@ -1002,6 +1013,17 @@ Hey boys, how’s the paradigm? - wear swimming goggles
 
 if you're one of the top 10000 (or 0.01%) software engineers on this planet and you want to build the future - find me!
 and actually almost anyone could contribute one way or another - I just want the most hardcore engineers on the planet for the absolute core of the system - namely the blockchain and the core that will house the state graph that will compute all of the views, but there will be plenty to do by plenty of people and companies. We need to get the core design right. there'll be a lot of work around content, marketing, project management and whatever - get involved.
+
+## register
+
+signing up is like being baptised - you participate in bringing into existence a more pure system with less epistemic contamination
+
+Baptism - washing away your sins, cleansing
+The act of registering is a form of baptism
+
+## read the readme
+
+say what to expect from the book
 
 ## download all files
 
