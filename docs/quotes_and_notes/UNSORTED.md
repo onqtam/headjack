@@ -6794,7 +6794,7 @@ Religion is a contractual agreement for solving certain kinds of problems
 
 
 
-
+YT lists - why can't we reorder elements in them? or sort them in some ways?
 
 
 

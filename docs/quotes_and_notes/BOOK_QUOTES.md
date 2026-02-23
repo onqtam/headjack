@@ -1128,8 +1128,6 @@ chapters read: 1, 3, 4, 7,
 >
 > " - [The Fabric of Reality, by David Deutsch](https://www.goodreads.com/book/show/177068.The_Fabric_of_Reality)
 
-^^ continue from "A phenomenon is ‘fundamental’ if a"...
-
 quantum physics Chapters 2, 9, 11, 12, 13, 14
 epistemology Chapters 3, 4, 7, 10, 13, 14
 the theory of computation Chapters 5, 6, 9, 10, 13, 14
@@ -1139,7 +1137,33 @@ read: 1, 3, 4, 7, 8, 10, 13, 14
 read: 1, 3, 4, 5, 6, 7, 8, 9, 10, 13, 14
 skipped because of too much quantum stuff: 2, 11, 12
 
-> "" - [The Fabric of Reality, by David Deutsch](https://www.goodreads.com/book/show/177068.The_Fabric_of_Reality)
+this chapter does not concern my book, but its way above my paygrade - its about proofs, certainty, and talks about Gödel & Penrose - starts from "Thanks to Gödel, we know that" and ends with "In all those respects I am on his side."
+
+> "**10 - The Nature of Mathematics**
+>
+> ... We can also see from the above discussion that proof is a physical process. In fact, a proof is a type of computation. ‘Proving’ a proposition means performing a computation which, if one has done it correctly, establishes that the proposition is true. When we use the word ‘proof’ to denote an object, such as an ink-on-paper text, we mean that the object can be used as a program for recreating a computation of the appropriate kind.
+>
+> It follows that neither the theorems of mathematics, nor the process of mathematical proof, nor the experience of mathematical intuition, confers any certainty. Nothing does. Our mathematical knowledge may, just like our scientific knowledge, be deep and broad, it may be subtle and wonderfully explanatory, it may be uncontroversially accepted; but it cannot be certain. No one can guarantee that a proof that was previously thought to be valid will not one day turn out to contain a profound misconception, made to seem natural by a previously unquestioned ‘self-evident’ assumption either about the physical world, or about the abstract world, or about the way in which some physical and abstract entities are related.
+>
+> ... A very similar mis-classification has been caused by the fundamental mistake that mathematicians since antiquity have been making about the very nature of their subject, namely that mathematical knowledge is more certain than any other form of knowledge. Having made that mistake, one has no choice but to classify proof theory as part of mathematics, for a mathematical theorem could not be certain if the theory that justifies its method of proof were itself uncertain. But as we have just seen, proof theory is not a branch of mathematics — it is a science. Proofs are not abstract. There is no such thing as abstractly proving something, just as there is no such thing as abstractly calculating or computing something.
+>
+> ... Computations, including the special computations that qualify as proofs, are physical processes. Proof theory is about how to ensure that those processes correctly mimic the abstract entities they are intended to mimic.
+>
+> ... Gödel distilled such assumptions into his explicit and tacit justification of his results. His results were self-evidently justified, not because they were ‘pure logic’ but because mathematicians found the assumptions self-evident.
+>
+> ... That mathematicians throughout the ages should have made various mistakes about matters of proof and certainty is only natural. The present discussion should lead us to expect that the current view will not last for ever, either. But the confidence with which mathematicians have blundered into these mistakes and their inability to acknowledge even the possibility of error in these matters are, I think, connected with an ancient and widespread confusion between the methods of mathematics and its subject-matter. Let me explain. Unlike the relationships between physical entities, relationships between abstract entities are independent of any contingent facts and of any laws of physics. They are determined absolutely and objectively by the autonomous properties of the abstract entities themselves. Mathematics, the study of these relationships and properties, is therefore the study of absolutely necessary truths. In other words, the truths that mathematics studies are absolutely certain. But that does not mean that our knowledge of those necessary truths is itself certain, nor does it mean that the methods of mathematics confer necessary truth on their conclusions. After all, mathematics also studies falsehoods and paradoxes. And that does not mean that the conclusions of such a study are necessarily false or paradoxical.
+>
+> Necessary truth is merely the subject-matter of mathematics, not the reward we get for doing mathematics. The objective of mathematics is not, and cannot be, mathematical certainty. It is not even mathematical truth, certain or otherwise. It is, and must be, mathematical explanation.
+>
+> ... But in principle the reliability of our knowledge of mathematics remains subsidiary to our knowledge of physical reality. Every mathematical proof depends absolutely for its validity on our being right about the rules that govern the behaviour of some physical objects, be they virtual-reality generators, ink and paper, or our own brains.
+>
+> So mathematical intuition is a species of physical intuition. Physical intuition is a set of rules of thumb, some perhaps inborn, many built up in childhood, about how the physical world behaves. For example, we have intuitions that there are such things as physical objects, and that they have definite attributes such as shape, colour, weight and position in space, some of which exist even when the objects are unobserved. Another is that there is a physical variable — time — with respect to which attributes change, but that nevertheless objects can retain their identity over time. Another is that objects interact, and that this can change some of their attributes. Mathematical intuition concerns the way in which the physical world can display the properties of abstract entities. One such intuition is that of an abstract law, or at least an explanation, that underlies the behaviour of objects. The intuition that space admits closed surfaces that separate an ‘inside’ from an ‘outside’ may be refined into the mathematical intuition of a set, which partitions everything into members and non-members of the set. But further refinement by mathematicians (starting with Russell’s refutation of Frege’s set theory) has shown that this intuition ceases to be accurate when the sets in question contain ‘too many’ members (too large a degree of infinity of members).
+>
+> ... However, it is physics that allows us to gain knowledge of this realm. And it imposes stringent constraints. Whereas everything in physical reality is comprehensible, the comprehensible mathematical truths are precisely the infinitesimal minority which happen to correspond exactly to some physical truth — like the fact that if certain symbols made of ink on paper are manipulated in certain ways, certain other symbols appear. That is, they are the truths that can be rendered in virtual reality. We have no choice but to assume that the incomprehensible mathematical entities are real too, because they appear inextricably in our explanations of the comprehensible ones.
+>
+> ... **SUMMARY**
+>
+> Abstract entities that are complex and autonomous exist objectively and are part of the fabric of reality. There exist logically necessary truths about these entities, and these comprise the subject-matter of mathematics. However, such truths cannot be known with certainty. Proofs do not confer certainty upon their conclusions. The validity of a particular form of proof depends on the truth of our theories of the behaviour of the objects with which we perform the proof. Therefore mathematical knowledge is inherently derivative, depending entirely on our knowledge of physics. The comprehensible mathematical truths are precisely the infinitesimal minority which can be rendered in virtual reality. But the incomprehensible mathematical entities (e.g. Cantgotu environments) exist too, because they appear inextricably in our explanations of the comprehensible ones." - [The Fabric of Reality, by David Deutsch](https://www.goodreads.com/book/show/177068.The_Fabric_of_Reality)
 
 > "" - [The Fabric of Reality, by David Deutsch](https://www.goodreads.com/book/show/177068.The_Fabric_of_Reality)
 
@@ -5203,7 +5227,31 @@ concepts thus entail directives.
 >
 > ... Hammurabi’s best known injunction is as follows: “If a builder builds a house and the house collapses and causes the death of the owner of the house—the builder shall be put to death.”
 >
-> ... The well-known lex talionis, “an eye for one eye,” comes from Hammurabi’s rule. It is metaphorical, not literal: you don’t have to actually remove an eye—hence the rule is much more flexible than it appears at first glance." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+> ... The well-known lex talionis, “an eye for one eye,” comes from Hammurabi’s rule. It is metaphorical, not literal: you don’t have to actually remove an eye—hence the rule is much more flexible than it appears at first glance.
+>
+> ... Avoid taking advice from someone who gives advice for a living, unless there is a penalty for their advice.
+>
+> Recall the earlier comment on how “I trust you” straddles both ethics and knowledge. There is always an element of fools of randomness and crooks of randomness in matters of uncertainty; one has a lack of understanding, the second has warped incentives. One, the fool, takes risks he doesn’t understand, mistaking his own past luck for skills, the other, the crook, transfers risks to others. Economists, when they talk about skin in the game, are only concerned with the second.
+>
+> ... Skin in the game helps to solve the Black Swan problem and other matters of uncertainty at the level of both the individual and the collective: what has survived has revealed its robustness to Black Swan events and removing skin in the game disrupts such selection mechanisms.
+>
+> ... Those who talk should do and only those who do should talk.
+>
+> ... Skin in the Game was a segment of Antifragile under the banner: Thou shalt not become antifragile at the expense of others. Simply, asymmetry in risk bearing leads to imbalances and, potentially, to systemic ruin." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+
+> "**chapter 1**
+>
+> ... Diogenes held that the seller ought to disclose as much as civil law requires. As for Antipater, he believed that everything ought to be disclosed—beyond the law—so that there was nothing that the seller knew that the buyer didn’t know. Clearly Antipater’s position is more robust—robust being invariant to time, place, situation, and color of the eyes of the participants. Take for now that
+>
+> *The ethical is always more robust than the legal. Over time, it is the legal that should converge to the ethical, never the reverse.* Hence: *Laws come and go; ethics stay.*
+>
+> ... Sharia establishes the interdict of *gharar*, drastic enough to be totally banned in any form of transaction. It is an extremely sophisticated term in decision theory that does not exist in English; it means both uncertainty and deception—my personal take is that it means something beyond informational asymmetry between agents: *inequality of uncertainty*. Simply, as the aim is for both parties in a transaction to have the same uncertainty facing random outcomes, an asymmetry becomes equivalent to theft. Or more robustly:
+>
+> *No person in a transaction should have certainty about the outcome while the other one has uncertainty.*
+>
+> *Gharar*, like every legalistic construct, will have its flaws; it remains weaker than Antipater’s approach. If only one party in a transaction has certainty all the way through, it is a violation of Sharia. But if there is a weak form of asymmetry, say, someone has inside information which gives an edge in the markets, there is no *gharar* as there remains enough uncertainty for both parties, given that the price is in the future and only God knows the future. Selling a defective product (where there is certainty as to the defect), on the other hand, is illegal. So the knowledge by the seller of corn in Rhodes in my first example does not fall under *gharar*, while the second case, that of a defective liquid, would.
+>
+> ... Jewish ethics on the matter is closer to Antipater than Diogenes in its aims at transparency. Not only should there be transparency concerning the merchandise, but perhaps there has to be transparency concerning what the seller has in mind, what he thinks *deep down*." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
 > "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
@@ -5223,11 +5271,7 @@ concepts thus entail directives.
 
 > "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
-> "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
-
-> "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
-
-> "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+> "Replacing the “natural,” that is age-old, processes that have survived trillions of high-dimensional stressors with something in a “peer-reviewed” journal that may not survive replication or statistical scrutiny is neither science nor good practice. At the time of writing, science has been taken over by vendors using it to sell products (like margarine or genetically modified solutions) and, ironically, the skeptical enterprise is being used to silence skeptics." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
 
 

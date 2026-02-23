@@ -667,6 +667,7 @@ Optimal synthesis between individualism and collectivism
 
 
 Moral high ground as a service
+    **roleplay sitting on something high**
 Bottom up
 50% of carbon emissions from the richest 1%
 The other major carbon emitter is militarism - not to mention all the other negatives and wastefulnes and misallocation of human capital
@@ -2475,6 +2476,7 @@ Democratic Broadcast
 Evolve how we evolve
 
 Information asymmetry ==> market failure
+openness ==> symmetry
 
 No, the system does not generate the understanding of why you should care about others and their value to you - nowhere are the explicit causal links and accompanying justifications/explanations
 
@@ -2514,7 +2516,7 @@ I’m afraid of time
 
 engineered for emergence
 
-Ok, fine, you dont want to call it a religion or an ideology… how about a worldview? A philosophy? A participatory society? A transnational political project? I DONT CARE WHAT YOU CALL IT - deng quote here about catching mice
+Ok, fine, you dont want to call it a religion or an ideology… how about a worldview? A philosophy? A participatory society? A transnational political/socioeconomic project? I DONT CARE WHAT YOU CALL IT - deng quote here about catching mice
     **whisper** p.s. it's totally a religion
 
 “Why so serious” with the pie on the face instead of paint
@@ -2909,4 +2911,5 @@ Corpo inefficiency cant hide in the open
 
 you can benefit from someone's expressions and opinions without having to process them
 
+reels/shorts from a specific domain/collective
 

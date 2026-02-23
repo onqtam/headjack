@@ -28,6 +28,8 @@ biggest risk: too complex for the masses
 
 "hello mr neo"
 
+philosopher king - on your head
+
 Redact book quotes
 
 use a storyboard and put yourself in the shoes of the viewer
@@ -601,7 +603,9 @@ look at this fucking shit - mandelbrot set - it keeps on going!
 
 The Golden Rule of ethics says, *"Do unto others as you would have them do unto you."* (Matthew 7:12)
 
-**roleplay "I'm all about symmetry" and do an X with your hands showing the tats on the wrists - and then awkwardly hide the big tattoo on the left hand with the right hand**
+<!-- *1  “Do not do unto others what you would not have them do unto you” (Isocrates, Hillel the Elder, Mahabharata). “What is hateful to you, do not do to your fellow: this is the whole Torah; the rest is the explanation; go and learn.” Rabbi Hillel the Elder drawing on Leviticus 19:18. “Do nothing to others which if done to you would cause you pain. This is the essence of morality.” -->
+
+**roleplay "I'm all about symmetry" and do an X with your hands showing the tats on the wrists - and then awkwardly hide the big tattoo on the left hand with the right hand - look at one and then the other and gulp**
 
 ██████████████████████████████████████████████████████████████████
 # learning & prediction & credit assignment & collective intelligence
@@ -890,13 +894,16 @@ Syntropy
     A tendency towards complexity, structure, order, and organization of ever more advantageous and orderly patterns. Originally coined as a synonym for negentropy (the opposite of entropy)
     often contrasted with the concept of entropy
 
-Syntropic laws
+Syntropic laws - symmetry
 law #1: accountability shall scale with consequentiality
+
+Thou shalt ... not ...
+- make information open, coherent & integrated
 
 law #2: subsidiarity?
 law #3: cooperation? non-coercive expansion of self? seduction & persuasion over/instead of coersion
 law #4: all evils are due to lack of knowledge and knowledge is created by seeking good explanations
-law # : problems are inevitable, problems are soluble - from beginning of infinity chapter 3
+law # : problems are inevitable, problems are soluble - from beginning of infinity chapter 3 <== NOT REALLY A RULE but a maxim?
 law # : the truth consists of hard to vary assertions about reality
 law # : you can fight incentives only with incentives - incentives determine behavior - behavior is driven by incentives
 
@@ -906,6 +913,7 @@ Excessive unproductive rent seeking
 Intolerance only to the intolerant
 no walls to keep people inside by force/coersion
 
+openness, coherence, integration
 
 -â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ The 10 themes of the Global Brain:
 
@@ -1020,6 +1028,10 @@ signing up is like being baptised - you participate in bringing into existence a
 
 Baptism - washing away your sins, cleansing
 The act of registering is a form of baptism
+
+## convert others - spread the word
+
+**I want YOU to send this to your friends!**
 
 ## read the readme
 
