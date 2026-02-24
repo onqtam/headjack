@@ -2516,10 +2516,8 @@ I’m afraid of time
 
 engineered for emergence
 
-Ok, fine, you dont want to call it a religion or an ideology… how about a worldview? A philosophy? A participatory society? A transnational political/socioeconomic project? I DONT CARE WHAT YOU CALL IT - deng quote here about catching mice
+Ok, fine, you dont want to call it a religion or an ideology… how about a worldview? A philosophy? A paradigm? A participatory society? A transnational political/socioeconomic project? I DONT CARE WHAT YOU CALL IT - deng quote here about catching mice
     **whisper** p.s. it's totally a religion
-
-“Why so serious” with the pie on the face instead of paint
 
 We’re not living in a 3D or 4D world - there are 8 billion of dimensions of human experience and how we produce coherence out of them is all that matters
 
@@ -2753,7 +2751,7 @@ Human Upgrade
 
 “Understanding” - this film is itself an exercise of applying the principles of collective understanding
 
-Halal as a Service
+Halal/Kosher as a Service
 
 You can only have progress with error correction
 
@@ -2773,7 +2771,7 @@ God is the Oracle
 
 we should help people find their optimal way of helping other people
 
-Halal to Haram (forbidden) spectrum
+Halal/Kosher to Haram/? (forbidden) spectrum
 
 Nothing can integrate people better and faster than religion
 
@@ -2864,12 +2862,15 @@ Understanding is a pattern
 That can be selectively abstracted and pattern matched elsewhere
 We think through our understanding - through our implicit explanatory models
 
+They've been accumulating property for so long
+They've been chasing money for so long
 Father, forgive them, for they do not know what they are doing
 Father, forgive them, for they do not know what the fuck they are doing - do you understand that?
 https://youtu.be/DQR6FzduRO8?si=Mpsnx07P6L8MVFiV
 
 
 I realized recently than I am a cultural christian but I’m still religiously homeless because I just can’t get myself to believe stories - as incredible as they are - that are man-made - I’m sorry for not believing in something unbelievable - or actually I’m not even sorry - I’m just too much of a sucker for good epistemology
+    or don't mention this at all
 
 Things jesus taught - google all of them:
 - Love your enemies
@@ -2912,4 +2913,6 @@ Corpo inefficiency cant hide in the open
 you can benefit from someone's expressions and opinions without having to process them
 
 reels/shorts from a specific domain/collective
+
+when the abstract is way too abstract - that simply means we need better explanations, communication and tactics
 

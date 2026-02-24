@@ -5,6 +5,10 @@ https://www.google.com/search?q=keiretsu
 > "The economy is (tacit) knowledge & knowhow in the brains of people about how to do things in the real world." - Ricardo Hausmann
 
 
+so much volatility stems from the separateness of liquidity and valuation
+> "The market is like a large movie theater with a small door." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+
+
 As John Maynard Keynes wrote in the conclusion of his General Theory of Employment, Interest and Money, “The ideas of economists and political philosophers, both when they are right and when they are wrong, are more powerful than is commonly understood. Indeed, the world is ruled by little else.”
 From John Maynard Keynes’s 1936 The General Theory of Employment, Interest and Money, ch 24, part V.
 
@@ -1464,10 +1468,14 @@ we can tax industries through stigma alone - limiting their market
 
 
 
+## Theory of the Firm
+
 Roland Coase
 The nature of the firm
 higher trust because of reputation & accountability => easier to "hire" others
 also onboarding is easier if everything is out in the open - including the best materials to onboard someone and get him up to speed + building coherence with others
+
+> "Coase was the first to shed light on why firms exist. For him, contracts can be too costly to negotiate due to transaction costs; the solution is to incorporate your business and hire employees with clear job descriptions because you can’t afford legal and organizational bills for every transaction. A free market is a place where forces act to determine specialization, and information travels via price point; but within a firm these market forces are lifted because they cost more to run than the benefits they bring. So market forces will cause the firm to aim for the optimal ratio of employees and outside contractors." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
 
 > "Coase published a paper titled “The Nature of the Firm.” Not long before, Coase had made a visit to the United States during which he toured Ford and General Motors. The industrial behemoths left him puzzled. How, he wondered, could economists say that Stalin was mistaken to run the Soviet Union like one gigantic company when Henry Ford and Alfred P. Sloan, Jr., ran their own gigantic companies in similar ways? After all, the marketplace is theoretically the best mechanism for matching supply with demand, establishing prices, and extracting maximum utility from finite resources. So why don’t all individuals act as individual buyers and sellers, rather than gather in companies with tens of thousands of coworkers?

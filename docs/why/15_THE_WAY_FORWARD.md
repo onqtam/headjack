@@ -1002,6 +1002,8 @@ https://x.com/BoredElonMusk/status/1766820166871236746/photo/1
 
 "Never doubt that a group of people can change the world. Indeed that is all that ever has." - Margaret Mead
 
+> "This large payoff from stubborn courage is not limited to the military. “Never doubt that a small group of thoughtful citizens can change the world. Indeed, it is the only thing that ever has,” wrote Margaret Mead. Revolutions are unarguably driven by an obsessive minority. And the entire growth of society, whether economic or moral, comes from a small number of people." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+
 > "Men are not prisoners of fate, but only prisoners of their own minds." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/45529-men-are-not-prisoners-of-fate-but-only-prisoners-of)
 
 Turn on, tune in, drop out

@@ -215,7 +215,7 @@ Who are you to tell me how to behave and express myself - when was the last time
     from the studio and not mt. sinai:
         even though the first version is far from perfect
     Thug life glasses after showing the sinai selfie, don't say anything
-Oops you just caught me maximizing my utilitarian happiness
+Oops you just caught me maximizing my utilitarian pleasure/happiness
 I’m not trying to appeal to those that have already rendered themselves subservient to the system - I’m appealing to the young who are neuroplastic and have nothing to lose but everything to gain. I’m appealing to the only future of humanity - the next generation. Build and reconceptualize your future because if you don’t - nobody else will. You need to create your own new status hierarchy and attention economy and reshape culture - literally everything else will follow from that. Someone needs to run the system - you will inherit it, but you can build the future regulatory structure. The structure of information flows will determine the fate of the universe. There are no adults in the room - only coopted and lobotomized conspicuously consumptive slaves digging the graves of their future generations.
 Show a bunch of graphs from reality check
 
@@ -263,6 +263,7 @@ the only reason that keeps happening to them is because we tolerate that being d
 > "Opportunists are promoted, realists are co-opted, idealists are frightened and radicals are shot." - [Heather Marsh](https://www.goodreads.com/quotes/7996445-opportunists-are-promoted-realists-are-co-opted-idealists-are-frightened-and)
 Draw a circle on your forehead and then makeup yourself like the joker and ask - why so serious and hold the camera and laugh - lets put a target on that face - you think this is dangerous for me? I think the status quo is dangerous for everyone
     use a match cut multiple times as I'm putting on the white paint while talking the preamble before "why so serious"
+    “Why so serious” with the pie on the face instead of paint
     white paint joker
         https://www.kuku-bg.com/?term=&s=%D0%B1%D0%BE%D1%8F+%D0%B1%D1%8F%D0%BB%D0%B0&post_type=product&taxonomy=product_cat
         https://maps.app.goo.gl/8hZCVczuyZ5UL3XV7
@@ -911,7 +912,7 @@ Syntropic law: make the omelette without breaking a few eggs
 Competence > loyalty
 Excessive unproductive rent seeking
 Intolerance only to the intolerant
-no walls to keep people inside by force/coersion
+no walls to keep people inside by force/coersion - apostasy is kosher - you can leave at any time!
 
 openness, coherence, integration
 
