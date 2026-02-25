@@ -5323,7 +5323,21 @@ intolerance to the intolerant
 >
 > So, we need to be more than intolerant with some intolerant minorities. Simply, they violate the Silver Rule (aka the Negative Golden Rule, Do not do to others what you don’t want them to do to you / Do not treat others the way you would not like them to treat you). It is not permissible to use “American values” or “Western principles” in treating intolerant Salafism (which denies other peoples’ right to have their own religion). The West is currently in the process of committing suicide." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
-> "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+on wahhabi/salafi islam - not sure how to use this
+
+> "We saw the effect with the Vietnam War. Most people (sort of) believed that certain courses of action were absurd, but it was easier to continue than to stop—particularly since one can always spin a story explaining why continuing is better than stopping (the backfitting story of sour grapes now known as cognitive dissonance). We have been witnessing the same problem in the U.S. attitude toward Saudi Arabia. It is clear since the attack on the World Trade Center (in which most of the attackers were Saudi citizens) that someone in that nonpartying kingdom had a hand—somehow—in the matter. But no bureaucrat, fearful of oil disruptions, made the right decision—instead, the absurd invasion of Iraq was endorsed because it appeared to be simpler.
+>
+> Since 2001 the policy for fighting Islamic terrorists has been, to put it politely, missing the elephant in the room, sort of like treating symptoms and completely missing the disease. Policymakers and slow-thinking bureaucrats stupidly let terrorism grow by ignoring its roots—because that was not a course that was optimal for their jobs, even if optimal for the country. So we lost a generation: someone who went to grammar school in Saudi Arabia (our “ally”) after September 11 is now an adult, indoctrinated into believing and supporting Salafi violence, hence encouraged to finance it. Even worse, the Wahhabis have accelerated their brainwashing of East and West Asians with their madrassas, thanks to high oil revenues. Instead of invading Iraq or blowing up “Jihadi John” and other individual terrorists, thus causing a multiplication of these agents, it would have been better to focus on the source of the problems: Wahhabi/Salafi education and the promotion of intolerant beliefs according to which a Shiite or an Ezidi or a Christian are deviant people. But, to repeat, this is not a decision that can be made by a collection of bureaucrats with a job description." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+
+on whistleblowing and how costly it could be - take only the essence of it
+
+> "Imagine working for a corporation that produces a (so far) hidden harm to the community, in concealing a cancer-causing property that kills thousands by an effect that is not (yet) fully visible. You could alert the public, but you would automatically lose your job. There is a risk that the company’s evil scientists would disprove you, causing additional humiliation. You are aware of what Monsanto shills did to the French scientist Gilles-Éric Séralini, who, until he won his defamation suit, lived in total scientific disgrace, the reputational equivalent of leprosy. Or the news will come and go and you may end up being ignored. You are familiar with the history of whistleblowers, which shows that even if you end up vindicated, it may take time for the truth to emerge over the noise created by corporate shills. Meanwhile you will pay the price. A smear campaign against you will destroy any hope of getting another job.
+>
+> You have nine children, a sick parent, and as a result of taking a stand, your children’s future may be compromised. Their college hopes will evaporate—you may even have trouble feeding them properly. You are severely conflicted between your obligation to the collective and to your progeny. You feel you are part of the crime, and unless you do something, you are an agent: thousands are dying from the hidden poisoning by the corporation. Being ethical comes at a huge cost to others.
+>
+> ... To make ethical choices you cannot have dilemmas between the particular (friends, family) and the general.
+>
+> ... A celibacy requirement might help with rebellious causes, but it isn’t the greatest way to multiply your sect through the ages." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
 > "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
@@ -5332,6 +5346,14 @@ intolerance to the intolerant
 > "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
 > "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+
+> "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+
+> "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+
+“The physicist and complexity researcher Yaneer Bar-Yam showed quite convincingly that “better fences make better neighbors”—something both “policymakers” and local governments fail to get about the Near East.”
+Nassim Nicholas Taleb, Skin in the Game: Hidden Asymmetries in Daily Life
+https://www.goodreads.com/quotes/10928631-the-physicist-and-complexity-researcher-yaneer-bar-yam-showed-quite-convincingly
 
 > "Replacing the “natural,” that is age-old, processes that have survived trillions of high-dimensional stressors with something in a “peer-reviewed” journal that may not survive replication or statistical scrutiny is neither science nor good practice. At the time of writing, science has been taken over by vendors using it to sell products (like margarine or genetically modified solutions) and, ironically, the skeptical enterprise is being used to silence skeptics." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 

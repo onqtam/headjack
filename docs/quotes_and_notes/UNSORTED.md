@@ -9,6 +9,9 @@ http://bach.ai/pub/Bach%20-%20Cortical%20Conductor%20Theory%20(BICA%202018).pdf
 TESTING THE MACHINE CONSCIOUSNESS HYPOTHESIS
 https://arxiv.org/abs/2512.01081
 
+The explanatory nature of constraints: Law-based, mathematical, and causal
+https://philsci-archive.pitt.edu/18504/
+https://philsci-archive.pitt.edu/18504/1/Constraints_Ross.pdf
 
 An Integrated World Modeling Theory (IWMT) of Consciousness: Combining Integrated Information and Global Neuronal Workspace Theories With the Free Energy Principle and Active Inference Framework; Toward Solving the Hard Problem and Characterizing Agentic Causation
 https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2020.00030/full
@@ -70,6 +73,7 @@ Paul Feyerabend
 > "" - [The Darwinian Trap: The Hidden Evolutionary Forces That Explain Our World, by Kristian Rönn](https://www.goodreads.com/book/show/204316964-the-darwinian-trap)
 
 
+> "Every now and then I remember that EOS raised over $4 billion dollars" - [Dmitriy Berenzon](https://x.com/dberenzon/status/2026397866022023576)
 
 
 

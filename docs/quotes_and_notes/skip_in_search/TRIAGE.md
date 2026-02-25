@@ -1057,7 +1057,20 @@ stick around as we'll gradually explore the different aspects of the system - th
 
 so am I a hard line consequentialist? a utilitarian? no! I'm not going to kidnap someone and harvest him for his organs to save a few others - its a complicated mix of different schools of thought
     one could argue that the other schools of thought in ethics could be analyzed consequentially...
+    FROM AI: both virtue ethics and deontology can be viewed through the prism of consequentialism, a philosophical approach often referred to as "consequentializing" or "indirect consequentialism". This perspective suggests that these theories, while fundamentally different in their focus (character or rules), are effective, practical strategies for maximizing good outcomes, particularly when actors are limited in their ability to calculate the consequences of every single act.
+    Synthesis: Instead of trying to calculate the best action in every situation, it is often more effective to develop a stable, virtuous character. This "habituation" produces better consequences over the long term (e.g., honest people create trust, which improves society).
+    Synthesis: A rule like "do not lie" is generally the best rule for society, even if lying in a specific case might seem to have a better outcome. Thus, obeying deontological duties can be seen as an indirect way of maximizing welfare.
+    Why they are still technically different
+    While they can be viewed through this prism, they are not strictly equivalent. The crucial distinction is about foundational priority: 
+    Consequentialism: Consequences are the only thing that matters.
+    Deontology/Virtue Ethics: These theories believe that duties or virtues have value independent of consequences.
+    In short, while you can argue that deontology and virtue ethics are the best ways to bring about good results, the theories themselves deny that the reason to be virtuous or follow duty is merely to produce a good outcome.
+    Consequentialism is the broad ethical theory that the morality of an action is judged solely by its consequences, while utilitarianism is a specific, popular type of consequentialism that defines the best consequence as maximizing overall happiness or "utility" (pleasure minus pain). All utilitarians are consequentialists, but not all consequentialists are utilitarians. 
 
+
+
+
+Self-other, evil, unaacountability, CC - all related
 
 market vs company boundry - theory of the firm
 theory of the firm, ronald coase
@@ -2547,6 +2560,7 @@ If businesses were ran entirely open and transparent it would be self-evident if
 
 So what - god created the universe and now what - he’s eating popcorn ?! **stuff my face with popcorn and point at something and smile in disbelief** I serve a god that actually needs me and serves me in return - now that’s a real relationship with god
     God - popcorn - start slappig your leg
+    “The Son of God shares our nature so we can share His; as He has us in Him, so we have Him in us.”—Chrysostom
 
 
 
@@ -2915,4 +2929,26 @@ you can benefit from someone's expressions and opinions without having to proces
 reels/shorts from a specific domain/collective
 
 when the abstract is way too abstract - that simply means we need better explanations, communication and tactics
+
+
+
+You might think that the current system is an immovable object but I’m presenting an unstoppable force
+
+War is an autoimmune disease
+
+Inversion: From race to the bottom to race to the top
+
+
+If one collective becomes radically open, some of their fruits will be copied by others without any reciprocity, but some aspects will not be copyable without reform, and if the others do reform they’d be gradually becoming similar and converging towards the open ones which is what the open ones should want anyway. Openness can lead to cultural hegemony
+
+cultural hegemony
+
+What’s the fastest path for someone to meaningfully contribute?
+
+The world will continue getting more complex faster and faster and more of the work will continue to get automated - rendering people increasingly confused, powerless and unnecessary - the only sensible course of action is to double down on human development so that they can remain relevant and not self-destruct (and why not even thrive?). This is universally true for all people.
+
+My ultimate job is to explain what needs to be done such that you can understand it and spread it. That’s it. I don’t have to code it - all I have to do is convince you to want to spread it. I’m the spark of a chain reaction. I actively don’t want to be necessary and I will be engaged only to the degree that it’s necessary.
+
+Our potential is staggering and the delta is tragic/catastrophic
+
 
