@@ -2956,3 +2956,10 @@ Our potential is staggering and the delta is tragic/catastrophic
 
 let's get brainwashed together - singing Kumbaya
 
+we need an informational immune system - what is "not-us" - and for that we need ranking and perception
+
+narcissism & self-obsession. narcissism is more than selfishness - shallowness, keeping options open, incapacity for loyalty, fear of committing to things, a dislike of dependance with others. our social conditions bring out these traits that are present to varying degrees in everyone. we all have this inherent capacity but the current conditions have made it so that more of us lean in that direction than in the past
+religion & meaning have been substituted with therapy, and therapists talk about meaning & love in terms of fulfilling the patient's emotional requirements - its almost never about subordinating oneself into the need of others or some larger cause or tradition.
+^^ all this is taken from here: Are we more narcissistic than before？A review of The Culture of Narcissism by Christopher Lasch [3fCrIBKTzpo]
+
+

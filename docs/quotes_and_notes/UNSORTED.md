@@ -79,7 +79,7 @@ Paul Feyerabend
 
 the generative tension between collective agency and individual autonomy increases the adaptive capacity of a society.
 
-
+what if we gave a bigger weight to the votes of people who have kids in matters that are more long-term?
 
 Einstein remarked, ‘My pencil and I are more clever than I.’
 

@@ -5347,7 +5347,9 @@ what if bonuses weren't given immediately but had multi year vesting? what if bo
 >
 > ... You do not create dynamic equality just by raising the level of those at the bottom, but rather by making the rich rotate—or by forcing people to incur the possibility of creating an opening.
 >
-> The way to make society more equal is by forcing (through skin in the game) the rich to be subjected to the risk of exiting from the 1 percent." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+> The way to make society more equal is by forcing (through skin in the game) the rich to be subjected to the risk of exiting from the 1 percent.
+>
+> Our condition here is stronger than mere income mobility. Mobility means that someone can become rich. The no-absorbing-barrier condition means that someone who is rich should never be certain to stay rich." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
 > "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
@@ -5399,6 +5401,7 @@ on functionalism - no need to re-read for my book
 > And we have to think about purpose and function when it comes to biology, or engineering, or AI. How else could we understand what kidneys do? Or hope to engineer an artificial kidney? Or a heart, a retina, a visual cortex, even a whole brain? Seen this way, a living organism is a composition of functions. Which means that it is, itself, a function!" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
 
 symbiogenesis
+TODO: re-read the chapter & prepend the parts about Margulis
 
 > "This is “symbiogenesis,” the creation or genesis of a new kind of entity out of a novel “symbiosis,” or mutually beneficial relationship, among pre-existing entities.
 >
@@ -5425,6 +5428,60 @@ reproduction & replication & DNA
 > Instructions for building any additional non-reproductive machinery could also be encoded on the tape, so it would even be possible for a replicator to build something more complex than itself. A seed, or a fertilized egg, illustrates the point. Even more fundamentally, encoding the instructions to build oneself in a form that is itself replicated (the tape) is the key to open-ended evolvability, meaning the ability for evolution to select for an arbitrary design change, and for that change to be inherited by the next generation.
 >
 > Remarkably, von Neumann described these requirements for an evolvable, self-replicating machine before the discovery of DNA’s structure and function. Nonetheless, he got it exactly right. For life on Earth, DNA is the tape; DNA polymerase, which copies DNA, is “machine B”; and ribosomes, which build proteins by following the sequentially encoded instructions on DNA, are “machine A.” Ribosomes and DNA polymerase are made of proteins whose sequences are, in turn, encoded in our DNA and manufactured by ribosomes. That is how life lifts itself up by its own bootstraps." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+> "The free energy of a system is the amount of work it can be made to do. Far from equilibrium, when the entropy is low, much of the kinetic energy in the billiard balls is “free”; it can be used to move pistons, raise weights, produce electric currents, carry out computations, or drive metabolic processes. But at equilibrium, the entropy is maximized, and the free energy is zero. This insight into the relationship between energy, entropy, and work lies at the heart of thermodynamics—and life." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+symbiosis & functionalism
+
+> "In a way, symbiosis is the very essence of functionality. When we talk about a kidney’s function only making sense in context, we mean that it is in symbiosis with other functions—like those of the liver (breaking ammonia down into urea), the heart (pumping blood), and so on. Each of these functions is purposive precisely because its inputs are the outputs of others, its outputs are inputs to others, and thus they form a network of dynamically stable cycles.
+>
+> The same is true of larger, planetary-scale interrelationships. The “purpose” of plants, from the perspective of animal life, is to produce oxygen and sugar, which we breathe and eat. The “purpose” of animals, from a plant’s perspective, is to turn the oxygen back into carbon dioxide, and provide compost and pollination. Our growing understanding of life as a self-reinforcing dynamical process boils down not to things, but to networks of mutually beneficial relationships. At every scale, life is an ecology of functions.
+>
+> Because functions can be expressed computationally, we could even say that life is code. Individual computational instructions are the irreducible quanta of life—the minimal replicating set of entities, however immaterial and abstract they may seem, that come together to form bigger, more stable, and more complex replicators, in ever-ascending symbiotic cascades." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+> "... some of bff’s predictions are quite different from those of classical Darwinian theory:
+>
+> 1. Bff suggests that symbiogenesis is a more important driver of evolutionary innovation than random mutation.
+>
+> 2. Since symbiogenesis must involve combinations of pre-existing dynamically stable entities, we should expect complex replicating entities to emerge after (and be made of) simpler ones. 
+>
+> 3. As a result, zooming in on sub-replicators within a larger replicator should allow us to peer back in evolutionary time.
+>
+> These phenomena should sound familiar! They’re all consistent with Lynn Margulis’s observations, which flew in the face of twentieth-century biological orthodoxy, but are now, if not mainstream, at least gaining respectability." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+chapter 1 - virality - incredible chapter - horizontal gene transfer HGT
+
+> "Viruses could, in other words, work like an out-of-body immune system. Within our bodies, our immune systems seek out and destroy cells that are recognized as “not-us.” Outside our bodies, “our” viruses could be similarly seeking out and destroying whole animals who are recognized as “not-us.” Once a virus becomes endemic to a new population, though—even if it initially kills many—it will differentiate, co-adapt, and perhaps eventually go native.
+>
+> ... By sheer volume, our DNA appears to be made primarily of the layered remnants of many such past fusions. It seems clear that transposable elements and “endogenous viral elements” or EVEs have done much more editing of our genome in recent evolutionary history than mutation has. And they have been at this for a long, long time. Based on the best available evidence, viruses are at least as old as the Last Universal Common Ancestor, if not older.
+>
+> This ongoing ecology of mobile, self-reproducing, and even infectious genes causes the supposed “tree of life” to continue entangling with itself in the oddest ways. Fully a quarter of the cow genome, for instance, consists of copies of the retrotransposon BovB. BovB appears to have leapt many times between species to create a phylogenetic tree of its own, a “bizarre parallel universe where cows are more closely related to snakes than to elephants, and where one gecko is more closely related to horses than to other lizards.” These are instances of “horizontal gene transfer” (HGT), long associated with bacteria, but clearly more universal.
+>
+> Whether a bit of new DNA is acting in the moment as friend, foe, or somewhere in between is just a matter of where on the symbiotic trajectory it falls. When brand new, it’s unlikely to be friendly. But if it has persisted for a long time, and especially if it has become endogenous, its dynamic stability implies that it will have become non-lethal or even friendly due to combined evolutionary pressures on host, invader, and “host plus invader” as a “holobiont” or symbiotically fused entity. If some gene or other functionality in the fused code proves valuable to the larger whole, that functionality will be conserved, even as the sub-replicator’s reproductive capability degrades and eventually vanishes. Perhaps that is how new genetic functionality arises in general.
+>
+> In this light, random point mutation can even be seen as something like a minimal abiogenesis event, creating a tiny parasitic “life form” within the genome. On its own, it would of course be unable to reproduce, since it possesses no independent reproductive machinery; then again, neither does a virus. So, like a virus, a mutation can reproduce—using the host’s resources, which will copy it along with everything else. When introduced into the genome of a sophisticated existing organism, such a tiny, random entity is unlikely to be friendly, though. As with any larger invasion, the mutation will either damage or kill its host (and itself, in the bargain) or achieve dynamic stability, either by being neutral or (occasionally) helpful.
+>
+> Hence, just as replicator thermodynamics encompasses classical thermodynamics as a special case, **evolution via symbiogenesis can encompass classical Darwinian theory as a special case. Point mutation is unlikely to be the main driver of evolution once life has taken off because it’s so much weaker and slower on its own than higher-order symbiogenesis. Unlike point mutation, a chunk of code that has already circulated, jumping around in the genome or even between species, isn’t random. It necessarily includes real functionality. And at least in some settings, that functionality has been under evolutionary pressure to help, or at least not kill, its host. Evolution picks up steam over time, with major evolutionary transitions becoming more frequent precisely because increasingly high orders of symbiogenesis become possible.**" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+> "A living organism is a compositional structure par excellence. It could only be built computationally, through the composition of many functions. And life could only have evolved as the hierarchical composition of those functions—that is, through symbiogenesis." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+definition of life - according to it even the earth is alive, albeit not conscious nor "smarter than" the sum of its parts
+
+> "Life is self-modifying computronium arising from selection for dynamic stability; it evolves through the symbiotic composition of simpler dynamically stable entities.
+>
+> Notice that my definition doesn’t stipulate any specific function. However, in defining life computationally, it is functional. And in a world where the Second Law holds, dynamic stability implies that those functions must include some combination of self-construction, self-repair, or reproduction. All of these are computations that require code to be able to read and write code, hence the “self-modifying” qualifier.
+>
+> “Computronium” is generally understood to be a phase of matter, but the “matter” here could be anything that can support computation, including bytes in bff or pixels in a cellular automaton. Furthermore, unlike gases, liquids, or solids, which are essentially uniform at macroscopic scales, the phase of matter associated with life is necessarily lumpy. One reason is that a uniform material can’t carry out general computation; computronium must, at its finest scale, contain distinct interacting components.
+>
+> There’s a deeper reason, too. Dynamic stability implies the existence of discrete units—a self, or a population of selves—for without some model of a self or selves it would be impossible to say what is stable. And since life composes itself symbiotically, there are “whats” at multiple scales—in our case, from molecules to mitochondria, cells, whole organisms, and beyond. Studying each “what” requires zooming in or out to focus on the dynamic stability of a different kind of entity.
+>
+> ... However, this doesn’t imply that the Earth is “smarter than” the sum of its parts, or that it is conscious, just because we individually are, and we are part of it. In fact the social intelligence hypothesis, which we’ll explore in chapter 5, suggests that our consciousness arose as a result of social interaction. Our planet has no other living planets to socialize with.
+>
+> The Earth is intelligent only to the degree that the models implicit in its feedback loops have kept it alive under gradually changing conditions for billions of years—a slow, vegetative kind of intelligence with limited predictive power. Although now techno-humanity is starting to model both the Earth and the heavens, keeping telescopic “eyes” open for stray asteroids and radio “ears” cocked for alien transmissions. No dice … yet. But arguably our planet is rapidly becoming more intelligent and animal-ish, able to sense remotely and make long-range predictions, poised to respond proactively to threats and opportunities, should they arise—and assuming we can get our act together and re-establish a planetary homeostasis that includes humanity and technology." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
 
 > "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
 

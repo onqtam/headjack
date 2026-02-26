@@ -490,6 +490,14 @@ TODO: is there a name for an N dim array where each sub array has a different le
 what is a matrix?
 
 ██████████████████████████████████████████████████████████████████
+# what is life
+██████████████████████████████████████████████████████████████████
+
+> "I define life as a self-modifying, computational state of matter that arises through evolutionary selection for the ability to persist through time by actively constructing itself, whether by growing, healing, or reproducing. Yes, everything alive is a computer!" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+Trump: everything is computer!
+
+██████████████████████████████████████████████████████████████████
 # truth
 ██████████████████████████████████████████████████████████████████
 
