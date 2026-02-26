@@ -1065,12 +1065,15 @@ so am I a hard line consequentialist? a utilitarian? no! I'm not going to kidnap
     Consequentialism: Consequences are the only thing that matters.
     Deontology/Virtue Ethics: These theories believe that duties or virtues have value independent of consequences.
     In short, while you can argue that deontology and virtue ethics are the best ways to bring about good results, the theories themselves deny that the reason to be virtuous or follow duty is merely to produce a good outcome.
-    Consequentialism is the broad ethical theory that the morality of an action is judged solely by its consequences, while utilitarianism is a specific, popular type of consequentialism that defines the best consequence as maximizing overall happiness or "utility" (pleasure minus pain). All utilitarians are consequentialists, but not all consequentialists are utilitarians. 
+
+    Consequentialism is the broad ethical theory that the morality of an action is judged solely by its consequences, while utilitarianism is a specific, popular type of consequentialism that defines the best consequence as maximizing overall happiness or "utility" (pleasure minus pain). All utilitarians are consequentialists, but not all consequentialists are utilitarians.
+    In short, if you are a consequentialist, you care about the results. If you are a utilitarian, you specifically care about maximizing total happiness as the result. 
 
 
 
+hear me out: your life is not for you - it is for the others, because everything you have is made by others
 
-Self-other, evil, unaacountability, CC - all related
+Self-other, evil, unaccountability, CC - all related
 
 market vs company boundry - theory of the firm
 theory of the firm, ronald coase
@@ -2951,4 +2954,5 @@ My ultimate job is to explain what needs to be done such that you can understand
 
 Our potential is staggering and the delta is tragic/catastrophic
 
+let's get brainwashed together - singing Kumbaya
 

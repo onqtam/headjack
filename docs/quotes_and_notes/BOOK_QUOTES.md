@@ -5339,7 +5339,15 @@ on whistleblowing and how costly it could be - take only the essence of it
 >
 > ... A celibacy requirement might help with rebellious causes, but it isn’t the greatest way to multiply your sect through the ages." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
-> "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+what if bonuses weren't given immediately but had multi year vesting? what if bonuses weren't given solely on hitting KPIs but also required being recognized by others  and acknowledging your contribution?
+
+> "... what people resent—or should resent—is the person at the top who has no skin in the game, that is, because he doesn’t bear his allotted risk, he is immune to the possibility of falling from his pedestal, exiting his income or wealth bracket, and waiting in line outside the soup kitchen.
+>
+> In addition, someone without skin in the game—say, a corporate executive with upside and no financial downside (the type to speak clearly in meetings)—is paid according to some metrics that do not necessarily reflect the health of his company; these he can manipulate, hide risks, get the bonus, then retire (or go do the same thing at another company) and blame his successor for subsequent results.
+>
+> ... You do not create dynamic equality just by raising the level of those at the bottom, but rather by making the rich rotate—or by forcing people to incur the possibility of creating an opening.
+>
+> The way to make society more equal is by forcing (through skin in the game) the rich to be subjected to the risk of exiting from the 1 percent." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
 > "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
@@ -5356,6 +5364,82 @@ Nassim Nicholas Taleb, Skin in the Game: Hidden Asymmetries in Daily Life
 https://www.goodreads.com/quotes/10928631-the-physicist-and-complexity-researcher-yaneer-bar-yam-showed-quite-convincingly
 
 > "Replacing the “natural,” that is age-old, processes that have survived trillions of high-dimensional stressors with something in a “peer-reviewed” journal that may not survive replication or statistical scrutiny is neither science nor good practice. At the time of writing, science has been taken over by vendors using it to sell products (like margarine or genetically modified solutions) and, ironically, the skeptical enterprise is being used to silence skeptics." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+
+
+
+
+
+
+> "I define life as a self-modifying, computational state of matter that arises through evolutionary selection for the ability to persist through time by actively constructing itself, whether by growing, healing, or reproducing. Yes, everything alive is a computer! Chapter 1 will explain why self-construction requires computation, and why, even more fundamentally, the concept of function or “purpose,” which is central to life, is inherently computational.
+>
+> Intelligence, in turn, is the ability to model, predict, and influence one’s future. Modeling and prediction are computational too, so they can only take place on a computational platform; thus intelligence needs life. Likewise, life needs intelligence, because the ability to persist through time depends on predicting and influencing the future—in particular, on ensuring that the entity doing the predicting will continue to exist in the future. Hence all living organisms are, to one degree or another, intelligent. Every one of them is smart enough to have persisted through time in a complex, ever-changing environment.
+>
+> That environment is each other: life and intelligence are inherently social. Every living thing is made of simpler cooperating parts, many of which are themselves alive. And every intelligence evolves in relation to other intelligences, potentially cooperating to create larger, collective intelligences. Cooperation requires modeling, predicting, and influencing the behavior of the entities you’re cooperating with, so intelligence is both the glue that enables life to become complex and the outcome of that increasing complexity.
+>
+> ... Intelligence is defined by networks, and by networks of networks. We can only understand what intelligence really is by changing how we think about it—by adopting a perspective that centers dynamic, mutually beneficial relationships rather than isolated minds. The same is true of life.
+>
+> ... Communication is only worthwhile insofar as what we have to say isn’t fully predictable by our interlocutor." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+on functionalism - no need to re-read for my book
+
+> "The perspective I’ll offer is not easily reduced to a philosophical “ism.” The footsteps I’m closest to following, though, are those of Alan Turing and his equally brilliant contemporary, John von Neumann, both of whom could be described as proponents of “functionalism.” They had a healthy disregard for disciplinary boundaries, and understood the inherently functional character of living and intelligent systems. They were also both formidable mathematicians who made major contributions to our understanding of what functions are.
+>
+> Functions define relationships, rather than insisting on particular mechanisms. A function is what it does. Two functions are equivalent if their outputs are indistinguishable, given the same inputs. Complex functions can be composed of simpler functions.
+>
+> The functional perspective is mathematical, computational, and empirically testable—hence, the Turing Test. It’s not “reductive.” It embraces complexity and emergent phenomena. It doesn’t treat people like “black boxes,” nor does it deny our internal representations of the world or our felt experiences. But it stipulates that we can understand those experiences in terms of functional relationships within the brain and body—we don’t need to invoke a soul, spirit, or any other supernatural agency. Computational neuroscience and AI, fields Turing and von Neumann pioneered, are both predicated on this functional approach.
+>
+> It’s unsurprising, in this light, that Turing and von Neumann also made groundbreaking contributions to theoretical biology, although these are less widely recognized today. Like intelligence, life and aliveness are concepts that have long been associated with immaterial souls. Unfortunately, the Enlightenment backlash against such “vitalism,” in the wake of our growing understanding of organic chemistry, led to an extreme opposite view, still prevalent today: that life is just matter, like any other. One might call this “strict materialism.” But it leads to its own paradoxes: how can some atoms be “alive,” and others not? How can one talk about living matter having “purpose,” when it is governed by the same physical laws as any other matter?
+>
+> Thinking about life from a functional perspective offers a helpful route through this philosophical thicket. Functions can be implemented by physical systems, but a physical system does not uniquely specify a function, nor is function reducible to the atoms implementing it.
+>
+> Consider, for example, a small object from the near future with a few openings in its exterior, the inside of which is filled with a dense network of carbon nanotubes. What is it, you ask? Suppose the answer is: it’s a fully biocompatible artificial kidney with a working lifetime of a hundred years. (Awesome!) But there’s nothing intrinsic to those atoms that specifies this function. It’s all about what this piece of matter can do, in the right context. The atoms could be different. The kidney could be implemented using different materials and technologies. Who cares? If you were the one who needed the transplant, I promise: you wouldn’t care. What would matter to you is that functionally, it’s a kidney. Or, to put it another way, it passes the Kidney Turing Test.
+>
+> Many biologists are mortally afraid of invoking “purpose” or “teleology,” because they do not want to be accused of vitalism. Many believe that, for something to have a purpose, it must have been made by an intelligent creator—if not a human being, then God. But as we shall see, that’s demonstrably not the case.
+>
+> And we have to think about purpose and function when it comes to biology, or engineering, or AI. How else could we understand what kidneys do? Or hope to engineer an artificial kidney? Or a heart, a retina, a visual cortex, even a whole brain? Seen this way, a living organism is a composition of functions. Which means that it is, itself, a function!" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+symbiogenesis
+
+> "This is “symbiogenesis,” the creation or genesis of a new kind of entity out of a novel “symbiosis,” or mutually beneficial relationship, among pre-existing entities.
+>
+> At moments like these, the tree of life doesn’t just branch; it also entangles with itself, its branches merging to produce radically new forms. Margulis was an early champion of the idea that these events drive evolution’s leaps forward.
+>
+> ... The idea that evolution is driven by symbiotic mergers, the earliest of which preceded biology as we know it, has far-reaching implications. One is that the boundary between life and non-life is not well defined; symbiogenesis can involve any process that, one way or another, is self-perpetuating. Evolutionary dynamics are thus more like a physical law than a biological principle. Everything is subject to evolution, whether we consider it to be “alive” or not.
+>
+> The symbiogenetic view also renders the idea of distinct species, classified according to a Linnaean taxonomy, somewhat ill-defined—or at best, of limited applicability. Such taxonomies assume that only branching takes place, not merging. Bacteria, which promiscuously transfer genes even between “species,” already challenge this idea.
+>
+> ... When one prokaryote ends up living inside another, though, or multiple cells band together to make a multicellular life form, the resulting composite organism is clearly more complex than its parts. Something genuinely new has arisen. The branching and fine-tuning of classical evolution can now start to operate on a whole different level, over a new space of combinatorial possibilities.
+>
+> Classical evolution isn’t wrong; it just misses half of the story—the more rapid, more creative half. One could say that evolution’s other half is revolution, and that revolutions occur through symbiosis.
+>
+> Suggestively, the same is true of technology. In Paleolithic times, a hafted spear was not just a specialized stone point, but something new that arose by combining at least three parts: a stone point, a shaft, and something like sinew to bind them. This, too, opened up a new combinatorial design space. Or, in more recent times, the silicon chip was not just an evolved transistor; it was something new that could be made by putting multiple transistors together on the same die. One doesn’t arrive at chip design merely by playing with the design parameters of an individual transistor.
+>
+> That’s why evolution progresses from simpler to more complex forms. It’s also why the simpler forms often remain in play even after a successful symbiogenetic event. Standalone stone points, like knives and hand axes, were still being made after the invention of the hafted spear; and, of course, spearheads themselves still count as stone points. Moreover, no matter how recently any particular stone point was made, we can meaningfully talk about stone points being “older” as a category than spears. Spears had to arise later, because their existence depended on the pre-existence of stone points.
+>
+> It’s equally meaningful to talk about ancient life forms, like bacteria and archaea, co-existing alongside recent and far more complex ones, like humans—while recognizing that humans are, in a sense, complex colonies of bacteria and archaea that have undergone a cascade of symbiotic mergers." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+reproduction & replication & DNA
+
+> "He envisioned a “machine A” that would read a tape containing sequential assembly instructions based on a limited catalog of parts, and carry them out, step by step. Then a “machine B” would copy the tape—assuming the tape itself was also made of available parts. If instructions for building machines A and B are themselves encoded on the tape, then voilà—you would have a replicator.
+>
+> Instructions for building any additional non-reproductive machinery could also be encoded on the tape, so it would even be possible for a replicator to build something more complex than itself. A seed, or a fertilized egg, illustrates the point. Even more fundamentally, encoding the instructions to build oneself in a form that is itself replicated (the tape) is the key to open-ended evolvability, meaning the ability for evolution to select for an arbitrary design change, and for that change to be inherited by the next generation.
+>
+> Remarkably, von Neumann described these requirements for an evolvable, self-replicating machine before the discovery of DNA’s structure and function. Nonetheless, he got it exactly right. For life on Earth, DNA is the tape; DNA polymerase, which copies DNA, is “machine B”; and ribosomes, which build proteins by following the sequentially encoded instructions on DNA, are “machine A.” Ribosomes and DNA polymerase are made of proteins whose sequences are, in turn, encoded in our DNA and manufactured by ribosomes. That is how life lifts itself up by its own bootstraps." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
 
 
 
