@@ -5349,9 +5349,15 @@ what if bonuses weren't given immediately but had multi year vesting? what if bo
 >
 > The way to make society more equal is by forcing (through skin in the game) the rich to be subjected to the risk of exiting from the 1 percent.
 >
-> Our condition here is stronger than mere income mobility. Mobility means that someone can become rich. The no-absorbing-barrier condition means that someone who is rich should never be certain to stay rich." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+> Our condition here is stronger than mere income mobility. Mobility means that someone can become rich. The no-absorbing-barrier condition means that someone who is rich should never be certain to stay rich.
+>
+> ... no downside for some means no upside for the rest.
+>
+> ... I had a rough time explaining that having rich people in a public office is very different from having public people become rich—again, it is the dynamics, the sequence, that matters. Rich people in public office have shown some evidence of lack of total incompetence—success may come from randomness, of course, but we at least have a hint of some skill in the real world, some evidence that the person has dealt with reality. This is of course conditional on the person having had skin in the game—and it is better if the person felt a blowup, has experienced at least once the loss of part of his or her fortune and the angst associated with it... It is downright unethical to use public office for enrichment.
+>
+> A good rule for society is to oblige those who start in public office to pledge never subsequently to earn from the private sector more than a set amount; the rest should go to the taxpayer. This will ensure sincerity in, literally, “service”—where employees are supposedly underpaid because of their emotional reward from serving society. It would prove that they are not in the public sector as an investment strategy." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
-> "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+> "Who decides who is and who is not an expert? Where is the meta-expert? Time is the expert. Or, rather, the temperamental and ruthless Lindy..." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
 > "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
@@ -5401,9 +5407,10 @@ on functionalism - no need to re-read for my book
 > And we have to think about purpose and function when it comes to biology, or engineering, or AI. How else could we understand what kidneys do? Or hope to engineer an artificial kidney? Or a heart, a retina, a visual cortex, even a whole brain? Seen this way, a living organism is a composition of functions. Which means that it is, itself, a function!" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
 
 symbiogenesis
-TODO: re-read the chapter & prepend the parts about Margulis
 
-> "This is “symbiogenesis,” the creation or genesis of a new kind of entity out of a novel “symbiosis,” or mutually beneficial relationship, among pre-existing entities.
+> "Whether RNA or metabolism came first, even the simplest bacteria surviving today are a product of many subsequent evolutionary steps. Yet unlike the everyday, incremental mutation and selection Darwin imagined, the most important of these steps may have been large and sudden. These “major evolutionary transitions” involve simpler, less complex replicating entities becoming interdependent to form a larger, more complex, more capable replicator.
+>
+> As maverick biologist Lynn Margulis (1938–2011) discovered in the 1960s, eukaryotic cells, like those that make up our bodies, are the result of such an event. Roughly two billion years ago, the bacteria that became our mitochondria were engulfed by another single-celled life form much like today’s archaea—tiny, equally ancient microorganisms that continue to inhabit extreme environments, like hot springs and deep-sea vents. **This is “symbiogenesis,” the creation or genesis of a new kind of entity out of a novel “symbiosis,” or mutually beneficial relationship, among pre-existing entities.**
 >
 > At moments like these, the tree of life doesn’t just branch; it also entangles with itself, its branches merging to produce radically new forms. Margulis was an early champion of the idea that these events drive evolution’s leaps forward.
 >
@@ -5478,6 +5485,54 @@ definition of life - according to it even the earth is alive, albeit not conscio
 > ... However, this doesn’t imply that the Earth is “smarter than” the sum of its parts, or that it is conscious, just because we individually are, and we are part of it. In fact the social intelligence hypothesis, which we’ll explore in chapter 5, suggests that our consciousness arose as a result of social interaction. Our planet has no other living planets to socialize with.
 >
 > The Earth is intelligent only to the degree that the models implicit in its feedback loops have kept it alive under gradually changing conditions for billions of years—a slow, vegetative kind of intelligence with limited predictive power. Although now techno-humanity is starting to model both the Earth and the heavens, keeping telescopic “eyes” open for stray asteroids and radio “ears” cocked for alien transmissions. No dice … yet. But arguably our planet is rapidly becoming more intelligent and animal-ish, able to sense remotely and make long-range predictions, poised to respond proactively to threats and opportunities, should they arise—and assuming we can get our act together and re-establish a planetary homeostasis that includes humanity and technology." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+too many good bits to quote that aren't necessary for my book, but damn this is some good shit
+
+glider pattern in the Game of Life
+
+> "We could say, then, that gliders are real only and precisely because, as a concept or model, they are useful for predicting the future whenever the glider pattern arises. Recognizing and understanding gliders allows simulation without simulation." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+prediction
+
+> "... homeostasis involves performing actions O given external observations X that maintain H within the comfort zone. This is intelligence in its most rudimentary form.
+>
+> ... In the so-called “autoregressive sequence prediction” setting used by many unsupervised AI models today, the action with maximum probability according to P(X,H,O) is generally taken. At the next moment in time, the action taken, along with any new observations of X and H, becomes part of the past, and the model is evaluated again. Hence every action depends not only on past observations, but also on past actions. An organism is therefore modeling itself jointly with the environment, and, in so doing, is carrying out agential or “verb-ish” modeling. It’s running its own program in a continuous loop... those actions are not just outputs, but also inputs at the next moment in time.
+>
+> A “strange loop” is at work here. Because the model is joint, all senses are active: not only do actions taken depend on interior and exterior percepts, but all percepts also depend on actions... Further, the model is always modeling itself, in the sense that it predicts its own future states and actions in addition to predicting its environment. We could even say that it predicts its own predictions, in a kind of infinite regress." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+learning
+
+> "As far back as 1948, Turing realized that evolution could be understood as a trial-and-error learning process. It may seem crude and inefficient, but it is the necessary bootstrap to any more sophisticated kind of learning. Everything that learns either learned to learn by evolving, or was designed by entities (so far, human) who themselves learned to learn by evolving." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+cause by effect
+
+> "... a model that is “good” in evolutionary terms is one that works, or at least works well enough, meaning that it effectively predicts the future. In doing so agentially, it tends to bring that future about: a self-fulfilling paradox of backward causality. The apparent paradox arises because causes are supposed to precede their effects. How could it ever be right to say that something happens because of its effect?
+>
+> ... evolutionarily speaking, only creatures with models that successfully predict their own future even have a future!
+>
+> Of course none of this happens in violation of the laws of physics—but, like life itself (per Schrödinger), it certainly looks suspicious. In a deterministic universe, how could a “plan” or “intention” possibly affect what will just happen? (If you’re thinking that this sounds a lot like the paradox of free will: yes, it does. We’ll get to that in chapter 6.)
+>
+> The answer comes from that strange loop inherent to autoregressive sequence modeling. We’ve seen why the evolution of life implies the evolution of a “sufficiently good” P(X,H,O) model. That model gives rise to actions in the world, but the world also gives rise to the model. While the model can only have learned from the past, it is a model because it can predict the future. When that prediction informs its actions, we get something that looks like backward causality. The more powerful the model—or, we could say, the more “intelligent”—the more pronounced this effect will be.
+>
+> ... At this point, we’ve considered two senses in which a model can be called “good.” For a data scientist, a model is “good” to the degree that it scores well on a test. For a living organism, a model is “good” to the degree that it successfully predicts the future—of the world, of the self, and of the effects of one’s actions on self and world." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
 
 > "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
 

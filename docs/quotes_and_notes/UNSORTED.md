@@ -81,6 +81,8 @@ the generative tension between collective agency and individual autonomy increas
 
 what if we gave a bigger weight to the votes of people who have kids in matters that are more long-term?
 
+"Reality is that which, when you stop believing in it, doesn’t go away." - Philip K. Dick
+
 Einstein remarked, ‘My pencil and I are more clever than I.’
 
 
@@ -1431,8 +1433,7 @@ https://www.noemamag.com/life-need-not-ever-end/
 > "Indeed, when I think of the unbroken chain of generations leading to our time and of everything they have built for us, I am humbled. I am overwhelmed with gratitude; shocked by the enormity of the inheritance and at the impossibility of returning even the smallest fraction of the favor. Because a hundred billion of the people to whom I owe everything are gone forever, and because what they created is so much larger than my life, than my entire generation." - [Toby Ord](https://www.goodreads.com/quotes/10316565-indeed-when-i-think-of-the-unbroken-chain-of-generations)
 
 
-> "Mr. *~~Gorbachev~~* **Zuckeberg**, tear down this **API** wall!" - [Ronald Reagan](https://en.wikipedia.org/wiki/Tear_down_this_wall!), probably
-
+> "Mr. *~~Gorbachev~~* **Zuckerberg**, tear down this **API** wall!" - [Ronald Reagan](https://en.wikipedia.org/wiki/Tear_down_this_wall!), probably
 
 
 

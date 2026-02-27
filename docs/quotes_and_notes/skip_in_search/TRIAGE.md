@@ -108,7 +108,6 @@ something larger than ourselves that will persist beyond our lives
 - True anonymity with zero knowledge - can even prove to be a real human and prove credentials in a privacy preserving way
 - Self organization
 - this system is inevtable if it starts getting going
-- Voting on rules of the game & specific issues - not parties and individuals - subjective objectivity
 - Bottom up emergent regulation
 - Architecture for cultural evolution
 - The loss function of a hive mind
@@ -1201,6 +1200,8 @@ The fifth joint point
 Remove the blowing up stuff
     The only respectable/honorable way of blowing up is on the internet with ideas
 Time to blow up! - Dramatic pause - on the internet!
+    **use confetti and pull them with some strings while screaming**
+some with their philosophy blow themselves up - I will blow up on the Internet
 or put memes on your chest and "blow up on the internet" with a big red "publish" button - stand behind a tinfoil wall and to the morpheus move vs agent smith - and show hello kitty, icecream so good, and others
 to hold a pen is to be at war - to press a button is to be at war
 
@@ -1357,8 +1358,6 @@ pagerank 2.0 - source rank - who and how determines the weights?
 
 growth redefined - growth in numbers
 
-some with their philosophy blow themselves up - I will blow up on the Internet
-
 structured debate where everyone gets a say - just not equally
 
 How and why to help the most other people
@@ -1448,6 +1447,8 @@ the metaverse is not about a complete disconnect from the real world - it is the
 not this metaverse: show polygon zuck
 https://slate.com/technology/2022/08/mark-zuckerberg-metaverse-horizon-worlds-facebook-looks-crappy-explained.html
 https://www.cnet.com/culture/all-the-ways-people-freaked-out-about-this-insane-zuckerberg-vr-photo/
+
+
 
 Deduplication =+> harder to take credit for someone else’s earlier suggestions
 
@@ -2914,6 +2915,7 @@ Or better yet - don’t do it! In fact you should want me in your country for na
 You don’t buy belonging transactionally - you earn it, you build it
 
 Our biggest problem is how to think about and approach problems
+Our biggest problem is how do we collectively organize ourselves to best solve our collective problems
 
 Opacity and fragmentation should be indefensible
 
@@ -2957,6 +2959,15 @@ Our potential is staggering and the delta is tragic/catastrophic
 let's get brainwashed together - singing Kumbaya
 
 we need an informational immune system - what is "not-us" - and for that we need ranking and perception
+
+we've been living through WW3 for some time now, and the battleground is your mind
+it is a guerrilla information war - its a war on cognition / cognitive war
+situational awareness
+
+information is a difference that makes a difference - Gregory Bateson
+
+> "The arc of the moral universe is long but it bends toward *~~justice~~* **cooperation**." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/646750-let-us-realize-the-arc-of-the-moral-universe-is), probably
+    or accountability & cooperation
 
 narcissism & self-obsession. narcissism is more than selfishness - shallowness, keeping options open, incapacity for loyalty, fear of committing to things, a dislike of dependance with others. our social conditions bring out these traits that are present to varying degrees in everyone. we all have this inherent capacity but the current conditions have made it so that more of us lean in that direction than in the past
 religion & meaning have been substituted with therapy, and therapists talk about meaning & love in terms of fulfilling the patient's emotional requirements - its almost never about subordinating oneself into the need of others or some larger cause or tradition.

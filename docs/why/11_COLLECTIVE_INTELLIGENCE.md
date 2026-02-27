@@ -17,6 +17,8 @@ also make a version of it where at the lower level are NPCs with their firmware/
 
 # Collective Intelligence
 
+> "Division of labor can be applied with equal success to mental as to mechanical operations." - Charles Babbage, 1832. On the Economy of Machinery and Manufactures. C. Knight.
+
 <!-- > "Collective intelligence: Collective intelligence is the degree to which the agents in a system together make better decisions or solve more complex problems than any of them individually. For example, individual ants have very limited intelligence, but the ant colony as a whole can make surprisingly good decisions, such as developing a map with paths of pheromone indicating the shortest routes to various sources of food." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary) -->
 
 > "Collective intelligence: the degree to which the agents in a system collectively can make good decisions as to their future course of action; in particular, the degree to which the agents collectively can make better decisions than any of them individually. Collective intelligence typically arises from the pooling of knowledge: since each agent’s knowledge is slightly different from the knowledge of the others, all agents together will have access to a larger pool of more diverse knowledge. Therefore, collective intelligence can be amplified by increasing the diversity of knowledge among the agents." - [Self-organization of complex, intelligent systems: an action ontology for transdisciplinary integration, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ECCO-paradigm.pdf)

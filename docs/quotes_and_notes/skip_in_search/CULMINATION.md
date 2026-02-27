@@ -638,6 +638,23 @@ The extent to which those predictions are shared is the extent to which the futu
 
 
 
+> "In the so-called “autoregressive sequence prediction” setting used by many unsupervised AI models today, the action with maximum probability according to P(X,H,O) is generally taken. At the next moment in time, the action taken, along with any new observations of X and H, becomes part of the past, and the model is evaluated again. Hence every action depends not only on past observations, but also on past actions. An organism is therefore modeling itself jointly with the environment, and, in so doing, is carrying out agential or “verb-ish” modeling. It’s running its own program in a continuous loop... those actions are not just outputs, but also inputs at the next moment in time.
+>
+> A “strange loop” is at work here. Because the model is joint, all senses are active: not only do actions taken depend on interior and exterior percepts, but all percepts also depend on actions... Further, the model is always modeling itself, in the sense that it predicts its own future states and actions in addition to predicting its environment. We could even say that it **predicts its own predictions**, in a kind of infinite regress." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+^^ "predicts its own predictions"
+
+
+> "As far back as 1948, Turing realized that evolution could be understood as a trial-and-error learning process. It may seem crude and inefficient, but it is the necessary bootstrap to any more sophisticated kind of learning. **Everything that learns either learned to learn by evolving**, or was designed by entities (so far, human) who themselves learned to learn by evolving." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+^^ Until now everything that learns learned to learn by evolving, and now we're starting to design systems that learn.
+
+
+██████████████████████████████████████████████████████████████████
+# subjective objectivity
+██████████████████████████████████████████████████████████████████
+
+Voting on rules of the game & specific issues - not parties and individuals - subjective objectivity
+we need to agree on a mechanism/consensus/protocol/constitution about how to agree
+we need a mechanism/consensus/protocol to agree on how to agree
 
 ██████████████████████████████████████████████████████████████████
 # social engineering & enculturation
