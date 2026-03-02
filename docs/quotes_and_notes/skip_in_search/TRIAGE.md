@@ -521,8 +521,11 @@ moral/conceptual inversion
 The tripple/quadrupple inversion - the holy trinity - thats my holy trinity - or quadrinity
 Identity > Money, Public > Private, who surveils who, top-down vs bottom-up social credit score
 roleplay as an inverter - put yourself in a box and jump at 180 degrees or go with your feet from one side to the other over the top and fall
-Inversion: seduction > domination
+Inversion: persuasion (& seduction) > domination
 Inversion: Creating God > Being Created by him
+Inversion: From race to the bottom (everyone loses in a collective action trap) to race to the top (nash equilibrium? or what - what's the best possible state called?)
+**roleplay do an inverted headstand and talk while in it**
+    "those are called moral inversions"
 
 I command my tongue, but if I hurt it I hurt myself because we are one - our goals are completely in alignment
 
@@ -708,14 +711,27 @@ we need to engineer collective agency that cybernetically steers itself towards 
 universal colonizer of hearts & minds
 The grandest colonizational endeavor - no brain shall remain unpenetrated with the best explanations and argumentation
 
+This is the End Game folks - the end of history and the beginning of unity
+
+Time to move from the century of the self to collective infinity
 
 The greatest open conspiracy
 The best way to predict the future is to co-create it
+
+when everything is open and shared & reused
+- every problem has to be solved only once - MxN vs M+N
+- a lot more eyes on the problems
 
 The window of transcendence will not be open for long
 Bitcoin
 Satoshi opened it with his digital rock but it is just a toy - roleplay with a rock on a leash "come on boy"
     > "you can regulate your country out of bitcoin but you can't regulate bitcoin out of your country." - [Andreas Antonopoulos](https://youtu.be/2tqo7PX5Pyc?t=438)
+    And please don’t use a poison where I die alone at home like a dog - make it public - make a spectacle out of it - i beg you
+    Or better yet - don’t do it! In fact **you should want me - or at least the development of this system - in your country for national security**
+    the cat is out of the bag - this is inevitable - it's too good even in its partial forms which would help companies crush their KPIs - collective intelligence is the biggest game there is
+    You can't stop this because this system is superior in every way and it shall eventually be obvious to anyone - it's just a matter of time. in order to stop it you'd have to immediately scrub the book and this film from the internet in a permanent way and not let any of these seeds take hold anywhere - forever. Resistance is futile - if you can't beat it - join it.
+    I have 2 goals: change the world for the better, and not to get killed, and since the first is inevitable - why would anyone bother to hinder me from the 2nd one?
+
 Welcome to the era of rules without rulers
 a rules based order is an actual possibility for the first time in human history
     Immutability and authenticity through cryptography and decentralization through game theory and incentives
@@ -1066,11 +1082,7 @@ so am I a hard line consequentialist? a utilitarian? no! I'm not going to kidnap
     In short, while you can argue that deontology and virtue ethics are the best ways to bring about good results, the theories themselves deny that the reason to be virtuous or follow duty is merely to produce a good outcome.
 
     Consequentialism is the broad ethical theory that the morality of an action is judged solely by its consequences, while utilitarianism is a specific, popular type of consequentialism that defines the best consequence as maximizing overall happiness or "utility" (pleasure minus pain). All utilitarians are consequentialists, but not all consequentialists are utilitarians.
-    In short, if you are a consequentialist, you care about the results. If you are a utilitarian, you specifically care about maximizing total happiness as the result. 
-
-
-
-hear me out: your life is not for you - it is for the others, because everything you have is made by others
+    In short, if you are a consequentialist, you care about the results. If you are a utilitarian, you specifically care about maximizing total happiness as the result.
 
 Self-other, evil, unaccountability, CC - all related
 
@@ -1784,7 +1796,10 @@ What happens to corruption when it sees a system that will replace it? The more 
 
 “The Public” - not simply a republic
 
+hear me out: your life is not for you - it is for the others, because everything you have is made by others
+Life is not just about you - it is just a bit about you and mostly about others.
 Life is not for you - life is for your kids and for others - life is for culture - life is for others, and that ultimately is you - you are everyone - you are one
+you'd have nothing without the others and you'd be alone and miserable without them
 
 Culture is alive - each culture has a god - an ultimatum - or they’re not a peoples at all
 
@@ -2186,8 +2201,6 @@ When you are godless you are smaller
 Trust and fairness are built in public
 
 How do we generate a perspective from which we’ve removed as much distortion of the perspective as possible?
-
-Life is not just about you - it is just a bit about you and mostly about others.
 
 Corruption can hide in the shadows only to the extent that they exist - without shadows there is only light and 0 corruption
 
@@ -2907,10 +2920,7 @@ Things jesus taught - google all of them:
     Modern Context: It is frequently used to describe scenarios where someone's aggressive, risky, or unethical behavior leads to their own destruction.
     Essentially, it is a warning against relying on violence or immoral tactics, suggesting that such a lifestyle is unsustainable and inherently self-destructive.
 - The truth will set you free
-    "The truth will set you free" (John 8:32) is a profound biblical statement from Jesus, indicating that knowing and abiding in his teachings offers spiritual liberation from the bondage of sin, condemnation, and death. While often cited in academic contexts to promote knowledge, its original context refers to finding freedom through faith and spiritual truth, rather than just intellectual, social, or political liberty. 
-
-And please don’t use a poison where I die alone at home like a dog - make it public - make a spectacle out of it - i beg you
-Or better yet - don’t do it! In fact you should want me in your country for national security
+    "The truth will set you free" (John 8:32) is a profound biblical statement from Jesus, indicating that knowing and abiding in his teachings offers spiritual liberation from the bondage of sin, condemnation, and death. While often cited in academic contexts to promote knowledge, its original context refers to finding freedom through faith and spiritual truth, rather than just intellectual, social, or political liberty.
 
 You don’t buy belonging transactionally - you earn it, you build it
 
@@ -2941,8 +2951,6 @@ You might think that the current system is an immovable object but I’m present
 
 War is an autoimmune disease
 
-Inversion: From race to the bottom to race to the top
-
 
 If one collective becomes radically open, some of their fruits will be copied by others without any reciprocity, but some aspects will not be copyable without reform, and if the others do reform they’d be gradually becoming similar and converging towards the open ones which is what the open ones should want anyway. Openness can lead to cultural hegemony
 
@@ -2963,6 +2971,16 @@ we need an informational immune system - what is "not-us" - and for that we need
 we've been living through WW3 for some time now, and the battleground is your mind
 it is a guerrilla information war - its a war on cognition / cognitive war
 situational awareness
+
+Collective Self Help
+
+PREDICT OR BE PREDICTED!
+
+how do we optimally match labor supply with labor demand?
+how do we steer consumptive demand which dictates labor demand?
+how do we train labor supply?
+
+I hope I don't have to take one for the team
 
 information is a difference that makes a difference - Gregory Bateson
 

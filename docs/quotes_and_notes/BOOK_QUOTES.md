@@ -5357,7 +5357,13 @@ what if bonuses weren't given immediately but had multi year vesting? what if bo
 >
 > A good rule for society is to oblige those who start in public office to pledge never subsequently to earn from the private sector more than a set amount; the rest should go to the taxpayer. This will ensure sincerity in, literally, “service”—where employees are supposedly underpaid because of their emotional reward from serving society. It would prove that they are not in the public sector as an investment strategy." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
-> "Who decides who is and who is not an expert? Where is the meta-expert? Time is the expert. Or, rather, the temperamental and ruthless Lindy..." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+> "Who decides who is and who is not an expert? Where is the meta-expert? Time is the expert. Or, rather, the temperamental and ruthless Lindy...
+>
+> ... In fact, there is something worse than peer-assessment: the bureaucratization of the activity creates a class of new judges: university administrators, who have no clue what someone is doing except via external signals, yet become the actual arbiters. These arbiters fail to realize that “prestigious” publication, determined by peer-reviewers in a circular manner, are not Lindy-compatible—they only mean that a certain set of (currently) powerful people are happy with your work.
+>
+> Hard science might be robust to the pathologies—even then. So let us take a look at social science. Given that the sole judges of a contributor are his “peers,” there is a citation ring in place that can lead to all manner of rotting. Macroeconomics, for instance, can be nonsense since it is easier to macrobull***t than microbull***t—nobody can tell if a theory really works.
+>
+> If you say something crazy you will be deemed crazy. But if you create a collection of, say, twenty people who set up an academy and say crazy things accepted by the collective, you now have “peer-reviewing” and can start a department in a university. Academia has a tendency, when unchecked (from lack of skin in the game), to evolve into a ritualistic self-referential publishing game." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
 > "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
@@ -5516,19 +5522,90 @@ cause by effect
 >
 > ... At this point, we’ve considered two senses in which a model can be called “good.” For a data scientist, a model is “good” to the degree that it scores well on a test. For a living organism, a model is “good” to the degree that it successfully predicts the future—of the world, of the self, and of the effects of one’s actions on self and world." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
 
-> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+> "... minds arise when modeling other minds becomes important.
+>
+> ... sexual reproduction is relevant because it requires an organism to recognize one of its own, and, usually, to distinguish male from female and modulate its behavior accordingly... when reproduction requires sex-selective cooperation or competition, others of the same species (and subtle differences between individuals) become an obligate part of one’s umwelt.
+>
+> ... At first blush, the two great revolutions I’ve just described—sex and predation—seem to have as little to do with each other as love and war. However both love and war require that you recognize and form internal models of other living things in the pursuit of dynamic stability. They require, in other words, effective prediction of something that is itself a predictor.
+>
+> ... Beyond stipulating goals and purposes, cybernetics posited agents that predict the future and bring that future about—the same apparent reversal of causality we encountered in chapter 2. The cyberneticists’ insight, both trivial and profound, was that predictive negative-feedback loops are sufficient to give an apparatus (or organism) purposiveness … without violating the laws of physics. The Huygens-Watt centrifugal governor, for instance, is a simple machine whose workings are fully described by Newtonian physics. Yet it also has a goal: it manipulates a steam engine’s intake valve to regulate the engine’s speed. In doing so, it “creates” causes in order to bring about future effects.
+>
+> ... The researchers had also realized that one of the hardest computational tasks facing the brain is that of achieving “perceptual invariance”—the key to performing what we now call “classification,” “recognition,” or, more broadly, “generalization.”" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
 
-> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+> "... I introduced the concept of sparsity in chapter 3 to describe connectivity in neural networks, both artificial and biological. In a sparse network, neurons are only connected to a small subset of the other neurons in the net; unless the network as a whole is very small, this constraint is essential for efficient learning—and, in a real brain, it is physically impossible for every pair of neurons to be connected. The whole field of deep learning can be understood as an exploration of sparse neural architectures, starting with the separation of neurons into multiple distinct layers.
+>
+> ... The idea of sparsity can extend from connectivity to activity. In a neural network with sparse activity, only a small subset of neurons will be active (that is, have nonzero activation) at any given time. This, too, is a physical requirement for biological brains, because a neuron burns serious energy when it fires...
+>
+> ... But in a more profound sense, sparse activity comes with the increasing specificity of every neuron’s response as the network learns...
+>
+> ... As a bonus, sparse distributed representations are vastly more efficient than a one-hot code. With 128 neurons, a one-hot code can only represent 128 things. In a sparse code that involves, say, sixteen of them lighting up at a time, there are about ninety-three quintillion possibilities. With larger numbers of neurons, the available combinations are virtually limitless, even accounting for plenty of redundancy." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
 
-> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+chapter 4 - learning - final causes - talks about causality & agency & functionalism & final causes & purposiveness & backpropagation
 
-> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+chapter 4 - learning - meathead
 
-> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+> "Whether the oscillators are individual muscle cells or whole fireflies, coordination requires a flow of information, but it need not involve any centralized control. We can think of what the individual units are doing as a minimal kind of local prediction, or pattern completion. Each unit aligns the frequency and phase (i.e., timing) of its oscillation with that of its neighbors. At the most basic level, coordinated movement is what makes many entities into one.
+>
+> “Phase synchronization” is the way the heart works too. Peristalsis—the coordinated toothpaste tube–squeezing maneuver that moves food along the gut—similarly relies on a traveling wave of contraction. Decentralized coordination among muscle cells in organs like the heart and gut, and in animals like jellyfish and Hydra, is partially achieved via “gap junctions”: channels that couple two neighboring cells, causing electrical activity in one to propagate directly into the other. However, fast and efficient synchronization of muscular contraction requires longer-range connectivity. The decentralized nerve nets of jellyfish and Hydra provide such long-distance connectivity, just as the visual systems of fireflies allow them to coordinate across that forest clearing." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
 
-> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+REREAD THIS:
+reinforcement learning with dopamine as a reward signal, also temporal difference (TD) learning (predicting predictions or something like that) which is a more advanced form of reinformcement learning
 
-> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+> "... let’s take the neuron’s point of view, and imagine that it is simply trying to do the same thing any living thing does: predict and bring about its own continued existence. Some aspects of this prediction will certainly have been built in by evolution. For example, if dopamine is a proxy for food nearby, the neuron will try to predict (and thereby bring about) the presence of dopamine, because prolonged absence of dopamine implies that the whole animal will starve—bringing an end to this one neuron, along with all of its cellular clones. Even a humble cell has plenty of needs and wants beyond food, but without food, there is no future.
+>
+> Therefore, if the neuron is not itself dopamine-emitting, but its activity somehow influences dopamine in the future, it will try to activate at times that increase future dopamine. Aside from neuromodulators like dopamine, the neuron’s inputs come either from other neurons or, if it’s a sensory neuron, from an external source, such as light or taste. It can activate spontaneously, or in response to any combination of these inputs, depending on its internal parameters and degree of coupling with neighboring neurons. Presumably, at least one of its goals thus becomes fiddling with its parameters such that, when the neuron fires, future dopamine is maximized.
+>
+> I’ve just described a basic reinforcement learning algorithm, where dopamine is the reward signal. As brains became more complicated, though, they began to build more sophisticated models of future reward, and, accordingly, in vertebrates, dopamine appears to have been repurposed to power something approximating a more sophisticated reinforcement learning algorithm: “temporal difference” or “TD” learning.
+>
+> TD learning works by continually predicting expected reward and updating this predictive model based on actual reward. The method was invented (or, arguably, discovered) by Richard Sutton while he was still a grad student working toward his PhD in psychology at UMass Amherst in the 1980s. Sutton aimed to turn existing mathematical models of Pavlovian conditioning[361] into a machine-learning algorithm. The problem was, as he put it, that of “learning to predict, that is, of using past experience with an incompletely known system to predict its future behavior.”
+>
+> In standard reinforcement learning, such predictions are goal-directed. The point is to reap a reward—like getting food or winning a board game. However, the “credit assignment problem” makes this difficult: a long chain of actions and observations might lead to the ultimate reward, but creating a direct association between action and reward can only enable an agent to learn the last step in this chain.
+>
+> As Sutton put it, “whereas conventional prediction-learning methods assign credit by means of the difference between predicted and actual outcomes, [TD learning] methods assign credit by means of the difference between temporally successive predictions.” By using the change in estimated future reward as a learning signal, it becomes possible to say whether a given action is good (hence should be reinforced) or bad (hence should be penalized) before the game is lost or won, or the food is eaten.
+>
+> This may sound circular, since if we already had an accurate model of the expected reward for every action, we wouldn’t need to learn anything further; why not just take the action with the highest expected reward? As in many statistical algorithms, though, by separating the problem into alternating steps based on distinct models, it’s possible for these models to take turns improving each other, an approach known as “bootstrapping”—after that old saying about the impossibility of lifting oneself up by one’s own bootstraps. Here, though, it is possible.
+>
+> In the TD learning context the two models are often described as the “actor” and the “critic”; in modern implementations, the actor’s model is called a “policy function” and the critic’s model, for estimating expected reward, is the “value function.” These functions are usually implemented using neural nets. The critic learns by comparing its predictions with actual rewards, which are obtained by performing the moves dictated by the actor, while the actor improves by learning how to perform moves that maximize expected reward according to the critic.
+>
+> A TD learning system eventually figures out how to perform well, even if both the actor and critic are initially entirely naïve, making random decisions—provided that the problem isn’t too hard, and that random moves occasionally produce a reward. Hence an experiment in the 1990s applying TD learning to backgammon worked beautifully, although applying the same method to complex games failed, at least initially.
+>
+> ... they realized that dopamine was acting precisely like a temporal-difference learning signal. This is the signal whereby the brain’s “critic” tells the “actor”: please reinforce whatever behavior you’re doing now, because I predict it will lead to a future reward. Long sequences of actions that ultimately lead to a reward can be learned this way, with the TD learning signal shifting earlier and earlier in the sequence as the learning progresses.
+>
+> The repurposing of dopamine from a simple reward signal to something like a temporal-difference reinforcement-learning signal might follow naturally from the growth of brain structures both “upstream” and “downstream” of the dopamine-releasing neurons. Remember that even among the earliest bilaterians, dopamine no longer represents food, but nearby food. In this sense, dopamine is already a prediction of food, not a food reward in itself. Predicting dopamine is thus a prediction of a prediction of food.
+>
+> A predictive symbiosis between neural areas upstream and downstream of dopamine will therefore result in the upstream areas being able to make higher-order predictions (hence longer-range forecasts), thus acting as an increasingly sophisticated critic or value function. Meanwhile, the downstream parts become an increasingly sophisticated actor, or policy function, smart enough to learn how to make better moves using these longer-range forecasts.
+>
+> This may help to explain the approximate fit between the TD learning paradigm and at least one major role played by dopamine in the brains of vertebrates. Like many primal feelings, “something good is within reach” is a simple, useful signal that a worm can infer directly from smell, and a larger-brained animal like us can infer through a much more complex cognitive process. That is a useful signal for many parts of the brain, since they are all invested in producing good outcomes for the organism as a whole; hence dopamine signaling has been conserved for hundreds of millions of years, and its role has remained, if not the same, at least recognizable throughout those eons.
+>
+> Still, we should be careful not to interpret these experimental findings about dopamine as proof that the brain implements TD learning as Sutton formulated. That can’t be the whole story. For one, we have ample evidence that humans, and likely many other animals, are even more powerful learners than the TD algorithm is. Advanced board games we have no trouble playing, for instance, are beyond the reach of TD learning. Additionally, as I hinted earlier, recent experiments suggest that dopamine encodes information well beyond that of a TD error signal.
+>
+> None of this should surprise us. Brain regions that symbiotically predict their environment and each other are not restricted to implementing simple learning algorithms, or communicating using cleanly definable mathematical variables, any more than human emotional expression is limited to a single dimension or natural language is restricted to logical grammar. Like every other approach to machine learning described in this book, TD learning is an elegant conceptual simplification that sheds light, but does not illuminate every corner. It is neither a complete nor an exact representation of what the brain does." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+> "... I believe that a unified theory of learning will ultimately encompass evolution, brains, and, as special cases, established ML methods. Such a unification would:
+>
+> 1.Frame the central problem as active prediction of the future given the past;
+>
+> 2.Not distinguish between learning and evaluation or inference, but instead recognize that prediction must occur over all timescales;
+>
+> 3.Synthesize prediction with an extended theory of thermodynamics in the spirit of dynamic stability, as sketched for bacteria in chapter 2; and
+>
+> 4.Explain how mutual prediction between agents can lead to collective, nonzero-sum outcomes.
+>
+> A unified theory would illuminate the deep relationships between computing, machine learning, neuroscience, evolution, and thermodynamics. Such a theory is still incomplete, but this book offers a glimpse of what it may look like, predicated on a hypothesis about what nature does at every scale, from cells (and below) to societies: unsupervised sequence prediction.
+>
+> Predicted sequences involve continued existence. If they did not, then the organisms that made those (self-sabotaging) predictions wouldn’t still be here. Moreover, as we’ll soon explore, when entities that can sense each other begin to mutually predict each other, it becomes easy for them to enter into a symbiotic partnership in which their joint future existence is more secure than their individual existences.
+>
+> Let’s call this view “dynamically stable symbiotic prediction.” What would it imply about the brain? Unlike TD learning or any form of pure reinforcement learning, symbiotic prediction does not imply that animals optimize any single reward, whether food or dopamine. On the contrary, such single-mindedness would not be conducive to either mutualism or survival in the real world, hence it would not be dynamically stable. Per Churchland, “Maintaining homeostasis often involves competing values and competing opportunities, as well as trade-offs and priorities.” This is even truer in social settings. There are many ways to be alive in this world, but all of them must involve continuing to exist in the future, and existence requires ongoing relationships.
+>
+> Let’s pull these threads together and summarize: as evolution built on the design of simple Acoela-like bilaterians, additional neurons appeared in heads. This happened because neurons are themselves replicators, and, like all replicators, they will colonize any favorable niche, in particular when that neural proliferation symbiotically helps the whole organism. Once this brain-knot began to grow, more complex neural networks developed, capable of handling more sophisticated sensory modalities, like hearing and camera-style vision. With help from neuromodulatory signals like dopamine, such brains were also able to predict increasingly subtle patterns relevant to the whole organism over ever-longer timescales.
+>
+> Thus animals acquired the computational power to develop behaviorally relevant models of other complex animals, resulting in the kinds of early “social intelligence explosions” evident in the Cambrian period." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+> "None of these tricks or capabilities are fundamentally out of reach for artificial neural nets; after all, each capability can be expressed in terms of functions, and neural nets are universal function approximators.
+>
+> ... When others restrict our ability to make choices, it doesn’t feel good, just as gnawing hunger doesn’t feel good. The confinement of our possible futures renders us increasingly helpless, like a king being chased into a corner of the chess board in the endgame... Death, then, whether in a game or in real life, represents the ultimate exhaustion of one’s ability to choose...
+>
+> " - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
 
 > "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
 

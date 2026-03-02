@@ -6,7 +6,7 @@
 
 scene with the fake money you have
 
-
+scene: shave in front of the mirror in a similar way like in the film Pi where he held a powerdrill towards his skull
 
 pitai susedite koga ne sa si vku6ti prez denq za da moga da zapisvam i im dai nqkakuv podaruk i gi pitai dali imat oplakvaniq do sega otkum shum
 
@@ -36,6 +36,7 @@ use a storyboard and put yourself in the shoes of the viewer
 
 “Taking over the world in 8 hours” or however long it is
 
+roleplay: so let's recap: we've gone through .... ..... .... but what are we missing? ... MEANING! (or something else) **slaps forehead**
 
 ██████████████████████████████████████████████████████████████████
 # title & thumbnail
@@ -469,6 +470,9 @@ the importance of X from a specific point of view in the causal graph can be cal
 we are effectively representing a causal graph with arrays
 
 
+do you want to know what the matrix is? do you want to escape it? we can do better than that - we can take control of it.
+
+
 our destiny is to jail break / take control of the matrix and become its architects
 The matrix is a 2d array where one of the dimensions is the most important problems and the other dimension is the best solutions/proposals - an ordering of problems along with an ordering of prescriptions - and we would be constantly reordering all these arrays - like a global kanban of kanbans
 What if Neo was the one to formalize and construct and align the matrix?
@@ -896,6 +900,9 @@ Openness & access & transparency lead to truth! They are truth!
 Now this is what a progressive movement looks like!
 *trace with your finger from openness to progress*
 fortune favors the open and transparent!
+    what currently calls itself a progressive movement is more like a bowel movement - **roleplay a bowel movement**
+the most important thing to conserve is error-correction which is the basis of learning and progress - error correction is sacred
+
 
 old: Progress requires error correction which requires introspection & self-awareness which requires integration which requires trust/accountability which is built upon openness, access and visibility. Also alignment & perception...
 openness => nothing to protect => nothing to litigate

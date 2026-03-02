@@ -119,6 +119,12 @@ The Hardest Problem of Consciousness
 The Map That Shapes The Territory
     Niche (co-)Construction
 THe Master Pattern
+Collective Self Help
+The Killer App in Meaning Making
+    once installed - any other meaning making app is obsolete
+End Game
+Sparks of CI
+    ala sparks of AGI
 Cultural Recursive Self-Improvement
 The Great Complexification/Integration
 Programming accountability and expressivity into the system

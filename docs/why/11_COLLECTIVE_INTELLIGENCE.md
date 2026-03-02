@@ -296,6 +296,13 @@ proper credit assignment is important for 2 reasons: to know who to ask in the f
 We need to sort those who stand out in helping others stand out and raising the bar for everyone else - this is credit assignment
 
 
+## learning == backward causality
+
+> "Neural circuits are functional too, and, in complex nervous systems, their functions are learned. **Learning requires signals relating activity to its downstream effects to flow backward, from target to source; hence the “backpropagation” algorithm for training artificial neural nets**... real brains are unlikely to implement the backpropagation algorithm, but whatever algorithm they use must involve information about “downstream” effects somehow making its way back “upstream” to the neural machinery that caused those effects, so that the machinery can be modified accordingly. In this sense, **learning is the very essence of backward causality.**
+>
+> Neuroscientists often don’t directly observe learning taking place in electrophysiological experiments, because it’s slower than real-time electrical activity. It’s also not nearly as well-understood. We figured out how neurons spike in the 1950s, but are still arguing about how they modify their inputs and parameters to learn when to spike. Hence, our understanding of the slower aspects of nervous systems exhibiting backward causality lags far behind our understanding of the mechanisms underlying their rapid, forward causality.
+>
+> More abstractly, we tend to notice only efficient causes, and not the final causes... Sometimes final causes get ignored for another, related reason: they smell of teleology. Indeed, the whole idea of a final cause only makes sense in the context of purposive behavior. But as we’ve seen, biological (and more broadly “entensional”) systems are characterized by purposes. We can only understand them functionally, which means embracing Aristotle’s final causes." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
 
 ## the wisdom of crowds and how group think can deteriorate it
 
