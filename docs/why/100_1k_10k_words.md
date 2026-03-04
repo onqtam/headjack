@@ -520,7 +520,9 @@ The [Collective] Thermodynamic Imperative
 HumanityOS
 Justified Relevance
     the self-legitimizing justification memeplex
-Greater Than 1
+Greater Than One
+    or one to infinity
+        Peter thiel got you from 0 to 1 - I’m getting you from one to infinity
     [0 to 1](https://en.wikipedia.org/wiki/Zero_to_One) is not enough if you want to go viral - you need an R-naught greater than 1
     this is what you'll do to at least 1 of your friends after you're done reading this - opened eyes from clockwork orange
 

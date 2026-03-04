@@ -22,6 +22,12 @@ make it salient - describe universal pain points
 adress objections or at least acknowledge them and say you'll cover them in the future
 
 
+pig skin piece - play with it - skin in the game
+
+Don’t say “suicided” - think of the algo
+
+
+
 have a scene where I grab the camera and talk to it in a shaky way from up close like the joker
 
 biggest risk: too complex for the masses

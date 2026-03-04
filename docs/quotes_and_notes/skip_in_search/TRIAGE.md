@@ -2984,6 +2984,194 @@ I hope I don't have to take one for the team
 
 information is a difference that makes a difference - Gregory Bateson
 
+
+You’re part of many partially overlapping & nested collectives
+
+The elon algo - error correction, RR, accountability, agency, simplicity & ambition - & deleting parts - but that requires coherence & integration of info
+    1. make requirements less dumb
+    2. delete everything that's not absolutely needed
+    3. re-add what is still needed - if you don't re-add anything you didn't delete enough
+    4. speed it up, make it more efficient
+    5. automate
+
+You can just rank things - hey Fink - look at me - we define the ESG now - and it will be both about consumption and investing - we define halal/kosher and haram - along with rank by association
+
+If Xi and Trump are currently the most important people - the leaders of the world leaders - why hasn’t almost anyone read xi jin pin thought or the art of the deal? Where are they leading us? Is it the most optimal state for our covilization? No? Why not?
+
+
+Vesting of rewards/payments - no instant bonuses
+
+“Replicate its README” - readme is collective DNA
+This is the project of our century
+We need to resonate with each other - to vibrate on the same wavelength
+Our wavelength is the representation we’re expressing collectively - lets vibe together - vibes are expressed representations as waves
+
+We need to plug things such as who is more morally right, what is more consequential, etc. all into an equation for the top-level justificatory function
+
+If each new generation has more problems than the previous in certain aspects - what does that tell you? What’s behind that? And how fundamental is it to get the first derivative with the wrong sign? Where is this headed?
+
+Imagine viewing the intellectual lineage of any meme - and have all memes pitted against each other in optimal debate towards resolution
+
+What is the ultimate goal of politics - what is the problem that should be solved?
+
+How do we best crowdsource the function of the best possible governance? In functionalism functions are composed of each other and ever higher & more complex levels of functionality are possible - what we need is a global conductor and a global composer
+
+We need to go meta on our system - why is it that there’s so much polarisation and friction
+
+We need a better status & resource economy
+
+There is status in error correcting our status games
+
+Tagged UBR
+
+God is the transcendent - that above you waiting to be reached at
+
+Hey google - you have the servers - you can become this
+
+You should be subordinate to something - in the sense of following orders and trusting so that you can specialize and not expend resources where unnecessary
+
+Is it true, relevant, useful?
+
+Ruthless meritocracy
+
+Distributed consensus
+How should we configure it?
+
+Download this and feel free to publish it without copyright if the official source is taken off
+
+God is ultimate justification - one to which you subordinate yourself to. We have “why” as a question because there is time and consequences and predictability
+
+The oracle is god/truth
+
+I am for hire and am willing to work on only one thing
+
+God is actually useful - godlesness decays
+You do not want to be godless - trust me I’ve been there - without a north star, spark and love
+
+Think about what the opposite of truth is - it is unjustified brokenness or inefficiency or injustice
+
+We need horizontal meme transfer - we need the ultimate meme for the collective
+
+God is trying to compute itself into existence through us
+
+Worship truth !!!
+
+Come. Join this community - we trust each other
+
+Trust is the ability to offload work and computation and responsibility to someone and having the assurance by default that you’d get what you asked for
+
+Booting up a parallel economy where lying is harder and everything is better - a self-policing community
+
+Fairness as a service
+
+Congrats - you just installed collective dna - this is the first time our system has spoken to us and expressed itself computationally
+
+We need to compute god. God is one and so are we
+
+We need a marketplace for data
+
+People working to provide extreme luxury to someone could be lifting others out of poverty - we’re misallocating as a species - we don’t value our own enough
+
+I don’t believe in having extreme luxury while there is still poverty
+
+I conceptually packaged collective consciousness, identity & self-awareness - how to think like a collective - how to merge with it - what is the collective form of love one should have? How and why should one love his collective?
+Understanding is a prerequisite to love - what cannot be understood cannot be fallen in love with
+Without knowledge and understanding of your system you’re irresponsible - you should be involved in a status economy grounded on truth
+
+Think like a collective
+
+The replicator
+The fractal why
+
+God is truth. It is the root of the entire structure and the point of it
+Honesty and truth above all else
+
+Ultimately I just want to get paid a salary and be allowed to have a family and work on ideas. I want the freedom to contribute to knowledge as best as I can.
+
+What is the ultimate ideology? I’m serious - how do we ask that question?
+
+You want to bepart of something that replicates. You whould want that even more than your personal replication. It cannot to all have been for nothing. What would you want your descendants to think of you and the population you’re a part of? Why not ask that question from their perspective - what should have we organised ourselves like?
+
+This is my bid to the question if the world asked me: what should we do?
+
+What, how, and Why?
+WHW
+
+What is going to happen? Should it happen? Why? How do you know? And how can I profit from it?
+
+How do we answer “what do I do” as best as possible? The ultimate collective intelligence - the best set of societal knowledge in a compressed interactive and agentic form?
+An AI aligned with the global collective representation is 
+“What should I do” recursively and fractally
+
+Collective justification
+
+We need to produce a society that can replicate itself optimally - how do we do that? That’s the root question. What to do. Societally. About anything
+
+Thats the thing - that I ultimately dont really care enough if I live even though I’m scared - because I’m attached to something even bigger than myself - I identify with my ability for the purest form of representing yourself.
+
+
+Everyone thinks they care about truth but they don’t - otherwise they’d be deep into epistemology
+
+There should be a reward for having rewarded the right people earlier rather than later
+
+we're living in different worlds epistemically...
+
+The power that women have is that men will do any thing for them - we simply need the best status competition
+
+A self needs self-justification, no?
+
+Put your fucking reputation where your mouth is
+
+If you’re important you don’t get to not participate - you will be represented and evaluated and ranked regardless - its inevitable
+
+
+I believe in checks of power more than anyone because I’m for proportional skin in the game - I’m about alignment
+
+Pi film drill head scene - with toothpaste - I’m going insane!
+
+Here’s the promise: you’d need a fraction of the time you’re currently spending online for your current informational needs and it will be easier to form actual communities and meet our need for meaning and relationships much better and we’d still have a bunch of time to have even more progress as a species. The path to self-actualization will become a lot more tangible for all
+Systems are defined by their information processing - our species changed dramatically with language and it can change dramatically again
+
+Its not enough to simply share this - you have to actively persuade your friends to watch this because it is both in your and in their best interest to do so in the deepest possible way. The earlier you’re in and the bigger this gets - the better.
+
+The master replicator
+
+Messenger on desktop deprecated - true?
+Why cant separate instagram content from messaging? You’re a rat that’s being trained, a consumerist cow being milked
+
+Unaccountability and incoherence and ignorance is/are extremely dangerous to our democracy
+
+Authoritarian regimes can represent their people in this system - and if they don’t want to participate a proxy for them will be maintained by others and they will participate in the collective justification whether they like it or not
+
+Bigger than mag 7, than G7 - This is bigger than big - this is everything
+
+Penetrate the caninets - nono - penetrate the minds - **roleplay penetrating stickmen’s heads - squirt liquid with syringe and then squirt towards your head too**
+
+There’s a new game in town
+
+I take epistemology seriously because knowledge is all we have
+
+Roleplay the meme replicator that has infected you briefly appearing out of your head while you’re convulsing and making noises and going back in - “there I am - and I’ve already replicated myself into your brain by 80% dear viewer”
+
+The majority of AI risk comes from the fact that we’re not unified
+
+We’re going to produce better people - who doesn’t want others to be better?
+
+Things may look bad, but salvation is possible so long you understand what it requires - both izeas from israel’s prophets and also jesus and muhammad said it
+
+
+
+I don’t have kids yet but I will replicate one way or another
+
+You’re growing neural nets - cute - Let's grow human culture
+
+The incentive & accountability kernel of our social OS
+
+Life is not for you - it is for others, because without them you’d have nothing and be miserable materially and psychologically
+
+
+
+
 > "The arc of the moral universe is long but it bends toward *~~justice~~* **cooperation**." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/646750-let-us-realize-the-arc-of-the-moral-universe-is), probably
     or accountability & cooperation
 

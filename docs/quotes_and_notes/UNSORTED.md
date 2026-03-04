@@ -1437,6 +1437,7 @@ https://www.noemamag.com/life-need-not-ever-end/
 
 
 
+> "'I just wanted to make some money' is late-stage capitalism's equivalent of 'I was just following orders'." - [Hanzi Freinacht](https://x.com/HFreinacht/status/2028155414445994403)
 
 
 
