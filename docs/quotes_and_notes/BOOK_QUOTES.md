@@ -5733,7 +5733,9 @@ chapter 8 - humiliation - good chapter, just not relevant for my needs
 
 chapter 9 - Change the Rules, Change the Player
 
-> "" - [The Status Game, by Will Storr](https://www.goodreads.com/book/show/58642436-the-status-game)
+> "Researchers find happiness isn’t closely linked to our socioeconomic status, which captures our rank compared with others across the whole of society, including class. It’s actually our smaller games that matter: ‘studies show that respect and admiration within one’s local group, but not socioeconomic status, predicts subjective well-being’.
+>
+> Our natural propensity to play small, local games is found in combat units during war, in which soldiers tend to be motivated less by the distant aims of their national leader than their desire for connection and respect from their brothers-in-arms and the primal thrill of dominance play." - [The Status Game, by Will Storr](https://www.goodreads.com/book/show/58642436-the-status-game)
 
 > "" - [The Status Game, by Will Storr](https://www.goodreads.com/book/show/58642436-the-status-game)
 

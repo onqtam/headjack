@@ -164,6 +164,14 @@ frame control & manipulation
 the highest form of nationalism is seeking the best ways to integrate and cooperate with others - to be part of a larger whole
     if you care about your nation you should ultimately care about the world
     but also to enforce accountability within your nation - integration with others doesn't mean open borders where anything goes - it's about rules and accountability and trust (and boundries?)
+Nationalism - accountability within and across
+Or you’re a globalist - well then again its about accountability and trust but you also should want separate regions trying different things and only matters of ultimate concern for all should be adjudicated on the global level - subsidiarity - and what’s our process of determining what should matter where
+Cultures aren’t equal - not by a long shot
+Not X nation first - its fairness and truth and accountability and trust first
+And this is true for all levels of organization - not just the top most
+nationalism - you should want not just to cooperate with other regimes, but you should want 2 other things at the same time:
+- them to be as powerful and thriving as possible, which requires error-correction which also requires liberties, ==> spreading democracy is important (+ it legitimizes your own regime being a democracy too)
+- you want to be under a higher organizing principle such that you shouldn't fear your other cooperators to become better than you - you should be able to trust that no matter how far behind you fall - that you wouldn't be taken advantage of.
 
 everyone is preoccupied with their corner of reality and almost nobody sees or understands the big picture
 
@@ -2170,11 +2178,6 @@ Let there be light! Where there is light - there is no shadow
 
 There is no individualism without collectivism
 
-Nationalism - accountability within and across
-Or you’re a globalist - well then again its about accountability and trust but you also should want separate regions trying different things and only matters of ultimate concern for all should be adjudicated on the global level - subsidiarity - and what’s our process of determining what should matter where
-Cultures aren’t equal - not by a long shot
-Not X nation first - its fairness and truth and accountability and trust first
-And this is true for all levels of organization - not just the top most
 
 Civilizational collapse is a collapse of meaning
 
