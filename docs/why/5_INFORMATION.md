@@ -402,7 +402,7 @@ https://www.youtube.com/watch?v=ZgokFqUAAsE
 
 interoperability base solution
 
-
+rules engine
 
 
 LLMs !!!

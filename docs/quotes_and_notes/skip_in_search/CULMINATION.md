@@ -511,6 +511,8 @@ Trump: everything is computer!
 # truth
 ██████████████████████████████████████████████████████████████████
 
+The biggest truth is that truth is of infinite value
+
 truth must subjugate/conquer non-truth
 We need to be in a literal status game/war for truth and against lying
 > "... when you have found Truth, you need not fear being defeated." - [Epictetus](https://www.goodreads.com/quotes/616541-if-you-seek-truth-you-will-not-seek-to-gain)
@@ -940,7 +942,7 @@ Thou shalt ... not ...
 - make information open, coherent & integrated
 
 law #2: subsidiarity?
-law #3: cooperation? non-coercive expansion of self? seduction & persuasion over/instead of coersion
+law #3: cooperation? non-coercive expansion of self? seduction & persuasion over/instead of coersion, also prestige (respect, admiration, praise) > dominance & coercion (force, fear)
 law #4: all evils are due to lack of knowledge and knowledge is created by seeking good explanations
 law # : problems are inevitable, problems are soluble - from beginning of infinity chapter 3 <== NOT REALLY A RULE but a maxim?
 law # : the truth consists of hard to vary assertions about reality
@@ -953,6 +955,8 @@ Intolerance only to the intolerant
 no walls to keep people inside by force/coersion - apostasy is kosher - you can leave at any time!
 
 openness, coherence, integration
+
+We the people
 
 -â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ The 10 themes of the Global Brain:
 

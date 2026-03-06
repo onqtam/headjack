@@ -632,6 +632,25 @@ individualism, freedom & personal choice, addiction, impulsivity, attention hija
 # SECTION: Metasystem transition
 ██████████████████████████████████████████████████████████████████
 
+FROM AI:
+No, "evolutionary transitions in individuality" (ETIs) and "major evolutionary transitions" (METs) are not strictly the same, though they are closely related. ETIs are a subset of METs that specifically describe the emergence of new, higher-level biological organisms from lower-level units, such as cells forming multicellular life, rather than merely functional changes in information transmission.
+- Key Differences and Relationship:
+- Major Evolutionary Transitions (METs): A broader concept (often credited to Maynard Smith and Szathmáry) defining moments in life that change how information is stored, transmitted, or how the evolutionary process itself operates. This includes the origin of the genetic code, sexual reproduction, and language.
+- Evolutionary Transitions in Individuality (ETIs): A specific category of transition where previously independent reproducing entities (e.g., prokaryotes) become dependent, forming a new, higher-level, reproducing individual (e.g., eukaryotes). ETIs require that lower-level units can no longer reproduce independently and that a,division of labor occurs.
+- Relationship: All ETIs are major transitions, but not all major transitions are ETIs. For example, the origin of the genetic code is a major transition in information, but not a transition in individuality.
+In essence, ETIs focus on the unit of selection moving up a hierarchy, while METs are a broader category that also include fundamental, non-structural shifts in how life operates.
+3. Metasystem Transition (MST)
+Definition: A concept from Turchin (1977) describing a process where several previously independent systems integrate, and a new control level emerges to manage them.
+Key Difference: MST is strongly focused on control and regulation. It is a cybernetic view of the "quantum of evolution"—a jump to a higher level of complexity.
+Context: While often synonymous with ETIs in biological terms, MST is broader, applying specifically to the evolution of control systems (e.g., nervous systems, or, in social terms, the emergence of a government).
+
+ETIs are a type of MET.
+ETIs are similar to MSTs in biology (both describe groups of individuals acting as a new unit), but MSTs focus more on the control aspect of the integration, while ETIs focus on the units of selection aspect.
+A Metasystem Transition (MST) can also refer to non-biological systems (e.g., merging human society with AI), which might not fit the strict biological definition of an ETI.
+
+
+
+
 > "Life is a Sisyphean race, run ever faster toward a finish line that is merely the start of the next race." - [Matt Ridley](https://www.azquotes.com/quote/368256)
 
 > "Major evolutionary transitions: A major evolutionary transition refers to the emergence of a higher level of complexity by the integration of simpler systems into an encompassing supersystem. Examples are the origin of life from molecules, the formation of multicellular organisms from cells, and the formation of social systems from individuals. In such a higher-level system, the component systems are dependent on each other for their joint survival. This means that they need to coordinate their actions with these others." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)

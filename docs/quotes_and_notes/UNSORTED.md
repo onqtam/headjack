@@ -27,9 +27,6 @@ Metaphilosophical Criteria for Worldview Comparison Clément Vidal
 A Blueprint for a Better Digital Society
 https://eliassi.org/lanier_and_weyl_hbr2018.pdf
 
-Cognition all the way down 2.0: neuroscience beyond neurons in the diverse intelligence era
-https://link.springer.com/article/10.1007/s11229-025-05319-6
-
 Life as a self-referential deep learning system: A quantum-like Boltzmann machine model
 https://www.sciencedirect.com/science/article/abs/pii/S0303264721000514
 
@@ -1441,6 +1438,12 @@ https://www.noemamag.com/life-need-not-ever-end/
 
 
 
+
+
+Dynamic stability
+Dynamic stability is an object's (commonly an aircraft or vehicle) ability to return to its original equilibrium state over time after being disturbed by external forces. Unlike static stability, which is the immediate, initial tendency to return to equilibrium, dynamic stability analyzes how oscillations decrease, increase, or stay constant over time.
+Dynamic stability is the ability of a system to return to its normal state over time after it has been disturbed, considering how it behaves during motion or change.
+Dynamic stability refers to how a system (most commonly an aircraft, vehicle, structure, or mechanical system) behaves over time after being disturbed from its equilibrium position.
 
 
 

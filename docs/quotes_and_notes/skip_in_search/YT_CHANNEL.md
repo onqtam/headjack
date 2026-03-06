@@ -301,6 +301,9 @@ https://www.storyblocks.com/pricing
 transition, ambient & foley sounds
 
 audio sound effects:
+    The ONLY 3 Sound Effects You Need to Tell Any Story - Tim Runia
+    https://www.youtube.com/watch?v=JOm_EqBoW0M
+    TODO: ^^ WATCH IT
 editing: immersive audio:
     https://youtu.be/sLgHqZSe2o0?t=630
     thing 1 from here:

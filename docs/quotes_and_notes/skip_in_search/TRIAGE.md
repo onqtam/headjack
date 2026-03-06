@@ -3020,9 +3020,12 @@ We need to go meta on our system - why is it that there’s so much polarisation
 
 We need a better status & resource economy
 
+the highest status is in error correcting our status games
 There is status in error correcting our status games
 
-Tagged UBR
+Tagged/labeled/compartmentalized UBR
+
+tribalism is in our DNA - we have to harness it properly
 
 God is the transcendent - that above you waiting to be reached at
 
@@ -3159,7 +3162,7 @@ We’re going to produce better people - who doesn’t want others to be better?
 
 Things may look bad, but salvation is possible so long you understand what it requires - both izeas from israel’s prophets and also jesus and muhammad said it
 
-
+Conformity - humans parroting other humans
 
 I don’t have kids yet but I will replicate one way or another
 
