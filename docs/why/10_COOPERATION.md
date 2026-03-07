@@ -183,6 +183,16 @@ if we shift from knowing the world to acting in the world, "ought" and evaluatio
 
 
 
+
+> "Moral philosophy or ethics is the branch of philosophy that is concerned with the behavioural rules that we need to follow to constructively live in a group, without harming others... the theory of evolution offers a profound explanation for why such rules are necessary, and how they have developed. We have to remember, though, that the moral rules that have evolved in culture are to some degree arbitrary, and therefore can only in part be relied upon. Moreover, no rule can be absolute, or applicable to all cases: the world is too complex for simple, deterministic rules.
+>
+> The problem remains how we can found a system of ethics on a more scientific basis. How can we optimally coordinate the fitness of the components (individuals) and the whole (group, society, ecosystem)? This problem is not trivial, because what is best for a subsystem is not necessarily best for the system as a whole—which after all has emergent properties... An effective system of ethics should suppress the temptation to become such a “free rider”, who profits from the system as a whole but without investing anything in return, thus tempting others away from their cooperative, system-supporting activity.
+>
+> We need a thorough evolutionary-systemic analysis to reconcile the values of the individual or subgroups as best as possible with the values of the society as a whole. This could for example be based on seeing society as a huge organization whose components need to mutually adapt so as to produce maximum synergy and minimum friction. Such an analysis will hopefully allow us to develop a morality that not only benefits as many people as possible, but that is also easily realised in practice, without requiring too many heavy-handed control mechanisms, such as police, courts of justice, and prison sentences to punish offenders." - [Complexity and Evolution, by Francis Heylighen](https://cris.vub.be/ws/portalfiles/portal/67389235/Complexity_Evolution.pdf)
+
+
+
+
 > "Moral philosophy has been stuck in a three-way stalemate for millennia. Which tells us that the answer is probably “all of the above”, each capturing something real. Each draws the line between bad and evil in a different place.
 >
 > **Virtue ethics** says the good is rooted in choice, the capacity to act according to your values, character, and principles. We can’t know the consequences of our actions, so what matters is showing up right: brave, honest, paying attention...

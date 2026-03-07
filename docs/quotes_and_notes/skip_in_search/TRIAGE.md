@@ -161,6 +161,7 @@ We have all the pieces of the puzzle because of the great unbundling - all we ne
 
 frame control & manipulation
 
+== nationalism
 the highest form of nationalism is seeking the best ways to integrate and cooperate with others - to be part of a larger whole
     if you care about your nation you should ultimately care about the world
     but also to enforce accountability within your nation - integration with others doesn't mean open borders where anything goes - it's about rules and accountability and trust (and boundries?)
@@ -1970,8 +1971,6 @@ Give till it hurts - I know I have/will - I sure will
 
 Do you understand what I am telling you?  We need cultural coherence - we need to produce coherence - 
 
-Selfishness vs selflessness - no - the question is about expanding the self
-
 There is no culture war - there is only divide and conquer
 
 The only worthy war is with unaccountability and corruption
@@ -2951,6 +2950,7 @@ when the abstract is way too abstract - that simply means we need better explana
 
 
 You might think that the current system is an immovable object but I’m presenting an unstoppable force
+this unstoppable force will eventually move any immovable object
 
 War is an autoimmune disease
 
@@ -3175,7 +3175,9 @@ The incentive & accountability kernel of our social OS
 
 Life is not for you - it is for others, because without them you’d have nothing and be miserable materially and psychologically
 
-
+Selfishness vs selflessness - no - the question is about expanding the self
+I'm not brave or selfless - I just have a bigger self - and even if I go away that bigger self will persist. In fact, me going away would be a pretty good signal that I've meaningfully accelerated the manifestation of that bigger self. So I'm actually selfish with the bigger self that I identify with.
+im not fearless - I'm scared shitless! why do u think this segment exists? hence this segment! Its too often that when I tell someone what I'm working on they say I'll get killed within the first 2 hours...
 
 
 > "The arc of the moral universe is long but it bends toward *~~justice~~* **cooperation**." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/646750-let-us-realize-the-arc-of-the-moral-universe-is), probably

@@ -5363,7 +5363,15 @@ what if bonuses weren't given immediately but had multi year vesting? what if bo
 >
 > Hard science might be robust to the pathologies—even then. So let us take a look at social science. Given that the sole judges of a contributor are his “peers,” there is a citation ring in place that can lead to all manner of rotting. Macroeconomics, for instance, can be nonsense since it is easier to macrobull***t than microbull***t—nobody can tell if a theory really works.
 >
-> If you say something crazy you will be deemed crazy. But if you create a collection of, say, twenty people who set up an academy and say crazy things accepted by the collective, you now have “peer-reviewing” and can start a department in a university. Academia has a tendency, when unchecked (from lack of skin in the game), to evolve into a ritualistic self-referential publishing game." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+> If you say something crazy you will be deemed crazy. But if you create a collection of, say, twenty people who set up an academy and say crazy things accepted by the collective, you now have “peer-reviewing” and can start a department in a university. Academia has a tendency, when unchecked (from lack of skin in the game), to evolve into a ritualistic self-referential publishing game.
+>
+> ... by the Lindy effect, robustness to time, that is, doing things under risk-taking conditions, is checked by survival. Things work 1) if those who have been doing the doing took some type of risk, and 2) their work manages to cross generations." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+
+> "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+
+> "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+
+ANOTHER BUSINESS OF INTERVENTION
 
 > "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
@@ -5371,7 +5379,19 @@ what if bonuses weren't given immediately but had multi year vesting? what if bo
 
 > "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
+> "... for the world to be “ergodic,” there needs to be no absorbing barrier, no substantial irreversibilities." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+
+> "Simon formulated the notion now known as bounded rationality: we cannot possibly measure and assess everything as if we were a computer; we therefore produce, under evolutionary pressures, some shortcuts and distortions. Our knowledge of the world is fundamentally incomplete, so we need to avoid getting into unanticipated trouble. And even if our knowledge of the world were complete, it would still be computationally near-impossible to produce a precise, unbiased understanding of reality. A fertile research program on ecological rationality came out of the effort to cure Simon’s problem; it is mostly organized and led by Gerd Gigerenzer (the one who critiqued Dawkins in Chapter 9), mapping how many things we do that appear, on the surface, illogical, but have deeper reasons." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+
 > "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+
+> "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+
+
+
+> "Skin in the Ruling - Let us close with a historical anecdote. Some might well ask: law is great, but what would you do with a corrupt or incompetent judge? He could make mistakes with impunity. He could be the weak link. Not quite, or at least not historically. A friend once showed me a Dutch painting representing the Judgment of Cambyses. The scene is from the story reported by Herodotus, concerning the corrupt Persian judge Sisamnes. He was flayed alive on the order of King Cambyses as a punishment for violating the rules of justice. The scene of the painting is Sisamnes’s son dispensing justice from his father’s chair, upholstered with the flayed skin as a reminder that justice comes with, literally, skin in the game." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+
+> "You can’t chew with somebody else’s teeth." - Yiddish proverb about skin in the game
 
 “The physicist and complexity researcher Yaneer Bar-Yam showed quite convincingly that “better fences make better neighbors”—something both “policymakers” and local governments fail to get about the Near East.”
 Nassim Nicholas Taleb, Skin in the Game: Hidden Asymmetries in Daily Life
@@ -5735,7 +5755,48 @@ chapter 9 - Change the Rules, Change the Player
 
 > "Researchers find happiness isn’t closely linked to our socioeconomic status, which captures our rank compared with others across the whole of society, including class. It’s actually our smaller games that matter: ‘studies show that respect and admiration within one’s local group, but not socioeconomic status, predicts subjective well-being’.
 >
-> Our natural propensity to play small, local games is found in combat units during war, in which soldiers tend to be motivated less by the distant aims of their national leader than their desire for connection and respect from their brothers-in-arms and the primal thrill of dominance play." - [The Status Game, by Will Storr](https://www.goodreads.com/book/show/58642436-the-status-game)
+> Our natural propensity to play small, local games is found in combat units during war, in which soldiers tend to be motivated less by the distant aims of their national leader than their desire for connection and respect from their brothers-in-arms and the primal thrill of dominance play... Status games don’t function best by generating maximal competition between players. ‘Competition’ is defined as happening when people’s outcomes are opposed and they’re vying for the same prize. Research on this matter is mixed, but moderate levels are thought to increase diligence and productivity. Too much internal competition, however, can be counterproductive. If an atmosphere of hard internal competition descends, players can be incentivised to stop rewarding each other with status and there’ll be a paucity of supply.
+>
+> ... The rule tweaks that made Enron’s game so perilously harsh would’ve generated intense rivalries between players. Rivalry is different from competition. It’s a product of it, and is distinguished by its focus and ferocity. Rivalry emerges over time between parties who’ve jostled repeatedly and have a history of tight skirmishes, near misses and close calls. Research shows that when players compete with someone they consider a rival, they ‘feel their status is at stake’. This can make it a fierce source of motivation, especially when it’s focussed towards a common enemy. Rivalry between companies is highest when they’re competing in the same domain and are most evenly matched. In what feels like an echo of our sometimes bloodily territorial hunter-gatherer past, even being near one another geographically can increase firm-versus-firm rivalry.
+>
+> ... Success doesn’t require being maddened by rivalry, like Steve Jobs, or forced to war after a jealously defended, limited store of status like the employees of Enron. Most of our status play happens nose-to-nose, with co-players immediately around us. Like soldiers at war, we‘re usually sustained by the prizes that come, not from being at the very top, but from routine play with familiars: colleagues, family members, friends offline and on. We display knowledge of the game’s rules and follow them virtuously and with skill; proving ourselves of value to its overall mission. In our daily strivings, we hope our playing is appreciated and admired, just as we’re expected to pay that admiration back. But the games we play have extraordinary power over us. All too often, when the rules change, so do we." - [The Status Game, by Will Storr](https://www.goodreads.com/book/show/58642436-the-status-game)
+
+chapter 10 - The Slot Machine for Status
+on persuasion & manipulation in tech
+
+> "The strategies by which we earn connection and status shape who we are. To a significant extent, we become the puppets of the games we play.
+>
+> In recent years, something like this has been happening to the world’s 3.6 billion users of social media. Social media is a status game. It can’t not be: it’s human life, unfolding online. It’s all there, the success games of the selfie-takers and humble-braggers; the virtue games of the wellness gurus and political campaigners; the dominance games of the mobbers and the cancellers. But the everyday striving that would’ve happened naturally, online, has been intensified by technologists who’ve tweaked their rules and symbols. They’ve made these games both highly competitive and madly compulsive.
+>
+> ... He codified his theory in what he called the ‘Fogg Behaviour Model’. He taught the model at ‘Behavior Design Boot Camps’ and at the Stanford Persuasion Lab that Wired magazine called ‘a toll booth for entrepreneurs and product designers on their way to Facebook and Google’. The model said a person is compelled to act when three forces collide in a moment: motivation (we must want the thing); trigger (something must happen to trigger a desire to get more of it) and ability (it must be easy). Take LinkedIn. At its launch, it visually represented the size of a user’s professional network with a hub-and-spoke icon. The bigger the icon, the greater the status. People want status (that’s the motivation), the icon generates a sudden urge to get more (that’s the trigger) and LinkedIn provides an easy solution, in the use of the site to generate more connections (that’s ability). ‘Even though at the time there was nothing useful you could do with LinkedIn, that simple icon had a powerful effect in tapping into people’s desire not to look like losers,’ Fogg has said.
+>
+> But the core of his dark genius lay in one brilliant further insight. It led to a tweak in the way status games are played on social media that would perhaps do more than any other to make them habitual. He described a way of issuing rewards such that they’d encourage compulsive behaviours. If a programmer wanted to create a certain action, in a user, they should offer a symbol of reinforcement after they’d performed the desired ‘target behaviour’. But here was the trick: the positive reinforcement would be inconsistent. You wouldn’t always know what you were going to get. ‘To strengthen an existing behaviour, reinforcers are most effective when they are unpredictable,’ Fogg wrote in 2003. ‘Playing slot machines is a good example: Winning a payoff of quarters streaming into a metal tray is a reinforcer, but it is random. This type of unpredictable reward schedule makes the target behaviour – in this case, gambling – very compelling, even addictive.’
+>
+> ... It’s not clear the technologists are fully aware what their users are actually gambling with. Social media is a slot machine for status. This is what makes it so obsessively compelling. Every time we post a photo, video or a comment, we’re judged. We await replies, likes or upvotes and, just as a gambler never knows how the slot machine will pay out, we don’t know what reward we’ll receive for our contribution. Will we go up? Will we go down? The great prize changes every time. This variation creates compulsion. We just want to keep playing, again and again, to see what we’ll get.
+>
+> The simple act of using social media can be a Fogg-ish trigger, compelling us to play. We all want status and seeing others receive it creates an urgency to grab some for ourselves. If we do well in the game, significant symbols of status may accrue to us: more followers and elite followers including celebrities, some of whom we might even get to know. We may receive a blue tick or the ‘verified’ marker that’s sometimes awarded to top-tier players." - [The Status Game, by Will Storr](https://www.goodreads.com/book/show/58642436-the-status-game)
+
+chapter 11 - The Flaw
+
+> "And the problem with status is, no matter how much we win, we’re never satisfied. We always want more.
+>
+> ... Perfectly happy. They’re not going to be perfectly happy. But that’s the flaw. It’s part of the dream we weave of reality. It tells us there’s a destination. But we’ll never stop wanting more. And, even though we may suffer wafts of imposter syndrome when feeling out of our depth in specific situations, we’re ultimately pretty good at accepting any status that happens to wash back in our direction. This counts, too, for elites at the top of their games. They accept it. They get used to it. They become acclimatised to the myriad ways they measure status: money; power; influence; flattery; clothing and jewellery; mode of transport and allocation of seat therein; holiday and residential locations; numbers of staff; size and luxury of house and workspace; laughter at jokes; eye contact; body language; measures of orange juice poured in a glass. They’ve earned it! Then they want more. They get more. Then that becomes normalised. It’s in this way that our bosses, politicians and celebrities can become drunk on status, their behaviour growing ever more crazed.
+>
+> ... All of which shows that status drunkenness is real and resentment can be fun. But as pleasurable as listing the excesses of the elites can be, the flaw that leads to them can be damaging to us all, not least when they manifest in the companies for which we work. Research by organisational psychologist Professor Dennis Tourish found people in lower corporate ranks tend to ‘habitually exaggerate the extent to which they agree with the opinions and actions of higher-status people as a means of acquiring influence’ while critical views are mostly kept quiet. And then the flaw kicks in. Leaders, being human, are vulnerable to believing all this lovely status-boosting news. They often accept praise and agreement uncritically and fail to grow suspicious over the lack of bad news. Those who attempt to deliver it are often punished with a reputation for being difficult, overly negative or not ‘team players’. They can ultimately find their careers in jeopardy.
+>
+> ... Canny players sense the flaw in their elites and seek to improve their own rank with flattery. And flattery works: Tourish calls it a ‘perfumed trap’. A study of 451 CEOs found leaders who were exposed to more frequent and intense flattery and agreement rated their own abilities more highly, were less able to change course when things went wrong, and led firms that were more likely to suffer persistently poor performance. When Tourish warns leaders about such dangers they usually nod in easy agreement. ‘During workshops, many have swapped amusing anecdotes that vividly describe the process in action,’ he writes. But ‘they then mostly go on to assume that they themselves are immune to its effects. In reality, they almost never are.’ Tellingly Tourish has found the most successful leaders are usually those with the ‘least compliant’ followers.
+>
+> Of course, most of us will never breathe these levels of status. But we can still find warning from the experiences of CEOs, royals and celebrities. We all, to some extent or other, live inside a self-serving story. When we find ourselves spoiled or flattered and fluttered at, we can often fail to question it. We accept it, we enjoy it, and we deserve more. And we’re never satisfied with what we get." - [The Status Game, by Will Storr](https://www.goodreads.com/book/show/58642436-the-status-game)
+
+chapter 12 - The Universal Prejudice
+
+> "... writes the psychologist Professor Paul Bloom, ‘egalitarian lifestyles of the hunter-gatherers exist because the individuals care a lot about status. Individuals in these societies end up roughly equal because everyone is struggling to ensure that nobody gets too much power over him or her.’
+>
+> These relatively flat arenas of play were made possible by our being highly sensitive to signs of ‘big shot’ behaviour and hotly policing it. A climate of ‘militant egalitarianism’ was maintained in which our anti-big shot instincts ensured no single player could grow too grand. In contemporary hunter-gatherer groups, hunters who appear overly proud of their catch are routinely mocked: the anthropologist Dr Elizabeth Cashdan writes that among the !Kung hunters of the Kalahari, ‘if an individual does not minimise or speak lightly of his own accomplishments, his friends and relatives will not hesitate to do it for him’. They’ve been recorded teasing one such man, asking of his kill, ‘What is it? Some kind of rabbit?’ In Inuit camps, when subtle facial disapproval, open shaming and public ridicule don’t succeed in dampening big shot behaviour, the entire tribe gathers around the cocky offender to sing a ‘song of derision’ in their face. Modern hunter-gatherer gossip remains preoccupied with ‘norm violations by high-status individuals’. Studies in the developed world find we too prefer tattle about high-status people, preferably of our own gender – rivals in our games.
+>
+> Our ill feeling towards high-status players has been captured in the lab. When neuroscientists had participants read about someone popular, rich and smart, they saw brain regions involved in the perception of pain become activated. When they read of this invented person suffering a demotion, their pleasure systems flared up. Psychologists see this effect cross-culturally, with one study in Japan and Australia finding participants took pleasure in the felling of a ‘tall poppy’: the higher their status, the greater the enjoyment of their de-grading. The most venomous levels of envy were reported when the poppy’s success was in a ‘domain that was important to the participant, such as academic achievement among students’ – when they were rivals in their games.
+>
+> And yet, as we’ve learned, we’re also drawn to high-status people: we crave contact with the famous, the successful and the brilliant. So our relationship with elite players is thunderously ambivalent. On one hand, we gather close to them, offering them status in order to learn from them and, in the process, become statusful ourselves. On the other, we experience grinding resentments towards them. This, perhaps, is one result of the mismatch between our neural game-playing equipment and the massively outsized structure of modern games. Our brains may be specialised for small tribal groups but today – especially at work and online – we play colossal games in which poppies loom over us like redwoods. Status is relative: the higher others rise, the lower we sit in comparison. It’s a resource and their highly visible thriving steals it from us. The exceptions we make tend to be for ambassadors for our groups: artists, thinkers, athletes and leaders with whom we strongly identify. They seem to symbolise us, somehow. They carry with them a piece of our own identity, a pound of our flesh – so their success becomes our success and we cheer it wildly. To our subconscious these idols are fantastically accomplished versions of us: our copy, flatter, conform cognition overrides our resentment." - [The Status Game, by Will Storr](https://www.goodreads.com/book/show/58642436-the-status-game)
 
 > "" - [The Status Game, by Will Storr](https://www.goodreads.com/book/show/58642436-the-status-game)
 
@@ -5749,12 +5810,47 @@ chapter 9 - Change the Rules, Change the Player
 
 > "" - [The Status Game, by Will Storr](https://www.goodreads.com/book/show/58642436-the-status-game)
 
-> "" - [The Status Game, by Will Storr](https://www.goodreads.com/book/show/58642436-the-status-game)
 
-> "" - [The Status Game, by Will Storr](https://www.goodreads.com/book/show/58642436-the-status-game)
 
-> "" - [The Status Game, by Will Storr](https://www.goodreads.com/book/show/58642436-the-status-game)
 
+> "This requires me to convince you that feelings are part of nature, that they are not fundamentally different from other natural phenomena, and that they do something within the causal matrix of things. Consciousness, I will demonstrate, is about feeling, and feeling, in turn, is about how well or badly you are doing in life. Consciousness exists to help you do better.
+>
+> ... Since the cerebral cortex is the seat of intelligence, almost everybody thinks that it is also the seat of consciousness. I disagree; consciousness is far more primitive than that. It arises from a part of the brain that humans share with fishes. This is the ‘hidden spring’ of the title.
+>
+> Consciousness should not be confused with intelligence. It is perfectly possible to feel pain without any reflection as to what the pain is about. Likewise, the urge to eat – a feeling of hunger – need not imply any intellectual comprehension of the exigencies of life. Consciousness in its elemental form, namely raw feeling, is a surprisingly simple function." - [The Hidden Spring, by Mark Solms](https://www.goodreads.com/book/show/53642061-the-hidden-spring)
+
+chapter 1 - THE STUFF OF DREAMS
+a bit about behaviorism, cognitive psychology
+
+> "" - [The Hidden Spring, by Mark Solms](https://www.goodreads.com/book/show/53642061-the-hidden-spring)
+
+> "" - [The Hidden Spring, by Mark Solms](https://www.goodreads.com/book/show/53642061-the-hidden-spring)
+
+> "" - [The Hidden Spring, by Mark Solms](https://www.goodreads.com/book/show/53642061-the-hidden-spring)
+
+> "" - [The Hidden Spring, by Mark Solms](https://www.goodreads.com/book/show/53642061-the-hidden-spring)
+
+> "" - [The Hidden Spring, by Mark Solms](https://www.goodreads.com/book/show/53642061-the-hidden-spring)
+
+> "" - [The Hidden Spring, by Mark Solms](https://www.goodreads.com/book/show/53642061-the-hidden-spring)
+
+> "" - [The Hidden Spring, by Mark Solms](https://www.goodreads.com/book/show/53642061-the-hidden-spring)
+
+> "" - [The Hidden Spring, by Mark Solms](https://www.goodreads.com/book/show/53642061-the-hidden-spring)
+
+> "" - [The Hidden Spring, by Mark Solms](https://www.goodreads.com/book/show/53642061-the-hidden-spring)
+
+> "" - [The Hidden Spring, by Mark Solms](https://www.goodreads.com/book/show/53642061-the-hidden-spring)
+
+> "" - [The Hidden Spring, by Mark Solms](https://www.goodreads.com/book/show/53642061-the-hidden-spring)
+
+> "" - [The Hidden Spring, by Mark Solms](https://www.goodreads.com/book/show/53642061-the-hidden-spring)
+
+> "" - [The Hidden Spring, by Mark Solms](https://www.goodreads.com/book/show/53642061-the-hidden-spring)
+
+> "" - [The Hidden Spring, by Mark Solms](https://www.goodreads.com/book/show/53642061-the-hidden-spring)
+
+> "" - [The Hidden Spring, by Mark Solms](https://www.goodreads.com/book/show/53642061-the-hidden-spring)
 
 
 

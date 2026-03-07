@@ -1326,8 +1326,6 @@ regarding GWT
 
 
 
-> "" - [Complexity and Evolution, by Francis Heylighen](https://cris.vub.be/ws/portalfiles/portal/67389235/Complexity_Evolution.pdf)
-
 
 
 
