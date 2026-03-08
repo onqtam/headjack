@@ -22,6 +22,8 @@
 >
 > ... Probably the most important innovation of cybernetics is its explanation of goal-directedness or purpose. An autonomous system, such as an organism, or a person, can be characterized by the fact that it pursues its own goals, resisting obstructions from the environment that would make it deviate from its preferred state of affairs." - [Cybernetics and Second-Order Cybernetics, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Cybernetics-EPST.pdf)
 
+> "... being in control means defining the range of what will be considered, that is, the range of the possible. In effect, when I am in control I restrict the world to what I can imagine or permit…" - (Ranulph Glanville, 2019, “Design Cybernetics”)
+
 ## Goal-directedness, Regulation, Control & Feedback
 
 > "Sound strategy starts with having the right goal." - [Michael Porter](https://www.azquotes.com/quote/605346)

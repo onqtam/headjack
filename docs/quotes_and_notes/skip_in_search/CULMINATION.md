@@ -10,7 +10,7 @@ scene: shave in front of the mirror in a similar way like in the film Pi where h
 
 pitai susedite koga ne sa si vku6ti prez denq za da moga da zapisvam i im dai nqkakuv podaruk i gi pitai dali imat oplakvaniq do sega otkum shum
 
-founder mode sticky note on my forehead
+founder mode sticky note on my forehead, pink glasses
 
 make subtitles in all languages
 
@@ -21,11 +21,12 @@ make it salient - describe universal pain points
     remind the audience in the end - what happens if we don't increase the accountability of our system? what's gonna happen?
 adress objections or at least acknowledge them and say you'll cover them in the future
 
+roleplay: snort money
 
 pig skin piece - play with it - skin in the game
 
+TODO: ask AI which words to avoid for YT
 Don’t say “suicided” - think of the algo
-
 
 
 have a scene where I grab the camera and talk to it in a shaky way from up close like the joker
@@ -246,6 +247,7 @@ I don’t want to try
 Anyone can try
 I want to succeed
 > "Those who tell the stories rule society." - [Plato](https://www.goodreads.com/quotes/20382-those-who-tell-the-stories-rule-society)
+This is the ultimate story about storytelling
 I was not accounting pilled in 2022
 Theoretically optimal solution - no other design can get even close to the optimal set of technical tradeoffs in my architecture
 The more compelling and refined the story becomes - the sooner will the system reach a billion people
@@ -265,7 +267,7 @@ I wasn't supposed to go psycho this early but the ONLY reason was fear - fear th
 I was hesitant to make such media before finishing my book and making it as uncensorable as information theoretically possible - I do not want to be suicided - but I just want to get something out there - the very much unfinished book is in a github repo - here’s the git hash of a checkpoint in its history if it needs to be finished by someone else - it would take 2-3 years for someone coming into it to write it properly as they’d need for things to imprint in their heads
 I don't even have a good model for how to think how worried I should be and if I'm taking a huge risk - I'm embracing the unknown with a leap of faith - my faith is in the goodness of the world and in the persuadability of human beings
 All the peace lovers get shot for some reason - reenact the quote from bill hicks with paper people and shoot them 1 by 1 with your middle fingers and then blow one of them like a smoking gun and show it to the camera
-> "Did you ever stop to thnk about all the people we kill? They're always people who tell us to live together in harmony and try to love one another: Jesus, Ghandi, Lincoln, John Kennedy, Bobby Kennedy, Medgar Evers, Malcolm X, Martin Luther King, John Lennon. They all said: 'Try to live together peacefully.' BAM! Right in the f--in head! Aparently we're not ready for that!" - [George Carlin](https://www.azquotes.com/quote/891216)
+> "Did you ever stop to think about all the people we kill? They're always people who tell us to live together in harmony and try to love one another: Jesus, Ghandi, Lincoln, John Kennedy, Bobby Kennedy, Medgar Evers, Malcolm X, Martin Luther King, John Lennon. They all said: 'Try to live together peacefully.' BAM! Right in the f--in head! Aparently we're not ready for that!" - [George Carlin](https://www.azquotes.com/quote/891216)
 the only reason that keeps happening to them is because we tolerate that being done to them - we've allowed that to happen to them
 > "Opportunists are promoted, realists are co-opted, idealists are frightened and radicals are shot." - [Heather Marsh](https://www.goodreads.com/quotes/7996445-opportunists-are-promoted-realists-are-co-opted-idealists-are-frightened-and)
 Draw a circle on your forehead and then makeup yourself like the joker and ask - why so serious and hold the camera and laugh - lets put a target on that face - you think this is dangerous for me? I think the status quo is dangerous for everyone
@@ -279,8 +281,13 @@ Only the paranoid survive
 This video can also be found in the archive
 plus im just a comedian - what do I know - that's the excuse from responsibility nowadays, right? this whole thing is insane - it would never work! ;)
 Im just a comedian - what do I know about cultural rev - aaa - evolution
+    roleplay: I'm just crazy! shake head & make sounds blblblasbsbasfdasbfabsfbasdfbasfdbasdf
 CIA - don’t suicide me - I love life - you wont be out of a job anytime soon, and ultimately what I’m proposing is in your best interest if you factor everything in - your descendants will curse you if you actively work towards eroding real progress and the pursuit of truth
+    the boys with the secrets and the guns
 Plus I’m just a comedian - I don't sway politics and shit - I just make people puff our air while uncontrollingly and rapidly contracting their lungs up and down through their larings and thair eyes are squinting and their mouth makes the shape of a banana! (and put a banana in my mouth) - I’m just talking shit… what do I know… nobody is gonna take me seriously
+
+Maximus (Gladiator, 2000): Brothers, what we do in life... echoes in eternity.
+https://www.imdb.com/title/tt0172495/quotes/?item=qt0404418&ref_=ext_shr_lnk
 
 "Come to terms with death. Thereafter anything is possible." - Sheldon Solomon
 
@@ -942,7 +949,7 @@ Thou shalt ... not ...
 - make information open, coherent & integrated
 
 law #2: subsidiarity?
-law #3: cooperation? non-coercive expansion of self? seduction & persuasion over/instead of coersion, also prestige (respect, admiration, praise) > dominance & coercion (force, fear)
+law #3: cooperation? non-coercive expansion of self? seduction & persuasion over/instead of coersion, also prestige (respect, admiration, praise) > dominance & coercion (force, fear), honesty > deception
 law #4: all evils are due to lack of knowledge and knowledge is created by seeking good explanations
 law # : problems are inevitable, problems are soluble - from beginning of infinity chapter 3 <== NOT REALLY A RULE but a maxim?
 law # : the truth consists of hard to vary assertions about reality
@@ -953,6 +960,9 @@ Competence > loyalty
 Excessive unproductive rent seeking
 Intolerance only to the intolerant
 no walls to keep people inside by force/coersion - apostasy is kosher - you can leave at any time!
+
+in regards to the tension between intolerance and non-coerciveness
+    "Do I contradict myself? Very well then I contradict myself, I am large, I contain multitudes."
 
 openness, coherence, integration
 
@@ -1123,10 +1133,7 @@ and I show my face with the thug life glasses
 You dont believe me? Watch me. Literally watch me.
 
 
-Maximus (Gladiator, 2000): Brothers, what we do in life... echoes in eternity.
-https://www.imdb.com/title/tt0172495/quotes/?item=qt0404418&ref_=ext_shr_lnk
-
-just do it! make accountability come true! /\
+just do it! make accountability come true!
 https://www.youtube.com/watch?v=ZXsQAXx_ao0
 
 feel the *~~AGI~~* collective intelligence / superorganism
@@ -1145,24 +1152,10 @@ upsides vs downsides of video & book
 
 lets build the kingdom of god/heaven
 
+welcome to the resistance - we shall prevail
+
 The final shot - zoomed into the background and exploring it fully
 
 > "The secret to investing is to invest in unstoppable people building inevitable things." - [Naval](https://x.com/naval/status/1996774822949671416)
-
-
-"founder mode" - pink glasses
-
-Ending - say “download this video”
-
-██████████████████████████████████████████████████████████████████
-# Other
-██████████████████████████████████████████████████████████████████
-
-This is taking process philosophy seriously
-
-you might say it's not possible - no - it's necessary
-
-snort money
-
 
 

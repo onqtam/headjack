@@ -74,7 +74,7 @@ sunlight is the best disinfectant - is that actually true? lol
 whether something is important depends on whether we can do something about it - how viable/realistic/costly it is, what the odds are
 
 cooper from interstellar: "It's not possible". "No, it's necessary".
-
+you might say it's not possible - no - it's necessary
 
 Differentiation and specialization coupled with alignment and integration
 
@@ -2562,6 +2562,7 @@ I don’t believe any of the existing religions came from our creator out of res
 Every critique or question will be fed into the system for analysis which will promptly lead to either a refutation, correction, or an answer!
 
 Another problem with financial prediction markets: they cannot fork based on a dispute about the resolution whereas this architecture is fundamentally multiperspectival
+polymarket jesus coming to 2026 - if a significant event happened and there was some contention and some people believe he actually came back - who would be the arbiter of that? what if we wanted to split the universe in 2? current prediction markets don't allow that because you can't fork money
 
 Win over the rich - persuade/seduce - make them fall in love with something bigger than themselves - give them a way to expand their self and give them a way to participate in its creation. Redefine prestige in their heads to be less monetary and more reputational. Meaning is priceless.
 Money is the ultimate optionality token, but we can change that - we can engineer new kinds of scarcity - social scarcity - post-material scarcity
@@ -3128,6 +3129,7 @@ A self needs self-justification, no?
 
 Put your fucking reputation where your mouth is
 
+represent or be represented - no important entity will get to not participate
 If you’re important you don’t get to not participate - you will be represented and evaluated and ranked regardless - its inevitable
 
 
@@ -3179,6 +3181,7 @@ Selfishness vs selflessness - no - the question is about expanding the self
 I'm not brave or selfless - I just have a bigger self - and even if I go away that bigger self will persist. In fact, me going away would be a pretty good signal that I've meaningfully accelerated the manifestation of that bigger self. So I'm actually selfish with the bigger self that I identify with.
 im not fearless - I'm scared shitless! why do u think this segment exists? hence this segment! Its too often that when I tell someone what I'm working on they say I'll get killed within the first 2 hours...
 
+good predictions are hard to vary because predictions are tied to understanding (& explanations) and good explanations are hard to vary
 
 > "The arc of the moral universe is long but it bends toward *~~justice~~* **cooperation**." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/646750-let-us-realize-the-arc-of-the-moral-universe-is), probably
     or accountability & cooperation

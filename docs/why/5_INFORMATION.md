@@ -7,6 +7,9 @@
 
 > "Given enough eyeballs, all bugs are shallow." - [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law), formulated by [Eric S. Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond)
 
+The Internet Was Weeks Away From Disaster and No One Knew - Veritasium
+https://www.youtube.com/watch?v=aoag03mSuXQ
+how ssh got compromised through xz and how the world is ungrateful to OSS developers like Lasse Collin who developed xz for free
 
 
 ██████████████████████████████████████████████████████████████████

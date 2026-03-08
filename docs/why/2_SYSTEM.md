@@ -847,7 +847,7 @@ https://underthrow.substack.com/p/the-constitution-is-dead?sd=pf#:~:text=In%20th
 
 > "Any organization created out of fear must create fear to survive." - [Bill Hicks](https://www.azquotes.com/quote/798848)
 
-> "Did you ever stop to thnk about all the people we kill? They're always people who tell us to live together in harmony and try to love one another: Jesus, Ghandi, Lincoln, John Kennedy, Bobby Kennedy, Medgar Evers, Malcolm X, Martin Luther King, John Lennon. They all said: 'Try to live together peacefully.' BAM! Right in the f--in head! Aparently we're not ready for that!" - [George Carlin](https://www.azquotes.com/quote/891216)
+> "Did you ever stop to think about all the people we kill? They're always people who tell us to live together in harmony and try to love one another: Jesus, Ghandi, Lincoln, John Kennedy, Bobby Kennedy, Medgar Evers, Malcolm X, Martin Luther King, John Lennon. They all said: 'Try to live together peacefully.' BAM! Right in the f--in head! Aparently we're not ready for that!" - [George Carlin](https://www.azquotes.com/quote/891216)
 
 > "I'm glad mushrooms are against the law, because I took them one time, and you know what happened to me? I laid in a field of green grass for four hours going, "My God! I love everything." Yeah, now if that isn't a hazard to our country … how are we gonna justify arms dealing when we realize that we're all one?" - [Bill Hicks](https://www.goodreads.com/quotes/188118-i-m-glad-mushrooms-are-against-the-law-because-i-took)
 
