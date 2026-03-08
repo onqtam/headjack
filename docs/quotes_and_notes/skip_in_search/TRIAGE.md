@@ -357,10 +357,6 @@ cutting costs/corners
 externalities
 making food addictive
 multipolar traps
-4 year cycles of back-and-forth erosion of what the others were doing - like a seesaw alternating between 2 poles
-    Duverger's law
-    https://en.wikipedia.org/wiki/Duverger%27s_law
-    infighting, friction, decoherence, the greatest enemy is within - the other side - internal antipathy
 Prisonners dilemma
 tragedies of the commons
 Now this is really dangerous for our democracy
@@ -570,10 +566,6 @@ Im a humble - laugh (spit out water) - public servant - not a private individual
 not advocating it for everyone - and not the real north star - people should have the option to have personal privacy - uhh its complicated and tbd
     god is north
 Consumption beyond a certain level simply is immoral
-
-the left-right political tug of war is literally the complete opposite of alignment (which is to point in the same direction) - its orthogonal - make a gesture - duverger's law
-Me and the horse choking each other - left and right antagony
-how do we craft propositions that don't alienate half the people?
 
 Its all about public goods
 
@@ -2706,11 +2698,8 @@ Representational alignment, bcis, aligning individuals with AIs instead of with 
 Rlhf, agents of yourself, offloading cognition with a collective of your representations and
 Path to agi
 
-Take a red and blue pill together
-if you really wan to see the matrix you gotta take both the red and blue pill
-or better yet - take neither!
-obviously one side is better than the other - what are the odds of them being exactly 50/50! but wait! before you become all self righteous that your side is the correct one (which might very well be true) - you and your unexamined certainty is part of the problem! the problem isn't "the other side" - it's the system that makes it possible for a few sides to become so polarized to begin with / in the first place!
-If you're not trying to correct at least some problems with "your side" - you're part of the problem - your "side" might indeed be the less bad one, but your conviction/certainty is most likely unwarranted
+
+
 
 secrecy is fragmentation is friction is lack of synergy
 

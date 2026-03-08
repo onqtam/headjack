@@ -551,6 +551,23 @@ Horse - giddy up - i go bii s kamshika
 1 or a few bits of information every 4 years (elections) is very little gathered from the public and what it cares about
 > "I find bundling policies to be an absurd inheritance of 18th century technology... And then what happens when the party changes stances? ... You shouldn’t start with the idea of left vs right. Politics is about solving the coordination problems of people, so the right question is: What are people’s main issues? Then you go and solve those." - [What Are My Politics? by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/what-are-my-politics)
 
+██████████████████████████████████████████████████████████████████
+# left vs right, red/blue, polarization, fragmentation, friction
+██████████████████████████████████████████████████████████████████
+
+Take a red and blue pill together
+if you really wan to see the matrix you gotta take both the red and blue pill
+or better yet - take neither!
+obviously one side is better than the other - what are the odds of them being exactly 50/50! but wait! before you become all self righteous that your side is the correct one (which might very well be true) - you and your unexamined certainty is part of the problem! the problem isn't "the other side" - it's the system that makes it possible for a few sides to become so polarized to begin with / in the first place!
+If you're not trying to correct at least some problems with "your side" - you're part of the problem - your "side" might indeed be the less bad one, but your conviction/certainty is most likely unwarranted
+the left-right political tug of war is literally the complete opposite of alignment (which is to point in the same direction) - its orthogonal - make a gesture - duverger's law
+Me and the horse choking each other - left and right antagony
+how do we craft propositions that don't alienate half the people?
+4 year cycles of back-and-forth erosion of what the others were doing - like a seesaw alternating between 2 poles
+    Duverger's law
+    https://en.wikipedia.org/wiki/Duverger%27s_law
+    infighting, friction, decoherence, the greatest enemy is within - the other side - internal antipathy
+
 
 ██████████████████████████████████████████████████████████████████
 # authority, (web of) trust, delegation
