@@ -5373,6 +5373,8 @@ what if bonuses weren't given immediately but had multi year vesting? what if bo
 >
 > ... It turned out that I presented my version of the precautionary principle during the conversation, worth restating here. It asserts that one does not need complex models as a justification to avoid a certain action. If we don’t understand something and it has a systemic effect, just avoid it. Models are error-prone, something I knew well with finance; most risks only appear in analyses after harm is done. As far as I know, we only have one planet. So the burden is on those who pollute—or who introduce new substances in larger than usual quantities—to show a lack of tail risk. In fact, the more uncertainty about the models, the more conservative one should be." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
+> "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+
 chapter 16 - no worship without skin in the game
 
 > "Symmetry, symmetry everywhere—Belief requires an entry fee... The main theological flaw in Pascal’s wager is that belief cannot be a free option. It entails a symmetry between what you pay and what you receive. Things otherwise would be too easy. So the skin-in-the-game rules that hold between humans also hold in our rapport with the gods.

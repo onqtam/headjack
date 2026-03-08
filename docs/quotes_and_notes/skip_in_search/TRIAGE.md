@@ -230,6 +230,9 @@ Just because something is legal and makes money does not automatically make it o
 Wherever there’s a capacity for choice - there are better and worse options. We need people to understand that this applies to everything and we need a theory of progress and of what is good and we need people to want to make the better choice and to inform themselves about it and how it was derived and how to improve the system that derived it
 We might be wrong but thats just an opportunity for error correction - the need is still there even if its currently wrong
 This includes even every aspect of how we raise kids
+There is such a thing as raising kids optimally
+There are better and worse ways of raising kids
+people need some kind of authority to be open to learning about how to raise kids - something has to be above people or everyone will be reinventing the wheel
 
 How do we achieve mass self-actualization?
 To be, to contribute, to be recognized? And appreciated and loved?
@@ -340,8 +343,6 @@ What are we and what our place in the universe is
 We need to replace charisma with competence
 
 Coherence about how and about what to have coherence about
-
-There is such a thing as raising kids optimally
 
 
 
@@ -1110,7 +1111,6 @@ We need to get as much people as possible to be as capable and motivated as poss
 We must change and steer the flows of attention, motivation and value
 We must become conscious and self-reflective as a society
 
-There are better and worse ways of raising kids
 This is the end of postmodernism and radical relativism
 a true postmodern horror - the return of grand narratives! relativizing relativism! deconstructing deconstruction!
     when we deconstruct deconstruction we find that it can't build anything!
@@ -1962,8 +1962,6 @@ Its not the genes that matter most - its the culture - and that is why we ought 
 
 There is no moral landscape - there is only moral topology/graph
 
-If you're not trying to correct at least some problems with "your side" - you're part of the problem
-
 CC - down to the point of throwing something out
 
 Understanding >> IS << causal
@@ -2095,7 +2093,7 @@ Minimize plausible deniability
 You owe your very existence in the deepest possible sense to our social system - we are literally nothing individually
 
 People have kids without having any idea how ot why to have kids
-We also have ideas without having any idea how we have ideas
+We have ideas without having any idea how we have ideas
 
 We can only build on top of understanding - “under” “stand” - understanding stands under whatever builds on top of it and if you don’t understand your dependencies you’re building a house of cards
 
@@ -2711,6 +2709,8 @@ Path to agi
 Take a red and blue pill together
 if you really wan to see the matrix you gotta take both the red and blue pill
 or better yet - take neither!
+obviously one side is better than the other - what are the odds of them being exactly 50/50! but wait! before you become all self righteous that your side is the correct one (which might very well be true) - you and your unexamined certainty is part of the problem! the problem isn't "the other side" - it's the system that makes it possible for a few sides to become so polarized to begin with / in the first place!
+If you're not trying to correct at least some problems with "your side" - you're part of the problem - your "side" might indeed be the less bad one, but your conviction/certainty is most likely unwarranted
 
 secrecy is fragmentation is friction is lack of synergy
 
@@ -3178,6 +3178,8 @@ I don’t have kids yet but I will replicate one way or another
 You’re growing neural nets - cute - Let's grow human culture
 
 The incentive & accountability kernel of our social OS
+
+we can have real experts feed data into the system and AIs generate the stories objectively - there's less need for biased journos opining on issues they know little about
 
 Life is not for you - it is for others, because without them you’d have nothing and be miserable materially and psychologically
 
