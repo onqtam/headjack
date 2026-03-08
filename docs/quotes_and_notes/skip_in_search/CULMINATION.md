@@ -248,6 +248,7 @@ Anyone can try
 I want to succeed
 > "Those who tell the stories rule society." - [Plato](https://www.goodreads.com/quotes/20382-those-who-tell-the-stories-rule-society)
 This is the ultimate story about storytelling
+This is a meta story - the story about the future of storytelling
 I was not accounting pilled in 2022
 Theoretically optimal solution - no other design can get even close to the optimal set of technical tradeoffs in my architecture
 The more compelling and refined the story becomes - the sooner will the system reach a billion people

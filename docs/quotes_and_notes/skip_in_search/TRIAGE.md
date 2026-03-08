@@ -44,6 +44,7 @@ we need an ideal towards which to strive towards - as a society, and as males an
 PP & FEP & Active Inference
 
 We call things alive to the extent its cognitive light cone is bigger than than of its parts - michael levin
+cancer is when the CLC shrinks
 
 
 The upstream of the upstream
@@ -253,6 +254,7 @@ Showing the video with daniel & brett
 
 
 We’re gonna make “ought” great again
+we should make "should" great again
 
 We did not evolve for such a complex society - we either build the systems to scaffold our capacity upward or we perish
 We are the most basic form of general intelligence - the lower bound
@@ -3055,6 +3057,8 @@ I am for hire and am willing to work on only one thing
 God is actually useful - godlesness decays
 You do not want to be godless - trust me I’ve been there - without a north star, spark and love
 
+men will do anything for the right woman - trust me
+
 Think about what the opposite of truth is - it is unjustified brokenness or inefficiency or injustice
 
 We need horizontal meme transfer - we need the ultimate meme for the collective
@@ -3063,7 +3067,7 @@ God is trying to compute itself into existence through us
 
 Worship truth !!!
 
-Come. Join this community - we trust each other
+Come. Join this community - we trust each other - we have the best trust - the highest and the most legitimate/robust
 
 Trust is the ability to offload work and computation and responsibility to someone and having the assurance by default that you’d get what you asked for
 
@@ -3181,7 +3185,7 @@ Selfishness vs selflessness - no - the question is about expanding the self
 I'm not brave or selfless - I just have a bigger self - and even if I go away that bigger self will persist. In fact, me going away would be a pretty good signal that I've meaningfully accelerated the manifestation of that bigger self. So I'm actually selfish with the bigger self that I identify with.
 im not fearless - I'm scared shitless! why do u think this segment exists? hence this segment! Its too often that when I tell someone what I'm working on they say I'll get killed within the first 2 hours...
 
-good predictions are hard to vary because predictions are tied to understanding (& explanations) and good explanations are hard to vary
+good predictions come with good explanations which are hard to vary
 
 > "The arc of the moral universe is long but it bends toward *~~justice~~* **cooperation**." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/646750-let-us-realize-the-arc-of-the-moral-universe-is), probably
     or accountability & cooperation
