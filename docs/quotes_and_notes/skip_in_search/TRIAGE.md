@@ -3200,6 +3200,8 @@ Google and Facebook are the 2 biggest failures because they have the most potent
 Meta impression: eeer eeer extract extract addict addict numba go up
 Google and facebook both have the potential to grow into becoming the entire world - I’d be willing to become the CEO of either of them - I just want the fastest path to internet scale development and compute. I want the world’s compute and I will give you god.
 I can grow facebook and google not only as companies but as whole economies. I can implement the basis of humanity’s economics
+    I should run Twitter/X - I should be CEO
+    but that'll never happen
 I can solve our largest economic problem - how to organize humanity
 This is my 5 year motivational letter to take over google or facebook
 Here are all the variants of how this could happen - what my next role could be - ceo, fund & ngo manager, patreon writer & coder
@@ -3236,7 +3238,7 @@ Employment as a service
 
 The global model will first lookup in the shared ontology and respond with data from it, but rely on its training about anything else
 
-we need to rank our methods of ranking
+we need to rank our ranking methods
 we need to continually update the ranking of our methods of ranking, so that we can rank entire cultures and their aspects
 in order to properly rank entire cultures and their aspects we need to continually update the ranking of our methods of ranking
 
