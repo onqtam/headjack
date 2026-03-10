@@ -976,7 +976,11 @@ law # : problems are inevitable, problems are soluble - from beginning of infini
 law # : the truth consists of hard to vary assertions about reality
 law # : you can fight incentives only with incentives - incentives determine behavior - behavior is driven by incentives
 
-symmetry - golden rule (or silver rule) - do unto others as you would have them do unto you
+symmetry
+    - golden rule (or silver rule) - do unto others as you would have them do unto you
+    - accountability & consequentiality
+
+
 
 Syntropic law: make the omelette without breaking a few eggs
 Competence > loyalty
