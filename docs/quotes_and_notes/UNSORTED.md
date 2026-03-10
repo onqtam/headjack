@@ -27,6 +27,9 @@ Metaphilosophical Criteria for Worldview Comparison Clément Vidal
 A Blueprint for a Better Digital Society
 https://eliassi.org/lanier_and_weyl_hbr2018.pdf
 
+Biological arrow of time: emergence of tangled information hierarchies and self-modelling dynamics
+https://iopscience.iop.org/article/10.1088/2632-072X/ad9cdc
+
 Life as a self-referential deep learning system: A quantum-like Boltzmann machine model
 https://www.sciencedirect.com/science/article/abs/pii/S0303264721000514
 
@@ -83,10 +86,17 @@ what if we gave a bigger weight to the votes of people who have kids in matters 
 Einstein remarked, ‘My pencil and I are more clever than I.’
 
 
+assurance contract-style ideas: votes or statements that are anonymous at first, but that flip into being public (and hence publicly commit everyone at the same time) once they reach a certain threshold of support.
+taken from here: https://x.com/VitalikButerin/status/2030781981706051769
+
 
 > "" - [We Are Confused, Maladapted Apes Who Need Enlightenment, by Dan Williams](https://www.conspicuouscognition.com/p/we-are-confused-maladapted-apes-who)
 
 
+> "Right makes might because the truth is a mighty ally." - [Hanzi Freinacht](https://x.com/HFreinacht/status/2030727046490394844)
+
+Error correction
+> "To err is human, to persist in error is diabolical." - Saint Augustine
 
 > "civilization is the capacity to trust others frequently enough such that our world models accrete, and in so doing generate compounding returns to collective action under uncertainty. If we wish to retain an existence as something other than mechanistic livestock, we must cherish the connection to first-order reality, and valorize our responsibility to communicate truthfully." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/2016201292226691428)
 

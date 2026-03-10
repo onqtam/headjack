@@ -934,6 +934,9 @@ Now this is what a progressive movement looks like!
 *trace with your finger from openness to progress*
 fortune favors the open and transparent!
     what currently calls itself a progressive movement is more like a bowel movement - **roleplay a bowel movement**
+    we should be conservative in a way that would allow for progress - error correction
+        some amount of conservativism of certain specific things is the prerequisite to progress - error correction
+        if you neglect/ignore/corrupt error correction and the pursuit of truth you're the opposite of progress
 the most important thing to conserve is error-correction which is the basis of learning and progress - error correction is sacred
 
 
@@ -978,6 +981,9 @@ Competence > loyalty
 Excessive unproductive rent seeking
 Intolerance only to the intolerant
 no walls to keep people inside by force/coersion - apostasy is kosher - you can leave at any time!
+
+Syntropic law: some forgiveness is good if entities confess and reform and align themselves
+Syntropic laws are fundamental parameters to the system configuration - good heuristics
 
 in regards to the tension between intolerance and non-coerciveness
     "Do I contradict myself? Very well then I contradict myself, I am large, I contain multitudes."

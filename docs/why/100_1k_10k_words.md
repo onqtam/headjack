@@ -125,6 +125,8 @@ The Killer App in Meaning Making
 End Game
 Sparks of CI
     ala sparks of AGI
+The Prompt to AGI
+    by Anthony K.
 Cultural Recursive Self-Improvement
 The Great Complexification/Integration
 Programming accountability and expressivity into the system
@@ -165,7 +167,6 @@ The Book of Synthesis
 Solving the [Meaning Crisis](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)
 Everything, Everywhere, From All Perspectives
 This book will change you more than any other
-proper attuning to god
 One Way Street
     Once you see it - you won't be able to unsee it.
 The Grandest Narrative

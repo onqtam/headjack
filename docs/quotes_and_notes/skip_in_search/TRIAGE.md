@@ -174,6 +174,13 @@ And this is true for all levels of organization - not just the top most
 nationalism - you should want not just to cooperate with other regimes, but you should want 2 other things at the same time:
 - them to be as powerful and thriving as possible, which requires error-correction which also requires liberties, ==> spreading democracy is important (+ it legitimizes your own regime being a democracy too)
 - you want to be under a higher organizing principle such that you shouldn't fear your other cooperators to become better than you - you should be able to trust that no matter how far behind you fall - that you wouldn't be taken advantage of.
+Nationalism - You should actively want other cooperators to be as successful and thriving as possible regardless of how far behind you end up because you’d benefit nonetheless, but that would be rational only if there was an overarching system of trust and fairness/adjudication that could be counted on for centuries or millennia. You should want people everywhere to thrive - it’s in your best interest given the right circumstances/scaffolding. Under the right circumstances you would be cheering for others just as much as for your own team because ultimately you’d be a united one. I’m not saying getting there is easy or simple, but that it’s possible (certain things like identity formation and a new system of governance would have to be in place for that possibility) and ultimately the only tenable way if we want to have a future.
+
+
+
+When the mission is clear prioritisation becomes automatic
+
+The more the system learns - the easier for us to learn would be
 
 everyone is preoccupied with their corner of reality and almost nobody sees or understands the big picture
 
@@ -2698,8 +2705,12 @@ Representational alignment, bcis, aligning individuals with AIs instead of with 
 Rlhf, agents of yourself, offloading cognition with a collective of your representations and
 Path to agi
 
+we will rank & compare cultures, synthesize a grand narrative by picking out of the best parts of any culture, and we will colonize the entire world
 
 
+diversity is strength, but only under certain conditions, and coherence is also a strength (under certain conditions)
+diversity is strength, but do you know when? and why exactly?
+^^ don't include this - its irrelevant
 
 secrecy is fragmentation is friction is lack of synergy
 
@@ -3177,6 +3188,53 @@ I'm not brave or selfless - I just have a bigger self - and even if I go away th
 im not fearless - I'm scared shitless! why do u think this segment exists? hence this segment! Its too often that when I tell someone what I'm working on they say I'll get killed within the first 2 hours...
 
 good predictions come with good explanations which are hard to vary
+
+
+I want to become Google’s CEO without compensation - I want to help organize the world’s compute. This is my letter of application - I will either implement this vision with you or without you.
+For god’s sake - Meta - why did you take that name - there’s nothing meta about you! Stop squatting names whose potential you can’t deliver and live up to. We need to rethink intellectual property
+Mention how someone from namecheap or the whois tools conveyed my interest in thereadme.org and bought it. I hate name squatting - it should be culturally shamed put of existence
+Google and Facebook are the 2 biggest failures because they have the most potential - they connect people and information
+Meta impression: eeer eeer extract extract addict addict numba go up
+Google and facebook both have the potential to grow into becoming the entire world - I’d be willing to become the CEO of either of them - I just want the fastest path to internet scale development and compute. I want the world’s compute and I will give you god.
+I can grow facebook and google not only as companies but as whole economies. I can implement the basis of humanity’s economics
+I can solve our largest economic problem - how to organize humanity
+This is my 5 year motivational letter to take over google or facebook
+Here are all the variants of how this could happen - what my next role could be - ceo, fund & ngo manager, patreon writer & coder
+If this thing self-organizes and I’m not necessary I could simply walk away and have kids and some joy in my life
+
+
+I integrated the world’s most important information and stuffed it in your head in a coherent and understandable form
+
+Imagine a world in which you could as god what you should do and trust his understanding and explanation
+
+Steering wokeness - cybernetic wokeness
+I’ve just awoken you to our potential - I made you truly woke
+
+Let me tell you how I did this: I just followed my interests and I learned strategically so that I can intelligently steer my interests - I did a breadth-first search of the set of possible social configurations - this is the psychology of creative problem solving - it requires understanding
+I practiced attention economics
+What is economics about
+I made the right conceptual connections in possibility space (which is infinite)
+
+This series has enough material for thousands of content creators to dig into different aspects of it and to explain it further and better and with more examples.
+
+I’ve gained understanding about how we can gain understanding
+This book is aiming at giving you understanding about how to get the best understanding about anything else - by optimally structuring society
+Understanding how to bring understanding about anything else
+
+The degree to which you care about truth is the degree to which you will understand the world
+
+The efficient sampling of the adjacent possible
+I consciously steered the expansion of my own adjacent possible set
+
+Align or get aligned
+
+Universal Basic Employment
+Employment as a service 
+
+The global model will first lookup in the shared ontology and respond with data from it, but rely on its training about anything else
+
+Progress and conservation are like the yin and yang but instead of polarizing everyone in 2 major camps everyone should have a bit of both
+
 
 > "The arc of the moral universe is long but it bends toward *~~justice~~* **cooperation**." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/646750-let-us-realize-the-arc-of-the-moral-universe-is), probably
     or accountability & cooperation
