@@ -1,5 +1,20 @@
 
 
+
+██████████████████████████████████████████████████████████████████
+# strategy
+██████████████████████████████████████████████████████████████████
+
+
+do it in separate episodes instead of 1 single 8 hour video - it will wreck the retention - 20 minutes from 1 hour is much better than 20 minutes from 8 hours
+8 separate episodes means:
+- 8 chances to go viral
+- 8 titles
+- 8 thumbnails
+- 8 algorithm tests
+- 8 entry points for viewers
+
+
 ██████████████████████████████████████████████████████████████████
 # ideas
 ██████████████████████████████████████████████████████████████████
