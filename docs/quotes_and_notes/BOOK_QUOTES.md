@@ -5373,7 +5373,17 @@ what if bonuses weren't given immediately but had multi year vesting? what if bo
 >
 > ... It turned out that I presented my version of the precautionary principle during the conversation, worth restating here. It asserts that one does not need complex models as a justification to avoid a certain action. If we don’t understand something and it has a systemic effect, just avoid it. Models are error-prone, something I knew well with finance; most risks only appear in analyses after harm is done. As far as I know, we only have one planet. So the burden is on those who pollute—or who introduce new substances in larger than usual quantities—to show a lack of tail risk. In fact, the more uncertainty about the models, the more conservative one should be." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
-> "" - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+> "Kids with rich parents talk about “class privilege” at privileged colleges such as Amherst—but in one instance, one of them could not answer Dinesh D’Souza’s simple and logical suggestion: Why don’t you go to the registrar’s office and give your privileged spot to the minority student next in line?
+>
+> Clearly the defense given by people under such a situation is that they want others to do so as well—they require a systemic solution to every local perceived problem of injustice. I find that immoral. I know of no ethical system that allows you to let someone drown without helping him because other people are not helping, no system that says, “I will save people from drowning only if others too save other people from drowning.”
+>
+> ... If your private life conflicts with your intellectual opinion, it cancels your intellectual ideas, not your private life.
+>
+> ... In about every hotel chain, from Argentina to Kazakhstan, the bathroom will have a sign meant to get your attention: PROTECT THE ENVIRONMENT. They want you to hold off from sending the towels to the laundry and reuse them for a while, because avoiding excess laundry saves them tens of thousands of dollars a year. This is similar to the salesperson telling you what is good for you when it is mostly (and centrally) good for him. Hotels, of course, love the environment, but you can bet that they wouldn’t advertise it so loudly if it weren’t good for their bottom line.
+>
+> ... Further, the highest form of virtue is unpopular. This does not mean that virtue is inherently unpopular, or correlates with unpopularity, only that unpopular acts signal some risk taking and genuine behavior. Courage is the only virtue you cannot fake... Sticking up for truth when it is unpopular is far more of a virtue, because it costs you something—your reputation. If you are a journalist and act in a way that risks ostracism, you are virtuous. Some people only express their opinions as part of mob shaming, when it is safe to do so, and, in the bargain, think that they are displaying virtue. This is not virtue but vice, a mixture of bullying and cowardice.
+>
+> ... the error continues because someone else is paying the price." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
 chapter 16 - no worship without skin in the game
 
