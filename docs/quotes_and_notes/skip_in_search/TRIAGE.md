@@ -439,8 +439,6 @@ What is a multipolar trap
 Tragedy of the commons
 The greatest multipolar trap is about how much we personally consume
 
-This is what real progressivism looks like
-
 how do we generate the best possible answers and explanations to as many important questions and problems as possible? and share them as widely as possible? make them as accessible as possible? How do we incentivise their dissemination as wide as possible?
 How do we rank and sort and prioritize things?
 
@@ -1352,8 +1350,6 @@ Shared culture as a service
 A system that deserves its taxes - where you pay because you want to help as much as possible - what do u want to be replaced by?
 
 More capitalistic than capitalism and more socialistic than socialism
-
-A real theory of progress
 
 How do we design the system such that it produces the greatest truth? As a package? As a bible? As a self-modifying and improving (with a diff and notifications for changes to the different aspects and parameters)
 
@@ -2780,6 +2776,10 @@ Understanding requires relevance realization - the curation and topology of the 
 We need to help make people better. Ok, that’s actually supposed to not be controversial. I hope you’re not against progress because stasis is death. So what do we do about it? What’s our strategy? How do we even think about approaching this question? What do we want? What’s our plan to get it?
 ^^ this chain of ideas deduplicated in the global graph for argumentation 
 
+You can only have progress with error correction
+This is what real progressivism looks like
+Progress and conservation are like the yin and yang but instead of polarizing everyone in 2 major camps everyone should have a bit of both - you can have progress only as long as you conserve error correction
+
 Human Engineering as a Service
 Human Upgrade
 
@@ -2788,8 +2788,6 @@ Human Upgrade
 “Understanding” - this film is itself an exercise of applying the principles of collective understanding
 
 Halal/Kosher as a Service
-
-You can only have progress with error correction
 
 
 Imagine if “investors” didn’t “profit” just when they guess the price direction and say whatever narrative they have, but when they actually were correct on the narrative (explanation) when their prediction comes true
@@ -3192,6 +3190,7 @@ good predictions come with good explanations which are hard to vary
 
 I want to become Google’s CEO without compensation - I want to help organize the world’s compute. This is my letter of application - I will either implement this vision with you or without you.
 For god’s sake - Meta - why did you take that name - there’s nothing meta about you! Stop squatting names whose potential you can’t deliver and live up to. We need to rethink intellectual property
+    you're just a facebook
 Mention how someone from namecheap or the whois tools conveyed my interest in thereadme.org and bought it. I hate name squatting - it should be culturally shamed put of existence
 Google and Facebook are the 2 biggest failures because they have the most potential - they connect people and information
 Meta impression: eeer eeer extract extract addict addict numba go up
@@ -3233,8 +3232,9 @@ Employment as a service
 
 The global model will first lookup in the shared ontology and respond with data from it, but rely on its training about anything else
 
-Progress and conservation are like the yin and yang but instead of polarizing everyone in 2 major camps everyone should have a bit of both
-
+we need to rank our methods of ranking
+we need to continually update the ranking of our methods of ranking, so that we can rank entire cultures and their aspects
+in order to properly rank entire cultures and their aspects we need to continually update the ranking of our methods of ranking
 
 > "The arc of the moral universe is long but it bends toward *~~justice~~* **cooperation**." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/646750-let-us-realize-the-arc-of-the-moral-universe-is), probably
     or accountability & cooperation

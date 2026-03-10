@@ -1114,6 +1114,9 @@ The act of registering is a form of baptism
 
 say what to expect from the book
 
+think of it as a collection of opinions that fit together into a coherent ideology
+having watched this, you can now browse the book and read only the bits that interest you the most - you already have the big picture
+
 ## download all files
 
 the password is "Pussy Riot" - "I'M NOT JOKING ABOUT THE PASSWORD!"

@@ -98,6 +98,34 @@ taken from here: https://x.com/VitalikButerin/status/2030781981706051769
 Error correction
 > "To err is human, to persist in error is diabolical." - Saint Augustine
 
+
+
+
+
+
+
+governance as a process/game instead of an agent in its own right
+
+> "... the government should act like a game, not like a player. That is: as much as possible, the government should be a reliable playing field that productively resolves disputes between people on its territory, and not an agent that actively pushes its own goals. There are different versions of this ideal:
+>
+> • **Libertarianism** says that the game the government implements should have basically three rules: don't defraud, don't steal, don't kill
+>
+> • **Hayekian liberalism** says to avoid central planning: if you have to intervene in the market, do so by setting goals rather than methods, and leave it to the market to figure out the methods
+>
+> • **Civil liberalism** emphasizes freedom of speech, religion and association, preventing the government from imposing its favored outcome in cultural and intellectual spheres.
+>
+> • **Rule of law** says that the government should act by passing laws which specify what can and can't be done, and leave it to courts to enforce those laws
+>
+> • **Common law maximalism** says to abandon government legislatures entirely: a decentralized system of courts issue rulings on individual cases, and each ruling creates a precedent that nudges the law a small step in some direction
+>
+> • The **"separation of powers"** concept says to split the government into multiple parts, where each part is meant to serve as a check and balance against the other parts
+>
+> • **The subsidiarity principle** states that issues should be dealt with at the most local level that reasonably can deal with them - maximally avoiding concentration of decision-making" - [Vitalik Buterin](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html)
+
+the role of compression when orchestrating intelligent agents
+
+> "Intelligence is limited by information bottlenecks, and overcoming those limits looks a lot like compression. Whether it’s a single agent summarizing its past and querying a knowledge base, or a swarm of subagents parceling out a huge problem and each reporting back a digest, the core challenge is the same. An effective mind (machine or human) can’t and shouldn’t hold every detail in working memory – it must aggressively filter, abstract, and encode information, yet be ready to recover the right detail at the right time. This is the classic rate–distortion tradeoff of cognition: maximize useful signal, minimize wasted space... compression without coordination can fail – the pieces have to ultimately fit together into a coherent whole... to control and extend AI cognition, we are, in a very real sense, engineering the art of forgetting. By deciding what to forget and when to recall, an agent demonstrates what it truly understands. In artificial minds as in our own, memory is meaningful precisely because it isn’t perfect recording – it’s prioritized, lossy, and alive." - [Layers of Memory, Layers of Compression, by Tim Kellogg](https://timkellogg.me/blog/2025/06/15/compression)
+
 > "civilization is the capacity to trust others frequently enough such that our world models accrete, and in so doing generate compounding returns to collective action under uncertainty. If we wish to retain an existence as something other than mechanistic livestock, we must cherish the connection to first-order reality, and valorize our responsibility to communicate truthfully." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/2016201292226691428)
 
 > "when decoupled from the transcendental memetics that underpin Western culture, the direct pursuit of material utility will forever lead to ruin... The desire to sever ourselves from this mythopoetic lineage constituted the greatest mistake of Enlightenment Liberals, and its resentful shadow haunts us to this very day. This doesn’t imply we must return to the exact dogmas of our seminal mythopoetics, but if we’re to avoid self-termination we must integrate and extend those memetics such that their constraints continuously steer us away from our worst and most predictable failure modes at scale.
