@@ -13,6 +13,12 @@ As John Maynard Keynes wrote in the conclusion of his General Theory of Employme
 From John Maynard Keynes’s 1936 The General Theory of Employment, Interest and Money, ch 24, part V.
 
 
+
+we need to counteract diseconomies of scale (internal conflicts of interest, communication costs, costs because of physical distance)
+https://en.wikipedia.org/wiki/Diseconomies_of_scale
+
+
+
 Moral economics
 
 The sharing economy is not uber or airbnb - it is a new property system
@@ -1190,6 +1196,28 @@ Meme: look at me - I’m the IMF/world bank now
 > "The first truth is that the liberty of a democracy is not safe if the people tolerate the growth of private power to a point where it becomes stronger than their democratic state itself. That, in its essence, is fascism -- ownership of government by an individual, by a group, or by any other controlling private power.... Among us today a concentration of private power without equal in history is growing." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/220096-the-first-truth-is-that-the-liberty-of-a-democracy)
 
 > "In our democracy officers of the government are the servants, and never the masters of the people." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/558977)
+
+
+
+
+> "**Diffusion**. People move between companies and between countries and take their ideas and talents with them. Poorer countries are able to trade with richer countries and get catch-up growth. Industrial espionage happens everywhere. Innovations get reverse-engineered. You can use one social network to advertise another social network.
+>
+> ... Basically, economies of scale are going up, and while diffusion of ideas is probably higher than before due to internet communication, diffusion of control is lower than before. The conundrum: how do we have a flourishing civilization in the 21ˢᵗ century, with rapid progress, without extreme concentration of power? The solution: mandate more diffusion.
+>
+> What does "mandate more diffusion" mean? First, a few government policy examples:
+>
+> • EU standardization mandates (eg. [most recently USB-C](https://commission.europa.eu/news-and-media/news/eu-common-charger-rules-power-all-your-devices-single-charger-2024-12-28_en)), which make it harder for build proprietary ecosystems that do not play nicely with other technology
+>
+> • [Forced technology transfer rules](https://www.investopedia.com/forced-technology-transfer-ftt-4687680) in China
+>
+> • USA [banning non-compete agreements](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-announces-rule-banning-noncompetes), which I support on the grounds that they force the "tacit knowledge" inside of companies to be partially open source, so once an employee leaves one company they can apply skills learned there to benefit others. Non-disclosure agreements limit this, but are fortunately very porous in practice.
+>
+> • [Copyleft licenses (eg. GPL)](https://vitalik.eth.limo/general/2025/07/07/copyleft.html), which require any software built on top of the copylefted code to itself be open source and copylefted
+>
+> We can also come up with other ideas in this direction: for example, we could imagine governments making mechanisms inspired by the [EU carbon border adjustment mechanism](https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en), but charging the tax on (domestic or foreign) products in proportion to some measure of how proprietary a product is: if you share the technology with us, including by open-sourcing it, the tax drops to zero. Another idea that should be brought back is [Harberger taxes on intellectual property](https://vitalik.eth.limo/general/2024/04/01/dc.html#harberger-taxes-on-intellectual-property).
+>
+> ... A global decentralized strategy of forcing technological diffusion - telling people "either you grow with us, and share access to your secret sauce and your network on a reasonable schedule, or you grow entirely alone, and we shut you out" - would address power concentration in a different way." - [Balance of Power, by Vitalik Buterin](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Surplus & Luxury

@@ -104,23 +104,6 @@ Error correction
 
 
 
-governance as a process/game instead of an agent in its own right
-
-> "... the government should act like a game, not like a player. That is: as much as possible, the government should be a reliable playing field that productively resolves disputes between people on its territory, and not an agent that actively pushes its own goals. There are different versions of this ideal:
->
-> • **Libertarianism** says that the game the government implements should have basically three rules: don't defraud, don't steal, don't kill
->
-> • **Hayekian liberalism** says to avoid central planning: if you have to intervene in the market, do so by setting goals rather than methods, and leave it to the market to figure out the methods
->
-> • **Civil liberalism** emphasizes freedom of speech, religion and association, preventing the government from imposing its favored outcome in cultural and intellectual spheres.
->
-> • **Rule of law** says that the government should act by passing laws which specify what can and can't be done, and leave it to courts to enforce those laws
->
-> • **Common law maximalism** says to abandon government legislatures entirely: a decentralized system of courts issue rulings on individual cases, and each ruling creates a precedent that nudges the law a small step in some direction
->
-> • The **"separation of powers"** concept says to split the government into multiple parts, where each part is meant to serve as a check and balance against the other parts
->
-> • **The subsidiarity principle** states that issues should be dealt with at the most local level that reasonably can deal with them - maximally avoiding concentration of decision-making" - [Vitalik Buterin](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html)
 
 the role of compression when orchestrating intelligent agents
 
@@ -171,6 +154,8 @@ https://x.com/CernBasher/status/1984286504596726061
 instead of creators monetizing attention and competing with one another to say the same things but in a better packaged way, we should be pooling money in a common pool and then redistributing it based on simply voting who contributed the most with their weights in sorting the signal from the noise, and then either incentivise content creators to make videos on those crowdsourced rankings, or even use AI
 
 Reputationalizing expertise instead of simply monetizing
+
+the devil is in the weights
 
 Giving information mass/weight based on who stands behind it
 

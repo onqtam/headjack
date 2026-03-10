@@ -2927,7 +2927,9 @@ Things jesus taught - google all of them:
 
 You don’t buy belonging transactionally - you earn it, you build it
 
-Our biggest problem is how to think about and approach problems
+Our biggest problem is how to think about and approach problems such that they become easier
+    "the real problems are the problems whose solutions make all future problems easier to solve."
+        https://graymirror.substack.com/p/the-situation-and-the-solution
 Our biggest problem is how do we collectively organize ourselves to best solve our collective problems
 
 Opacity and fragmentation should be indefensible
@@ -3026,6 +3028,8 @@ We need a better status & resource economy
 
 the highest status is in error correcting our status games
 There is status in error correcting our status games
+we will build the best tool/system for criticism and we will apply it to itself
+
 
 Tagged/labeled/compartmentalized UBR
 

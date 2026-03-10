@@ -376,3 +376,20 @@ maybe use this as an optional expandable section? or not...
 
 > "Understanding work as stigmergy does more than justify a particular productivity method. It suggests a general principle for coping with complexity: When the world is too complex to plan, record more and better traces. Instead of trying to control everything from inside your mind, shape your external memory so that it continuously guides you toward the next meaningful move. And perhaps, with a bit of practice, work begins to feel less like juggling fragments in your head — and more like sculpting something that gradually takes shape under your hands. Stigmergy deserves to become common knowledge — because it explains how much of our world already works, and how it might work better." - [Getting Things Done: using stigmergy in your own work, by Francis Heylighen](https://francisheylighen.substack.com/p/getting-things-done-using-stigmergy)
 
+governance as a process/game instead of an agent in its own right
+
+> "... the government should act like a game, not like a player. That is: as much as possible, the government should be a reliable playing field that productively resolves disputes between people on its territory, and not an agent that actively pushes its own goals. There are different versions of this ideal:
+>
+> • **Libertarianism** says that the game the government implements should have basically three rules: don't defraud, don't steal, don't kill
+>
+> • **Hayekian liberalism** says to avoid central planning: if you have to intervene in the market, do so by setting goals rather than methods, and leave it to the market to figure out the methods
+>
+> • **Civil liberalism** emphasizes freedom of speech, religion and association, preventing the government from imposing its favored outcome in cultural and intellectual spheres.
+>
+> • **Rule of law** says that the government should act by passing laws which specify what can and can't be done, and leave it to courts to enforce those laws
+>
+> • **Common law maximalism** says to abandon government legislatures entirely: a decentralized system of courts issue rulings on individual cases, and each ruling creates a precedent that nudges the law a small step in some direction
+>
+> • The **"separation of powers"** concept says to split the government into multiple parts, where each part is meant to serve as a check and balance against the other parts
+>
+> • **The subsidiarity principle** states that issues should be dealt with at the most local level that reasonably can deal with them - maximally avoiding concentration of decision-making" - [Balance of Power, by Vitalik Buterin](https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html)

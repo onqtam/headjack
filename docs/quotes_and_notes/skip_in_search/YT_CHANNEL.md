@@ -1,6 +1,8 @@
 
 
-
+TODO: rewatch this:
+The Storytelling Secret That Feels Like CHEATING
+https://www.youtube.com/watch?v=UPtkVL0CrLU
 
 
 Emergent world order from scratch
