@@ -1734,13 +1734,9 @@ If you don’t serve anything you are small and all alone. By serving something 
 If you don’t serve transparency, openness and truth you won’t have them
 
 Effectively i’m trying to convince you that this is an inevitability by simply offering something worth wanting - the universal relation to the other - wait what did I just write
-this is a hyperstition and creating common knowledge of it by making it viral is the most important point
-    explain the reflexive loop
-    a vicious circle, a self-reinforcing loop, feedback
-    cybernetic occultists call hyperstitions: beliefs or ideas that, through their very existence and spread, bring themself about.
-    But, and this is key, for the latter to work they must be presented as if they were predictions. They only work if everyone believes they’ll come about.
-    https://rivalvoices.substack.com/p/reflexivity-part-1
 
+the era of the comparison operator marks the end of the postmodern era and radical relativism
+    **roleplaying fingering your throat trying to vomit**
 
 This is the trust network
 

@@ -991,6 +991,8 @@ law # : problems are inevitable, problems are soluble - from beginning of infini
 law # : the truth consists of hard to vary assertions about reality
 law # : you can fight incentives only with incentives - incentives determine behavior - behavior is driven by incentives
 
+don't keep people in by force
+
 symmetry
     - golden rule (or silver rule) - do unto others as you would have them do unto you
     - accountability & consequentiality
@@ -1007,6 +1009,8 @@ no walls to keep people inside by force/coersion - apostasy is kosher - you can 
 
 Syntropic law: some forgiveness is good if entities confess and reform and align themselves
 Syntropic laws are fundamental parameters to the system configuration - good heuristics
+
+
 
 in regards to the tension between intolerance and non-coerciveness
     "Do I contradict myself? Very well then I contradict myself, I am large, I contain multitudes."
@@ -1129,7 +1133,19 @@ signing up is like being baptised - you participate in bringing into existence a
 Baptism - washing away your sins, cleansing
 The act of registering is a form of baptism
 
+when people register they have the option to participate in genesis with their account
+
+TODO: think about registering and the future privacy of accounts
+
 ## convert others - spread the word
+
+this is a hyperstition and creating common knowledge of it by making it viral is the most important point
+    explain the reflexive loop
+    a vicious circle, a self-reinforcing loop, feedback
+    A hyperstition is a belief which becomes true if people believe it’s true
+    cybernetic occultists call hyperstitions: beliefs or ideas that, through their very existence and spread, bring themself about.
+    But, and this is key, for the latter to work they must be presented as if they were predictions. They only work if everyone believes they’ll come about.
+    https://rivalvoices.substack.com/p/reflexivity-part-1
 
 **I want YOU to send this to your friends!**
 
