@@ -149,6 +149,23 @@ video structure:
 
 
 
+https://www.youtube.com/watch?v=pcnrzBwoVUk
+Say This in Your Videos, It’ll Improve Your Storytelling by 10x - Kallaway
+- term branding - come up with names for the concepts you want to talk about and viewers will be curious what they mean and stay
+- embedded truths - saying "if you try this thing" vs "when you try this thing" - "you might..." vs "once you..."
+    - using weak frames (if/maybe/might) invites doubt - instead asking them to believe you're telling them how things are
+- thought narration - guess what the viewer might be thinking and state it - "you might be thinking"
+    - builds trust, and they'll stay to hear the answer, breaks the fourth wall and feels like a conversation
+    - after every major/transitional point in the video - ask yourself: "what should the viewer be thinking right now?"
+- negative frames - loss aversion
+    - "here's how to do X" vs "the worst possible thing you could do when doing X"
+    - "use this ..." vs "stop doing things like this ..."
+- loop openers
+    - opening new curiosity gaps - for videos (not shorts) creators usually do it every 60-90 seconds
+    - teases what's about to come next
+    - usually done with a contrast word - CONTRAST !!!
+    - "here's the thing though...", "and this is where it gets crazy...", "but that's not the most interesting part", "most people stop here, but actually...", "ok that was powerful but the next thing might be even more important...", "now here's what nobody is talking about..."
+- contrast words: but, actually, instead, turns out, except, yet, 
 
 
 

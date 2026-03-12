@@ -36,6 +36,10 @@ https://www.sciencedirect.com/science/article/abs/pii/S0303264721000514
 Internalizing cooperative norms in group-structured populations
 https://www.biorxiv.org/content/10.1101/722439v1.full.pdf
 
+Towards a Metamodern Theology: The DEPTH Model
+https://www.mdpi.com/2077-1444/17/3/320
+
+
 !!!!!!!!!!!!!!!
 TESTING THE MACHINE CONSCIOUSNESS HYPOTHESIS
 https://www.arxiv.org/abs/2512.01081

@@ -5652,17 +5652,126 @@ reinforcement learning with dopamine as a reward signal, also temporal differenc
 >
 > Thus animals acquired the computational power to develop behaviorally relevant models of other complex animals, resulting in the kinds of early “social intelligence explosions” evident in the Cambrian period." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
 
+on predictability and theory of mind
+
 > "None of these tricks or capabilities are fundamentally out of reach for artificial neural nets; after all, each capability can be expressed in terms of functions, and neural nets are universal function approximators.
 >
 > ... When others restrict our ability to make choices, it doesn’t feel good, just as gnawing hunger doesn’t feel good. The confinement of our possible futures renders us increasingly helpless, like a king being chased into a corner of the chess board in the endgame... Death, then, whether in a game or in real life, represents the ultimate exhaustion of one’s ability to choose...
 >
-> " - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+> ... Mutual prediction is the key to sociality and cooperation, but, in a predatory context, as the early cyberneticists understood, prediction can also be adversarial. A predator will try to predict prey right into its stomach. Prey will try to predict the predator’s moves, and escape. Each is trying to preserve its own liberties, potentially at the cost of the opponent’s. Each will therefore try to predict the other’s predictions, ad infinitum.
+>
+> ... when mutual prediction is cooperative, it must also be imperfect, for cognitive cooperation involves a division of labor. That means each party brings cognitive resources or inputs to the table that the others lack. If one of the cooperating parties is always perfectly predictable to any of the others, that would imply that the predicted party doesn’t bring anything unique to the table, and is therefore a third wheel. So, whether in a cooperative or adversarial context, being perfectly predictable is bad news. In a way, it’s even a form of imprisonment... When an agent becomes perfectly predictable to an observer, it makes the agent no longer register as agential to that observer.
+>
+> ... Alan Turing arrived at a similar conclusion: “From the outside, [...] a thing could look intelligent as long as one had not yet found out all its rules of behavior. Accordingly, for a machine to seem intelligent, at least some details of its internal workings must remain unknown.”
+>
+> ... As a fellow computational being, how can you escape the same pickle—how do you keep from becoming a robotic “it” to a clever observer? Here are three ways:
+>
+> 1. As described for moth flight in chapter 3, simply using a random variable can keep your behavior fresh and surprising even if you’re not so smart... Randomness is equally valuable in cooperative contexts, such as for foraging insect colonies, where it ensures that even near-identical individuals will diverge to explore different parts of their environment.
+>
+> 2. The ability to learn allows your responses to be more unique, and allows your behavioral repertoire to scale up far beyond what can be encoded in your genome. By storing in your brain learnings and behaviors based on past experiences, you become vastly more complex on the inside—and all of this complexity is a hidden state, invisible to a stranger. In a competitive setting, such lifelong learning makes you harder to predict. In a cooperative setting, it allows individually differentiated skills and expertise to develop, greatly expanding the opportunities for cognitive division of labor.
+>
+> 3. If you are able to model others effectively, including others who are modeling you back, then in an adversarial situation, you can outfox them by going meta. Modeling others is also essential to the cognitive division of labor, as it allows you to know who knows what you don’t know. Psychological studies suggest that we humans are so adept at keeping track of socially distributed knowledge that we tend to harbor greatly exaggerated beliefs about how much we personally know, when a good deal of our “knowledge” really consists of knowing whom to ask... modeling your modeler—requires being very smart indeed. Roughly speaking, you need to be as smart as whomever you’re modeling, or more so, and you need to be able to imagine how you (and the world in general) appear from their point of view.
+>
+> ... Exhibiting this cognitive capacity implies not only an ability to simulate other minds, but also to model counterfactual (“what if”) universes. In the Sally-Anne Test, there is a real-life universe, in which the marble is in the box. There is the universe in Sally’s head, in which the marble is in the basket. Each of these universes also contains agents, like Sally and Anne, who in turn contain model universes in their virtual heads. The Anne in the universe in Sally’s mind, for instance, also believes that the marble is in the basket. Of course Sally and Anne are mere dolls; they only exist within the minds of the experimenter and the subject. The experimenter and subject are in turn abstract people I am describing to you, dear reader. Nesting dolls, universes within universes, in an endless recursion. It’s a dizzying prospect.
+>
+> As adults, though, we negotiate such recursive mentalization all the time without a second thought... But theory of mind... There is good evidence that it is the very stuff of intelligence; it is, thus, at the heart of this book’s main argument... My contention is that theory of mind:
+>
+> ●   Powers the “intelligence explosions” observed in our own lineage, the hominins, and in other brainy species;
+>
+> ●   Gives us the ability to entertain counterfactual “what-ifs”;
+>
+> ●   Motivates, and is enhanced by, the development of language;
+>
+> ●   Allows us to make purposive decisions beyond “autopilot mode”;
+>
+> ●    Underwrites free will;
+>
+> ●   Operates both in social networks and within individual brains;
+>
+> ●   Results automatically from symbioses among predictors; and
+>
+> ●   Is the origin and mechanism of consciousness.
+>
+> In a sense, theory of mind is mind.
+>
+> ... Being better able to get inside others’ heads increases the odds of finding a mate, building coalitions, securing resources from friends and family, getting help raising young, avoiding violence (or being on the winning side of it), climbing in prestige, and amassing fans or followers. So, unsurprisingly, people with better theory of mind tend to live longer and have greater reproductive success... Strong theory of mind is correlated with both larger numbers of friends and larger brains, particularly in brain areas associated with mentalizing... mentalizing requires not just imagining another person in the abstract, but modeling their particular life experience, what they know and don’t know, their quirks and values, the ways they express themselves—in short, everything that comprises a personality, outlook, and umwelt.
+>
+> ... This task is even harder than it appears at first glance, because there are infinite reflections in the social hall of mirrors: all of those people are themselves modeling others, including you. And, of course, their models of you include models of them, and of others. These relationships are important, because they powerfully affect behavior. Who shared their meat with whom after the last hunt, and in front of whom? Who is sleeping with whom? Who is gossiping about it, and who doesn’t know? Who is beefing with whom, and over what (or whom)?
+>
+> Even if your model of second-order relationships (i.e., who is friends with whom, and what you know about those interactions) is not as rich as your model of first-order relationships (your friends), the sheer number of higher-order terms in your model explodes. If you have twenty classmates who all know each other (and you), then you need to keep track not only of your twenty relationships with them, but of all of their relationships with each other and with you, which is another 20×20=400 pieces of information. Third-order relationships climb into the thousands.
+>
+> The numbers get truly mind-boggling when you consider that our acquaintances can easily number in the hundreds; family, school, and work environments tend to involve cohorts of people who all know each other; and our theories of mind can go up to sixth order, or beyond. You can imagine, then, that even if many corners are cut, the amount of brain volume needed to do social modeling might grow both as a function of your number of friends and as a function of your ability to model higher-order relationships.
+>
+> ... Findings relating brain size to social group size, and social group size to Darwinian fitness, are themselves a hall of mirrors, revealing a profound self-similarity—and feedback loop—between brains and social groups... And remember, everybody is trying to predict everybody else, but not be fully predictable themselves!
+>
+> So it’s an arms race, not unlike that of the Cambrian explosion—though (usually) friendlier. Everyone is getting a bigger brain to model everyone else, and everyone else is getting harder to model at the same time, because … well, their brains are getting bigger. A social intelligence explosion ensues: a rapid (by evolutionary standards) increase in brain volume in your species.
+>
+> ... Our world consists largely of other people, and most of us would be unable to survive at all without continual mutual aid. At the same time, sociality is a fraught business. We try to “win” at modeling others without being fully modeled ourselves; we compete for mating opportunities and for attention; we strive for dominance and prestige. These dynamics once again illustrate how competition and cooperation can be interwoven to such a degree that it can be hard to tell which is which.
+>
+> Selection pressure also operates at the level of social groups. If one group sports slightly bigger brains and greater social prowess, the group itself can grow larger, and will thus tend to outcompete the smaller (and smaller-brained) group. Such may have been the fate of certain of our now-extinct hominin kin.
+>
+> Societies have a kind of collective intelligence, and a rich body of work in social anthropology tells us that collective intelligence exhibits a scaling law not unlike that of individual brains. Theory of mind, incidentally, is important both for effective teaching and effective learning, which implies that it enhances cultural evolution at the group level too. So, bigger societies can create and evolve more complex technologies, and thereby develop greater adaptability and resilience. Greater scale, in other words, can support greater intelligence, and greater intelligence improves dynamic stability, both at the individual level and at the group level.
+>
+> ... Accounts of small, extremely high-performing teams invariably emphasize both the unity of purpose that can be achieved and the need for each team member to infer what the others are up to based on minimal cues: that is, high-fidelity mutual prediction, or mentalizing." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
 
-> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+if the self & free will are an illusion
+not relevant for my work but good quotes
 
-> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+> "... most of the cells in our bodies turn over many times throughout our lives, and, even in the longest-lived neurons, every atom will get swapped out over time. If we want to assert the continuity of our own identity, we need to acknowledge that a “self” is, like swing, a dynamical and computational process, not a specific set of atoms.
+>
+> ... In physical and computational terms, a neuron has an inside and an outside, and if the insides were scooped out and replaced with different machinery that performed the same function—which is to say, resulted in identical interactions as seen from the outside—then none of the larger functions in which this neuron plays a part will be affected. Per the Church-Turing thesis, these functions could be computed in many equivalent ways, and using many different computational substrates. That is true at every level of the nested set of relationships, or functions, that we call “life” or “intelligence.”
+>
+> ... Chapter 2 offers a more pragmatic take on reality, familiar from physics as well as real life: “reality” is our name for a model with good predictive power. Or rather, a suite of models. We will always need many, because every model has a limited domain of validity. It would be awesome to discover the physicists’ holy grail, a “Theory of Everything” unifying quantum fields and gravity. But it would tell you nothing about whether your aunt will like the cake you’re baking for her, your friend will take your shift at the café, or your kid will get along with the neighbor’s kid. In fact, unless you’re one of a handful of rarefied physicists, it will inform precisely nothing in your life.
+>
+> Good questions to ask about a model, then, are: Does it agree with observations? Does it make any testable predictions? Who cares about it? What function does it serve? Where does it break down? Do we have a better candidate model? Sometimes we do have a better candidate, but, as with general relativity, it may be disturbing or challenge deep-seated intuitions. Newtonian physics, which we find a lot more intuitive, follows from general relativity, but only as an approximation valid in our everyday world, where spacetime is reasonably flat and objects move far slower than the speed of light.
+>
+> That’s not to say that classical physics is an “illusion”; rather, the more general theory illuminates a wider area. Einstein’s theory shows us when the Newtonian approximation holds, when it doesn’t, and why. It resolves apparent contradictions, like the incompatibility of Newtonian physics with a constant speed of light. In this sense, general relativity actually bolsters the narrower classical theory by reassuring us that the seeming paradoxes aren’t cause for concern, and by showing us why, when, and to what degree we can rely on familiar approximations.
+>
+> Free will; the unitary, indivisible “self”; and interaction with other unitary “selves” in the world are the common-sense axioms underpinning something like a Newtonian model of social life. Theory of mind is that model. It’s our folk theory—literally. It’s what we use when we predict our aunt’s tastes, our friend’s willingness to help, or our kid’s friendships. While powerful and useful in everyday life, theory of mind is also confounding, even paradoxical, when we try to reconcile it with the physical universe; hence the trouble Descartes got us into. In the following discussion, we’ll flesh out a more general theory that will help us better understand our folk theory—and how it arises, and its conceptual limits.
+>
+> But let’s keep in mind just how powerful that folk theory is. Will Aunt Millie like my cake? For a physicist, making such a prediction may seem like weak tea compared with the extraordinarily precise, quantitative predictions we expect from physical theories. But it’s not so." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
 
-> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+chapter 6 - many worlds
+
+on free will
+
+> "Free will involves combining theory of mind, randomness, dynamical instability, and selection:
+>
+> 1. Theory of mind can be used not only to model others, but to model oneself. We’ve already encountered this at second order, and beyond (“what Jane believes Mr. Rochester must think Jane thinks”). There’s no reason this same faculty can’t work reflexively: “what Jesse thinks Jesse thinks.” Or, in a less navel-gazey way, “what Jesse imagines he will see, think, and do in a few minutes, when it’s time to catch a bus to the airport,” or “what future Jesse will do in five months or so: book a plane ticket.” **Planning for one’s own future is necessarily a theory-of-mind exercise—a way to cooperate with your future self. Or, to turn it around, without theory of mind it would not be possible to “time-travel” and imagine what you will experience and do under circumstances other than the present.**
+>
+> ...
+>
+> 4. Finally, selection, powered by theory of mind, allows one to favor certain possible futures, and cut off or stop exploring other ones, much the way AlphaGo’s value network prunes its Monte Carlo tree search. If Jesse knows that by getting to the plane on time he will feel melancholy but be safely en route home, and that missing the plane will leave him stranded, alone, anxious, and broke, then there’s no need to plan the latter scenario in detail; best to just figure out, instead, what steps he will take to get to the plane on time. When we talk colloquially about “rational” behavior, this is generally what we mean. Notice that the branching character of possible futures allows one to justify—and at times even legitimately make—decisions using logic. However, contra Leibniz, this logical aspect of decision-making, when present at all, is computationally trivial compared to the acts of imagination involved in mentally simulating worlds and people, including yourself.
+>
+> So, theory of mind lets us build a network of solid tracks along which our minds can venture far into an otherwise marshy future. Dynamical instability, like a lubricant, lets us glide anywhere along those tracks, free to go either way at any fork with the gentlest of nudges. Randomness provides those nudges, letting us wander prospectively into multiple futures. And selection prunes the network to allow efficient long-range planning. You may notice that this looks a lot like a fast version of evolution taking place in imaginary worlds!
+>
+> When pruning occurs in advance and after lengthy exploration, we call it a deliberative decision. When it occurs just in time, because we’ve kept multiple paths open until the last possible moment, or we’ve changed our minds, or an unforeseen opportunity arises, we call it a snap decision. If you’ve been able to competently exercise theory of mind about your “self” to guide a decision, whether deliberative or spur-of-the-moment, you can meaningfully be said to have exercised free will.
+>
+> There’s no dualism or supernatural “fountaineer” in this account. Nonetheless, calling a decision freely willed seems justified given an everyday understanding of what that means. There is a “you” who made this decision; you are not acting reflexively, but modeling a self, sampling multiple alternatives, and making a choice based on how those alternatives appeal to that modeled self. In other words, the “you” here is not just a brain, but a modeled self: a functional entity, not merely a physical one.
+>
+> Free will is compromised when these conditions are compromised. For instance, if your choice landscape is too constrained to offer meaningful alternatives, then you aren’t free, as anyone who has ever been in prison, in a refugee camp, or in an endless immigration queue at the airport can attest. If an act is reflexive, it’s not freely willed either. If your model of yourself is unreliable due to immaturity, incapacity, intoxication, or mental illness, then your free will is also impaired. The same holds if your predictive model of the world or of others is broken, for instance, due to delusional beliefs. These ideas are familiar from legal theory, ethics, or plain common sense.
+>
+> Endless debates and ongoing reassessments (rightly) abound about what constitutes impairment, freedom, or choice. For instance, when someone without any criminal history suddenly commits a horrible crime, and a brain scan reveals a fast-growing tumor, this may be exculpatory. Before brain-imaging techniques, we wouldn’t have known. However, not everybody who does something reprehensible has the equivalent of a tumor, especially when that somebody was perfectly able to think through the options and model the perspectives of others. There’s nothing spooky about choice, impairment, responsibility, or culpability. Every human society acknowledges these concepts, though they vary in their norms and in where they draw lines.
+>
+> ... A more sophisticated mind can support more complex internal states, including simulated worlds, counterfactuals, and prospective futures. Such minds evolve via social-intelligence explosions, which implies that much of the complexity in those simulations concerns other minds—what they know, what they experience, how they will act or react.
+>
+> A “self” is inherent to any social modeling if carried out to second order, because those others you’re modeling are … modeling you back. If they’re conspecifics, then they are also very similar to you; for instance, as a chimp, it requires only a little imagination to see the world through the eyes of another chimp. When your social brain has evolved to this point, it’s no great leap to stare into the mirror, physical or mental, and consider yourself as a being, both in the future (which is essential for long-range planning) and in the present. The infinite regress of your “Mind’s I” in that mirror gives you the vertiginous experience of self Douglas Hofstadter calls a “strange loop.”" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+on consciousness
+
+> "Let’s now take the human perspective, or, more generically, the perspective of a social animal that has undergone an intelligence explosion and is endowed with a highly developed theory of mind. For such a being, souls are just about the most behaviorally relevant things one can imagine—more so than numbers, clouds, or ripe berries. For social animals, other minds are the umwelt. So of course we distinguish between “somebody home” and “nobody home.” Many human languages mark that distinction grammatically, as English does with “who” versus “what.”
+>
+> ... WEIRD beliefs about what counts as a “who” are particular. Then again, any such beliefs are particular. What seems to distinguish WEIRD beliefs from those of traditional societies is their single-mindedness—literally. Philosophical debates about consciousness in the West focus heavily on the inner life of an individual: per Descartes, “Cogito, ergo sum,” meaning “I think, therefore I am.” That packs a lot of “I” for such a short sentence.
+>
+> Centuries of introspective discourse have carried on about qualia and “phenomenal consciousness” while ignoring the fundamentally social and relational nature of theory of mind, and the way consciousness arises precisely when we model ourselves the way we model others.
+>
+> ... But in a social setting, we must constantly think about our relationships, how we’re coming across, and the experiences of others; this modeling deeply informs how we act. And it is sometimes useful to be able to actively model, and thus manipulate, your own attention. Consider meditation, or simply allowing yourself to fall asleep when you’re keyed up after a busy day—acknowledging, then dismissing intrusive thoughts; scanning your body; relaxing your muscles from head to feet. Your attention is like a spotlight, and controlling it requires you to pay attention to your attention.
+>
+> ... When a skilled ventriloquist throws their voice into a puppet, manipulating its gaze and moving its jaw along with the words, we experience a powerful impression of the puppet as a person. In modeling that puppet’s attention, we have conjured into existence a modeler, or soul: a being whose attention that is. If the puppet turns toward us and begins to speak, we enter into that recursive social loop, modeling it attending to us attending to it, and so on. The punchline is that we are all puppets; we just happen to pull our own strings.
+>
+> ... **Attention is a real enough sort of computation, useful for predictive modeling. And in a world of sophisticated predictive modelers, including oneself, attention is worth modeling in its own right. It’s reasonable, then, to define a being, a soul, or a “who” as that which can pay attention—and can model that attention.**
+>
+> ... Taking seriously the perspective of intelligence as relational implies something far more mind-bending than merely acknowledging the social origins of consciousness. It implies that relationships themselves are the building blocks of reality. There is no God’s-eye “view from nowhere” in a relationship graph. In fact there isn’t even a God’s-eye view of what the nodes in the graph are." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
 
 > "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
 

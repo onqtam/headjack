@@ -656,8 +656,7 @@ Decentralized, infinitely scalable and with no UX limitations
 
 Higher trust, thriving, health, vitality, alignment, meaning, purpose, accountability
 
-Radical
-Coherence - ever heard of divide and conquer?
+
 Consciousness
 baby/infant
 Attention regulation - respurce allocation
@@ -1740,6 +1739,7 @@ the era of the comparison operator marks the end of the postmodern era and radic
 
 This is the trust network
 
+the more predictable you are to your cooperators - the less friction and wasted intelligence there is
 
 The (explicit) status economy
 
@@ -1964,9 +1964,18 @@ Give till it hurts - I know I have/will - I sure will
 
 Do you understand what I am telling you?  We need cultural coherence - we need to produce coherence - 
 
-There is no culture war - there is only divide and conquer
+divide and conquer
+    left vs right
+    There is no culture war - there is only divide and conquer
+    Coherence - ever heard of divide and conquer?
+    what do you think the ultimate truth to power architecture that counters "divide and conquer" through coherence means?
+    divide and conquer adds mistrust, friction, reduces economies of scale, reduces synergy
+
 
 The only worthy war is with unaccountability and corruption
+
+"We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness." - United States of America 1776
+"We hold these truths to be self-evident, that all men *~~are created equal~~* **develop unequally**, that they are endowed by their Creator with certain unalienable *~~Rights~~* **Responsibilities**, that among these are *~~Life, Liberty and the pursuit of Happiness~~* **Sharing, Accountability, and the pursuit of Creativity**." - United States of Humanity
 
 
 “But people don’t want to consume the important stuff - they just want entertainment” - so find the best way to convince them why that is important. That belief is already in you - there is a path for a human brain to find it and to be compelled by it.
@@ -2708,9 +2717,6 @@ diversity is strength, but do you know when? and why exactly?
 
 secrecy is fragmentation is friction is lack of synergy
 
-
-
-what do you think the ultimate truth to power architecture that counters "divide and conquer" through coherence means?
 
 a paradigmatic exodus
 talk about the plagues of the current internet
