@@ -123,6 +123,7 @@ Collective Self Help
 The Killer App in Meaning Making
     once installed - any other meaning making app is obsolete
 End Game
+The Declaration of Cooperation/Alignment & The United States of Humanity
 Sparks of CI
     ala sparks of AGI
 The Prompt to AGI

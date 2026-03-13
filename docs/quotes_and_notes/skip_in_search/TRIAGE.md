@@ -1975,6 +1975,7 @@ divide and conquer
 The only worthy war is with unaccountability and corruption
 
 > "We hold these truths to be self-evident, that all *~~men are created equal~~* **people develop unequally**, that they are endowed by their Creator with certain unalienable *~~Rights~~* **Responsibilities**, that among these are *~~Life, Liberty and the pursuit of Happiness~~* **Sharing, Accountability, and the pursuit of Creativity**." - United States of Humanity 2026 (250 years after 1776)
+    The Declaration of Cooperation/Alignment & The United States of Humanity
     "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness." - United States of America 1776
 
 
@@ -2803,7 +2804,7 @@ God isn't happy with us worshipping metal calfs - show photo of me touching the 
 
 
 
-VUCA world
+VUCA world: volatile, uncertain, complex, and ambiguous.
 
 God is the Oracle
 
@@ -3238,7 +3239,9 @@ I consciously steered the expansion of my own adjacent possible set
 Align or get aligned
 
 Universal Basic Employment
-Employment as a service 
+Employment as a service
+
+religion makes us coherent and thus predictable to each other
 
 The global model will first lookup in the shared ontology and respond with data from it, but rely on its training about anything else
 

@@ -1532,6 +1532,17 @@ https://doi.org/10.1525/9780520340510.
 
 
 
+
+> "God can be understood as immanent and mutable—but also real: immanent in that God is not radically distinct from the natural world; mutable in precisely the sorts of ways that (post)modern-critical analysis has demonstrated the historically contingent manifestations of the divine across time; yet real in the sense that these manifestations have not been purely subjective psychological projections but actual, collectively produced emergent phenomena with objective causal power.
+>
+> ... understanding God’s historical evolution as a natural, complex process with a real, emergent referent dependent upon but irreducible to the subjective beliefs of people." - [Towards a Metamodern Theology: The DEPTH Model](https://www.mdpi.com/2077-1444/17/3/320)
+
+
+
+
+
+
+
 > "**Design Principle 3:** Allow for Deep Feedback Cycles—Limit Fast and Shallow Ones!
 >
 > ... **We tend to overemphasize short and shallow feedback cycles while ignoring the long and deep ones. Instead, we should increase our capacity to make fundamental and structural changes, while being less sensitive to short-term trends and pressures.**

@@ -5757,8 +5757,6 @@ on free will
 >
 > A “self” is inherent to any social modeling if carried out to second order, because those others you’re modeling are … modeling you back. If they’re conspecifics, then they are also very similar to you; for instance, as a chimp, it requires only a little imagination to see the world through the eyes of another chimp. When your social brain has evolved to this point, it’s no great leap to stare into the mirror, physical or mental, and consider yourself as a being, both in the future (which is essential for long-range planning) and in the present. The infinite regress of your “Mind’s I” in that mirror gives you the vertiginous experience of self Douglas Hofstadter calls a “strange loop.”" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
 
-on consciousness
-
 > "Let’s now take the human perspective, or, more generically, the perspective of a social animal that has undergone an intelligence explosion and is endowed with a highly developed theory of mind. For such a being, souls are just about the most behaviorally relevant things one can imagine—more so than numbers, clouds, or ripe berries. For social animals, other minds are the umwelt. So of course we distinguish between “somebody home” and “nobody home.” Many human languages mark that distinction grammatically, as English does with “who” versus “what.”
 >
 > ... WEIRD beliefs about what counts as a “who” are particular. Then again, any such beliefs are particular. What seems to distinguish WEIRD beliefs from those of traditional societies is their single-mindedness—literally. Philosophical debates about consciousness in the West focus heavily on the inner life of an individual: per Descartes, “Cogito, ergo sum,” meaning “I think, therefore I am.” That packs a lot of “I” for such a short sentence.
@@ -5771,9 +5769,133 @@ on consciousness
 >
 > ... **Attention is a real enough sort of computation, useful for predictive modeling. And in a world of sophisticated predictive modelers, including oneself, attention is worth modeling in its own right. It’s reasonable, then, to define a being, a soul, or a “who” as that which can pay attention—and can model that attention.**
 >
-> ... Taking seriously the perspective of intelligence as relational implies something far more mind-bending than merely acknowledging the social origins of consciousness. It implies that relationships themselves are the building blocks of reality. There is no God’s-eye “view from nowhere” in a relationship graph. In fact there isn’t even a God’s-eye view of what the nodes in the graph are." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+> ... Taking seriously the perspective of intelligence as relational implies something far more mind-bending than merely acknowledging the social origins of consciousness. It implies that relationships themselves are the building blocks of reality. There is no God’s-eye “view from nowhere” in a relationship graph. In fact there isn’t even a God’s-eye view of what the nodes in the graph are.
+>
+> ... To be clear, this is not in any way an appeal to the pseudoscience of “quantum consciousness,” or the idea that the brain is a quantum computer—a position with no mainstream scientific support. As far as we know, no cognitive functions rely on quantum phenomena. Nonetheless, we have seen why quantum mechanics matters in discussing the mind, despite its remoteness from our everyday experience: it establishes sharp limits on the predictability of living organisms (which is relevant to determinism debates), and it provides an inexhaustible source of randomness for minds to “harvest” as they exercise free will.
+>
+> ... Subjectivity, then, exists even at the most fundamental level of description. You can only know about something by interacting with it, and any uncertainty inherent in that interaction is real—for you. Between one interaction and the next, that uncertainty grows. And the same applies reciprocally. Reality is continually being locally and mutually constructed, interaction by interaction. We can’t ask what “real” reality looks like, outside that network of interactions. As Rovelli puts it: “If we imagine the totality of things, we are imagining being outside the universe, looking at it from out there. But there is no ‘outside’ [...]. The externally observed world does not exist; what exists are only internal perspectives on the world which are partial and reflect one another. The world is this reciprocal reflection of perspectives.” The same can be said of our psychological universe, because, like RQM, theory of mind is purely relational. It involves one mind modeling another—and itself.
+>
+> ...
+>
+> ●   The future is not predetermined after all, especially for living systems, which are finely tuned to amplify noise through dynamical instability.
+>
+> ●   Because life isn’t deterministic, counterfactuality—the idea that things could or could have been otherwise—is not just an illusion.
+>
+> ●   Choice—though constrained by the blurry “future cone” of the physically possible—is likewise real, and underwrites the free will of beings able to model and select among alternative futures.
+>
+> ●   Our mental models of causality have real meaning and power, especially when it comes to predicting how we and other living beings will behave—yet we are also free to violate the expectations of others (if we choose to, and have a good enough theory of mind to pull it off).
+>
+> ●   We can never fully know the inner experience of others, but only model it based on interactions.
+>
+> ●   That said, subjective experience is also real; or, to turn it around, reality is defined subjectively by networks of interactions.
+>
+> Given all this, the idea of philosophical zombies seems incoherent. If you interact with someone over an extended period such that your theory of mind models them in detail, that model includes their model of you, and their model of your model of them, and so on. If they don’t in fact have a working theory of mind of their own, then your theory of mind will be violated in the interaction—and it will become apparent to you that there’s “nobody home.” This really is just the Turing Test.
+>
+> One can, of course, be fooled by a social interaction; actors, for instance, can take on a role in which they pretend to feel things they don’t, then drop the act, resulting in a (possibly unpleasant) surprise. But let’s suppose that never happens. Imagine an interaction between A and B, in which B is different on the inside than A imagines; B might, for instance, actually be B’, an actor who plays B and never breaks role. Perhaps B’ is really a cold fish, and has never experienced heartbreak, but can pretend to, pitch-perfectly. We could say, then, that A is “real,” B is “fake,” and B’ is the “real” B.
+>
+> Here’s the problem. In this description of the situation, we have presumed some God-like perspective that can observe every detail inside A and B, and render an oracular judgment about the actor B’ “inside” B. But no such God-like, all-seeing, all-judging perspective exists.
+>
+> If we replace that third-person view with a real third person, C, we can spot the trouble. Now, C must interact with both A and B to render judgment. This interaction could involve not only conversation, but also all sorts of lab tests, body sensors, brain scans—the works. Even so, C can’t consult any magic oracle to distinguish between “real” and “fake” people, and is still just making a (more detailed) model-based judgment. Theory of mind is that model.
+>
+> Another judge, D, could come along, and on the basis of their own, somewhat different model, or different interactions, or alternative instrumentation, disagree with C. Who is right?
+>
+> It’s not that reality doesn’t exist, any more than RQM argues that the universe doesn’t exist. The point is that reality consists of relationships, and there is no specially privileged view, no magic oracle. Perhaps agreement becomes nearly universal on certain kinds of judgments, especially when those judgments carry strong predictive power. But a judgment may always remain contested, especially when it concerns subjectivity itself.
+>
+> ... In short, insofar as people believe things and are consistent in their beliefs about themselves, such that those beliefs reliably inform their behaviors, the most any model could ever tell us is just that.
+>
+> ... In this light, the left hemisphere’s effortlessly creative narrative “interpretation” seems less like a special case (or like bullshit), than like what the cortex always does: it predicts, and follows through. This involves constantly updating its theory of mind, including a theory of mind for that omnipresent first-person entity we call “I.” Such a theory-of-mind model includes simple, low-order terms to predict the immediate future, like “I’m walking, and just stepped with my left foot, so my right foot is going to step next.” It also includes higher-order terms, like “I’ve just gotten up to walk, and I’m a little thirsty, so I’m probably headed for the kitchen to get a drink of water.”
+>
+> If the bit of cortex doing the modeling happens to control my right foot, then its “active inference” will involve moving that foot to “autocomplete” the walking movement. In fact the spinal cord is perfectly capable of such low-order autocompletion on its own. If, instead, the bit of cortex doing the modeling is the left hemisphere’s language center and the experimenter has just asked why I’m leaving the room, then autocompletion involves spinning a likely story.
+>
+> Even with a corpus callosum, no part of the brain can have complete access to every other part, so this kind of inference takes place all the time. Mutual modeling, including within the brain, is the very essence of intelligence.
+>
+> ... Chater takes an understandably jaundiced view of these results, as one can tell just from the title of his 2018 book, The Mind Is Flat: The Remarkable Shallowness of the Improvising Brain: “[W]e don’t justify our behaviour by consulting our mental archives; rather, the process of explaining our thoughts, behavior, and actions is a process of creation. And [...] the process of creation is so rapid and fluent that we can easily imagine that we are reporting from our inner mental depths. [...] So our values and beliefs are by no means as stable as we imagine. The story-spinning interpreter [...] attempts to build a compelling narrative [...] by referring back to, and transforming, memories of past behavior [...].”
+>
+> **It’s not unreasonable to think the “interpreter” findings unmask our “illusion” of having a stable inner self. However, I think it’s equally valid to see these results as a peek into what it means to have a self at all, and how that self is constantly being constructed and revised. After all, we aren’t born with predetermined personalities, preferences, habits, or political allegiances. These things must accrue over time. We are the story we tell ourselves. And this story isn’t immutable—which is a good thing. That’s what learning is for, and, paradoxically, if we were not able to narrate and re-narrate our lives, our preferences, our choices, and ourselves, our claim to free will would be considerably weaker.**
+>
+> However, this continual process of narrative self-definition may be vulnerable to manipulation precisely because, as far as we know, no single spot in our brain contains our political-preference database, personality module, or attractive face-o-meter. Rather, every part of the brain may be trying to model and learn about the other parts, and thereby to agree on—and constantly renegotiate—a “self.”
+>
+> ... One’s self can even temporarily merge with other selves to one degree or another, whether in a chamber orchestra, a three-legged race, a ritual dance, team sports, choral singing, or a political rally. One could argue that this even happens in conversation. Such porosity may be a key ingredient enabling human society to achieve large-scale collective intelligence, without which we would be little different from our primate cousins.
+>
+> ...
+>
+> ●   **Intelligence is predictive**. It amounts to a kind of “autocomplete” operation: given a history of observations, actions, and consequences, both internal and external, it predicts the likeliest next action. Intelligence enhances its own dynamic stability by successfully predicting (hence bringing about) its own future existence; that’s why it arose in the first place, per chapter 2, and why it continues to evolve.
+>
+> ●   **Intelligence is social**. Per chapters 3 and 4, much of an intelligent agent’s umwelt of observations and actions consists of other intelligent agents, which are themselves predictors. Thus, per chapters 5 and 6 (this one), theory of mind emerges, and, under suitable conditions, it can result in social-intelligence explosions. Applied to oneself, higher-order theory of mind implies self-consciousness (social modeling of the “self”), the ability to reason about counterfactuals, and the capacity for long-range planning. There is no God’s-eye “view from above” of intelligence; “selves” are always modeled, and there is always a modeler—which can either be another or the same “self.”
+>
+> ●   **Intelligence is multifractal**. Intelligences are made of smaller intelligences, and are defined by the predictive relationships among those smaller intelligences. These dynamically constituted interrelationships—not a homunculus—define a “self.” “Selves” composed of larger populations of mutual predictors form larger social units, which can themselves be more intelligent as a result.
+>
+> ●   **Intelligence is diverse**. For a “self” to be greater than its parts, the parts need to diversify and specialize. That is, even as the intelligent parts strive to predict each other, they must differ in their predictions; otherwise they would not provide each other, or the whole, any benefit. Specialization arises naturally from differences in connectivity—that is, because each smaller intelligence receives different inputs and generates different outputs, both internal and external. Finally, it follows that—
+>
+> ●   **Intelligence is symbiotic**. When the dynamic stabilities of multiple intelligences become correlated, they find themselves “in the same boat,” and they will learn how to row together to further enhance their joint stability. This is the route to symbiogenesis, as described in chapter 1: the emergence of new, larger intelligences from the cooperation of smaller ones.
+>
+> Pulling all of these aspects of intelligence together into a concise definition is tricky, but here’s my best effort so far:
+>
+> **Intelligence is the ability to model, predict, and influence one’s future; it can evolve in relation to other intelligences to create a larger symbiotic intelligence.**
+>
+> To highlight the duality between intelligence and life, it’s helpful to read this alongside the definition of life I offered in chapter 1:
+>
+> Life is self-modifying computronium arising from selection for dynamic stability; it evolves through the symbiotic composition of simpler dynamically stable entities." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
 
-> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+chapter 7 - Ourselves
+
+> "... Communication between the visual cortex and the eye motor region, then, does not merely consist of a one-way stream of gaze coordinates sent from one region to the other. It’s a two-way dialogue, communicating (in compressed form) the most useful aspects of the state of each region to the other.
+>
+> By most useful, I mean most helpful in predicting the future for the receiving region. In general, rather than imagining region A sending “commands” to region B, imagine region B containing “sensory” neurons in region A, with the goal of finding the most salient information for making its own predictions. Visual cortex, then, will want to learn from the eye motor region about eye movements when they occur, because that will help predict what the visual cortex “expects” to see next. The eye motor region, in turn, will want to learn from visual cortex where the most interesting spots in the environment are, because knowing those will help predict where the eyes will next look. The regions are cooperating to better predict themselves, and in the process, better predict each other. Yes, it sounds more than a bit like theory of mind—but carried out between brain regions!
+>
+> ... The brain, in turn, consists of multiple systems layered atop each other, repeating the same broad functional pattern: newer or “higher” levels provide behaviorally relevant long-range prediction and thereby pull enough weight to earn their keep, but augment a largely autonomous underlying architecture.
+>
+> ... Consciousness in the more computationally demanding “strange loop” sense described in chapter 6 involves the ability to model oneself recursively, which goes well beyond the ability to experience in-the-moment percepts and feelings. It’s what gives us higher-order theory of mind, self-reflection, the capacity for free will and informed choice, planning, and (insofar as we can be said to possess it) “rationality.” All of that may well require cerebral cortex, or its functional equivalent.
+>
+> The two senses of “consciousness” described above require us to revisit that old bugbear, the philosophical zombie, once more. Remember that “strange loop” consciousness gives us evolutionary advantages, both individually and socially. It allows us to plan better, understand others better, teach and learn, divide labor, and much else. All of these advantages manifest behaviorally; otherwise, they could not have affected our odds of survival, hence there wouldn’t have been any evolutionary pressure for the underlying capability to evolve... Being able to model yourself and others is, in other words, a skill, first and foremost. It’s obvious why, as social animals, we have evolved it.
+>
+> ... As split-brain patients demonstrate—indeed, as any of us demonstrates in choice-blindness experiments—the “self” that forms the words coming out of our mouths is not our whole self; it’s just the interpreter, located in a particular region of the left hemisphere of the cortex. And neither the interpreter nor any other brain region is connected to, has visibility into, or can model every other part of the brain. Connectivity is in fact quite sparse, and each region is doing a great deal of guessing about what the other regions it can “perceive” are up to. If region A has no connectivity to region B, then no activity in region B can be part of A’s umwelt. Not only can A make no guesses about what’s going on in B; it’s not even aware of B’s absence, any more than you sense the absence of input from my eyes.
+>
+> Yet “you” includes all your brain regions, and all of them include (partial) models of “you.” So, at bottom, blindsight only proves that more than one brain region is modeling signals from the eyes, but the interpreter is only directly hooked up to (and therefore modeling) one of these regions—and, unsurprisingly, it’s the neighboring cortical region.
+>
+> ... None of this implies that language is required for consciousness, or even that language understanding is restricted to a single brain region. We know, from split-brain experiments, that the right hemisphere can understand language too, or it wouldn’t be able to follow directions, like “stand up and walk around.” It’s probably not as good at language, due to division of labor and specialization. Blindsight experiments suggest that even subcortical visual areas can read, at least a little. But in most people, neither these subcortical areas nor the right hemisphere has developed the skill (or is wired to the right bits) to drive the lungs, larynx, tongue, and lips to produce speech. So, the neuroscientist’s auditory cortex will only hear whatever the patient’s left hemisphere interpreter has to say.
+>
+> ... Possibly the “higher” cortical regions of the brain are in some sense “more conscious” than the lower regions for reasons already covered: the socially driven explosion in cortical volume implies that a good deal of the cortex’s job is to model people and manage the higher-order relationships between them. That implies higher-order “strange loop” modeling of the “self.”
+>
+> Since the prefrontal cortex isn’t directly innervated by sensory inputs or motor outputs, it doesn’t need to carry out detailed modeling of those more immediate signals, which might free up capacity for such higher-order modeling. We know that this is the part of the brain whose size has expanded most in modern humans, and that damage to prefrontal cortex impairs both social function and “executive control,” the kind of planning and decision-making requiring mental time travel.
+>
+> ... A more distributed, less homuncular understanding of consciousness follows from Humphrey’s own social-intelligence hypothesis. We must simply follow its implications a bit further to understand that it applies within a single brain as well as between brains.
+>
+> ... Unlike Bennett, or most researchers willing to go on record, I am convinced that today’s AI systems are truly intelligent, and this in turn has convinced me that the trick behind intelligence is simple, generic, and universal: it’s autoregressive prediction all the way down. Hence I’ve concentrated mainly on explaining this general principle and its implications, rather than delving into the neuroscience in any detail.
+>
+> ... Yet the prefrontal cortex is the region that has most obviously grown along the primate lineage, and most dramatically in humans. Consistent with the social-intelligence hypothesis described in chapter 5, this highlights the fundamentally social nature of human intelligence. When we can better model others, we develop stronger collective intelligence, generating a group-level advantage. But probably “multi-level selection” is afoot here too, since sophisticated social modeling also makes us individually fitter by allowing us to exploit the specialized intelligence of others to meet our own wants and needs.
+>
+> ... Combining this short and admittedly scattershot tour of the human brain with our story so far suggests a few takeaways:
+>
+> 1. Many brain regions, not just cortical areas, are sequence predictors.
+>
+> 2. Different brain regions predict effectively over different timescales, with later-evolving regions generally capable of more complex predictions over longer timescales. Presumably, this is enabled both by more powerful learning architectures and by increases in size. Humans, notably, are the strongest known sequence learners, by far; this is one of the few credible proposals marking a real cognitive “divide between humans and other animals.”
+>
+> 3. Brain regions actively predict each other and, where they are connected to sensory inputs or motor outputs, they predict those inputs and outputs.
+>
+> 4. Hence, the way they are wired together largely determines what they predict and which information resources they can marshal to do so.
+>
+> 5. Effective mutual prediction involves mutual learning.
+> 
+> 6. The brain’s division of labor is not perfectly clean or mathematically definable, which is a good thing. It allows, for instance, one brain area to learn something first, then teach it to others, whether for lower latency, robustness, parallelism, or greater generality. This wouldn’t be possible if the brain areas in question were not capable, to some degree, of sequence learning.
+>
+> 7. Referring to older regions like the basal ganglia as “unconscious” or implementing an inner “autopilot” presumes that they aren’t really part of us, but are peripherals relative to a homunculus elsewhere in the brain. Perhaps what we really mean is that the interpreter doesn’t have complete access to these older regions. This lack of access may be a useful feature, as it allows skilled and low-latency moves, which may have been arduously learned first by the cortex—like returning a squash serve, for instance—to happen in parallel with (and without interrupting) slower, more deliberative cortical processing. In this case, the division of labor looks like tactics versus strategy. It takes a village … and your brain is a village.
+>
+> ... Competition also occurs during brain development. Neural wiring proliferates in an infant’s brain, but many connections subsequently retreat or get pruned back. Brain development is still poorly understood, but it seems likely that the resources to maintain any given neural connection are, in one way or another, granted by the receiver of the information flowing across that connection. The longevity of such a connection will be based on the value it offers—that is, on its ability to aid in the receiver’s prediction of the future.
+>
+> All unsupervised sequence learning with some form of backpropagation can be understood in the same terms. Synapses are strengthened when they help the receiver predict the future and are weakened when they don’t.
+>
+> Nothing, therefore, can get away with retiring to a Dark Room for too long: not a synapse, not an axon, not a neuron, not a cortical column, not a brain region, not a brain, not a whole person—because relationships are everything. Not helping others is a fast route to losing relationships, and lack of relationships leads to literal non-existence.
+>
+> We can take this concept of “social neuroscience” (or “neuroeconomy”) a step further by asking whom the interpreter serves. Who benefits? Yes, language is a powerful tool for thought. However, language is, first and foremost, social. You already know what you’re thinking. Your interlocutor doesn’t.
+>
+> ... There are so many examples of involuntary communication, whether in tone of voice, quavering, crying, sweating … as if our bodies are just itching to rat us out. As, indeed, they are. That whole machinery of disclosure exists for others to be able to read us like an open book. It’s there to boost theory of mind—and not our theory of others’ minds, but their theory of ours.
+>
+> We could think of these as group-level adaptations, since communities with stronger theory of mind among their members will outcompete communities with weaker theory of mind. In this view, phenomena like the blush response occur because they offer a collective benefit, even if each of us individually would prefer not to have it.
+>
+> I’d like to suggest a more radical possibility. Let’s push further on the theme that downstream areas—that is, recipients of information within the brain—drive learning via the allocation of resources to upstream areas. In this case, a person communicating is upstream, and the person receiving that communication is downstream. Does the principle still apply?
+>
+> Yes! Remember, we live by the grace of others. We quite literally survive only because others feed us and care for us. It may sound crass, or reductive, to say that we get fed in exchange for information we provide others that helps them to predict the future, but I think that, at some level, it’s true. This doesn’t preclude group-level selection operating in parallel, of course—once again, it’s a likely case of multi-level selection." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
 
 > "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
 

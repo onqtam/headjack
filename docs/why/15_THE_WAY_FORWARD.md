@@ -399,6 +399,7 @@ https://en.wikipedia.org/wiki/Mortality_salience
 
 > "The idea is not to live forever, it is to create something that will." - [Andy Warhol](https://www.goodreads.com/quotes/570458-the-idea-is-not-to-live-forever-it-is-to)
 
+<!-- meaning: a non-contingent reason to act or to be. we do things because of reasons, and those reasons have reasons of their own - what is the root reason - the stopping point? that's the source of meaning - the top of your value hierarchy - meh... - from Alex O'Connor -->
 
 How should we understand “meaning” in biological systems?
 I think it’s the same in all systems (biological or not), but biology is what we tend to call the study of bodies of systems that are good at generating their own meaning and making it easy for us (as biological systems) to see that they’ve done so.  I suspect it has something to do with structuring one’s experiences, memories, etc. in a way that provides long-range order. In other words, meaning is a kind of high-order generalization, interpretation, saliency, etc. that extends far from the immediate utility or applicability of a mental structure. It’s about extending the cognitive light cone of a thought so that its relevance to time and place far beyond the current, practical context becomes established.

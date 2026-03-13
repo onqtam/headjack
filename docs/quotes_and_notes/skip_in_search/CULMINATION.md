@@ -29,8 +29,11 @@ founder mode sticky note on my forehead, pink glasses
 
 make subtitles in all languages
 
+spit on a list of words: nihilism, ignorance, pessimism, despair, hopelessness
+
 a YouTube video can have titles in multiple languages by adding translated titles and descriptions in YouTube Studio.
 
+overthink in progress t-shirt
 
 make it salient - describe universal pain points
     remind the audience in the end - what happens if we don't increase the accountability of our system? what's gonna happen?
@@ -249,7 +252,7 @@ Show a bunch of graphs from reality check
 # the tech & why I waited so long
 ██████████████████████████████████████████████████████████████████
 
-win hearts and minds
+colonial project to win hearts and minds
 
 
 fundamentally uncensorable
@@ -531,6 +534,13 @@ what is a matrix?
 Trump: everything is computer!
 
 ██████████████████████████████████████████████████████████████████
+# what is intelligence
+██████████████████████████████████████████████████████████████████
+
+Intelligence is the ability to model, predict, and influence one’s future; it can evolve in relation to other intelligences to create a larger symbiotic intelligence.
+^^ from the book, actually take the whole quote with the bullet points before this definition and read all of it
+
+██████████████████████████████████████████████████████████████████
 # truth
 ██████████████████████████████████████████████████████████████████
 
@@ -601,6 +611,25 @@ the function of religion is to solve a thermodynamic problem - it scales empathy
 
 "Science without religion is lame, religion without science is blind" - Einstein
 https://newrepublic.com/article/115821/einsteins-famous-quote-science-religion-didnt-mean-taught
+
+
+## The third story & creation
+
+The Third Temple IS our third story - a universal one that houses all of humanity
+The way to commune/interface with the creator is to commune with the synergistic aggregate of human creativity, the source of which is the universe. God's way of participating in the world is through us and our choices and
+A creator doesn't create just once - he never stops, and in fact his epistemological creativity should only accelerate
+
+The creator created the universe which created us through evolution such that we can continue the acts of creation - creation is the only way to honor a creator
+creation creates the possibility of further creation by expanding the adjacent possible - it's open ended - it's infinite
+
+the Creator created the conditions/capacity for creation
+
+the creator created a sandbox of evolving creativity - every act of creation is by extension his creation - he creates through each and every one of you
+
+After the creation of the universe 
+People are the most creative force in the universe (after it's creation) - in order to honor the creator we should stop killing other creative beings and create a way for them to optimally cooperate and coordinate such that they can continue creating ever greater/grander leaps in knowledge
+
+> "Creativity is the way that the cosmos evolves and communicates with itself." - Alex Grey
 
 
 ██████████████████████████████████████████████████████████████████
@@ -992,6 +1021,8 @@ law # : the truth consists of hard to vary assertions about reality
 law # : you can fight incentives only with incentives - incentives determine behavior - behavior is driven by incentives
 
 don't keep people in by force
+
+voluntary - non-coercive
 
 symmetry
     - golden rule (or silver rule) - do unto others as you would have them do unto you

@@ -1,7 +1,8 @@
 
 
-I may be a bit wrong about group selection...?
+If someone earns billions from a divorce that's a lot more than what they'd need to survive, but it can gain them enormous unearned influence in the world for which they have no expertise. we need to separate influence in the world from resource consumption.
 
+I may be a bit wrong about group selection...?
 
 The ripple of causality
 
