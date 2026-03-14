@@ -376,3 +376,5 @@ the exciting times we are going through... agree, but not sure where to put it
 
 > "What a luxury––to use the experiences of another to update my real-time world model!" - [Matthew Pirkowski](https://x.com/MattPirkowski/status/2015949932226871510)
 
+> "Man naturally desires not only to be loved, but to be lovely." - Adam Smith, The Theory of Moral Sentiments
+

@@ -594,6 +594,18 @@ how do we craft propositions that don't alienate half the people?
     infighting, friction, decoherence, the greatest enemy is within - the other side - internal antipathy
 
 
+
+██████████████████████████████████████████████████████████████████
+# hive mind
+██████████████████████████████████████████████████████████████████
+
+pluribus ep4 min 26:57:
+we know what it feels like to be you - to be alone, to suffer - we've been you, but you've never been us
+shorter:
+    we know what it feels like to be you - we've been you, but you've never been us
+show a few frames with the face of the chick from pluribus when saying this
+
+
 ██████████████████████████████████████████████████████████████████
 # authority, (web of) trust, delegation
 ██████████████████████████████████████████████████████████████████

@@ -2743,11 +2743,10 @@ Orchestration/Conductor as a Service
 
 Belief Injection
 
+
+
+
 This is where you go with questions about truth
-
-A message from God
-
-**roleplay drum playing to use as dramatic emphasis**
 
 The alignment problem is about representions
 

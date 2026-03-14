@@ -155,7 +155,6 @@ https://x.com/CernBasher/status/1984286504596726061
 > "That the truth consists of hard to vary assertions about reality is the most important fact about the physical world." - [David Deutch](https://www.youtube.com/watch?v=folTvNDL08A&t=973s)
 
 
-> "Man naturally desires not only to be loved, but to be lovely." - Adam Smith, The Theory of Moral Sentiments
 
 
 Realizing the Potential of Community-led, Science-driven Participatory Complex Systems Modeling
