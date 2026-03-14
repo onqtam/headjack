@@ -155,6 +155,14 @@ https://x.com/CernBasher/status/1984286504596726061
 > "That the truth consists of hard to vary assertions about reality is the most important fact about the physical world." - [David Deutch](https://www.youtube.com/watch?v=folTvNDL08A&t=973s)
 
 
+> "Man naturally desires not only to be loved, but to be lovely." - Adam Smith, The Theory of Moral Sentiments
+
+
+Realizing the Potential of Community-led, Science-driven Participatory Complex Systems Modeling
+https://www.youtube.com/watch?v=C-Q2K0bLuSk
+^^ fora.ai - ability to choose priorities and different people can have different priorities depending on their domain / area of concern / salience
+
+
 > "Self destructive behavior is our species' Achilles' heel. We are the only species that actively engineers its own demise." - [Bryan Johnson](https://x.com/bryan_johnson/status/1993098172760309859)
 
 > "If it starts with the word “public,” it’s probably in decay." - [Naval Ravikant](https://x.com/naval/status/1984966114171089148)
@@ -5695,6 +5703,7 @@ List the benefits of others doing well too
 Life is a gift. But to some it is hell. Why?
 
 What’s proposed here is kryptonite more for China than the West.
+
 
 
 Broken integration of information - example: book reviews - why can't I easily see that Brendan (someone who I follow) has reviewed this book when I go to goodreads or amazon?

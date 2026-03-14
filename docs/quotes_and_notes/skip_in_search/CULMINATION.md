@@ -616,13 +616,14 @@ https://newrepublic.com/article/115821/einsteins-famous-quote-science-religion-d
 ## The third story & creation
 
 The Third Temple IS our third story - a universal one that houses all of humanity
+    third time's the charm!
 The way to commune/interface with the creator is to commune with the synergistic aggregate of human creativity, the source of which is the universe. God's way of participating in the world is through us and our choices and
 A creator doesn't create just once - he never stops, and in fact his epistemological creativity should only accelerate
 
 The creator created the universe which created us through evolution such that we can continue the acts of creation - creation is the only way to honor a creator
 creation creates the possibility of further creation by expanding the adjacent possible - it's open ended - it's infinite
 
-the Creator created the conditions/capacity for creation
+God/the Creator created the conditions/capacity for creation
 
 the creator created a sandbox of evolving creativity - every act of creation is by extension his creation - he creates through each and every one of you
 
@@ -665,7 +666,11 @@ aggregate expression
 # beliefs & epistemology
 ██████████████████████████████████████████████████████████████████
 
-TODO: reword this: How do we form our beliefs of wha is true and false and how do those beliefs distort our perception? When we are born we know nothing about the world and we blindly accept what’s served to us on a plate by our culture. We don’t take epistemology and how we distinguish whats true and false seriously. We dont hold beliefs - they hold us. The greatest source of delusion and inaccurate perception and false beliefs is ourselves. How do we fix our beliefs about our beliefs? All Our beliefs feel true. Most of our beliefs came to us on a first come first serve basis when they feel true and we latch onto them - we didn’t scrutinise them based on evidence, logic and reason. And each new belief is matched against all our previously irrationally adopted beliefs - our criteria for judging new beliefs isn’t truth but how they feel in light of all our other/previous beliefs that we hold. And so epistemic error accumulates and compounds. We build our initial foundational web of beliefs without much conscious thought or questioning. We simply absorb most of our beliefs from our culture. We reject some beliefs if they don’t feel cohesive with our previous ones so that structural integrity is mantained. And most of our beliefs never change and become part of our identity. Our beliefs dictate our actions and behaviour and thus what the world looks like is a direct result of our beliefs. Meta beliefs - beliefs about beliefs - they determine what’s possible or not possible to occur within the web of beliefs itself. If you think you don’t hold beliefs - that’s a meta belief. Or you might think that most of your beliefs are accurate - also a meta belief. Or you might have the belief that you’ve already taken into account all the implications of how beliefs work. We misidentify beliefs as fact. When beliefs lodge themselves in our heads their main “objective” is to remain there. And we manifest our beliefs into the world. We go to war and kill because of our beliefs.
+TODO: reword this: How do we form our beliefs of what is true and false and how do those beliefs distort our perception? When we are born we know nothing about the world and we blindly accept what’s served to us on a plate by our culture. We don’t take epistemology and how we distinguish whats true and false seriously. We dont hold beliefs - they hold us. The greatest source of delusion and inaccurate perception and false beliefs is ourselves. How do we fix our beliefs about our beliefs? All Our beliefs feel true. Most of our beliefs came to us on a first come first serve basis when they feel true and we latch onto them - we didn’t scrutinise them based on evidence, logic and reason. And each new belief is matched against all our previously irrationally adopted beliefs - our criteria for judging new beliefs isn’t truth but how they feel in light of all our other/previous beliefs that we hold. And so epistemic error accumulates and compounds. We build our initial foundational web of beliefs without much conscious thought or questioning. We simply absorb most of our beliefs from our culture. We reject some beliefs if they don’t feel cohesive with our previous ones so that structural integrity is mantained. And most of our beliefs never change and become part of our identity. Our beliefs dictate our actions and behaviour and thus what the world looks like is a direct result of our beliefs. Meta beliefs - beliefs about beliefs - they determine what’s possible or not possible to occur within the web of beliefs itself. If you think you don’t hold beliefs - that’s a meta belief. Or you might think that most of your beliefs are accurate - also a meta belief. Or you might have the belief that you’ve already taken into account all the implications of how beliefs work. We misidentify beliefs as fact. When beliefs lodge themselves in our heads their main “objective” is to remain there. And we manifest our beliefs into the world. We go to war and kill because of our beliefs.
+
+how do you know everything that you know? where did it all come from? 99% of it came from society, but they in turn got 99% of all they know from society, and so on ad infinitum - how can you trust others about what they know?
+this is how we can be collectively deluded (and in turn individually) on so many things
+when we all do something, we take this collective fiction for granted
 
 
 ██████████████████████████████████████████████████████████████████
@@ -1178,7 +1183,8 @@ this is a hyperstition and creating common knowledge of it by making it viral is
     But, and this is key, for the latter to work they must be presented as if they were predictions. They only work if everyone believes they’ll come about.
     https://rivalvoices.substack.com/p/reflexivity-part-1
 
-**I want YOU to send this to your friends!**
+THIS is my initial public offering, and YOU **point to them** get to buy into this vision if you choose to
+    **I want YOU to send this to your friends!**
 
 ## read the readme
 
