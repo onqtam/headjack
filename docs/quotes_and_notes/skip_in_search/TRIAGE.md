@@ -212,12 +212,14 @@ Sensemaking
 Open society
 
 Deep democracy
+we're all equal in our right for inequality
+we're all equal in our right to be inequal
 1 man 1 vote only on the base constitution which defines the inequality in the other layers
 The end of 1 man 1 vote - democratic inequality of influence, we all get an equal vote about what else to not have an equal vote on
 slaughter of sacred cows
     Roleplay killing a sacred cow
 Oh! I'm an Inequality Designer myself!
-Popper quote we are all equal in our infinite ignorance
+> "In our infinite ignorance we are all equal." - [Karl Popper](https://www.goodreads.com/quotes/640011-while-differing-widely-in-the-various-little-bits-we-know)
 we will have equality in our vote only about the inequality of our vote
 
 What should we be coherent around and what not, and how do we determine the boundry and also truth
@@ -2555,7 +2557,8 @@ Kierkegaard quote: life can only be understood backwards but must be lived forwa
 
 I want to impregnate you with whatever this thing is that has conceptualized itself within me
 
-I’m afraid of time
+I'm afraid of time
+I'm afraid of fear
 
 engineered for emergence
 
