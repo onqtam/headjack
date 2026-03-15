@@ -1741,7 +1741,9 @@ Effectively i’m trying to convince you that this is an inevitability by simply
 
 This is the trust network
 
+theory of mind & predictability & collective intelligence
 the more predictable you are to your cooperators - the less friction and wasted intelligence there is
+being more predictable can be done in multiple ways: 1) being more open, 2) being more alike, 3) requiring more intelligence on the other end
 
 The (explicit) status economy
 
@@ -2087,6 +2089,9 @@ What’s on offer here is a god that helps you become part of it.
 
 Go forth and multiply
 Go forth and self-organize
+
+
+channeling our feelings and desires towards binding the collective together
 
 This is inevitable - the moment this gets expressed anyone that has been touched by it is already sliding down the slope of the attractor and pulling others with them. This is the deepest possible attractor - one towards complete harmony, consciousness and thermodynamic integration. This cannot be unseen.
 
