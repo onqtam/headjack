@@ -29,7 +29,7 @@ founder mode sticky note on my forehead, pink glasses
 
 make subtitles in all languages
 
-spit on a list of words: nihilism, ignorance, pessimism, despair, hopelessness
+spit on a list of words: nihilism, radical relativism, ignorance, pessimism, despair, hopelessness
 
 a YouTube video can have titles in multiple languages by adding translated titles and descriptions in YouTube Studio.
 
@@ -266,7 +266,7 @@ Anyone can try
 I want to succeed
 > "Those who tell the stories rule society." - [Plato](https://www.goodreads.com/quotes/20382-those-who-tell-the-stories-rule-society)
 This is the ultimate story about storytelling
-This is a meta story - the story about the future of storytelling
+This is a meta story - the story about all future storytelling / the future of storytelling
 I was not accounting pilled in 2022
 Theoretically optimal solution - no other design can get even close to the optimal set of technical tradeoffs in my architecture
 The more compelling and refined the story becomes - the sooner will the system reach a billion people
@@ -599,7 +599,7 @@ how do we craft propositions that don't alienate half the people?
 # hive mind
 ██████████████████████████████████████████████████████████████████
 
-pluribus ep4 min 26:57:
+pluribus ep4 min 26:57 - Zosia:
 we know what it feels like to be you - to be alone, to suffer - we've been you, but you've never been us
 shorter:
     we know what it feels like to be you - we've been you, but you've never been us
@@ -680,6 +680,7 @@ aggregate expression
 
 TODO: reword this: How do we form our beliefs of what is true and false and how do those beliefs distort our perception? When we are born we know nothing about the world and we blindly accept what’s served to us on a plate by our culture. We don’t take epistemology and how we distinguish whats true and false seriously. We dont hold beliefs - they hold us. The greatest source of delusion and inaccurate perception and false beliefs is ourselves. How do we fix our beliefs about our beliefs? All Our beliefs feel true. Most of our beliefs came to us on a first come first serve basis when they feel true and we latch onto them - we didn’t scrutinise them based on evidence, logic and reason. And each new belief is matched against all our previously irrationally adopted beliefs - our criteria for judging new beliefs isn’t truth but how they feel in light of all our other/previous beliefs that we hold. And so epistemic error accumulates and compounds. We build our initial foundational web of beliefs without much conscious thought or questioning. We simply absorb most of our beliefs from our culture. We reject some beliefs if they don’t feel cohesive with our previous ones so that structural integrity is mantained. And most of our beliefs never change and become part of our identity. Our beliefs dictate our actions and behaviour and thus what the world looks like is a direct result of our beliefs. Meta beliefs - beliefs about beliefs - they determine what’s possible or not possible to occur within the web of beliefs itself. If you think you don’t hold beliefs - that’s a meta belief. Or you might think that most of your beliefs are accurate - also a meta belief. Or you might have the belief that you’ve already taken into account all the implications of how beliefs work. We misidentify beliefs as fact. When beliefs lodge themselves in our heads their main “objective” is to remain there. And we manifest our beliefs into the world. We go to war and kill because of our beliefs.
 
+not 99%...
 how do you know everything that you know? where did it all come from? 99% of it came from society, but they in turn got 99% of all they know from society, and so on ad infinitum - how can you trust others about what they know?
 this is how we can be collectively deluded (and in turn individually) on so many things
 when we all do something, we take this collective fiction for granted

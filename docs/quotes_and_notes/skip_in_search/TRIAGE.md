@@ -561,11 +561,11 @@ Private jets should be only for those who need them to be as productive for soci
 
 Its not simply muh freedom that makes capitalism successful - there are specific aspects of it that matter most - like control and circumventing committees/consensus and responsibility and market feedback
 
-Postmodern horror - you’re so busy taking shit apart but when did you build something?
-
 Every regime should be aiming to be so spectacularly successful that everyone else would voluntarily want to merge with them
 
 Taxation is theft only if you’re getting ripped off by a decrepit and morally bankrupt system
+
+knowledge is power - Francis Bacon
 
 Im a humble - laugh (spit out water) - public servant - not a private individual - and im not calling for everyone to be as extreme as me - I'm actually pretty reasonable (believe it or not) - but I want to set an example and point towards the north star - this is my social contract
 not advocating it for everyone - and not the real north star - people should have the option to have personal privacy - uhh its complicated and tbd
@@ -1111,6 +1111,11 @@ This is the end of postmodernism and radical relativism
 a true postmodern horror - the return of grand narratives! relativizing relativism! deconstructing deconstruction!
     when we deconstruct deconstruction we find that it can't build anything!
 show applying postmodernism to itself, loop it like a snake biting its own tail - "open your mouth - get in there!"
+">" is the symbol to end postmodernism - it is about comparison, and about progress (X follows from Y...? wait what?)
+Postmodern horror - you’re so busy taking shit apart but when did you build something?
+the era of the comparison operator marks the end of the postmodern era and radical relativism
+    **roleplaying fingering your throat trying to vomit**
+
 
 
 "show me the man and I'll show you the crime"
@@ -1734,9 +1739,6 @@ If you don’t serve transparency, openness and truth you won’t have them
 
 Effectively i’m trying to convince you that this is an inevitability by simply offering something worth wanting - the universal relation to the other - wait what did I just write
 
-the era of the comparison operator marks the end of the postmodern era and radical relativism
-    **roleplaying fingering your throat trying to vomit**
-
 This is the trust network
 
 the more predictable you are to your cooperators - the less friction and wasted intelligence there is
@@ -1974,7 +1976,7 @@ divide and conquer
 
 The only worthy war is with unaccountability and corruption
 
-> "We hold these truths to be self-evident, that all *~~men are created equal~~* **people develop unequally**, that they are endowed by their Creator with certain unalienable *~~Rights~~* **Responsibilities**, that among these are *~~Life, Liberty and the pursuit of Happiness~~* **Sharing, Accountability, and the pursuit of Creativity**." - United States of Humanity 2026 (250 years after 1776)
+> "We hold these truths to be self-evident, that all *~~men are created equal~~* **people develop unequally**, that they are endowed by their Creator with certain unalienable *~~Rights~~* **Responsibilities**, that among these are *~~Life, Liberty and the pursuit of Happiness~~* **Contributing/Sharing, Accountability, and the pursuit of Creativity**." - United States of Humanity 2026 (250 years after 1776)
     The Declaration of Cooperation/Alignment & The United States of Humanity
     "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness." - United States of America 1776
 
