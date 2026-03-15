@@ -111,7 +111,8 @@ taken from here: https://x.com/VitalikButerin/status/2030781981706051769
 
 Error correction
 > "To err is human, to persist in error is diabolical." - Saint Augustine
-
+> "This administration intends to be candid about its errors; for as a wise man once said: 'An error does not become a mistake until you refuse to correct it.' We intend to accept full responsibility for our errors; and we expect you to point them out when we miss them. Without debate, without criticism, no Administration and no country can succeed - and no republic can survive." - John F. Kennedy
+JFK Secret Societies Speech (full version)
 
 
 
@@ -6795,8 +6796,6 @@ division of powers & the branches of government is a problem in our current soci
 > "We should all feel an obligation to tell stories about a human future that we actually want to be a part of." - [David Holz](https://x.com/DavidSHolz/status/1888838844046582113)
 
 > "At the atomic level there’s no atom in your body that you didn’t eat, drink, or breathe from the planet. So we usually think of ourselves as living beings that sit on the planet, but it’s just as reasonable to say—complementarity—that we are the planet that has self-organized its material into beings that think of themselves as separate." - [Neil Theise](https://www.organism.earth/library/document/inherent-compassion#:~:text=At%20the%20atomic,themselves%20as%20separate.)
-
-> "Remember, all I'm offering is *~~the truth~~* **a competitive advantage for collectives** – nothing more." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/1158642-this-is-your-last-chance-after-this-there-is-no), probably
 
 > "You see there is only one constant. One universal. It is the only real truth. Causality. Action, reaction. Cause and effect." - [Merovingian, The Matrix Reloaded](https://www.imdb.com/title/tt0234215/characters/nm0933727/?item=qt0283159)
 

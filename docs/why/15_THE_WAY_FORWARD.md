@@ -2064,6 +2064,8 @@ or a world without grift/corruption and unearned wealth? and instead of "you're 
 
 > "Remember... all I'm offering is the truth. Nothing more." - [Morpheus, The Matrix](https://www.imdb.com/title/tt0133093/quotes/?item=qt0324337&ref_=ext_shr_lnk)
 ^^ not truth but solution
+> "Remember, all I'm offering is *~~the truth~~* **a competitive advantage for collectives** – nothing more." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/1158642-this-is-your-last-chance-after-this-there-is-no), probably
+
 
 > "The empires of the future are the empires of the mind." - [Winston Churchill](https://www.goodreads.com/quotes/21921-the-empires-of-the-future-are-the-empires-of-the)
 

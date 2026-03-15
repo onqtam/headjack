@@ -2086,8 +2086,7 @@ Deepening the scope of existence in all directions is the highest virtue.
 What’s on offer here is a god that helps you become part of it.
 
 Go forth and multiply
-
-You’re welcome (:
+Go forth and self-organize
 
 This is inevitable - the moment this gets expressed anyone that has been touched by it is already sliding down the slope of the attractor and pulling others with them. This is the deepest possible attractor - one towards complete harmony, consciousness and thermodynamic integration. This cannot be unseen.
 
@@ -2474,6 +2473,8 @@ Contribution must be the main virtue
 
 The final story about non-finality
 
+This is the battle for the soul of humanity
+
 The opposite of self-deception is self-reflection
 
 The first fully self-aware/conscious structural pattern
@@ -2731,7 +2732,10 @@ Think of a global multi-perspectival Git Repository for our governance
 Organizing the worlds information leads to global governance and if you’re not gonna fulfil your mission then somebody else will
 Organizing the worlds information is a political project on the global level
 
+how do we engineer/manufacture legitimate consent?
+
 Superintelligence is intelligently networking intelligence
+Collective Superintelligence
 
 The way we do economics and governance is a joke
 

@@ -561,6 +561,12 @@ What is truth? Truth is love. Truth is togetherness. The opposite? Falsehood? Fa
 truth worshiper
 We need to reward truth more than anything else
 
+
+> "Remember... all I'm offering is the truth. Nothing more." - [Morpheus, The Matrix](https://www.imdb.com/title/tt0133093/quotes/?item=qt0324337&ref_=ext_shr_lnk)
+^^ not truth but solution
+> "Remember, all I'm offering is *~~the truth~~* **a competitive advantage for collectives** – nothing more." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/1158642-this-is-your-last-chance-after-this-there-is-no), probably
+
+
 ██████████████████████████████████████████████████████████████████
 # horse & outdated social tech
 ██████████████████████████████████████████████████████████████████
@@ -1212,6 +1218,8 @@ the password is "Pussy Riot" - "I'M NOT JOKING ABOUT THE PASSWORD!"
     **show epstein mail with those words**
     ok, I'm joking, there's no password
     Im joking - why would there be a password - secrecy is the complete polar opposite of what I’m talking about - secrecy is completely antithetical !!! If you want less of that - show epstein - I can deliver you a system where that cannot exist
+    > "The very word 'secrecy' is repugnant in a free and open society, and we are as a people inherently and historically opposed to secret societies, to secret oaths, and to secret procedings. We decided long ago that the dangers of excessive and unwarranted concealment of pertinent facts far outweighted the dangers which are cited to justify it." - John F. Kennedy
+    JFK Secret Societies Speech (full version)
 
 
 ██████████████████████████████████████████████████████████████████
