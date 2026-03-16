@@ -5185,6 +5185,13 @@ We must reward the best predictors also based on how well they train others to b
 
 
 
+an organization is an interdependent set of relationships
+the culture of an org is the outcome of the enabling constraints
+what are the enabling constraints that got this org going as a coherent dynamic?
+what are the governing constraints of that org such that they are able to regulate and reflect certian values?
+coordination constraints are governing constraints
+^^ notes from Alicia Juarrero
+
 
 
 How do we enable others to raise the best possible children?
