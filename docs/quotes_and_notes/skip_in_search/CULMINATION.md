@@ -719,6 +719,8 @@ look at this fucking shit - mandelbrot set - it keeps on going!
 
 The Golden Rule of ethics says, *"Do unto others as you would have them do unto you."* (Matthew 7:12)
 
+> "What is fair... is what is proportional." - Aristotle
+
 <!-- *1  “Do not do unto others what you would not have them do unto you” (Isocrates, Hillel the Elder, Mahabharata). “What is hateful to you, do not do to your fellow: this is the whole Torah; the rest is the explanation; go and learn.” Rabbi Hillel the Elder drawing on Leviticus 19:18. “Do nothing to others which if done to you would cause you pain. This is the essence of morality.” -->
 
 **roleplay "I'm all about symmetry" and do an X with your hands showing the tats on the wrists - and then awkwardly hide the big tattoo on the left hand with the right hand - look at one and then the other and gulp**
