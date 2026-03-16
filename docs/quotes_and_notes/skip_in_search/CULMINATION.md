@@ -546,6 +546,8 @@ Intelligence is the ability to model, predict, and influence one’s future; it 
 
 The biggest truth is that truth is of infinite value
 
+Worship truth !!!
+
 truth must subjugate/conquer non-truth
 We need to be in a literal status game/war for truth and against lying
 > "... when you have found Truth, you need not fear being defeated." - [Epictetus](https://www.goodreads.com/quotes/616541-if-you-seek-truth-you-will-not-seek-to-gain)
@@ -980,6 +982,15 @@ the commons has no ballance sheet
 civilization is built on accounting technology
 civilization reflects its accounting technology
 
+██████████████████████████████████████████████████████████████████
+# error correction
+██████████████████████████████████████████████████████████████████
+
+we should be error-correcting how we do error-correction
+error-correction in every aspect of the system - how it maintains itself, how it improves itself, how it recruits and expands
+it will all be evolvable - including the evolvability
+
+The degree to which you don’t value error correction is the degree to which you'll be compounding delusions about reality
 
 ██████████████████████████████████████████████████████████████████
 # wheel of fortune ==> openness leads to progress
@@ -1006,7 +1017,9 @@ fortune favors the open and transparent!
         some amount of conservativism of certain specific things is the prerequisite to progress - error correction
         if you neglect/ignore/corrupt error correction and the pursuit of truth you're the opposite of progress
 the most important thing to conserve is error-correction which is the basis of learning and progress - error correction is sacred
-
+You can only have progress with error correction
+This is what real progressivism looks like
+Progress and conservation are like the yin and yang but instead of polarizing everyone in 2 major camps everyone should have a bit of both - you can have progress only as long as you conserve error correction
 
 old: Progress requires error correction which requires introspection & self-awareness which requires integration which requires trust/accountability which is built upon openness, access and visibility. Also alignment & perception...
 openness => nothing to protect => nothing to litigate
@@ -1035,6 +1048,9 @@ Syntropic laws - symmetry
 law #1: accountability shall scale with consequentiality
 
 Thou shalt ... not ...
+"These are social contracts, components of a cultural package that can provide group-level benefits if their constraints are generally followed. Sometimes, such norms are positive (“thou shalt”), but, often, they take the form of “thou shalt nots.” Eight out of the Ten Commandments in the Bible (to take one classic example) are structured in the negative." - what is intelligence
+
+
 - make information open, coherent & integrated
 
 law #2: subsidiarity?

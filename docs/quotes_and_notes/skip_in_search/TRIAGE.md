@@ -826,9 +826,6 @@ turning humanity into a giant neural net
 
 Incentives & credit assignment all the way down
 
-error-correction in every aspect of the system - how it maintains itself, how it improves itself, how it recruits and expands
-it will all be evolvable - including the evolvability
-
 The Grandest Narrative
 The Next Game
 
@@ -2209,8 +2206,6 @@ Collectivism with individualistic characteristics
 
 A new credit and financing system
 
-When you are godless you are smaller
-
 Trust and fairness are built in public
 
 How do we generate a perspective from which we’ve removed as much distortion of the perspective as possible?
@@ -2502,8 +2497,6 @@ I want to have kids and teach them a better system
 
 The intelligence economy
 
-The degree to which you don’t value error correction is the degree to which you are deluded about reality
-
 The art of agency is the art of living
 
 Defining the problem well is at least as important as coming up with a solution
@@ -2556,6 +2549,8 @@ We need to start from the ideal end state attractor of complete cooperation and 
 Kierkegaard quote: life can only be understood backwards but must be lived forward - my take: the perfect system can only be conceptualized backwards from the ideal state but must be implemented forward - 1 step at a time
 
 I want to impregnate you with whatever this thing is that has conceptualized itself within me
+
+business ought to be in the business of solving problems - not engineering/manufacturing desires
 
 I'm afraid of time
 I'm afraid of fear
@@ -2794,9 +2789,6 @@ Understanding requires relevance realization - the curation and topology of the 
 We need to help make people better. Ok, that’s actually supposed to not be controversial. I hope you’re not against progress because stasis is death. So what do we do about it? What’s our strategy? How do we even think about approaching this question? What do we want? What’s our plan to get it?
 ^^ this chain of ideas deduplicated in the global graph for argumentation 
 
-You can only have progress with error correction
-This is what real progressivism looks like
-Progress and conservation are like the yin and yang but instead of polarizing everyone in 2 major camps everyone should have a bit of both - you can have progress only as long as you conserve error correction
 
 Human Engineering as a Service
 Human Upgrade
@@ -3052,6 +3044,7 @@ we will build the best tool/system for criticism and we will apply it to itself
 Tagged/labeled/compartmentalized UBR
 
 tribalism is in our DNA - we have to harness it properly
+we have to harness the tribalism in our DNA properly
 
 God is the transcendent - that above you waiting to be reached at
 
@@ -3074,7 +3067,9 @@ The oracle is god/truth
 
 I am for hire and am willing to work on only one thing
 
-God is actually useful - godlesness decays
+
+When you are godless you are smaller
+God is actually useful - godlessness decays
 You do not want to be godless - trust me I’ve been there - without a north star, spark and love
 
 men will do anything for the right woman - trust me
@@ -3084,8 +3079,6 @@ Think about what the opposite of truth is - it is unjustified brokenness or inef
 We need horizontal meme transfer - we need the ultimate meme for the collective
 
 God is trying to compute itself into existence through us
-
-Worship truth !!!
 
 Come. Join this community - we trust each other - we have the best trust - the highest and the most legitimate/robust
 
