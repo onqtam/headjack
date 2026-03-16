@@ -895,6 +895,8 @@ when we give ownership to founders of their companies their incentive is to keep
 
 Its all cooperation/thermodynamics all the way down
 
+scaling laws, metabolic stuff, Geoffrey West
+
 survival of the synergistic
 
 Ev has direction
