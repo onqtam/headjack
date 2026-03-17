@@ -283,6 +283,7 @@ visual style:
             - for momentum use crescendos, sting, swell, beat drop
     - The ONLY 7 Cuts You Need To Tell Any Story
         https://www.youtube.com/watch?v=J0ydlAqg6_8
+    - listen to the edit without watching it    
 
 
 BOOK A FREE CALL WITH LEO:

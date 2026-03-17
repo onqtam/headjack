@@ -267,14 +267,23 @@ I want to succeed
 > "Those who tell the stories rule society." - [Plato](https://www.goodreads.com/quotes/20382-those-who-tell-the-stories-rule-society)
 This is the ultimate story about storytelling
 This is a meta story - the story about all future storytelling / the future of storytelling
+    my job is to make the architecture of virality go viral
 I was not accounting pilled in 2022
 Theoretically optimal solution - no other design can get even close to the optimal set of technical tradeoffs in my architecture
 The more compelling and refined the story becomes - the sooner will the system reach a billion people
     einstein quote about understanding the problem fully
 this is the ultimate status and incentive architecture on top of which you could build anything - ANYTHING - and so with great power comes great responsibility
 
+the better I tell the story to you - the easier it would be for you to tell it to others - the story is the highest leverage point
+
+I've arranged the dominos and all you have to do is give it a little push
+
+I'm injecting in your head what, why & how we should be injecting in people's heads
+
 "You have to let it all go, Neo. Fear, doubt, and disbelief. You've felt it your entire life, that there's something wrong with the world," - Morpheus.
 once you find/understand it you'll never think about anything else more than about this thing
+You're Alice, tumbling down the rabbit hole towards every other possible rabbit hole
+This is the story that will keep on giving
 
 Good enough is not good enough
 
@@ -1297,6 +1306,7 @@ upsides vs downsides of video & book
 lets build the kingdom of god/heaven
 
 welcome to the resistance - we shall prevail
+You're now a missionary
 
 The final shot - zoomed into the background and exploring it fully
 

@@ -149,6 +149,7 @@ The most important diffusion model/architecture diffuses knowledge in population
 
 collective intelligence - If Anyone Builds It, Everyone Thrives
 
+choice architecture - we can choose how to constrain our choices
 
 LLMs are good at connecting known dots, not creating new dots
 They navigate - not create/invent
@@ -3230,12 +3231,15 @@ Let me tell you how I did this: I just followed my interests and I learned strat
 I practiced attention economics
 What is economics about
 I made the right conceptual connections in possibility space (which is infinite)
-
-This series has enough material for thousands of content creators to dig into different aspects of it and to explain it further and better and with more examples.
-
+I applied what I'm telling you we should be applying
+I understood and applied what I'm telling you we should all understand and apply
 I’ve gained understanding about how we can gain understanding
 This book is aiming at giving you understanding about how to get the best understanding about anything else - by optimally structuring society
 Understanding how to bring understanding about anything else
+We need to understand how to understand anything else
+
+This series has enough material for thousands of content creators to dig into different aspects of it and to explain it further and better and with more examples.
+
 
 The degree to which you care about truth is the degree to which you will understand the world
 
