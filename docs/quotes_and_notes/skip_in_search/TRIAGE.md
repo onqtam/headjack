@@ -1731,8 +1731,6 @@ You consume less out of love for another - Now this is an idea worth loving!!!
 
 Just make a few more lectures to get your other latest thoughts about the whole thing - speak it out
 
-Opt-in taxation - Taxation as a service - be glad you get to contribute and give till it hurts
-
 If you don’t serve anything you are small and all alone. By serving something greater than ourselves we 
 
 If you don’t serve transparency, openness and truth you won’t have them
@@ -1744,7 +1742,11 @@ This is the trust network
 theory of mind & predictability & collective intelligence
 the more predictable you are to your cooperators - the less friction and wasted intelligence there is
 being more predictable can be done in multiple ways: 1) being more open, 2) being more alike, 3) requiring more intelligence on the other end
-instead of building an (imperfect) model of some other entity what if you could directly reuse their full model of themselves? being open is not just helpful to be modelled better by others but your own model could be fully reused! higher trust, predictability, division of labor
+instead of building an (imperfect) model of some other entity what if you could directly reuse their full self-model? being open is not just helpful to be modelled better by others but your own model could be fully reused! higher trust, predictability, coordination, division of labor
+> "It takes a model to know a model." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+stories bind collectives together - the self is about your cells, a shared narrative is about us
+the self is a story that binds you together, a shared narrative is a story that binds us together
 
 The (explicit) status economy
 
@@ -1965,8 +1967,6 @@ CC - down to the point of throwing something out
 Understanding >> IS << causal
 Understanding runs/happens on causal conceptual graphs or on directed weighted graphs - or maybe even a hypergraph - “what is the name of a graph in which nodes can be connected to entite subgraphs of the graph”
 
-Give till it hurts - I know I have/will - I sure will
-
 Do you understand what I am telling you?  We need cultural coherence - we need to produce coherence - 
 
 divide and conquer
@@ -2007,7 +2007,7 @@ We need a shared global layer of trust, representation and identity
 Why hierarchy is structurally fundamental
 The ancients showed us that a hierarchy is the most stable and transcendental - we need to build an integrated informational pyramid and achieve coherence and resonance
 
-Without CA a system cannot learn - lunacy is doing the same thing and expecting different results
+Without CA (credit assignment) a system cannot learn - lunacy is doing the same thing and expecting different results
 
 Write how you’ll go about writng the book 
 
@@ -2017,12 +2017,16 @@ Nested spirituality - you within a higher spirit
 
 Integrity - whole, undivided, openness, trust, no contradictions, congruence
 
-Non-violent and non-coercive and no -manipulative
+Non-violent and non-coercive and non-manipulative
 
 strange loop, recursion, consciousness, wheeler's eye
 
+> "Mr. *~~Gorbachev~~* **Zuckerberg**, tear down this **API** wall!" - [Ronald Reagan](https://en.wikipedia.org/wiki/Tear_down_this_wall!), probably
+
 If there’s nothing you want to give to - I’m truly sorry for you - it must be miserable to be so small, alone, isolated, vulnerable, ephemeral, transient, mortal, and self-obsessed - that’s sad
 Give till it hurts
+    Give till it hurts - I know I have/will - I sure will
+    Opt-in taxation - Taxation as a service - be glad you get to contribute and give till it hurts
 The only measure of life is how much you’ve given (and created)
     because life is fundamentally collective & cooperative
     and the best way to maximize your impact is by contributing to the public commons because the greatest synergy and emergence happens there
@@ -3249,6 +3253,22 @@ I consciously steered the expansion of my own adjacent possible set
 
 Align or get aligned
 
+Think about how we think - metacognition
+
+AGI - the G is Global
+
+God: the source, infinite, unlimited, omnipotent, omniscient, omnipresent, benevolent, immanent, transcendent, absolute, unity, oneness, truth, purity
+Immanent vs transcendent?
+
+Love is merging into one, it is unity, oneness
+
+Whats the plan for global unity? Ccp? Sharia with nukes? Bushean world order? AI singularity?
+
+Hiring: you need to check if someone really worked where they say they did and also what they achieved - this can be proven with credentials automatically instead of calling their managers
+
+We need multiple interest rates for different sectors
+
+
 Universal Basic Employment
 Employment as a service
 
@@ -3269,5 +3289,14 @@ religion & meaning have been substituted with therapy, and therapists talk about
 ^^ all this is taken from here:
     "Are we more narcissistic than before？A review of The Culture of Narcissism by Christopher Lasch"
     https://www.youtube.com/watch?v=3fCrIBKTzpo
+
+
+
+an organization is an interdependent set of relationships
+the culture of an org is the outcome of the enabling constraints
+what are the enabling constraints that got this org going as a coherent dynamic?
+what are the governing constraints of that org such that they are able to regulate and reflect certian values?
+coordination constraints are governing constraints
+^^ notes from Alicia Juarrero
 
 

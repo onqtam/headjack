@@ -6015,7 +6015,69 @@ chapter 9 - generality - long tails - interesting but irrelevant for my book, no
 >
 > ... the question of whether a language model has perceptual “qualia” seems to have little to do with sense organs, and much to do with the model itself. So many food, wine, and coffee nerds have written in exhaustive (and exhausting) detail about their olfactory experiences that the relevant perceptual map is already latent in large language models, as the “six modalities” paper shows. In effect, large language models do have noses: ours. Those models just happen to be hooked up to noses via textual token embeddings rather than neural pathways.
 >
-> However, we also have to acknowledge that “qualia” questions cannot be answered objectively. We have to form a model of the model to decide whether it “gets” smell, or color, or anything else. So, we once again have a relational or Turing Test sort of question, with no perspective-independent “view from nowhere.”" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+> However, we also have to acknowledge that “qualia” questions cannot be answered objectively. We have to form a model of the model to decide whether it “gets” smell, or color, or anything else. So, we once again have a relational or Turing Test sort of question, with no perspective-independent “view from nowhere.”
+>
+> ... It takes a model to know a model.
+>
+> ... No modality is magical, or is perceived directly by your homunculus—because, and this cannot be said too often, there is no homunculus. Due to differing innervation, different parts of the brain specialize in processing different modalities, and brain lesions or developmental anomalies can occur anywhere, with the potential to compromise or destroy any modality. We’re remarkably robust to these deficits because our brain regions are not only connected to the outside world through their various specialized “ports” but also to each other, and they are constantly trying to predict all of their inputs—both from the world and from each other.
+>
+> ... **Grounding or embodiment**. Cognitive scientists have frequently claimed that humans live in the real world, while language models are disembodied, their umwelt consisting of mere strings of text, rendering their environment “not real” or “ungrounded.” But any entity—a computer, a cortical column, a brain, a person, a corporation—exists in relation with an environment, and with other entities, as mediated by signals. These signals may be transmitted in any way—as text, pixel intensities, chemical concentrations, or neural spikes. Nothing is more or less “real” about any of these signal modalities, or about what lies on the other side of them.
+>
+> ... **Factuality**... The tendency of models to hallucinate should be unsurprising; prediction and hallucination are closely related, and are the very essence of intelligence. This is doubly true for language. Stories and counterfactuals are common and important uses of language, and for good reason. Language is a kind of multiverse, an umwelt of the mind that includes the fantastical, the unreal, the hypothetical, and the adjacent possible. Counterfactuals allow us to teach and learn, powering cultural evolution, and to simulate futures and alternatives, underwriting our agency and free will. Thus, in a pure language umwelt, distinguishing “real” from “not real” is a sophisticated recognition task.
+>
+> Imaginative play is a major feature of normal childhood, but distinguishing the real from the imagined is easier for us than for a language model, since children not only interact with each other, but also with a shared physical environment. Make-believe is ritualized and contextualized. Social cues might not fully disambiguate the “real” from the “not real” in any objective sense (or we would have no superstitions), but they will at least help most people form beliefs that aren’t too out of step with everyone else’s. Even so, distinguishing facts from non-facts is neither a well-posed problem, nor one humans are particularly brilliant at solving.
+>
+> ... **Causality, reasoning, and planning** ... As for reasoning: we tend to indiscriminately conflate the meanings of reason (as in reasons for doing something), reasoning (as in using chains of thought to work something out), and rationality (as in being clever enough to get things “right,” however we might define that, via reasoning). These are worth picking apart.
+>
+> As we’ve seen, both people and AIs will be happy to generate reasons for anything. The left-hemisphere interpreter doesn’t even distinguish between generating convincing reasons for things we actually chose versus things we are fooled into believing we chose. Our reasoning faculty thus powerfully exhibits what Mercier and Sperber have called a “my side” bias. Smart people like Linus Pauling are no less prone to this bias than anyone else, though they may be likelier to marshall convincing “reasons” and use their prestige to convince (or bully) others into agreeing.
+>
+> On its face, this seems like a lousy foundation for “rationality.” However, Mercier and Sperber go beyond the false dichotomy between “reasons are rational” and “reasons are nonsense” to propose an interaction-focused account of why we bother making arguments at all. We do so for each other, and for our collective benefit. Ample evidence shows that groups of people engaging in constructive discussion and debate arrive at better judgments than people in isolation do. Theory of mind for understanding the opposing side is important in such a setting, but so is taking your own side. All dunking aside, that’s why we have lawyers.
+>
+> Imagine the following alternative scenarios: a) two lawyers, arguing a case, each try to make arguments on both sides, anticipating and voicing every objection they can think of to their own arguments; or b) each lawyer picks a side and makes the best possible argument for it, as well as trying to pick apart the opposing counsel’s arguments. If you were the judge, which of these scenarios would you prefer in order to do the best possible job of arriving at a fair or “rational” decision? Most would say (b), and they would be right. Like the immune system, or neural-process growth, this is a case where competition produces the best joint outcome, or, to put it another way, competition is the best way to cooperate.
+>
+> Through an economic lens, it’s easy to see why this competitive choice is the better one. It’s about division of labor. Each lawyer will specialize, devoting their intellectual energy to researching and arguing their side of the case, rather than subdividing their attention, attempting to perform the same exact modeling as their counterpart, and likely succumbing to groupthink—that is, to the selective blindness that tends to come of unchallenged assumptions in an overly cooperative decision-making environment.
+>
+> The moral is that reasoning isn’t a mathematical procedure, as Leibniz imagined, but an inherently social one. It’s how a diversity of agents, whose competing interests cause them to specialize differently, collaborate to arrive at shared decisions through the competitive deployment of language, with its full arsenal of causal arguments, counterfactuality, and rhetoric. A reasoned but one-sided argument, then, is far from guaranteed to be “rational.” However, as a dynamic social process, reasoned argument is a powerful tool for higher-order group-level modeling and decision-making.
+>
+> The same argument applies within one person’s brain, too. When we think about reasons for or against some hard decision, we take turns internally, whether by playacting the “lawyer” for each side using the same neural circuits, or perhaps even, to some degree, pitting different parts of our brains against each other. Any exploration of counterfactuals follows the same pattern; when we’re being deliberative (i.e., using chains of thought) we can’t and don’t explore every possibility at once, but only one at a time. We need to focus on making an argument to ourselves before turning around and trying to knock it down, or making the counterargument.
+>
+> Transformer models parallel these same developments. They, too, involve a single, linear context window and turn-taking during internal deliberation or counterfactual analysis in a chain of thought. Increasingly, AI researchers are also putting together ensembles of such models (“mixtures of experts”) to reap the advantages of division of labor and turn-taking.
+>
+> ... **Memory**... Work toward making the context window extremely long, or even infinite, could moot the need for any separate memory-consolidation mechanism, though for the computation to remain tractable, such approaches need to compress older material or in some other way make attention sparser. An infinitely growing past in which every token ever experienced interacts with every other one every time a token is emitted would not be scalable.
+>
+> ... **Inner monologue**... However, transparency—the absence of any internal monologue or “inside voice”—carries a major, if hidden, cost. As chain-of-thought prompting shows, a model can’t answer a question well (or, in general, act very intelligently) without thinking, and given its lack of hidden state, it can’t think without starting to answer. Imagine if you were limited in this way, only able to think out loud. Your first reaction would undoubtedly be social horror at the idea of responding without any filter when Aunt Millie asks whether you’ve been enjoying the fondue set she gave you last year. Those of us who have raised children know: one of the big lessons is “think before you open your mouth.”... The problem goes far deeper than social grace, though. It’s also a matter of competence. You can only carry out internal debate and counterfactual analysis by distinguishing your “inside voice” from your “out-loud voice.”" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+^^ TODO CONTINUE FROM THERE
+
+> "I’ve emphasized John von Neumann’s brilliant contributions to computer science, alongside Turing’s. But in 1950, with the Soviet Union still far behind the US in building a nuclear arsenal, von Neumann, ever the game theorist, advocated a pre-emptive nuclear strike: “If you say why not bomb them tomorrow, I say why not today? If you say today at five o’clock, I say why not one o’clock?” Had von Neumann been empowered to pursue his policy, he would be remembered as a monster and mass-murderer.
+>
+> ... Per Mercier and Sperber’s The Enigma of Reason, one of the main functions of language is to argue, and, through argument, to help us collectively inch forward.
+>
+> ... I have always believed that debate and discussion matter. I am optimistic. But the arrow of time, wherein simpler entities tend to combine into more complex ones, does not imply techno-determinism, nor does it give us license to be passive.
+>
+> Where there is life, there is choice. Societies have free will for the same reasons people do, and our prospects remain hopeful only and precisely to the degree that we’re able to be intelligent: to model, predict, explore, and decide between counterfactual futures.
+>
+> Symbioses can occur in many ways, and, accordingly, life on Earth can evolve in many ways. Some of these paths have greater dynamic stability than others, and some are more appetizing than others. In some, many of our longstanding wishes will come true. Others could indeed involve the partial or wholesale extinction of existing entities, including humans. That risk has been on the table ever since von Neumann said, “why not one o’clock?”" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+chapter 10 - Evolutionary Transition
+
+> "The decisive moment for traditional computing came when special-purpose computers gave way to general-purpose ones, starting with the ENIAC in 1945. Everything afterward was an exponential climb in performance, not a discrete transition. In the same vein, AGI has already undergone its “ENIAC moment” with the transition from narrow learning of predefined tasks to general AI, which is based on unsupervised sequence prediction and capable of in-context learning. It seems reasonable to call this a real step change. What follows has been, and will continue to be, dramatic, even exponential, but the changes are of degree, not of kind.
+>
+> ... Smith and Szathmáry describe three characteristic features of METs:
+>
+> 1. Smaller entities that were formerly capable of independent replication come together to form larger entities that can only replicate as a whole.
+>
+> 2. There is a division of labor among the smaller entities, increasing the efficiency of the larger whole through specialization.
+>
+> 3. New forms of information storage and transmission arise to support the larger whole, giving rise to new forms of evolutionary selection.
+>
+> ... Soviet-American cyberneticist Valentin Turchin theorized a concept very similar to the MET, the “metasystem transition,” decades earlier, in the 1970s. Turchin described metasystem transitions in terms much like those I use in this book, emphasizing the increasing power of symbiotic aggregates to carry out better predictive modeling, thus gaining a survival advantage. As usual, the cybernetics crowd seems to have been well ahead of the curve.
+>
+> ... That the transitions appear to be happening at increasing frequency is not just an artifact of the haziness of the distant past, but of their inherent learning dynamics, as Turchin described. Increasingly powerful predictive models are, as we have seen, also increasingly capable learners. Furthermore, in-context learning shows us how all predictive learning also involves learning to learn. So, as models become better learners, they will more readily be able to “go meta,” giving rise to an MET and producing an even more capable learner. This is why cultural evolution is so much faster than genetic evolution.
+>
+> ... New York (and the modern, globalized socio-technical world in general) is a self-perpetuating system whose individuals are no longer competent in the ways the Pirahã are. Urban people have become, on one hand, hyper-specialized, and, on the other, de-skilled to the point where they can’t survive on their own, any more than one of the cells in your body could survive on its own. It’s not just language, but written texts, schools and guilds, banking, complex systems of governance, supply-chain management, and many other information-storage and transmission mechanisms that add the evolvable “DNA” needed to organize and sustain urban societies.
+>
+> ... Humans had been working hard, and working together, for thousands of years. It was not “social labor,” but coal that had lain slumbering under the ground. Mining was hard work, but the coal itself did an increasing proportion of that work. And over time, the coal produced ever more workers." - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
 
 > "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
 
@@ -6023,6 +6085,11 @@ chapter 9 - generality - long tails - interesting but irrelevant for my book, no
 
 > "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
 
+> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+> "" - [What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, by Blaise Agüera y Arcas](https://whatisintelligence.antikythera.org/)
+
+RESOLVE THE TODO - the last 10 pages of chapter 9 !!!
 
 
 

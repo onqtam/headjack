@@ -286,6 +286,12 @@ visual style:
     - listen to the edit without watching it    
 
 
+
+YT: first 30 sec: confirm click, make it personal, open a loop
+- visual, text and spoken hook - they have to align for comprehension - otherwise viewers would be confused and churn
+Constantly ask yourself: does the viewer have a question? If no - you’re doing it wrong
+
+
 BOOK A FREE CALL WITH LEO:
 https://calendly.com/leo-learnbyleo/free-consultation
 

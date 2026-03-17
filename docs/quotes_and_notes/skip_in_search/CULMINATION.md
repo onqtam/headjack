@@ -230,7 +230,7 @@ Elephant sucking itself - start eating one of the bananas
 And start talking to the camera with a full mouth - if you’re a scientist and think all of this is excessive and profane and distasteful - look in the mirror. Look at you - all high minded in your ivory tower. “The Science” as an institution has completely lost the mandate of heaven - its completely impotent and subservient to a broken system which twists and biases it in return. You’re coopted. You lack integrity. Unreplicatable. Fraught with fraud. You’re pumping out PhDs and self-referential papers. Your metric has been gamed. You’ve over-reliant on reductionism. You’re impotent - both in influence and in your ability to communicate yourself to the public. Shout out to all the psychologists at facebook and all the food engineers making addictive junk - now there’s what I call very fine people on both sides! Perfectly legal, right? You can’t derive an ought from an is, right? Shame! Discracia! “The Science” could never rebuild trust in the scientific method - it has to happen from the outside. You want trust? EARN IT. Circlejerk of paper citations and grant applications.
 Who are you to tell me how to behave and express myself - when was the last time you invented something bigger than money and succeeded on a civilizational scale? Nah - I think stuffing my face with bananas is the way to go in this day and age. I’m pretty confident about that. The more - the merrier! *stuff more bananas* - I don’t care if this is cite-able by academia - I want to recreate and replace academia. I will not denigrate myself to wear a suit and try to signal the old way. *switch to a suit* - how is this better? Sometimes the end justifies the means. If you want Mr. Beast numbers you gotta do Mr. Beast things. People at the UN wear suits… but the UN is a JOKE!!! Shut up and listen - its time to retire the suits.
 “Oh wait - did you think the next paradigm would come from someone “respectable” in a suit? Or in the form of a paper or grant from academia?!
-    or from some overspecialized reductionist in a lab coat citing his friends, applying for grants, fudging the data and stats to support his thesis, addicting kids to brainrot & food-like poison through science?
+    or from some overspecialized reductionist (kon s kapaci) in a lab coat citing his friends, applying for grants, fudging the data and stats to support his thesis, addicting kids to brainrot & food-like poison through science?
     Or from some prophet? Sorry to disappoint - this is the mr beast era - wake the fuck up. Or did you expect a revelation on mt. Sinai? Oh wait that happened )) - I'm kind of a prophet myself - it says 1 word - README!
         oh you think this is a bit too much? too much spectacle or prophane? would you prefer me with a suit? Look at MrBeast's views and wake the F up!
     Or did you expect some kind of (bearded) prophet on mount Sinai with a stone tablet from God?! **and roleplay it before showing the photo** - FINE - here you go - happy now?
@@ -618,6 +618,7 @@ how do we craft propositions that don't alienate half the people?
 ██████████████████████████████████████████████████████████████████
 
 pluribus ep4 min 26:57 - Zosia:
+    https://youtu.be/49QmJgl7nf4?t=260
 we know what it feels like to be you - to be alone, to suffer - we've been you, but you've never been us
 shorter:
     we know what it feels like to be you - we've been you, but you've never been us
@@ -649,6 +650,7 @@ The Third Temple IS our third story - a universal one that houses all of humanit
     third time's the charm!
 The way to commune/interface with the creator is to commune with the synergistic aggregate of human creativity, the source of which is the universe. God's way of participating in the world is through us and our choices and
 A creator doesn't create just once - he never stops, and in fact his epistemological creativity should only accelerate
+If there's a creator, surely he wants us to continue creating - the most creative thing to do is to create a sandbox for open-ended creativity!
 
 The creator created the universe which created us through evolution such that we can continue the acts of creation - creation is the only way to honor a creator
 creation creates the possibility of further creation by expanding the adjacent possible - it's open ended - it's infinite
