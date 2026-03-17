@@ -25,7 +25,7 @@ scene: shave in front of the mirror in a similar way like in the film Pi where h
 
 pitai susedite koga ne sa si vku6ti prez denq za da moga da zapisvam i im dai nqkakuv podaruk i gi pitai dali imat oplakvaniq do sega otkum shum
 
-founder mode sticky note on my forehead, pink glasses
+founder mode sticky note on my forehead
 
 make subtitles in all languages
 
@@ -310,6 +310,7 @@ This video can also be found in the archive
 plus im just a comedian - what do I know - that's the excuse from responsibility nowadays, right? this whole thing is insane - it would never work! ;)
 Im just a comedian - what do I know about cultural rev - aaa - evolution
     roleplay: I'm just crazy! shake head & make sounds blblblasbsbasfdasbfabsfbasdfbasfdbasdf
+    I'm just a stoned ape with a theory - **roleplay smoking a giant blunt like an ape with pink glasses**
 CIA - don’t suicide me - I love life - you wont be out of a job anytime soon, and ultimately what I’m proposing is in your best interest if you factor everything in - your descendants will curse you if you actively work towards eroding real progress and the pursuit of truth
     the boys with the secrets and the guns
 Plus I’m just a comedian - I don't sway politics and shit - I just make people puff our air while uncontrollingly and rapidly contracting their lungs up and down through their larings and thair eyes are squinting and their mouth makes the shape of a banana! (and put a banana in my mouth) - I’m just talking shit… what do I know… nobody is gonna take me seriously

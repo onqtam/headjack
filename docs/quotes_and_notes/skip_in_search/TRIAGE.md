@@ -1744,6 +1744,7 @@ This is the trust network
 theory of mind & predictability & collective intelligence
 the more predictable you are to your cooperators - the less friction and wasted intelligence there is
 being more predictable can be done in multiple ways: 1) being more open, 2) being more alike, 3) requiring more intelligence on the other end
+instead of building an (imperfect) model of some other entity what if you could directly reuse their full model of themselves? being open is not just helpful to be modelled better by others but your own model could be fully reused! higher trust, predictability, division of labor
 
 The (explicit) status economy
 
