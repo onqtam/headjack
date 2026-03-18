@@ -3170,8 +3170,6 @@ The master replicator
 Messenger on desktop deprecated - true?
 Why cant separate instagram content from messaging? You’re a rat that’s being trained, a consumerist cow being milked
 
-Unaccountability and incoherence and ignorance is/are extremely dangerous to our democracy
-
 Authoritarian regimes can represent their people in this system - and if they don’t want to participate a proxy for them will be maintained by others and they will participate in the collective justification whether they like it or not
 
 Bigger than mag 7, than G7 - This is bigger than big - this is everything
@@ -3268,6 +3266,12 @@ Hiring: you need to check if someone really worked where they say they did and a
 
 We need multiple interest rates for different sectors
 
+we are overwhelmed by the complexity, ambiguity and propaganda we are swimming in
+    real propaganda is messy, human, boring. propaganda relies on the belief that it works only on dumb people - it doesn't need to make you stupid - just to make you tired and to check out - propaganda doesn't shout at you until you believe - it talks to you until you're too tired to care
+        taken from here from a russian - from 15:16
+        Investigating AI Deepfakes - Coffeezilla
+        https://www.youtube.com/watch?v=srr0rRgF2Fw
+Unaccountability and incoherence and ignorance is/are extremely dangerous to our democracy
 
 Universal Basic Employment
 Employment as a service
@@ -3295,6 +3299,7 @@ we need norms about our norms
 
 an organization is an interdependent set of relationships
 the culture of an org is the outcome of the enabling constraints
+constraints shape the dynamics and possibility spaces of complex systems, and how the different types of constraints influence each other
 what are the enabling constraints that got this org going as a coherent dynamic?
 what are the governing constraints of that org such that they are able to regulate and reflect certian values?
 coordination constraints are governing constraints
