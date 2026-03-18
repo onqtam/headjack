@@ -3280,6 +3280,8 @@ religion makes us coherent and thus predictable to each other
 
 The global model will first lookup in the shared ontology and respond with data from it, but rely on its training about anything else
 
+religion is a project of transcendence of the self into a higher self
+
 we need to rank our ranking methods
 we need to continually update the ranking of our methods of ranking, so that we can rank entire cultures and their aspects
 in order to properly rank entire cultures and their aspects we need to continually update the ranking of our methods of ranking
@@ -3297,13 +3299,6 @@ religion & meaning have been substituted with therapy, and therapists talk about
 we need norms about our norms
     > "Although all societies need norms to function and to thrive, it should come as no surprise that different norms can and should apply in different settings and situations. What binds the norms together would instead be a set of “meta-norms” (i.e. norms about norms) which help regulate which norms should apply and when... we need deeper principles — meta-norms — that help us argue for how norms are locally created in each new complex situation, and why they can and should apply there. As such, we begin to uphold not monolithic, rigid norms, but a more resilient network of norms tailored to each situation." - [Our Justice System Needs an Update—an Update that Goes Against the Law, by Hanzi Freinacht](https://metamoderna.org/our-justice-system-needs-an-update-an-update-that-goes-against-the-law/)
 
-an organization is an interdependent set of relationships
-the culture of an org is the outcome of the enabling constraints
-constraints shape the dynamics and possibility spaces of complex systems, and how the different types of constraints influence each other
-what are the enabling constraints that got this org going as a coherent dynamic?
-what are the governing constraints of that org such that they are able to regulate and reflect certian values?
-coordination constraints are governing constraints
-^^ notes from Alicia Juarrero
 
 > "I know you're out there. I can feel you now. I know that you're afraid. You're afraid of us. You're afraid of change. I don't know the future. I didn't come here to tell you how this is going to end. I came here to tell you how it's going to begin. I'm going to hang up this phone, and then I'm going to show these people what you don't want them to see. I'm going to show them a world.. without you. A world without rules or controls, without borders or boundaries. A world where anything is possible. Where we go from there is a choice I leave to you." - [Neo, The Matrix](https://www.finestquotes.com/movie_quotes/movie/Matrix/page/0.htm#:~:text=I%20know%20you%27re,leave%20to%20you.)
 

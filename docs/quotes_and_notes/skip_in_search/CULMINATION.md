@@ -669,6 +669,19 @@ People are the most creative force in the universe (after it's creation) - in or
 > "Creativity is the way that the cosmos evolves and communicates with itself." - Alex Grey
 
 
+
+██████████████████████████████████████████████████████████████████
+# constraints
+██████████████████████████████████████████████████████████████████
+
+an organization is an interdependent set of relationships
+the culture of an org is the outcome of the enabling constraints
+constraints shape the dynamics and possibility spaces of complex systems, and how the different types of constraints influence each other
+what are the enabling constraints that got this org going as a coherent dynamic?
+what are the governing constraints of that org such that they are able to regulate and reflect certian values?
+coordination constraints are governing constraints
+^^ notes from Alicia Juarrero
+
 ██████████████████████████████████████████████████████████████████
 # consciousness/awareness
 ██████████████████████████████████████████████████████████████████
