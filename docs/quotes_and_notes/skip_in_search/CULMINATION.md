@@ -310,6 +310,7 @@ This video can also be found in the archive
 plus im just a comedian - what do I know - that's the excuse from responsibility nowadays, right? this whole thing is insane - it would never work! ;)
 Im just a comedian - what do I know about cultural rev - aaa - evolution
     roleplay: I'm just crazy! shake head & make sounds blblblasbsbasfdasbfabsfbasdfbasfdbasdf
+        roleplay golum: "and we do want a word order, now do we precious?" and hold the stone tablet
     I'm just a stoned ape with a theory - **roleplay smoking a giant blunt like an ape with pink glasses**
 CIA - don’t suicide me - I love life - you wont be out of a job anytime soon, and ultimately what I’m proposing is in your best interest if you factor everything in - your descendants will curse you if you actively work towards eroding real progress and the pursuit of truth
     the boys with the secrets and the guns
@@ -649,7 +650,8 @@ https://newrepublic.com/article/115821/einsteins-famous-quote-science-religion-d
 ## The third story & creation
 
 The Third Temple IS our third story - a universal one that houses all of humanity
-    third time's the charm!
+    third time's a charm!
+    a story cannot be physically destroyed with rockets
 The way to commune/interface with the creator is to commune with the synergistic aggregate of human creativity, the source of which is the universe. God's way of participating in the world is through us and our choices and
 A creator doesn't create just once - he never stops, and in fact his epistemological creativity should only accelerate
 If there's a creator, surely he wants us to continue creating - the most creative thing to do is to create a sandbox for open-ended creativity!
@@ -1081,6 +1083,8 @@ law # : you can fight incentives only with incentives - incentives determine beh
 don't keep people in by force
 
 voluntary - non-coercive
+
+> "If it's wrong when they do it, it's wrong when we do it." - [Noam Chomsky](https://www.goodreads.com/quotes/599016-if-it-s-wrong-when-they-do-it-it-s-wrong-when)
 
 symmetry
     - golden rule (or silver rule) - do unto others as you would have them do unto you
