@@ -1157,6 +1157,7 @@ Left-right spectrum - have some dimensionality, will you? Stop getting butt fuck
 Freedom of speech != of reach
 this is the real end of slavery - the masses will have complete sovereignty over their identities and expressions for the first time in human history - what you said doesn't matter and even how you voted doesn't matter - show the VOX article/chart - sometimes you don't even vote in a primary and get a candidate in a box! - make a gesture handing a wrapped gift
 what you say is ephemeral - it fades and is forgotten - and is never deduplicated and aggregated
+    we offer you the chance to be heard and seen
 
 
 
@@ -1573,10 +1574,6 @@ I think I’m above the event horizon - I feel this is expressed well enough to 
 Wealth is for you only up to a certain point - and beyond a certain point it starts becoming more and more for others because that would ultimately loop back to you in ways you couldn't get any other way
 
 
-Talk about 2018 in peru
-It was pure emotion - pure love - the thought of that other conscious light
-That ceremony I realized that there are things worth dying for because there are worse things than death
-Mention the unbearable potential crisis and 2023 aya
 
 I’ll take a bullet, a knife and a poison for your right to sovereign identity and to represent, expand, and self-organize yourself as an individual in a collective
 They can’t do anything to me because there is no me.
@@ -1588,14 +1585,22 @@ a bullet, a knife, a poison
 MY LIFE DOES NOT BELONG TO ME
 My life is not mine - it's yours, and you are me - you and me are the same
 
-I felt for the first time that I loved something more than my own existence - my concept of the good. Wait what?
-
 Coherence around truth - that’s collective consciousness
 
 I’ve come to terms with death, although I do have hope
 TODO use the quote from Sheldon
 
 “The farewell”
+
+not all dollars in the GDP are of equal value - we ought to prioritize sectors strategically
+
+we've forced explainers (aka youtubers) to also try to become viral because otherwise they wouldn't reach anybody much lest who they ought to, and we rank them based on virality instead of truthfulness
+
+new merna edinica: causality points - aka causes
+
+by incentivising truth through reputation we'll be able to compare and order things
+
+stream of revelation
 
 Join the game! We will have kids! We will be happy! We will be fulfilled! We will be creative!
 
@@ -2376,7 +2381,6 @@ I don’t value everyone’s opinions the same - do you?!
 
 You can’t have god without religion and vice versa - the absolute and its role for orchestration and alignment of the vectors
 
-Might makes right is suboptimal
 
 A revolution in human relations - in relations - in relationality
 
@@ -3280,6 +3284,8 @@ religion makes us coherent and thus predictable to each other
 
 The global model will first lookup in the shared ontology and respond with data from it, but rely on its training about anything else
 
+we all want to be loved
+
 religion is a project of transcendence of the self into a higher self
 
 we need to rank our ranking methods
@@ -3296,10 +3302,323 @@ religion & meaning have been substituted with therapy, and therapists talk about
     "Are we more narcissistic than before？A review of The Culture of Narcissism by Christopher Lasch"
     https://www.youtube.com/watch?v=3fCrIBKTzpo
 
+I'm conducting a psychological operation on you - I'm operating on your mind
+You're conducting a voluntary psychological operation on yourself by watching this - it will change you permanently
+
+meta burned 80 billion on the metaverse
+https://x.com/Polymarket/status/2034342763693482257
+
 we need norms about our norms
     > "Although all societies need norms to function and to thrive, it should come as no surprise that different norms can and should apply in different settings and situations. What binds the norms together would instead be a set of “meta-norms” (i.e. norms about norms) which help regulate which norms should apply and when... we need deeper principles — meta-norms — that help us argue for how norms are locally created in each new complex situation, and why they can and should apply there. As such, we begin to uphold not monolithic, rigid norms, but a more resilient network of norms tailored to each situation." - [Our Justice System Needs an Update—an Update that Goes Against the Law, by Hanzi Freinacht](https://metamoderna.org/our-justice-system-needs-an-update-an-update-that-goes-against-the-law/)
 
+I'm giving you a proposal for a new system and I'm asking you: Why Not? And you know what? the best way to answer the "why not" question would be to build the system so that it can answer that and justify itself - this system will be brought into existence out of its need for self-justification - that could only happen if it existed and generated results - what I'm saying is falsifiable and it enabled the testing of anything else by making it falsifiable too
+this is a falsifiable thesis about how we could streamline the falsification of anything else - and that's how we inch towards reality and truth and progress!
+There are only 3 states for an evolving system: 1) devolution, 2) stasis, 3) evolution
 
 > "I know you're out there. I can feel you now. I know that you're afraid. You're afraid of us. You're afraid of change. I don't know the future. I didn't come here to tell you how this is going to end. I came here to tell you how it's going to begin. I'm going to hang up this phone, and then I'm going to show these people what you don't want them to see. I'm going to show them a world.. without you. A world without rules or controls, without borders or boundaries. A world where anything is possible. Where we go from there is a choice I leave to you." - [Neo, The Matrix](https://www.finestquotes.com/movie_quotes/movie/Matrix/page/0.htm#:~:text=I%20know%20you%27re,leave%20to%20you.)
+
+
+Ministry of truth
+
+We embrace fallibility
+
+Consciousness lives in the context window
+
+The greatest export of a nation should be ideological - what’s the gross domestic meme production
+
+Imagine fame in turn for contribution in debate and seeking truth
+
+I’m like a cultural compiler which applied whole program optimization by doing a very broad traversal of whatever is important and then integrated it into a coherent whole
+
+What does it mean when we refer to others as brothers and sisters of ours?
+
+We can run AIs on our own private data locally on our computers, generate answers about it, and zk-prove those answers - so in a way you’re letting an AI produce a certificate of truthfulness without revealing the details - wait what?!?!m
+
+Cultural error correction
+
+What does being a good person mean?
+
+ultimate coordination is truth - co-ordinate with other islands of coherence and align representations
+
+We can cap our consumption as a society while retaining the competitive spirit channeled towards other forms of prestige for achievement
+
+The most important thing is to strive to be part of a bigger whole
+
+I have the most general way of solving problems
+
+I want to help train whoever wants to start working on this system
+
+The problems that cause the dysfunction of one side are the same problems that cause the dysfunction on the other - not pursuing truth above all else
+
+If the world could regulate its energy and resource use such than its sustainable and can house even an expanding population we could divert all extra resources towards achieving the arresting or reversing of aging - we could become immortal if we chose to within a few decades - it is physically possible
+We could have our cake and eat it too! We could become immortal without any of the downsides of that if we properly solve our problems
+
+God is the grand theory of everything - the fabric of reality, or more like our model of reality. Reality is god. God is truth. God is the truth value on the truth gradient. God is reality
+
+Language is chain of thought reasoning
+
+We need to have kids because kids become the other - and the bigger the other the better!
+
+Think of the history of public events that you leave after yourself - it would be a literal mark in the collective dna of the development of the configuration of smal g god
+
+The stairway to heaven is the gradient to god
+
+Do you identify as someone who prefers variety for the sake of variety and not be economically optimal? Variety should be strategic - there should be a reason for any kind of variety
+
+This whole thing could have been articulated years ago - why wasn’t it? Why were we slow with our error correction?
+
+the number of error corrections per unit time is the only important metric for collective intelligence
+
+Culture is our umwelt - we swim in it as selves that interact with a system - an external model
+
+Don’t think about AGI - instead think about capital C Collective intelligence - because that is all there is
+We need to define our gradient
+We want what we’ve seen
+
+We need to de-escalate the potential for destructive conflict
+
+Without others there wouldn’t be a self - the self exists thanks to the other - and the other is the causal backbone of history
+
+Hey Apple, you’re late to the AI race but you can be early on the CI, and the CI is bigger than the AI
+All possible 
+The set of all possible collective intelligence configurations contains the set of individual intelligences because that set is 0 as all intelligence is collective
+
+Every aspect of this system becomes just another dimension you learn to perceive
+
+Memetic Escape Velocity
+Memetic Dominance/Supremacy
+
+Effective compromise as a service
+
+This is how you can become collectively conscious - gain collective self-reflection
+
+In order for something to evolve its crucial aspects need to be defined so that we can prioritize and use resources optimally. So if we want our collective self to evolve optimally we should first define and construct it. We need to give every parameter of the system its own knob to be tweaked and we can establish meritocratic status structures 
+
+We are programmed by evolution to die as an optimal parameter for stability & evolvability in the management of resources and populations
+
+A living animal is an instantiation of an evolutionary program - and so are we in terms of generics and then what we’ve learned in our brains within our lifetimes
+
+The Global Survey - what do you really think, and why? We should be able to see what people really think because that’s the only way to detect error as a collective! There should be skin in the game with small identities that are flexible with their beliefs but ironclad with their accountability - in order to pursue the truth you shouldn’t identify with a fixed set of ideas but with the idea of how to optimally evolve that set of coherent ideas
+
+Hey apple - you need a vision - here you go - build the personal physical connection to the transcendent - build the interface of
+We need monopolies that we govern - if we govern them properly there wouldn’t need to be competition on their scale because one would be able to directly patch and improve the current system where possible
+
+Memetic economics
+Memeconomics
+The Meme Market - Meme Valuation
+
+What is Good and Evil? It’s a gradient!
+
+We can share who we are and why in the truest sense and allow for the possibility to be persuaded on anything that has followed a process of rigor
+
+Your true self is a collective self - because ultimately we have a personal self because of the need of the higher collective self
+
+Wha is my purpose? The pursuit of truth - rick & morty
+
+No matter who you are - you should be actively studying this system
+
+Around 2025 I promised to myself that no other human being will contribute more than me towards peace and harmony
+
+Talk about how you optimized your life for information flow, comprehension, and no distractions
+
+Welcome to Collective Intelligence
+And intelligence builds the identity. Identity is a product of intelligence - there is a clear moral arc - a moral gradient to follow
+
+Gradient as a service
+
+I believe that anything beyond being able to give the best possible life to your child - any consumption beyond that is immoral until 99% of humans can pass some level of standard of living. I believe we should live for others in the most literal sense - i believe in giving till it hurts - without others there is no higher self
+
+Flexible identity
+
+There isn’t a single problem in the world which wouldn’t benefit if we could better pursue truth. We need a world model
+
+We with our identities will produce the glue between the transformers - we will generate the right data to train the model on by pursuing truth in our domain based on a specific configuration of structural incentives
+
+What is a leader? They should lead, right? How, and in what? Obviously we should make the game of finding truth and sorting truths the highest status game in the whole of society
+
+Tozi vek shte si redefinirame biologichniq vid fundamentalno
+This is collective gameplay
+System Gameplay
+
+Your digital footprint fits right in your context window
+
+
+If we get the constraints and dynamics right its GG
+
+Everything above the base layer in maslow’s hierarchy is about identity
+
+By the end you and me will have taken over the world in the most literal sense
+Digital borders, openness, subversion, demoralization
+
+Most of us are wrong on most thing! Wrong to different degrees, but wrong nonetheless!
+
+Political is not supposed to be synonymous with tribalized
+
+Complementarity - diversification & specialization
+
+Consciousness etymology - in latin means “knowing together”
+
+Arms race or the human race?
+
+Public lies, private truths
+
+Once you understand this system you will not be able to think about anything else - it will become your ultimate concern
+
+Self-regulation on the internet
+
+A new framework for approaching problems
+
+Meeting people in church and listening to sermons and lectures can be good, actually
+Church is mightily important
+
+The epistemic engine of authority
+
+Religion is a coordination mechanism - and it could be better or worse
+
+I really want to know as much as possible about the universe and why we are here at all - and we could be doing more or less on that regard - so for me it is personal when the system isn’t working fast enough.
+
+Think of god until now as an autocatalytic set - think of god in the future as actually having replication code that can begin to evolve
+
+The Moral Gradient
+
+Perhaps people have a god-shaped hole and want to believe in something, and so I merely ask of you to believe in the potential of something becoming real (and being subjected to falsification) and not simply to believe that something happened in the past
+
+Think what it means to make something falsifiable - it would need to be represented somehow through expression and ontologically integrated such that the signal from it would be extracted most efficiently
+
+We will achieve the optimal meritocratic mobility where value is calculated and processed properly
+
+We should work meritocratically on how our meritocracy works
+
+We’ve created Jubilee as a popular debate format but it doesn’t move the needle because it is meant to be entertainment - not where the stakes are really high
+what we should make interesting is if the debate could be meritocratic
+Jubilee is mere entertainment
+
+Make debate bros great again
+
+CCP as a service - Capitalist Communist Party
+
+There will be winners & losers and the only losers will be those that chose to fight it - resistance is futile
+I want to get away with it - to have my cake and eat it too - to have changed shit and make it out alive
+I even dwelled on if perhaps I’m harming my chances talking about it
+
+Whatever ship you’re in - it is leaking. Ours doesn’t have any leaks - this is noah’s arc - the system that could endure the time we’re in and come out on the other side
+
+
+The metacrisis is a crisis at the layer down at the civilization level - the operating system level - the core worldviews and values that underpin our institutions
+
+Worldview: invisible assumptions about how the world works, where truth comes from, how we should act
+
+Politics is downstream of culture which is downstream of worldview
+
+The best way for your in group to grow is to align itself with truth - to worship it, to submit to it
+
+representational injection/transmission in a lossless way
+
+Sock-puppet accounts - roleplay cutting the socks with scissors
+
+
+Submission to error correction - what is error correction but simply recognizing which path was wrong and where t backtrack? Isn’t that motivated exploration and intelligence?
+
+If you watch this. Then read the book in its entirety and then watch this again - you’ll really understand the system
+
+the adjacent possible is the event horizon
+
+You have no idea how it felt producing this - the steady and gradual receding of the event horizon by the systematic analysis and prioritizations by importance
+
+
+
+
+Chain of thought - the history of how a debate changes on a certain topic will be our chain of thought and how we came to conclusion X. This is collective justification.
+
+Az mislq che e racionalno da priemame lichno kogato nqkoi nash priqtel izbere za sebe si da se trovi i da si vdiga shansovete po-rano da si trugne ot tozi svqt zaradi cancer or some foolish mistake i da lishi priqtelite si ot prisustvieto mu. Az mislq che ultimativno e adekvatno da ima norma da izbqgvame kakvoto e zle za nas individualno i kolektivno. Az mislq che tova da moralizirame e nashe pravo - tova da uchastvash v nqkakuv religiozen proekt v koito si se boril za istina i si go spodelil s drugi
+
+
+
+
+Religions/Organizations are islands & dynamics of coherence in the moral landscape and are shaped by enabling constraints which produces their culture. Coordination constraints are governing constraints. What are the governing constraints that are able to regulate and reflect certain values?
+
+God is a model! A model of incentives - the rules of the game - the protocol - is god
+
+We need to define the gender relations and put under maximum scrutiny. And we need to do the same for any question in society. We need to learn from what sticks evolutionarily in time - that which survives and is Lindy - and we need to run that game on incentives and reputation and skin in the game - that’s all. We need a market for truth - this is truth economics - the economics of truth
+We need to produce truth bombs on the grandest of scales - the deeper and more fundamental and greater impact - the better
+
+
+Imagine everything you’ve browsed to be in your context window in an AI that you run and data that you store - we need completely sovereign rights over publishing our data
+
+
+God created the universe such that it allows for complexification and the evolution of creative beings such as you to further his project. He cannot intervene - that’s where you come in!
+Infinitely open ended!
+
+What is the point of the simulation?
+
+Friendship is deeper theory of mind
+
+All we need to do is to be deliberate with how we do incentives in society
+
+Social Contract as a Service
+
+Add a way for the readers of the book to somehow vote on a few of its own parameters about how to surface signal and how to structure and incentivise
+
+This is how we hack the system
+
+I want to represent in your heads the most optimal system for generating collective representation
+Theory of Mind is Representation
+
+We vow to watch/consume/use the media that this system generates
+
+The Collective Radio Antenna
+
+The Moral Standard
+
+This is the religion I wish I was brought into - how I wish I would have been brainwashed
+
+Idea distribution is the meta layer
+
+Problem space mapping/canvas
+
+The architecture of belief
+
+I think that participating in this project is what it means to be good - this is our collective imperative - this is the most optimal game for our species - how do we optimally predict utopia into reality?
+
+The social network
+
+Welcome to the end game
+
+How to vibe - We need to enter synchronicity of vibration of expression
+
+A static society is death
+
+Collective justice at scale
+
+The quality if the parents is the quality of the children - in every possible sense
+We need to describe what kind of people we should be, and then be such people
+
+Digital ID can be good, actually
+
+Ultimate relevance - ultimate concern
+
+We need to become social architects
+
+This is the Uniparty
+
+Dear viewer, welcome to the resistance
+Go forth and self-organise!
+You just watched Social Architecture 101
+
+Steering TikTok
+
+Sledvashtiq put karton s doktora
+
+We need to become predictable to each other in certain kinds of ways
+
+
+Our sense of ownership - if we felt like more is ours and identified with it - we would steward it better
+
+We need to implement the social function for figuring out how to assemble and compose social functions while applying the insights on themselves
+
+Carlin told you that they own you and you just laughed about it because there was no plan - I’m giving you the plan
+
+I’m having a bowel movement and its progressing really fast - brb - play flush sound
+
 
 

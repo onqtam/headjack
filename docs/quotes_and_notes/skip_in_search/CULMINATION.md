@@ -93,6 +93,8 @@ Everyone's ULTIMATE Concern == ??? — A Sermon on the Web
 
 
 
+use emojis for the 3 parts of the thumbnail - brain emoji for hive mind
+
 
 
 
@@ -310,7 +312,7 @@ This video can also be found in the archive
 plus im just a comedian - what do I know - that's the excuse from responsibility nowadays, right? this whole thing is insane - it would never work! ;)
 Im just a comedian - what do I know about cultural rev - aaa - evolution
     roleplay: I'm just crazy! shake head & make sounds blblblasbsbasfdasbfabsfbasdfbasfdbasdf
-        roleplay golum: "and we do want a word order, now do we precious?" and hold the stone tablet
+        roleplay golum: "and we do want a new word order, don't we precious?" and hold the stone tablet
     I'm just a stoned ape with a theory - **roleplay smoking a giant blunt like an ape with pink glasses**
 CIA - don’t suicide me - I love life - you wont be out of a job anytime soon, and ultimately what I’m proposing is in your best interest if you factor everything in - your descendants will curse you if you actively work towards eroding real progress and the pursuit of truth
     the boys with the secrets and the guns
@@ -561,6 +563,12 @@ where does truth come from? where does the epistemic authority come from?
 
 Worship truth !!!
 
+
+Might makes right is suboptimal
+right makes might!
+> "Right makes might because the truth is a mighty ally." - [Hanzi Freinacht](https://x.com/HFreinacht/status/2030727046490394844)
+
+
 truth must subjugate/conquer non-truth
 We need to be in a literal status game/war for truth and against lying
 > "... when you have found Truth, you need not fear being defeated." - [Epictetus](https://www.goodreads.com/quotes/616541-if-you-seek-truth-you-will-not-seek-to-gain)
@@ -669,6 +677,11 @@ People are the most creative force in the universe (after it's creation) - in or
 > "Creativity is the way that the cosmos evolves and communicates with itself." - Alex Grey
 
 
+██████████████████████████████████████████████████████████████████
+# theory of mind
+██████████████████████████████████████████████████████████████████
+
+theory of mind composed of theory of mind - it's theory of mind all the way down
 
 ██████████████████████████████████████████████████████████████████
 # constraints
@@ -681,6 +694,13 @@ what are the enabling constraints that got this org going as a coherent dynamic?
 what are the governing constraints of that org such that they are able to regulate and reflect certian values?
 coordination constraints are governing constraints
 ^^ notes from Alicia Juarrero
+
+██████████████████████████████████████████████████████████████████
+# governance
+██████████████████████████████████████████████████████████████████
+
+governance is the process by which society makes decisions
+this includes what the economic system is, the moral framework, education, the information ecosystem
 
 ██████████████████████████████████████████████████████████████████
 # consciousness/awareness

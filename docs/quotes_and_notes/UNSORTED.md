@@ -107,8 +107,6 @@ taken from here: https://x.com/VitalikButerin/status/2030781981706051769
 > "" - [We Are Confused, Maladapted Apes Who Need Enlightenment, by Dan Williams](https://www.conspicuouscognition.com/p/we-are-confused-maladapted-apes-who)
 
 
-> "Right makes might because the truth is a mighty ally." - [Hanzi Freinacht](https://x.com/HFreinacht/status/2030727046490394844)
-
 Error correction
 > "To err is human, to persist in error is diabolical." - Saint Augustine
 > "This administration intends to be candid about its errors; for as a wise man once said: 'An error does not become a mistake until you refuse to correct it.' We intend to accept full responsibility for our errors; and we expect you to point them out when we miss them. Without debate, without criticism, no Administration and no country can succeed - and no republic can survive." - John F. Kennedy
