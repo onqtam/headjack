@@ -83,9 +83,6 @@ anything that's altruistic needs to be rewarded (making it no longer altruistic)
 
 Aggregation
 
-a new game the likes of which we could have never even conceived
-
-
 no ceiling for personal consumption
 the status game has no limits in resource use
 
@@ -428,7 +425,7 @@ morpheus - free your mind!
 more capitalistic than capitalism & more socialistic/communistic than socialism/communism
 "yeah but it still sounds like communism!"
 STOP IT!
-and no, it's not about "tAx ThE RICh" - it's about socially engineering the rich/elite! (and everyone else)
+and no, it's not about "tAx ThE RICh" (write it on your underwear) - it's about socially engineering the rich/elite! (and everyone else)
     convince the rich that there are better uses of their wealth and that there isn't such a need for control - convince them that there is a new status game in town - hold the moral high ground - be so high you don't even know where you are!
 
 if it turns out a single individual can outperform any form of collective intelligence and governance and can revolutionize multiple industries in the trillions - so be it! I WELCOME single individuals commanding tens of trillions of capital for the benefit of all - as long as they've earned it through competence and alignment and that there are accountability measures in place.

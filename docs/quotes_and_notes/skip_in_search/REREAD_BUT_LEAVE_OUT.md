@@ -122,7 +122,7 @@ Not sure if anything (apart from an attractor definition) is usable from this, b
 >
 > Yet, goal-directedness as I defined it, and life as we know it, require more than a self-maintaining configuration. That configuration should moreover be highly resilient, i.e. it should be able to recover from the wide variety of perturbations it is likely to encounter in a natural environment. That in turn requires that the corresponding attractor should be surrounded by a very extensive basin—a requirement equivalent to wide-ranging plasticity, persistence and concerted action..." - [The meaning and origin of goal-directedness: a dynamical systems perspective, by Francis Heylighen](https://cris.vub.be/ws/files/84393768/Goal_DirectednessBJLS_final.pdf)
 
-
+> "A system can be said to pursue a goal when its actions consistently converge toward a particular state of affairs." - [Francis Heylighen](https://francisheylighen.substack.com/p/can-chatbots-suffer)
 
 
 metamodern sociology

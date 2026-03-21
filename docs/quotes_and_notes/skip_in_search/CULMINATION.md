@@ -31,6 +31,8 @@ make subtitles in all languages
 
 spit on a list of words: nihilism, radical relativism, ignorance, pessimism, despair, hopelessness
 
+#europe - drink from a bottle with its cap in my eye, also mess yourself up with milk or beetroot when opening the cap
+
 a YouTube video can have titles in multiple languages by adding translated titles and descriptions in YouTube Studio.
 
 overthink in progress t-shirt
@@ -635,6 +637,7 @@ shorter:
     we know what it feels like to be you - we've been you, but you've never been us
 show a few frames with the face of the chick from pluribus when saying this
 
+mind meld
 
 ██████████████████████████████████████████████████████████████████
 # authority, (web of) trust, delegation

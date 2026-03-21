@@ -129,6 +129,8 @@ video structure:
     - setup/tension/payoff structure for storytelling - or promise/progress/payoff
         - for each of the 5-10 key points in the video!
         - don't reveal the payoff... until the payoff !!! or there's no tension
+        - setups: "here's what's coming + cost of ignoring it"
+            - constantly ask "why should I care" from the viewer's PoV
     - what intrigues: uncertainty
     - communicate the value of the video better - let viewers know what they'll get out of it
         - viewers must know: what's happening, why it's important, what could go wrong
@@ -166,6 +168,9 @@ Say This in Your Videos, It’ll Improve Your Storytelling by 10x - Kallaway
     - usually done with a contrast word - CONTRAST !!!
     - "here's the thing though...", "and this is where it gets crazy...", "but that's not the most interesting part", "most people stop here, but actually...", "ok that was powerful but the next thing might be even more important...", "now here's what nobody is talking about..."
 - contrast words: but, actually, instead, turns out, except, yet, 
+
+
+
 
 
 

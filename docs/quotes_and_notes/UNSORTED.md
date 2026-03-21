@@ -137,6 +137,10 @@ the role of compression when orchestrating intelligent agents
 
 > "The ultimate problem is a total vacuum of visions of the future with a positive role for human labor... Our terminal metric must be production not consumption... the developed world gave up on the flame of Prometheus in favor of comfortable onanism. God punishes accordingly."  - [Marko Jukic](https://x.com/mmjukic/status/2016448409406718185)
 
+Martin Luther King Jr.
+https://www.goodreads.com/quotes/7740610-modern-psychology-has-a-word-that-is-probably-used-more
+there are certain things in our nation and in the world which I am proud to be maladjusted and which I hope all men of good‐will will be maladjusted until the good societies realize. I say very honestly that I never intend to become adjusted to segregation and discrimination. I never intend to become adjusted to religious bigotry. I never intend to adjust myself to economic conditions that will take necessities from the many to give luxuries to the few. I never intend to adjust myself to the madness of militarism, to self‐defeating effects of physical violence…
+
 > "I don't like that... social media platforms fail to incentivize the movement beyond a transient stream of reductive takes, toward actual epistemic development and the kind of action that generates, rather than feeds upon, our civilization's adaptive capacity... I see little evidence of it providing infrastructure capable of mapping "takes" onto a broader shared epistemology, let alone using that shared epistemology to guide coordinated offline actions." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/2015886923265720408)
 
 > "You can just rank things." - [Samo Burja](https://x.com/SamoBurja/status/2017751435597996313)

@@ -378,3 +378,5 @@ the exciting times we are going through... agree, but not sure where to put it
 
 > "Man naturally desires not only to be loved, but to be lovely." - Adam Smith, The Theory of Moral Sentiments
 
+> "The United States government is older than the Soviets when we called them a "gerontocracy" and more of its budget is stolen than the Russians when we called them a "kleptocracy"." - [Ben Landau-Taylor](https://x.com/benlandautaylor/status/2034345401084682571)
+
