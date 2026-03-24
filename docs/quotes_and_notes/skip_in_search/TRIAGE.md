@@ -2486,9 +2486,6 @@ This is the battle for the soul of humanity
 
 The opposite of self-deception is self-reflection
 
-The first fully self-aware/conscious structural pattern
-“I am the one…” - “CUUUUT! Nailed it!”- break the fourth wall
-
 We all long for belonging - it is wired into us
 
 Our incentive structure is medieval compared to its potential
@@ -2691,8 +2688,6 @@ God is safety in numbers - god is true democracy and freedom of voice & represen
 We’re gonna make comparison great again
 
 Logarithmic meritocracy
-
-God is a cooperation and coordination mechanism - we have a god shaped hole
 
 Goal alignment is a subset of representation alignment
 
@@ -3153,7 +3148,29 @@ A self needs self-justification, no?
 
 Put your fucking reputation where your mouth is
 
+how many startups have failed not because they picked the wrong idea but because of other reasons, and due to them being closed nobody that could help could simply submit a PR
+
+if islam was true it wouldn't need coersion and apostasy laws to keep people in - islam is a drag on humanity and there is no reforming it - truth is truth and speaks for itself
+
+I'm willing to die for this - belief is the most powerful forces in the universe - I believe that this is the way forward and I've reasoned my way through it - how could it be otherwise?
+
+There is no Viktor - he doesn't exist - this body is a vessel for the master pattern - the representation of this structural configuration is ingressing itself through me into the universe
+    you think this is viktor? **pull your face cheeks and mess with your head/skin** - no - this meatsack is merely a vessel that belongs to the master pattern - the one to which viktor submitted
+    there is only I, the One
+    I've become conscious of a collective structural pattern that would be conscious itself
+The first fully self-aware/conscious structural pattern
+“I am the one…” - "CUUUUT! Nailed it!"- break the fourth wall
+
+when you download your data from a service you've been using you're not only going to be able to keep it yourself, but also to serve it to others that requests for parts of it with the same addresses of those events!
+
+there's no escaping the status game - we've always played it and we always will - and in fact it is our greatest discovery/asset - a collective incentive mechanism - incentives drive actions and behavior! and we can change some of our games such that the compensation isn't monetary but in other status currencies
+1 stat == 1 unit of status
+central banks have no say how we devise non-monetary currencies - we can circumvent the current regulatory regime and build the future because it not only is possible and legal, but it is also moral.
+
+I'm a man of my word - joker
+
 represent or be represented - no important entity will get to not participate
+    there is no alternative - you will be modelled ifmyou're deemed of importance to the collective
 If you’re important you don’t get to not participate - you will be represented and evaluated and ranked regardless - its inevitable
 
 
@@ -3304,6 +3321,8 @@ You're conducting a voluntary psychological operation on yourself by watching th
 
 meta burned 80 billion on the metaverse
 https://x.com/Polymarket/status/2034342763693482257
+imagine what I could do with 80 billion - I'll be an infinitely better capital allocator than zuck - 80 bil for nothing vs a few bil for the future of life on earth
+    80 FUCKING BILLION - there is nothing meta about burning 80 bil
 
 we need norms about our norms
     > "Although all societies need norms to function and to thrive, it should come as no surprise that different norms can and should apply in different settings and situations. What binds the norms together would instead be a set of “meta-norms” (i.e. norms about norms) which help regulate which norms should apply and when... we need deeper principles — meta-norms — that help us argue for how norms are locally created in each new complex situation, and why they can and should apply there. As such, we begin to uphold not monolithic, rigid norms, but a more resilient network of norms tailored to each situation." - [Our Justice System Needs an Update—an Update that Goes Against the Law, by Hanzi Freinacht](https://metamoderna.org/our-justice-system-needs-an-update-an-update-that-goes-against-the-law/)
@@ -3478,6 +3497,8 @@ Think of god until now as an autocatalytic set - think of god in the future as a
 
 The Moral Gradient
 
+God is a cooperation and coordination mechanism - we have a god shaped hole
+the god-shaped hole is a psychological adaptation
 Perhaps people have a god-shaped hole and want to believe in something, and so I merely ask of you to believe in the potential of something becoming real (and being subjected to falsification) and not simply to believe that something happened in the past
 
 Think what it means to make something falsifiable - it would need to be represented somehow through expression and ontologically integrated such that the signal from it would be extracted most efficiently
@@ -3608,6 +3629,7 @@ Sledvashtiq put karton s doktora
 
 We need to become predictable to each other in certain kinds of ways
 
+in the ontological hierarchy you are just a part of the whole
 
 Our sense of ownership - if we felt like more is ours and identified with it - we would steward it better
 
@@ -3616,6 +3638,10 @@ We need to implement the social function for figuring out how to assemble and co
 Carlin told you that they own you and you just laughed about it because there was no plan - I’m giving you the plan
 
 I’m having a bowel movement and its progressing really fast - brb - play flush sound
+how we do politics is a fucking joke - think about the system for a bit
 
-
+If I lend you resources I now have less and I'd want them back at some point. If however I lent you some of my reputation by vouching for you all I hope is that you don't disappoint, but in case things go well I don't have to receive 
+    resource lending is more zero-sum than lending reputation and credibility which is more win-win
+    when you're repaid a loan you get a few percent of interest. But when you do a favor and lend your credibility you have no cap to the upside - the upside of talend discovery is infinite <<< YES !!!
+^^ no, this is opposed to CC?
 

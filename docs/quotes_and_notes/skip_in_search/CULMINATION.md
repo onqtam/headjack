@@ -43,7 +43,7 @@ adress objections or at least acknowledge them and say you'll cover them in the 
 
 roleplay: snort money
 
-pig skin piece - play with it - skin in the game
+
 
 TODO: ask AI which words to avoid for YT
 Don’t say “suicided” - think of the algo
@@ -315,6 +315,7 @@ plus im just a comedian - what do I know - that's the excuse from responsibility
 Im just a comedian - what do I know about cultural rev - aaa - evolution
     roleplay: I'm just crazy! shake head & make sounds blblblasbsbasfdasbfabsfbasdfbasfdbasdf
         roleplay golum: "and we do want a new word order, don't we precious?" and hold the stone tablet
+        roleplay: you with your ass up and holding a torch on top of it
     I'm just a stoned ape with a theory - **roleplay smoking a giant blunt like an ape with pink glasses**
 CIA - don’t suicide me - I love life - you wont be out of a job anytime soon, and ultimately what I’m proposing is in your best interest if you factor everything in - your descendants will curse you if you actively work towards eroding real progress and the pursuit of truth
     the boys with the secrets and the guns
@@ -662,7 +663,13 @@ https://newrepublic.com/article/115821/einsteins-famous-quote-science-religion-d
 
 The Third Temple IS our third story - a universal one that houses all of humanity
     third time's a charm!
+    the first temple of god was for the few chosen ones
+    the second temple of modernity - science, capitalism & democracy - was for the individual self
+    the third temple of god is for ALL!
     a story cannot be physically destroyed with rockets
+    its not that complicated really
+    focusing on rebuilding the temple instead of perfecting the story is like missing the forest for the trees
+        in a perfect UNIVERSAL story antisemitism does not exist - it simply wouldn't happen if the self becomes expanded to encompass all
 The way to commune/interface with the creator is to commune with the synergistic aggregate of human creativity, the source of which is the universe. God's way of participating in the world is through us and our choices and
 A creator doesn't create just once - he never stops, and in fact his epistemological creativity should only accelerate
 If there's a creator, surely he wants us to continue creating - the most creative thing to do is to create a sandbox for open-ended creativity!
@@ -704,6 +711,8 @@ coordination constraints are governing constraints
 
 governance is the process by which society makes decisions
 this includes what the economic system is, the moral framework, education, the information ecosystem
+
+government is not supposed to manage the populace but to uplift it!
 
 ██████████████████████████████████████████████████████████████████
 # consciousness/awareness
@@ -766,7 +775,7 @@ look at this fucking shit - mandelbrot set - it keeps on going!
     https://thoughtforms.life/halleys-method-fractal-art/
 
 ██████████████████████████████████████████████████████████████████
-# skin in the game, symmetry
+# skin in the game, accountability, symmetry
 ██████████████████████████████████████████████████████████████████
 
 The Golden Rule of ethics says, *"Do unto others as you would have them do unto you."* (Matthew 7:12)
@@ -776,6 +785,11 @@ The Golden Rule of ethics says, *"Do unto others as you would have them do unto 
 <!-- *1  “Do not do unto others what you would not have them do unto you” (Isocrates, Hillel the Elder, Mahabharata). “What is hateful to you, do not do to your fellow: this is the whole Torah; the rest is the explanation; go and learn.” Rabbi Hillel the Elder drawing on Leviticus 19:18. “Do nothing to others which if done to you would cause you pain. This is the essence of morality.” -->
 
 **roleplay "I'm all about symmetry" and do an X with your hands showing the tats on the wrists - and then awkwardly hide the big tattoo on the left hand with the right hand - look at one and then the other and gulp**
+
+pig skin piece (in my freezer) - play with it - skin in the game
+
+luxury beliefs (espousing beliefs while not yourself living according to them and being shielded from the consequences on others) are a symptom of unaccountability - of no skin in the game, misalignment
+
 
 ██████████████████████████████████████████████████████████████████
 # learning & prediction & credit assignment & collective intelligence
@@ -1048,6 +1062,9 @@ it will all be evolvable - including the evolvability
 
 The degree to which you don’t value error correction is the degree to which you'll be compounding delusions about reality
 
+every system in existence suffers from lack of error correction to one degree or another
+Error and ignorance are the universal blight
+
 ██████████████████████████████████████████████████████████████████
 # wheel of fortune ==> openness leads to progress
 ██████████████████████████████████████████████████████████████████
@@ -1110,7 +1127,7 @@ Thou shalt ... not ...
 - make information open, coherent & integrated
 
 law #2: subsidiarity?
-law #3: cooperation? non-coercive expansion of self? seduction & persuasion over/instead of coersion, also prestige (respect, admiration, praise) > dominance & coercion (force, fear), honesty > deception
+law #3: cooperation? non-coercive expansion of self? seduction & persuasion over/instead of coersion, also prestige (respect, admiration, praise) > dominance & coercion (force, fear), honesty > deception - no taquiya (todo how to spell it)
 law #4: all evils are due to lack of knowledge and knowledge is created by seeking good explanations
 law # : problems are inevitable, problems are soluble - from beginning of infinity chapter 3 <== NOT REALLY A RULE but a maxim?
 law # : the truth consists of hard to vary assertions about reality
