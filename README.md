@@ -15,5 +15,3 @@ https://onqtam.github.io/headjack/
 TODO
 © 2022-(INFINITY SYMBOL) All of Humanity / Life on Earth / All of Life
 Licensed openly under a Creative Commons Attribution ShareAlike license v4 (BY-SA)
-
-TODO: don't mess around with copyright & the book quotes
