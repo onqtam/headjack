@@ -76,6 +76,9 @@ Our ULTIMATE Desire Should Be The Great Enabler
 “The Social Singularity”
 The Social Singularity & The Theory of Everything
 
+The Social Singularity and the Theory of Everything - a Sermon on the Web
+
+
 desire => concern?
 ultimate concern?
 
@@ -661,6 +664,8 @@ https://newrepublic.com/article/115821/einsteins-famous-quote-science-religion-d
 
 ## The third story & creation
 
+The temple mount is your mind - mounted on your body! That’s where the holy war has always been fought - in the minds of people
+
 The Third Temple IS our third story - a universal one that houses all of humanity
     third time's a charm!
     the first temple of god was for the few chosen ones
@@ -773,6 +778,34 @@ Knowledge fractal - zoom in on any aspect of it as much as you want
 look at this fucking shit - mandelbrot set - it keeps on going!
     Halley’s Method
     https://thoughtforms.life/halleys-method-fractal-art/
+
+██████████████████████████████████████████████████████████████████
+# identity
+██████████████████████████████████████████████████████████████████
+
+Identity is the concept of "who or what something is"—a way of defining sameness, continuity, or distinctiveness over time and across contexts. It operates on multiple levels: personal, social, philosophical, biological, and even logical/mathematical. At its core, identity answers: "What makes this the same this, despite changes?"
+
+“Identity” is a big, layered concept, but at its core it answers a simple question: “Who (or what) is this?” The meaning shifts depending on context:
+
+1. Personal identity (philosophy & psychology)
+
+This is about what makes you you over time. It includes:
+
+Your memories and experiences
+Your personality and beliefs
+Your sense of continuity (feeling like the same person yesterday and today)
+
+Philosophers debate whether identity comes from memory, the body, or something deeper like consciousness.
+
+2. Social identity
+
+This is how you define yourself in relation to others and groups:
+
+Nationality, culture, language
+Gender, profession, religion
+Roles like “student,” “parent,” or “friend”
+
+It’s shaped both by how you see yourself and how society sees you.
 
 ██████████████████████████████████████████████████████████████████
 # skin in the game, accountability, symmetry
@@ -924,9 +957,10 @@ prestige
 
 > "Your margin is my opportunity." - [Jeff Bezos](https://www.goodreads.com/quotes/706779-your-margin-is-my-opportunity)
 Your conspicuous consumption is our opportunity
+surplus!
 
 ██████████████████████████████████████████████████████████████████
-# evil
+# good & evil
 ██████████████████████████████████████████████████████████████████
 
 ignorance ==> trouble
@@ -1127,7 +1161,7 @@ Thou shalt ... not ...
 - make information open, coherent & integrated
 
 law #2: subsidiarity?
-law #3: cooperation? non-coercive expansion of self? seduction & persuasion over/instead of coersion, also prestige (respect, admiration, praise) > dominance & coercion (force, fear), honesty > deception - no taquiya (todo how to spell it)
+law #3: cooperation? non-coercive expansion of self? seduction & persuasion over/instead of coersion, also prestige (respect, admiration, praise) > dominance & coercion (force, fear), honesty > deception - no taqiyya !!!
 law #4: all evils are due to lack of knowledge and knowledge is created by seeking good explanations
 law # : problems are inevitable, problems are soluble - from beginning of infinity chapter 3 <== NOT REALLY A RULE but a maxim?
 law # : the truth consists of hard to vary assertions about reality
@@ -1149,6 +1183,7 @@ Syntropic law: make the omelette without breaking a few eggs
 Competence > loyalty
 Excessive unproductive rent seeking
 Intolerance only to the intolerant
+    don't be a doormat
     this rule overrides golden rule & others when they're in conflict
         or don't say this - this is messy - don't try to resolve these ambiguities in a simplistic way - leave ambiguity
 no walls to keep people inside by force/coersion - apostasy is kosher - you can leave at any time!

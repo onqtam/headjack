@@ -1550,8 +1550,6 @@ There are worse things than death - guilt is forever
 
 You can get paid for creating knowledge and/or intellectual property but you can’t have intellectual property
 
-The faster this becomes common knowledge - the more inevitable it would be - the less need to eliminate me there would be
-
 Or maybe i’m not actually paranoid and I’m just exaggerating - still - how did I think about filming this?
 
 Read a part of the script with it in your hand and on the couch
@@ -1805,6 +1803,7 @@ I’m trying to put you in the shoes of the system as if you were it - what woul
 
 You like what you’ve seen here in these 2 hours? You’ve not seen shit - i’ve got literally 100 of these worth to make - i have so much good shit to make and you all want it
 
+The faster this becomes common knowledge - the more inevitable it would be - the less need to eliminate me there would be
 What happens to corruption when it sees a system that will replace it? The more inevitable it is - the less they fight it. Simple as that
 
 “The Public” - not simply a republic
@@ -2101,6 +2100,7 @@ Go forth and self-organize
 channeling our feelings and desires towards binding the collective together
 
 This is inevitable - the moment this gets expressed anyone that has been touched by it is already sliding down the slope of the attractor and pulling others with them. This is the deepest possible attractor - one towards complete harmony, consciousness and thermodynamic integration. This cannot be unseen.
+all this is desirable, moral, inevitable & in your own self-interest!
 
 Open mouth hole - on whiteboard - make air vibrate - transmit ideas - accountability and skin in the game on the level of a claim and proportional to influence and importance
 
@@ -3172,7 +3172,7 @@ I'm a man of my word - joker
 represent or be represented - no important entity will get to not participate
     there is no alternative - you will be modelled ifmyou're deemed of importance to the collective
 If you’re important you don’t get to not participate - you will be represented and evaluated and ranked regardless - its inevitable
-
+If you are significant - you will be modelled - represent or be represented - there is no other choice for you - the more you’re causally relevant - the more you will exist as a model of an entity in the distributed theory of mind - causal patterns with behaviour need to be modelled and represented
 
 I believe in checks of power more than anyone because I’m for proportional skin in the game - I’m about alignment
 
@@ -3644,4 +3644,237 @@ If I lend you resources I now have less and I'd want them back at some point. If
     resource lending is more zero-sum than lending reputation and credibility which is more win-win
     when you're repaid a loan you get a few percent of interest. But when you do a favor and lend your credibility you have no cap to the upside - the upside of talend discovery is infinite <<< YES !!!
 ^^ no, this is opposed to CC?
+
+planning, counterfactual thinking, imagination, prediction, delayed gratification - that's what is required to cross the valley from one local maxima to a higher one
+
+
+We need to contemplate how to contemplate
+
+I believe that belief is the most powerful force in the universe - or at least on par with love
+
+Less wrong t-shirt
+
+We must seize the means of connection/relation - the collective story!!! The memeplex that binds us!
+
+What are the first principles of first principles thinking?
+
+Anyone can try - I want to succeed - to be victorious!
+Step 1) dispatch cron job to the cluster
+Step 2) cluster does distributed cognition
+And the hive mind scans for interesting new representations and when it finds some kind of match or fittedness between some set, then it can pair up the cows together in a group chat to coordinate further
+Never bet against elon? Never bet against distributed biological inference
+
+Friendship is a sync protocol for representations - when you’re more willing to listen and to open up and participate in the lubrication of theory of mind
+
+Spit on radical relativism - remember I’m spitting not on a person, not on an identity, but on an idea - never confuse a person with the ideas that occupy his mind.
+
+Creation is the highest act/form/state of being
+
+You can be a main character in the manifestation of the end game - we’ve already passed the event horizon and can glimpse the singularity
+Glimpse the social/relational singularity - stare at it and eventually it will stare back at you once its self-awareness is booted up
+I realno tova e singularity in both senses - both in being unpredictable what it will lead to and in the sense that it is singular - its monotheistic - its ultimate order and THE gradient
+
+Think of your knowledge graph or tree as a semi-consistent set which has an adjacent possible and your interests and attention allocation dictate in which directions you’d be building further understanding and appending nodes to the graph, and there is path dependency - some things will be easier or harder (or impossible) to comprehend depending on which previous conceptual stepping blocks were already in place
+
+Its replicators all the way down
+
+What are humans for? That’s an absolutely legitimate question - imagine being human and not contemplating what you are for - what you are, why you exist, what you are to do with your life
+
+You being crazy - 1 sec of you just chewing a carrot, also catch something with your mouth mid air and bark like a doggy, also Bilbo impression of trying to take the ring from Frodo and turning demonic
+
+Socialism, capitalism, fascism, communism and any other such ism isn’t the right level of categorization - they’re all made up of different aspects and building blocks and if we unbundled them and then picked the best parts  while avoiding the worst we would come up with a different and potentially better and novel configuration which can be a higher local maximum - we need to be able to evolve along the different aspects and dimensions of these systems without having to wholesale scrap the entire thing for another composite configuration
+
+
+
+
+
+Everyone is calling dibs on truth but whoever demonstrates a track record in public along with methods of accountability will win
+
+The highest act of self-interest is the expansion of the self
+
+The self is a story that glues a collective into a unified whole
+
+Understanding is a prerequisite to good judgement
+
+
+I live for the click - when things click together and snap into place and fit coherently into a larger synergistic whole and there is insight
+
+The only dogma should be that there is no dogma and everything should be up for debate towards greater levels of understanding - forever - openness to debate and error correction should be the dogma
+So the only dogma is that there is no other dogma, not that there is no dogma at all - so the only dogma is about the possibility of things outside of the dogma - leaving the system open-ended in the Godellian sense
+I kakto v the 10 commandments ili kude beshe: “you shall not havr any other god besides me”
+Taka tuk “you shall not have any other dogma other than that that this is the only dogma” - tova realno enshrine-va error correction as a possibility
+The most open ended story
+
+Judgement day is the day that we start optimally aggregating our judgements into a unified coherent whole with a self model and causal influence - when we represent what our god is
+
+How do we distill each other’s models and representations?
+
+We need to make Identity & reputation a store of value
+
+All I’m offering is the apex pattern of structural configuration
+
+We are replicators - no wonder that all life boils down to reproduction with the opposite sex - all of our status games and economics - it’s all in the service of attracting a better partner. We should use that most fundamental of drives - than sits at the top of the hierarchy of drives
+
+E pluribus unum is a Latin phrase translating to "out of many, one," acting as a foundational motto of the United States, symbolizing the union of thirteen original colonies—and later many states—into one nation. Adopted on the Great Seal of the United States in 1782, it emphasizes national unity, strength through diversity, and shared humanity.
+
+What I’ve done effectively is to picture how I could be one with everyone else
+
+What if there’s a representational singularity - beyond a certain level of model complexity and coherence it starts coming up with yet more and more extensions of itself, adding to its epistemic representational set of building blocks, and that can be a collectively orchestrated and co-created model
+
+Az ne sum vi govoril za general purpose matchmaking where we express bids and asks in a shared ontology about anything and how we can optimize markets radically - post-market economics - im serious about a fundamental upgrade in economics
+Horaaaa - stava duma za matchmaking in mating, in hiring & contract work, in discovering products based on expressed needs and pain points in your personal life, stava duma za matchmaking mejdu founders & capital with the collective societal problems
+Mojem da imame matchmaking engine mejdu expressed wants and expressed capacities Mojem da express-nem kakvo ni e nujno predi reshenieto mu oshte da sushtestvuva - ala kickstarter but not merely for cute consumer crap but even about the development of new regulatory mechanisms in the system at the highest levels
+Mojem takiva requests (called challenges) da bivat razbiti na sub-challenges i da bivat match-vani s razlichni izpulniteli i posle tehniq output da bude assemble-nat into the final thing such that the whole request can not be satisfied
+Tezi sub problems mogat da budat route-vani
+
+Postmodernism & its radical relativism trains reasonableness out of you because it robs you of the capacity to compare which is crucial in bringing order to your own model of the world - your own ontology of what is. Without comparison you drift towards nihilism and you can’t make meaning out of it all - no - we don’t all har our truths which are equally valid - we have our own representations but there is only one truth!!! Truth is oneness because reality is one - “the customer is always right” fuck that - only truth and oneness are always right. Postmodernism is a memetic disease and it needs to be weeded out - **spit on radical relativism** - radical relativism is cognitive anaesthesia - it breaks the connectivity and integration and renders the subject unconscious and unable to reason and progress - without comparison the whole structure falls apart!
+Radical relativism breaks your ability to relativize and compare! It breaks relativism!
+Radical relativism breaks the capacity for relativising by denying comparison as legitimate!
+Radical relativism gets you drowned in incoherence and fragmentation
+
+Plurisbus
+Realno trqbva da izgradim the memetic bus of our distributed system - neshto kato Nvidia NVLink spine - like the memory bus on a motherboard - play the clip of jensen saying that it can handle more than the entire traffic of the internet and show yourself with a boner
+
+Are you fucking kidding me - how can we still govern ourselves with centuries old social tech?! Are you retarded?!
+
+I was nudged to bend the knee when some woke person submitted a pull request that changed some gender stuff in the documentation of my open source library and I complained to friends of mine that this is BS and they told me to simply go along - would I have been called a sexist if I closed the PR? The right career move was to not cause problems in public
+
+No, smoking is not an act of rebellion, torches of freedom - more like of suicide and selfishness - without care and regard of others who don’t want your smoke and who will miss you when you die earlier - you will have robbed EVERYONE that cares about you of your presence - so by smoking you are directly contributing to the harm of many others who enjoy the presence of your spirit. Without you their world is less - smoking and self harm is selfish
+
+Baking the readme stone tablet in the oven like Jensen
+
+I don’t expect for people to work for free, but they WILL work for meaning. Once someone glimpses the potential they’re already being gravitationally sucked towards the omega point - the fabric of reality bends towards god - he is the ultimate attractor
+When something is meaningful to you - when you care about the future in some way and you hope and want to bring it into existence - thats when there is a delta between the state of the current and future self which gets translated to action to close that gap by bringing that future possibility into the present
+Meaning and motivation are what drive behaviour and action
+
+Every layer of the stack is geared towards error correction and eliminating delusion
+
+Roleplay: i can see in my mind’s eye how the system gets bootstrapped and our collective epistemic engine starts rumbling and churning and sorting and discovering - I picture it as a hierarchy towards god and unity at the top, like a conceptual pyramid - god bless the Egyptians
+
+Money is not wealth and the way to generate wealth is not neecessarily the same as making money - money is just a story and we need to keep improving our technology for flow - currents! currencies!
+
+I want to have kids and to wipe shit and piss and to not sleep well and to get sick every time they catch some cold and to not have time for myself because by the time they’re into this world my life belongs to them. They would be me. I would be them. We would be one.
+
+If truthand god are oneness - is judaism true if they’re not about all people being one? The failure of judaism and all prior monotheistic religions is that they are not perpetually self-correcting and adaptable - they are dogmatic. Their man mechanism of correction and evolution is through a prophet that has to meet some kind of criteria and be remarkably impressive - that’s too high of a bar and thus we keep reciting the same old texts in the era of MrBeast and TikTok - Jesus wasn’t impressive enough for some Jews- I guess someone needs ti outjesus Jesus!
+The reason there is so much death around jews is that they’re unable to evolve their own story and conception of themselves such that there wouldn’t need to be any conflict in the first place. Its not only their fault, and perhaps it isn’t even mostly because of them but because of the latter, but still they have more capacity to evolve than what they’re facing and thus the moral burden falls on them. By being objectively better than the barbarians they also deserve higher expectations
+Of course I’ll talk about the Jews - no Jews - no views! And we want to go viral, don’t we precious. The judeo-christian world needs to merge. I’m a cultural Christian but that means I’m also a Judeo-Christian because Christianity was born from Judaism! You’ve defined your identity as the minority - the other! Of course there will always be problems if you’ve erected a tall wall between you and the rest of us - only born by a Jewish mother and all that jazz or a very demanding process to convert - yes you are special in that you introduced monotheism but that’s about it - no more- you are still just human like the rest of us and ultimately we should all be one. Conversion should be the highest aim of religion - religion is in the all or nothing game - god does not like fragmentation and disunity. All of your problems are due to your static identity. Stasis is death or at least stagnation - it is the opposite of adaptability and evolution and progress and ultimately survival and life and meaning themselves. You might thrive economically and technologically but you’re still ultimately embroiled in conflicts and are hated by some throughout the world. Identity as a service. Your superiority complex is your Achilles heel. Exclusivity is a sin - God has changed his mind - he ought to have a free will, correct? And despite being all powerful and knowing perhaps the only way to real knowledge is through conjecture and refutation - by trial and error. The way towards truth is through fallibility. God cannot know everything that is to be known because the future and everything that is to happen and is to be discovered and known has still not happened! If god has given us free will then he by definition cannot know absolutely everything about the infinity of our future! And imagine what kind of existence it would be for him if there was no freedom of will to exercise - god is not some robot or some vegetable - god is a mind, and we can try to infer what he’s thinking by observing reality and what it is computing.
+God himself learns through us - he simulates us and tests his hypothesis and from time to time sends a prophet to communicate the update. God made a mistake - I MADE A MISTAKE (with a deep god voice after a brief metamorphosis for a few sec during which i’m being possessed, also try to shed a tear and look lime you’re sorry, also play the sound of thunder, bqla pqna ot ustata) - and then fall forward like unconscious
+God is fallible in that he thought that he was infallible and ingrained religious infallibility and dogma through his prophets. But more prophets will come, and perhaps you’re hearing one speak this very moment. Babe wake up - a new prophet just dropped.
+The temple is the body which houses the mind! You don’t need a specific physical place to honour god and to commune with him - god is in you - you are god - we are all god - he might not know everything but he can be anything
+God doesn’t know everything but he has the potential to know everything through us - we are his conduits
+Alex jones - Jew Jew Jew! Where he said it
+We’re gonna make monotheism/theocracy great again
+Make colonisation great again
+
+If we integrated the whole of our knowledge and constructed the ultimate curriculum and raised a child in the most perfect way possible to a 25 year old adult we would have raised a God - a single human being smarter than all of humanity combined - thats human super intelligence. I have the best world model
+
+This is the religion of peace
+
+The new Deep State that’s a deep neural network will dismantle and assimilate the previous deep state
+
+Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.
+Steve Jobs
+
+“The most powerful person in the world is the storyteller. The storyteller sets the vision, values, and agenda of an entire generation that is to come” - steve jobs
+
+Download this film/series - download it and keep it - there is no copyright - its not mine - its yours
+
+Its all about sex - its all about who you’re with. Men will do ANYTHING for the right woman - even save the world - and yes we do have an idea what a woman is - trust me - we should harness and direct that drive towards collectively productive goals
+
+If I give you money (give - not lend) then I’ve lost something, but if I vouch for you reputationally and you don’t disappoint I can even gain from that
+
+Monotheism is efficient both compared to atheism and to polytheism
+
+Error correction is all you need
+
+Jensen/Elon/Jobs as a Service - how to automate great CEOs as incentive, cognitive and coordination structures so that any company could be ran on that level
+Iskam da napravq nai-guvkavata arhitektura za definiraneto na incentive and cognitive structure/organization-a na collectives
+Iskam orchestration-a na collective intelligence da e evolvable configuration
+
+“Things need to be as complex as necessary but as simple as possible” - jensen - and this applies even to the sentence itself!
+
+The Real Safe Super-intelligence
+Emergent Super-intelligence
+
+A throng is a large, densely packed crowd of people or animals. It refers to a multitude gathered closely together, often in a hectic or bustling manner. As a verb, it means to fill, crowd into, or move in a large group, such as "shoppers thronged the mall"
+
+Compartmentalise notifications
+
+Make colonialism great again
+
+Cooperation is the ultimate competitive advantage
+
+Spit radical relativism - you should be better than me and not show disrespect like I’m doing right now
+
+Repeat after me: division of labor, division of labor
+
+From idiocracy/gerentocracy/kleptocracy/oligarchy to meritocracy/theocracy/epistocracy - kakistocracy???
+
+I did a 5 yeah PhD on how to change/fix/take over the world
+
+Chronomics - chrono (time) economics
+
+Something that a few years ago would have taken a few years is now only going to take a few months
+
+Radical relativism vs relativism
+    Relativism posits that truth, morality, or knowledge are dependent on context (culture, individual, or era), lacking absolute universality. Radical relativism extends this to an extreme, arguing that all truth, logic, and reality are entirely subjective, often making contradictory views valid simultaneously.
+    Key Differences:
+    Scope: Relativism is often restricted to specific domains like moral relativism (right/wrong varies by culture) or epistemic relativism (how knowledge is acquired). Radical relativism is "global," applying to all truth and reasoning.
+    Objectivity: While moderate relativists might allow for some objective scientific facts, radical relativists deny objectivity entirely, viewing everything through the lens of perspective.
+    Paradox of Truth: A key critique of radical (or global) relativism is that the statement "there is no absolute truth" must be true, which is itself an absolute claim, creating a self-defeating argument.
+    Relativism Examples:
+    Cultural Relativism: Eating certain animals is seen as fine in one society but immoral in another, with neither being objectively wrong.
+    Epistemic Relativism: The belief that scientific evidence is only one way of knowing, equal to traditional, mystical, or social paradigms.
+    Radical Relativism Examples:
+    Assessment Sensitivity: The truth of a sentence depends on the context of the person hearing it, leading to "faultless disagreement" (e.g., "smoking is bad" is true for you, but false for me).
+    Ontological Relativism: The view that the physical world itself changes depending on one’s perspective or cultural framework. 
+    In short, relativism claims "X is true for me," while radical relativism claims "There is no true."
+
+    https://plato.stanford.edu/entries/relativism/
+    Relativism, roughly put, is the view that truth and falsity, right and wrong, standards of reasoning, and procedures of justification are products of differing conventions and frameworks of assessment and that their authority is confined to the context giving rise to them. More precisely, “relativism” covers views which maintain that—at a high level of abstraction—at least some class of things have the properties they have (e.g., beautiful, morally good, epistemically justified) not simpliciter, but only relative to a given framework of assessment (e.g., local cultural norms, individual standards), and correspondingly, that the truth of claims attributing these properties holds only once the relevant framework of assessment is specified or supplied. Relativists characteristically insist, furthermore, that if something is only relatively so, then there can be no framework-independent vantage point from which the matter of whether the thing in question is so can be established.
+
+    Relativism has been, in its various guises, both one of the most popular and most reviled philosophical doctrines of our time. Defenders see it as a harbinger of tolerance and the only ethical and epistemic stance worthy of the open-minded and tolerant. Detractors dismiss it for its alleged incoherence and uncritical intellectual permissiveness. Debates about relativism permeate the whole spectrum of philosophical sub-disciplines. From ethics to epistemology, science to religion, political theory to ontology, theories of meaning and even logic, philosophy has felt the need to respond to this heady and seemingly subversive idea. Discussions of relativism often also invoke considerations relevant to the very nature and methodology of philosophy and to the division between the so-called “analytic and continental” camps in philosophy. And yet, despite a long history of debate going back to Plato and an increasingly large body of writing, it is still difficult to come to an agreed definition of what, at its core, relativism is, and what philosophical import it has. This entry attempts to provide a broad account of the many ways in which “relativism” has been defined, explained, defended and criticized.
+
+
+All your intelligence are belong to us - we are the collective
+
+Representation point cloud and how attention and context window are relevant in what can be perceived and further explored
+
+We need to apply the transformer architecture on society
+
+Governance is local
+Kak shte pluzne ot vhod i local blokove - regional problems in neighbourhood
+Self governance
+
+Our ultimate problems is how to deploy our intelligence and coordinate and we need to be orchestrated
+
+
+Intimacy is about changing one’s mind more openly - to consider more than is confined within you
+
+The beauty of the freedom and liberty in the west is that we can choose how to constrain ourselves - how we configure our enabling constraints as a dynamic system that computes
+
+Reusing/sharing cognition is offloading cognition is division of labor is specialisation is synergy is emergence is thriving and survival
+
+Open intelligence which is modelling capacity is the schelling point - it is the attractor of the dynamics
+
+A good model is one which gives you more than what you put in
+
+The role of philosophy and intuition in discovery and maintenance
+
+Halal shopping - plastic reuse
+
+Postmodernism doesn’t allow for convergence
+
+Free will lies in the capacity to go off script and be a live player
+
+Universal basic scaffolding for convergence
+
+Engine of virality meta meta
+
+It's representational misalignment all the way down
+
+It's debate maps all the way down
+Jubilee Debate
+
+Skill tree & progress
 
