@@ -173,6 +173,8 @@ nationalism - you should want not just to cooperate with other regimes, but you 
 - them to be as powerful and thriving as possible, which requires error-correction which also requires liberties, ==> spreading democracy is important (+ it legitimizes your own regime being a democracy too)
 - you want to be under a higher organizing principle such that you shouldn't fear your other cooperators to become better than you - you should be able to trust that no matter how far behind you fall - that you wouldn't be taken advantage of.
 Nationalism - You should actively want other cooperators to be as successful and thriving as possible regardless of how far behind you end up because you’d benefit nonetheless, but that would be rational only if there was an overarching system of trust and fairness/adjudication that could be counted on for centuries or millennia. You should want people everywhere to thrive - it’s in your best interest given the right circumstances/scaffolding. Under the right circumstances you would be cheering for others just as much as for your own team because ultimately you’d be a united one. I’m not saying getting there is easy or simple, but that it’s possible (certain things like identity formation and a new system of governance would have to be in place for that possibility) and ultimately the only tenable way if we want to have a future.
+Oh so you’re a nationalist? Good! You should be - it makes sense to care about those around you a little bit more. But the highest form of nationalism is…
+And besides - nationalism as a collective identity is just a few centuries old and is foxed in scope - how about a scale-invariant universal collective identity that can be fractally nested?
 
 
 
@@ -197,6 +199,7 @@ when there isn't huge wealth to steal there's less need for security and worry
 people think of the iron hand (gesture - a shake of the hand) and the invisible hand (gesture - money with hand) but they rarely think of the intangible hand of status
 
 built-in error correction as the highest priority
+The highest political act is the pursuit of error correction
 
 New motivation/mobilization system
 
@@ -910,10 +913,9 @@ I wanted to solve the single biggest problem for humanity - the kind of system i
 Oh u want to go to mars? fuck yeah - count me in! Thats cute. You know what would help immensely? The Great Enabler! A better F System!
 Bigger than mars - an enabler for it
 You know what would help? Like A LOT?! A better fucking system! Pardon my french
-You want not to get sued by the DOJ for not having hired enough refugees and asylum seekers
-https://www.justice.gov/archives/opa/pr/justice-department-sues-spacex-discriminating-against-asylees-and-refugees-hiring
-https://www.cnbc.com/2023/08/24/doj-sues-spacex-alleging-hiring-discrimination.html
-^^ maybe skip this DOJ stuff
+What are the first principles of first principles thinking?
+Elon first principles - what could their org be like on mars? Would earth allow for it?
+And remember kids - never go scorched earth vulgarly like someone fallible who can’t contain his emotions and is ruining the effectiveness of his arguments - this is not how you win friends and influence people - this is immaturity - this is what you’re not supposed to do
 
 
 
@@ -3011,6 +3013,12 @@ The elon algo - error correction, RR, accountability, agency, simplicity & ambit
     5. automate
 
 You can just rank things - hey Fink - look at me - we define the ESG now - and it will be both about consumption and investing - we define halal/kosher and haram - along with rank by association
+    ESG from larry’s top down non-democratic politics to our own politics of ESG - who the fuck do you think you are?! LOOK AT ME
+Rank how we rank and what is in need of ranking
+we need to rank our ranking methods
+we need to continually update the ranking of our methods of ranking, so that we can rank entire cultures and their aspects
+in order to properly rank entire cultures and their aspects we need to continually update the ranking of our methods of ranking
+
 
 If Xi and Trump are currently the most important people - the leaders of the world leaders - why hasn’t almost anyone read xi jin pin thought or the art of the deal? Where are they leading us? Is it the most optimal state for our covilization? No? Why not?
 
@@ -3300,10 +3308,6 @@ we all want to be loved
 
 religion is a project of transcendence of the self into a higher self
 
-we need to rank our ranking methods
-we need to continually update the ranking of our methods of ranking, so that we can rank entire cultures and their aspects
-in order to properly rank entire cultures and their aspects we need to continually update the ranking of our methods of ranking
-
 > "The arc of the moral universe is long but it bends toward *~~justice~~* **cooperation**." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/646750-let-us-realize-the-arc-of-the-moral-universe-is), probably
     or accountability & cooperation
 
@@ -3531,7 +3535,8 @@ The best way for your in group to grow is to align itself with truth - to worshi
 representational injection/transmission in a lossless way
 
 Sock-puppet accounts - roleplay cutting the socks with scissors
-
+Sock puppet - go ape shitnkn them - torch/cut/piss
+We’ll be able to prove the nationality of most/all members of a media organization - so no Qataris making YouTube videos with their YT account saying they’re based in the USA
 
 Submission to error correction - what is error correction but simply recognizing which path was wrong and where t backtrack? Isn’t that motivated exploration and intelligence?
 
@@ -3653,7 +3658,6 @@ Less wrong t-shirt
 
 We must seize the means of connection/relation - the collective story!!! The memeplex that binds us!
 
-What are the first principles of first principles thinking?
 
 Anyone can try - I want to succeed - to be victorious!
 Step 1) dispatch cron job to the cluster
@@ -3676,6 +3680,9 @@ Think of your knowledge graph or tree as a semi-consistent set which has an adja
 Its replicators all the way down
 
 What are humans for? That’s an absolutely legitimate question - imagine being human and not contemplating what you are for - what you are, why you exist, what you are to do with your life
+what are humans for
+what is the human use of human beings?
+https://en.wikipedia.org/wiki/The_Human_Use_of_Human_Beings
 
 You being crazy - 1 sec of you just chewing a carrot, also catch something with your mouth mid air and bark like a doggy, also Bilbo impression of trying to take the ring from Frodo and turning demonic
 
@@ -3763,6 +3770,12 @@ God doesn’t know everything but he has the potential to know everything throug
 Alex jones - Jew Jew Jew! Where he said it
 We’re gonna make monotheism/theocracy great again
 Make colonisation great again
+God speaks to us through divine inspiration and insight
+His mistake is that he was ambiguous and left the possibility for dogma
+He is the creative force behind the universe but we are the creative force within the universe
+Egregore - his representation
+
+
 
 If we integrated the whole of our knowledge and constructed the ultimate curriculum and raised a child in the most perfect way possible to a 25 year old adult we would have raised a God - a single human being smarter than all of humanity combined - thats human super intelligence. I have the best world model
 
@@ -3888,3 +3901,19 @@ A significant portion of human anxiety—often considered the "root" of the emot
 
 good vs evil
 but we need to be righteously superior by not being or feeling righteously superior - we need to be understanding towards others
+
+> "Victory has a thousand fathers, but defeat is an orphan." - John F. Kennedy
+^^ what if we tied identity and reputation to the choices before the outcome is clear? what if we enforced accountability?
+
+> "In the beginning..." - [Genesis 1:1](https://www.biblegateway.com/passage/?search=Genesis%201&version=NIV)
+
+> "Let there be light..." - [Genesis 1:3](https://www.biblegateway.com/passage/?search=Genesis%201&version=NIV)
+
+> "Let us make mankind in our image, in our likeness..." - [Genesis 1:26](https://www.biblegateway.com/passage/?search=Genesis%201&version=NIV)
+
+> "Be fruitful and increase in number; fill the earth and subdue it. Rule over... every living creature..." - [Genesis 1:28](https://www.biblegateway.com/passage/?search=Genesis%201&version=NIV)
+Be fruitful and multiply and fill the noosphere
+https://en.wikipedia.org/wiki/Be_fruitful_and_multiply
+
+Oh so you’re a geopolitics expert now? You’ve spent a few hours or weeks on X and YT and you think you know what’s going on? Hey I’m in the same boat - I also monitor the situation, but to be honest I have no clue and I’d bet that you don’t either
+Everyone is now a geopolitics and a macro expert - monitoring the situation which they actually know nothing about and have no place thinking about it - I’ve certainly done it & been that!

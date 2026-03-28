@@ -33,6 +33,10 @@ spit on a list of words: nihilism, radical relativism, ignorance, pessimism, des
 
 #europe - drink from a bottle with its cap in my eye, also mess yourself up with milk or beetroot when opening the cap
 
+Draw an eye and open it like in clockwork orange & hold the head like agent smith did with neo in front of the train saying something is inevitable
+
+Operate on a dummy head (the ball) to insert the chip, squirt some ketchup on yourself when you crack it open with the power drill
+
 a YouTube video can have titles in multiple languages by adding translated titles and descriptions in YouTube Studio.
 
 overthink in progress t-shirt

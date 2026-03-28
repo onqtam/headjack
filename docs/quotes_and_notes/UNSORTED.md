@@ -4928,9 +4928,6 @@ We should reward super-forecasters not just for getting things right but also fo
 
 I want to report to twitter that im annoyed that when i load the site and i see a notification number for a second and then it disappears for the next 10 seconds until the notifications can actually be browsed - forcing me to wait and spend time on the platform - how do I report this annoyance to the platform in a way such that any other reports about that get aggregated? LLMs. And we should be able to trace who was the psychology hire that suggested that to get implemented. It is put there by design.
 
-Memes - Be fruitful and multiply and fill the noosphere
-https://en.wikipedia.org/wiki/Be_fruitful_and_multiply
-
 A true rules-based order is more powerful than the blob of people that are leading any government
 
 
