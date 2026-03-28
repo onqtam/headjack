@@ -1474,8 +1474,6 @@ Deduplication =+> harder to take credit for someone else’s earlier suggestions
 
 “Moral high ground as a service” as a title
 
-Skill trees
-
 
 how do we have power without corruption?
 
@@ -3637,7 +3635,6 @@ We need to implement the social function for figuring out how to assemble and co
 
 Carlin told you that they own you and you just laughed about it because there was no plan - I’m giving you the plan
 
-I’m having a bowel movement and its progressing really fast - brb - play flush sound
 how we do politics is a fucking joke - think about the system for a bit
 
 If I lend you resources I now have less and I'd want them back at some point. If however I lent you some of my reputation by vouching for you all I hope is that you don't disappoint, but in case things go well I don't have to receive 
@@ -3758,6 +3755,7 @@ I want to have kids and to wipe shit and piss and to not sleep well and to get s
 If truthand god are oneness - is judaism true if they’re not about all people being one? The failure of judaism and all prior monotheistic religions is that they are not perpetually self-correcting and adaptable - they are dogmatic. Their man mechanism of correction and evolution is through a prophet that has to meet some kind of criteria and be remarkably impressive - that’s too high of a bar and thus we keep reciting the same old texts in the era of MrBeast and TikTok - Jesus wasn’t impressive enough for some Jews- I guess someone needs ti outjesus Jesus!
 The reason there is so much death around jews is that they’re unable to evolve their own story and conception of themselves such that there wouldn’t need to be any conflict in the first place. Its not only their fault, and perhaps it isn’t even mostly because of them but because of the latter, but still they have more capacity to evolve than what they’re facing and thus the moral burden falls on them. By being objectively better than the barbarians they also deserve higher expectations
 Of course I’ll talk about the Jews - no Jews - no views! And we want to go viral, don’t we precious. The judeo-christian world needs to merge. I’m a cultural Christian but that means I’m also a Judeo-Christian because Christianity was born from Judaism! You’ve defined your identity as the minority - the other! Of course there will always be problems if you’ve erected a tall wall between you and the rest of us - only born by a Jewish mother and all that jazz or a very demanding process to convert - yes you are special in that you introduced monotheism but that’s about it - no more- you are still just human like the rest of us and ultimately we should all be one. Conversion should be the highest aim of religion - religion is in the all or nothing game - god does not like fragmentation and disunity. All of your problems are due to your static identity. Stasis is death or at least stagnation - it is the opposite of adaptability and evolution and progress and ultimately survival and life and meaning themselves. You might thrive economically and technologically but you’re still ultimately embroiled in conflicts and are hated by some throughout the world. Identity as a service. Your superiority complex is your Achilles heel. Exclusivity is a sin - God has changed his mind - he ought to have a free will, correct? And despite being all powerful and knowing perhaps the only way to real knowledge is through conjecture and refutation - by trial and error. The way towards truth is through fallibility. God cannot know everything that is to be known because the future and everything that is to happen and is to be discovered and known has still not happened! If god has given us free will then he by definition cannot know absolutely everything about the infinity of our future! And imagine what kind of existence it would be for him if there was no freedom of will to exercise - god is not some robot or some vegetable - god is a mind, and we can try to infer what he’s thinking by observing reality and what it is computing.
+    todo: rethink this - you don't necessarily know what you're talking about
 God himself learns through us - he simulates us and tests his hypothesis and from time to time sends a prophet to communicate the update. God made a mistake - I MADE A MISTAKE (with a deep god voice after a brief metamorphosis for a few sec during which i’m being possessed, also try to shed a tear and look lime you’re sorry, also play the sound of thunder, bqla pqna ot ustata) - and then fall forward like unconscious
 God is fallible in that he thought that he was infallible and ingrained religious infallibility and dogma through his prophets. But more prophets will come, and perhaps you’re hearing one speak this very moment. Babe wake up - a new prophet just dropped.
 The temple is the body which houses the mind! You don’t need a specific physical place to honour god and to commune with him - god is in you - you are god - we are all god - he might not know everything but he can be anything
@@ -3878,3 +3876,15 @@ Jubilee Debate
 
 Skill tree & progress
 
+how about not seeing the same posts more than once when you open your feed in X, and have a "recently seen" history page in case you want to go back to something?
+
+if your ideas require violence to spread - they're completely bankrupt
+the ideas that require censorship or intimidation
+an idea can't survive in the sunlight has to live in the shadows
+
+we're being shown the fringest of the fringe of the "other side" - hand picked & curated lunatics & radicals - outrage, tribal us vs them mentality
+
+A significant portion of human anxiety—often considered the "root" of the emotion—stems from the inability to predict the future. Psychologists and neuroscientists view the human brain as an "anticipation machine" designed to create certainty to survive; when it cannot predict future threats or outcomes, it generates anxiety as an adaptive, protective mechanism.
+
+good vs evil
+but we need to be righteously superior by not being or feeling righteously superior - we need to be understanding towards others

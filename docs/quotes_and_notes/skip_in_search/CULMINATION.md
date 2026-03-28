@@ -1128,6 +1128,11 @@ You can only have progress with error correction
 This is what real progressivism looks like
 Progress and conservation are like the yin and yang but instead of polarizing everyone in 2 major camps everyone should have a bit of both - you can have progress only as long as you conserve error correction
 
+I’m having a bowel movement and its progressing really fast - brb - play flush sound
+    it has to be flushed out of my (**OUR**) system!
+make progressives great again!
+you're progressing away from progress!
+
 old: Progress requires error correction which requires introspection & self-awareness which requires integration which requires trust/accountability which is built upon openness, access and visibility. Also alignment & perception...
 openness => nothing to protect => nothing to litigate
 
@@ -1160,8 +1165,11 @@ Thou shalt ... not ...
 
 - make information open, coherent & integrated
 
+persuasion vs compulsion
+
 law #2: subsidiarity?
-law #3: cooperation? non-coercive expansion of self? seduction & persuasion over/instead of coersion, also prestige (respect, admiration, praise) > dominance & coercion (force, fear), honesty > deception - no taqiyya !!!
+law #3: cooperation? non-coercive expansion of self? seduction & persuasion over/instead of coercion, also prestige (respect, admiration, praise) > dominance & coercion (force, fear), honesty > deception - no taqiyya !!!
+    choice! no coercion
 law #4: all evils are due to lack of knowledge and knowledge is created by seeking good explanations
 law # : problems are inevitable, problems are soluble - from beginning of infinity chapter 3 <== NOT REALLY A RULE but a maxim?
 law # : the truth consists of hard to vary assertions about reality
@@ -1186,7 +1194,7 @@ Intolerance only to the intolerant
     don't be a doormat
     this rule overrides golden rule & others when they're in conflict
         or don't say this - this is messy - don't try to resolve these ambiguities in a simplistic way - leave ambiguity
-no walls to keep people inside by force/coersion - apostasy is kosher - you can leave at any time!
+no walls to keep people inside by force/coercion - apostasy is kosher - you can leave at any time!
 
 Syntropic law: some forgiveness is good if entities confess and reform and align themselves
 Syntropic laws are fundamental parameters to the system configuration - good heuristics

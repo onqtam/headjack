@@ -4658,8 +4658,8 @@ Owning an excessive/lavish 250M$ penthouse might subtract some of your reputatio
 
 what if the fabric of society was defined by a layered web of reputation models - an ever-evolving complex incentive structure derived from our values?
 
-AGI vs human alignment
-https://twitter.com/owocki/status/1673478260330729472?s=46
+
+> "The ultimate weakness of violence is that it is a descending spiral, begetting the very thing it seeks to destroy. Instead of diminishing evil, it multiplies it. Through violence you may murder the liar, but you cannot murder the lie, nor establish the truth. Through violence you murder the hater, but you do not murder hate. In fact, violence merely increases hate...Returning violence for violence multiplies violence, adding deeper darkness to a night already devoid of stars. Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that." - [Martin Luther King Jr](https://www.goodreads.com/quotes/7101227-the-ultimate-weakness-of-violence-is-that-it-is-a)
 
 The further away from iron curtains - the better
 
