@@ -309,7 +309,7 @@ https://www.youtube.com/watch?v=c1nYtX-NUsc
 
 > "This is the engine of cosmic evolution captured in the Unifying Theory of Reality, a completely incomplete theory of everything: incompleteness drives progress. The gap between what a system is and what it tries to comprehend about itself creates the evolutionary pressure toward more complex cognition and consciousness, and these gains drive greater complexity, deeper integration, and higher levels of organization in the universe. What does this teach us? That reality advances by attempting impossible tasks—recursive systems trying to explain the nature of nature, consciousness trying to understand consciousness, the universe trying to know itself." - [Bobby Azarian](https://roadtoomega.substack.com/p/project-omega-begins-the-theory-the)
 
-<!-- When it comes to metaphysics ["A Minimum Viable Metaphysics"](https://jimrutt.substack.com/p/a-minimum-viable-metaphysics) by Jim Rutt is all we need - see [here](https://jimrutt.substack.com/p/what-i-mean-by-metaphysics) for what he means by "metaphysics". -->
+<!-- When it comes to metaphysics ["A Minimum Viable Metaphysics"](https://jimrutt.substack.com/p/a-minimum-viable-metaphysics) by Jim Rutt is all we need - see [here](https://jimrutt.substack.com/p/what-i-mean-by-metaphysics) for what he means by "metaphysics". Or version 2 of it can be found [here](https://jimrutt.substack.com/p/minimum-viable-metaphysics-version). -->
 
 
 ██████████████████████████████████████████████████████████████████

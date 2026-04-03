@@ -29,11 +29,17 @@ founder mode sticky note on my forehead
 
 make subtitles in all languages
 
+show of hands - who thinks the current system is perfect? I can't actually see you...
+
 spit on a list of words: nihilism, radical relativism, ignorance, pessimism, despair, hopelessness
 
 #europe - drink from a bottle with its cap in my eye, also mess yourself up with milk or beetroot when opening the cap
 
 Draw an eye and open it like in clockwork orange & hold the head like agent smith did with neo in front of the train saying something is inevitable
+
+Getting progressivism out my system - try to puke with fingers in throat
+
+I want you glued to the screen - roleplay with my face splattered on a glass - pleksiglas
 
 Operate on a dummy head (the ball) to insert the chip, squirt some ketchup on yourself when you crack it open with the power drill
 
@@ -164,6 +170,7 @@ Napravi 10 thumbnaila i gi dai na priqteli da gi ratenat
 
 "hey there!" - enter the picture from the side with tilted head first - or start directly with "what is the most important..."
 
+I swear on my life you'll never watch anything as good as this
 
 == what makes us special - why the ultimate social system is the great enabler and at the root of everything and why systemic thinking is most important
 
@@ -332,6 +339,8 @@ Maximus (Gladiator, 2000): Brothers, what we do in life... echoes in eternity.
 https://www.imdb.com/title/tt0172495/quotes/?item=qt0404418&ref_=ext_shr_lnk
 
 "Come to terms with death. Thereafter anything is possible." - Sheldon Solomon
+
+perhaps with this script I wrote my own eulogy
 
 if someone rereads all my notes and sit with them for some time they'd be able to see at least 70-80% of what I see - ALL unique ideas I've ever had or important quotes are in the notes. And some needs to be removed - there's a lot of duplication and even some I'd change now in hindsight, but most of it is good. But hopefully noone would have to dig through them and I'd just be able to finish the book in the next 1-2 years undisturbed.
 
@@ -920,6 +929,11 @@ externalities
 
 we're gonna have such absolutely COMPLETE accounting of causes and effects that even Godel would reconsider his findings
 
+elon: the team is a vector sum - every employee is an arrow
+    how good, how fast,
+    aling them towards the same goal
+        how good the team is, how aligned they are, how hard they're working - that's the vector sum of the team
+
 
 ██████████████████████████████████████████████████████████████████
 # status & prestige
@@ -1094,6 +1108,12 @@ civilization reflects its accounting technology
 # error correction
 ██████████████████████████████████████████████████████████████████
 
+error correction is knowledge creation. It is improving ideas and making progress - the faster we correct errors the more rapid our progress
+and progress leads to wealth - wealth is the repertoire of physical transformations we are capable of causing
+an individual is wealthy to the extent they can transform physical reality around them.
+The Moral Rule that drives Progress and Wealth Creation - Brett Hall
+https://www.youtube.com/watch?v=uZVBPcVIz2g
+
 we should be error-correcting how we do error-correction
 error-correction in every aspect of the system - how it maintains itself, how it improves itself, how it recruits and expands
 it will all be evolvable - including the evolvability
@@ -1229,6 +1249,8 @@ We the people
 > "With great *~~power~~* **consequentiality** comes great *~~responsibility~~* **accountability**." - [Uncle Ben](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility), probably
 
 the only dogma is that there is no dogma and everything is up for debate - FOREVER
+> "The Dao that can be told is not the eternal Dao" - Tao Te Ching
+unify with eastern philosophy!
 
 Maximal recursive self-improvement - The polar opposite of complete stasis dogma from millennia’s ago
     The only unchangable aspect is that any other aspect is subject to change.
@@ -1332,6 +1354,11 @@ TODO: think about registering and the future privacy of accounts
 
 ## convert others - spread the word
 
+make this common knowledge - make it so that everyone knows that everyone knows it
+when this spreads it won't be because of me but because of YOU!
+
+my hope is that you'd be able to say with a straight face: "you must watch it - this will be the most important and consequential thing you ever watch in your entire life - even if you don't agree with all of it - I know I don't"
+
 this is a hyperstition and creating common knowledge of it by making it viral is the most important point
     explain the reflexive loop
     a vicious circle, a self-reinforcing loop, feedback
@@ -1359,6 +1386,8 @@ the password is "Pussy Riot" - "I'M NOT JOKING ABOUT THE PASSWORD!"
     > "The very word 'secrecy' is repugnant in a free and open society, and we are as a people inherently and historically opposed to secret societies, to secret oaths, and to secret procedings. We decided long ago that the dangers of excessive and unwarranted concealment of pertinent facts far outweighted the dangers which are cited to justify it." - John F. Kennedy
     JFK Secret Societies Speech (full version)
 
+translate to chinese, russian, spanish and all other languages
+make torrents of the files & upload them
 
 ██████████████████████████████████████████████████████████████████
 # Ending

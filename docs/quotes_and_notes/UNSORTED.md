@@ -36,6 +36,8 @@ https://www.sciencedirect.com/science/article/abs/pii/S0303264721000514
 Internalizing cooperative norms in group-structured populations
 https://www.biorxiv.org/content/10.1101/722439v1.full.pdf
 
+From Cancer to AI Alignment - Tackling Externalities Through Homeostatic Principles
+https://www.preprints.org/manuscript/202604.0056
 
 
 !!!!!!!!!!!!!!!
@@ -87,6 +89,12 @@ on polarization - I haven't read the rest of the article as it is paid but I ass
 > This pattern is typically explained in terms of our evolved “tribal” or [“coalitional”](https://www.edge.org/response-detail/27168) nature. Our species was forged under selection pressures that favoured powerful motives and abilities for forming alliances designed to outcompete other alliances for prestige, dominance, and resources. So, when we support and identify with a group, automatic [“coalitional instincts”](https://www.edge.org/response-detail/27168) are activated. We divide the world into ingroup and outgroup, us and them. We frame group relations as zero-sum conflict for power and esteem. We become obsessed with sending and monitoring signals of group loyalty. And we become instinctive [apparatchiks](https://www.amazon.com/Elephant-Brain-Hidden-Motives-Everyday/dp/0190495995) and [propagandists](https://www.tandfonline.com/journals/hpli20), embracing [narratives](https://www.amazon.co.uk/Status-Game-Will-Storr/dp/0008354677?tag=googhydr-21&source=dsa&hvcampaign=media&tag=&ref=&adgrpid=177813222682&hvpone=&hvptwo=&hvadid=738150857422&hvpos=&hvnetw=g&hvrand=14224506816910441630&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=1006520&hvlocphy=9198132&hvtargid=dsa-1595363597442&hydadcr=&mcid=) crafted to make our side and its defining narratives look good, and the other side look bad, if not outright demonic.
 >
 > Polarisation exacerbates those instincts, which in turn exacerbate polarisation, fuelling a runaway process in which competing tribes lose access to a shared reality and a willingness to empathise and compromise with each other." - [Tribalism Corrupts Politics (Even When One Side Is Worse), by Dan Williams](https://www.conspicuouscognition.com/p/tribalism-corrupts-politics-even)
+
+
+
+
+> "If they wanted you to be powerful, they would explain how elites and power work." - [Samo Burja](https://x.com/SamoBurja/status/2038734893698666870)
+^^ what if we explicitly engineered a transparent system and taught people how it works?
 
 
 
@@ -928,6 +936,10 @@ Forgiveness as part of the optimal game-theoretic strategy
 > "" - [, by Gregg Henriques]()
 
 > "" - [, by Gregg Henriques]()
+
+
+> "If you are not prepared to use force to defend civilization, then be prepared to accept barbarism." - [Thomas Sowell](https://www.goodreads.com/quotes/863499-if-you-are-not-prepared-to-use-force-to-defend)
+
 
 
 > "... info finance is a discipline where you (i) start from a fact that you want to know, and then (ii) deliberately design a market to optimally elicit that information from market participants.

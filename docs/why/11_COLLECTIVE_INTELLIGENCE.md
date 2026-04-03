@@ -1139,6 +1139,12 @@ exercise)
 # SECTION: voting & liquid democracy
 ██████████████████████████████████████████████████████████████████
 
+TODO: watch these 2 and address all/most points
+Why Electronic Voting is a BAD Idea - Computerphile
+https://www.youtube.com/watch?v=w3_0x6oaDmI
+Why Electronic Voting Is Still A Bad Idea
+https://www.youtube.com/watch?v=LkH2r-sNjQs
+
 Liquid democracy will enable patterns of representation that are impossible today
 the potential of liquid democracy is way beyond what Google used it for internally - voting for what kinds of snacks to have in the cafeteria and be dumbfounded on the low participation - well duuh - this is the most inconsequential thing ever
 

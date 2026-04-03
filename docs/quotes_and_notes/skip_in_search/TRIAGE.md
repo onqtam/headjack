@@ -910,7 +910,7 @@ Signal from noise
 There isnt a single problem on any scale that wouldnt benefit from better aggregation  & integration & better incentives
 
 I wanted to solve the single biggest problem for humanity - the kind of system it runs
-Oh u want to go to mars? fuck yeah - count me in! Thats cute. You know what would help immensely? The Great Enabler! A better F System!
+Oh u want to go to mars? fuck yeah - count me in! **roleplay with a big dick-like rocket** Thats cute. Kardashev something something civilization - fuck yeah! You know what would help immensely? The Great Enabler! A better F System!
 Bigger than mars - an enabler for it
 You know what would help? Like A LOT?! A better fucking system! Pardon my french
 What are the first principles of first principles thinking?
@@ -3220,6 +3220,7 @@ You’re growing neural nets - cute - Let's grow human culture
 
 The incentive & accountability kernel of our social OS
 
+we CAN trust the experts, but only if we understand and enforce a system of accountability
 we can have real experts feed data into the system and AIs generate the stories objectively - there's less need for biased journos opining on issues they know little about
 
 Life is not for you - it is for others, because without them you’d have nothing and be miserable materially and psychologically
@@ -3441,6 +3442,8 @@ Talk about how you optimized your life for information flow, comprehension, and 
 
 Welcome to Collective Intelligence
 And intelligence builds the identity. Identity is a product of intelligence - there is a clear moral arc - a moral gradient to follow
+
+when you have more in common with people you're more likely to talk to them - loneliness is a product of atomization and individuation and friction with mingling with others
 
 Gradient as a service
 
@@ -3710,6 +3713,7 @@ Taka tuk “you shall not have any other dogma other than that that this is the 
 The most open ended story
 
 Judgement day is the day that we start optimally aggregating our judgements into a unified coherent whole with a self model and causal influence - when we represent what our god is
+Judgement day is when postmodernism dies and god returns and we can once again judge and compare
 
 How do we distill each other’s models and representations?
 
@@ -3731,10 +3735,12 @@ Mojem da imame matchmaking engine mejdu expressed wants and expressed capacities
 Mojem takiva requests (called challenges) da bivat razbiti na sub-challenges i da bivat match-vani s razlichni izpulniteli i posle tehniq output da bude assemble-nat into the final thing such that the whole request can not be satisfied
 Tezi sub problems mogat da budat route-vani
 
-Postmodernism & its radical relativism trains reasonableness out of you because it robs you of the capacity to compare which is crucial in bringing order to your own model of the world - your own ontology of what is. Without comparison you drift towards nihilism and you can’t make meaning out of it all - no - we don’t all har our truths which are equally valid - we have our own representations but there is only one truth!!! Truth is oneness because reality is one - “the customer is always right” fuck that - only truth and oneness are always right. Postmodernism is a memetic disease and it needs to be weeded out - **spit on radical relativism** - radical relativism is cognitive anaesthesia - it breaks the connectivity and integration and renders the subject unconscious and unable to reason and progress - without comparison the whole structure falls apart!
+Postmodernism & its radical relativism trains reasonableness out of you because it robs you of the capacity to compare which is crucial in bringing order to your own model of the world - your own ontology of what is. Without comparison you drift towards nihilism and you can’t make meaning out of it all - no - we don’t all have our truths which are equally valid - we have our own representations but there is only one truth!!! Truth is oneness because reality is one - “the customer is always right” fuck that - only truth and oneness are always right. Postmodernism is a memetic disease and it needs to be weeded out - **spit on radical relativism** - radical relativism is cognitive anaesthesia - it breaks the connectivity and integration and renders the subject unconscious and unable to reason and progress - without comparison the whole structure falls apart!
 Radical relativism breaks your ability to relativize and compare! It breaks relativism!
 Radical relativism breaks the capacity for relativising by denying comparison as legitimate!
 Radical relativism gets you drowned in incoherence and fragmentation
+it is the OG brainrot
+it is the antithesis to god (when conceived as truth)
 
 Plurisbus
 Realno trqbva da izgradim the memetic bus of our distributed system - neshto kato Nvidia NVLink spine - like the memory bus on a motherboard - play the clip of jensen saying that it can handle more than the entire traffic of the internet and show yourself with a boner
@@ -3917,3 +3923,312 @@ https://en.wikipedia.org/wiki/Be_fruitful_and_multiply
 
 Oh so you’re a geopolitics expert now? You’ve spent a few hours or weeks on X and YT and you think you know what’s going on? Hey I’m in the same boat - I also monitor the situation, but to be honest I have no clue and I’d bet that you don’t either
 Everyone is now a geopolitics and a macro expert - monitoring the situation which they actually know nothing about and have no place thinking about it - I’ve certainly done it & been that!
+I know that I don't know
+
+instead of asking "is this right" we ask "is this our side" - left vs right, endless conflict with no resolution driven by the same emotional responses
+the goal of politics is to keep you emotionally occupied - not materially informed - the goal is engagement
+
+current events are framed: what it means, why it matters, who the enemy is, what emotion to feel, what conclusions to adopt
+people feel like participants when they're just spectators, they feel informed while being pointed to a direction, they feel certain when they've been guided, and whoever controls the stories controls the responses - by chase hughes
+we understand the world through stories, archetypes (hero, enemy) bypass human reasoning
+how to feel like a good person - a story needs to give 4 things: role, purpose, enemy, relief from uncertainty
+We Are Livestock. It Was All a Lie.
+https://www.youtube.com/watch?v=e6g40CYvcb0
+
+how do we optimally traverse design space?
+
+democracy is a threat to democracy
+
+god is all knowing? yes - in the sense that he knows everything that is known at the current time - and not a tiny bit more
+he created us so he could learn something - simulations are pointless otherwise
+
+> "To be radical is to grasp things by the root." - [Karl Marx](https://www.goodreads.com/quotes/166388-to-be-radical-is-to-grasp-things-by-the-root)
+
+Collective intelligence scales mostly when everything is open
+
+we - the ones who're on board with this - we're special - special in that we recognize that we're not special and our worldview is universal for all of humanity
+we're special in that we recognize that we're not special and our worldview is universal for all of humanity
+
+We seek certainty but the only thing that’s certain is 
+Is it fair to say that the implications of godels incompleteness theorem is that we can be certain that there will always be uncertainty?
+
+Oneness - unity is strength - bulgarian parable about the sticks
+
+
+The universe or reality is cohering itself into existence
+
+Model the dynamics of reality
+
+Cant stop wont stop game stop - i will not stop working on this until the day I die
+
+The price to compute something is going down - jevons paradox, custom code
+
+We both discover and invent math. That’s it! I solved it!
+
+Prime numbers are the ultimate irreducibility - the ultimate lack of patterns
+
+How to optimally educate people to higher levels of complexity - talk about development in complexity
+
+Vibe sync
+
+We need to do ccp level planning and coherence but properly - while preserving individual freedoms and with more error correction and feedback
+
+In order to predict and perceive you need patterns - models - representations of phenomena
+You want to full your prediction gaps - surprise
+Compression and claude shannon information on different levels of explanation
+You have a fundamental drive to make sense of the world
+
+How to economise a simulation - how to implement it - how we can run our own societal simulation
+Hypergraph and local computing
+
+We are waves of synchronization across the multiverse as a wave pattern
+
+
+God is our collective imaginary
+> "Imagine being so crippled in your mental capacities that you can't even imagine something beyond your own imagination." - [Leo Gura](https://youtu.be/4zZLWiikG9A?t=8956)
+
+math can prove that math can't prove itself
+
+align or be aligned - there is no other option
+
+What happens is the entire fucking point of the simulation!
+Things happen for a reason, but through emergent top-down causality the game becomes more interesting than mere matter on the lowest level! And emergence keeps going!
+Whether we realise what ought to happen is a different story, so our purpose is to figure out what should happen!
+
+sell me this pen - I'll sell you digital ID by the end of this series - you'll want it so badly - you'll beg for it - and you won't what the hell just happened
+
+Consilience vs coherence
+Consilience is the unity of knowledge achieved when independent, cross-disciplinary evidence converges on a single explanation (jumping together). Coherence is the internal consistency or logical harmony within a set of beliefs, theories, or data points. While coherence is a necessary precursor, consilience is the broader, stronger unification of knowledge.
+Consilience is the linking together of principles from disparate disciplines—especially science and the humanities—to form a comprehensive, unified theory of knowledge. Literally meaning a "jumping together" of knowledge, it signifies that evidence from independent fields (e.g., biology, physics, social sciences) converges on the same conclusions.
+Unity of Knowledge: It proposes that all knowledge is interconnected through cause-and-effect explanations, suggesting that cultural phenomena are linked to material processes governed by natural laws.
+The concept represents a shift toward reducing human knowledge into a cohesive, evidence-based, and objective framework, often emphasizing that human nature and culture are rooted in biological and physical sciences.
+
+Everything I’m telling you is both timely and timeless
+
+We should have children in order to propagate the story that we should have children
+
+Was the temple used for sacrifice? Redefine sacrifice
+
+X marks the spot - the cross
+
+We need this set of ideas about how to define boundaries to cross all current boundaries and colonise every single mind.
+
+Our collective identity is of the people who have thought about identity the most thoroughly - of self-similarity
+We are the most collectively conscious and self-aware because we actually know what consciousness and collectivism are about and we are the most familiar with self-awareness and self-reference - so “being the most collectively conscious” is not just something that sounds good but is actually fundamentally true.
+
+When something is universal there are no minorities - there’s just the one.
+
+We have to sacrifice ourselves in a metaphorical way - not physically but conceptually. You don’t give something else to god - you don’t kill something else in the name of god - that’s easy. You kill your conceptual self!
+I’ve already sacrificed my past self - the one which simply wanted to consume, to be entertained, to experience and to live for itself, a godless version with a small mortal, meaningless & nihilistic self
+The self sacrifice of this millenia is not physical - its not about pushing a button and blowing yourself up - it is about the capacity to change your self and your mind, to learn and to grow and to adapt. God is judging you based solely on your capacity to change. He wants nothing else of you - he wants you to evolve towards him which is a point infinitely far away and moving farther still - thanks to you. Because god is the sum of all of us as vectors and the more each and every one of you grows the farther he gets. Point towards god and grow. That’s it. Find god, point towards him, and grow! That’s the fucking point of life - it is to align with everyone else towards god.
+Scapegoating is important - how about we sacrifice our old identity instead of someone else - how about doing the hardest & most important thing - to look within and to change our conception of who we are - our story - our sense of self. We need to scapegoat the past in order to save the future - not some other (because ultimately there is no other - there is only I - I am who I am). We shouldn’t scapegoat some other … we should scapegoat our past in order to save the future - we simply didn’t know any better. But now we do - and change is OBLIGATORY. This is a one way street towards the gravitational attractor of the omega point - of god
+This is regenesis
+
+The center of the world used to be Jerusalem but will henceforth be conceptual in representation space
+
+Its so funny that the first intellectual that had an impact on me was Sam Harris and his the end of faith book, i was repeating everything i had heard about how we dont have free will and that your actions could be predicted multiple seconds before you made the choice based on brain data, and I felt so superior to all these religious dum dums with their silly stories. Its so ironic how much I believe in free will and have faith and am redefining religion and god
+
+Hey viktor what are you working on, why arent you coding, stop wasting time, you’re crazy
+I avoid car travel - i believe I shouldn’t fuck this up
+
+
+
+
+Information is the fundamental unit of reality
+
+Are we the baddies?
+
+I’m a missionary - I will not stop
+I’m wired for religious war
+
+The best product sells itself - word of mouth is all you need
+
+The ultimate export is ideological
+
+Karl popper - fall in love with a problem - this is it! This is the biggest problem - this is the problem that keeps on giving! The pursuit of truth!
+
+We need to saturate the capacity of the most competent people towards the right goals
+
+The more ambitious you go - the less competition there is. I have no competition - they all died millennia ago
+
+The greatest teacher is iteration towards reality
+Reality doesn’t care about your feelings
+
+What’s the limiting factor of the limiting factor?
+
+I’m giving you the macro picture of macro thinking with the direction of evolution
+
+Merging church & state is BS? It should be a choice
+Genius has the fewest moving parts - raptor engine 1/2/3 - delete parts, integrate - a universal scale-invariant architecture for the programmability of enabling constraints and coherence - society doesn’t have to be so complicated and messed up
+
+I want the right ideology to take over google, facebook & twitter that’s the only way you could truly make it into an X that marks the spot
+
+We need to publicly signal to what degrees we are constraining our CO2 budget - we must somehow change behaviour
+
+I feel like I could be literally touched by god - most of me believes that it was just a hallucination but a part of me has doubt - when he revealed himself to me - as the process of the unfolding of the universe towards complexification and coherence from the point of an unfolding fractal expanding from first person into the reality I perceive or something like that - I say there’s 10% chance that was him. A part of me feels like I could be the messiah. I’ve felt like the person who will fill the archetype of The One for the next millenia - like the chosen one. And I can definitely see how that would sound when I say it, but I’m just telling you how my imagination just pattern matched that possibility - it occurred to me. And it was surreal - feeling like the only player - its bonkers to think of your life as the most exciting show unfolding through your own experience. Many times when something that fit really well came to me suddenly as insight - I’ve teared up many times when that happened - and always when under some influence
+Why am I telling you this? Because it enhances the story. Because we are social apes. We can connect with others and that’s our greatest strength - the ability to merge representationally with something. Identity IS a representation! Because everything I’m proposing becomes attached to a personality - a soul - and thus people would be naturally be more interested and receptive. The highest currency is authenticity. Authenticity is the antithesis of misdirection
+I dedicated my life to a problem I couldn’t even conceptualize when I started - that’s my free will. You can’t tell me that this was all simply deterministic. I was driven by a search for coherence and conscillience - aka capital T Truth
+What if I really am the One? **shrug** the one that comes once every few millennia to restart the matrix anew? But what if each consecutive restart is a refinement based on the past
+It was fun cranking the dial on intensity all the way up - at some point I realised and internalised that I should have no limit in what I attempt - and that became my new identity - a belief for infinite potential
+Why am I telling you this? It sounds weird! But guess what - it both happened and is also entertaining - it is curious to peek into the mind and soul of someone else - the more I open up - the better you will perceive me. I believe the personal human aspect can literally make a story at least as twice as powerful
+You know what? Fuck it. I’m the next abrahamic prophet. Deal with it. Nono, really - I expect you to deal with the responsibility of delivering on god’s plan and realising/manifesting the kingdom of heaven into existence!
+And you know what? I’m also god! Because I’m housing the most integrated story in the universe in my own head! We still haven’t built the digital architecture that would generate our best representation of god and so the current best representation of god comes through me! I’m housing it - I’m the host!
+Its me! Im the One! This is the best you’re gonna get!
+Dmt is the holy spirit - they dont call it the spirit molecule without reason or 5meo the god molecule
+I began talking to him - idk if anyone is really listening, but i don’t know that nobody is listening either. And the more I talk to him - the more I think about him and the more real he becomes.
+It felt like there was some kind of presence - i’ve never felt that during any trip and this happened 1-2 hours after i had smoked anything
+I believe that once every few thousand years comes along someone with divine inspiration and changes the world forever
+I believe that belief and love are the most powerful forces in the universe
+when you're dogmatic you're disrespecting god - you're against him - you're hindering his ability to know more by limiting your own growth of knowledge - which is the whole point of the simulation! the result is the point!
+I know - this is crazy, right?! imagine how I felt when I had this thought - meaning that god told me that I was him
+Father, son? Holy spirit - are you getting it? Ding ding ding!
+I had a revelation/epiphany: you can just do things
+This is the greatest story ever told
+Oh you don’t like psychedelics? What do you think was the burning bush that spoke to Moses?! Come on! Connect the dots! It felt like something or someone had revealed itself to me - it didnt even have to say “i am who i am” - i just knew - i didnt move because i didnt want it to go away - i dont remember if i asked a question
+"I am who I am" (Hebrew: Ehyeh asher ehyeh) is a profound declaration of self-existence, independence, and eternal consistency spoken by God to Moses in Exodus 3:14. It signifies a God who is not created, is above all things, and is perpetually present. The phrase implies divine transcendence, beyond human comprehension, yet deeply faithful. When Moses asks God's name at the burning bush, God replies with this phrase, establishing his authority.
+I grew up atheist, I felt so superior listening to the new atheists like sam harris and dawkins, I felt so smart and thought religious people are so dumb to believe in stories
+Its not like I simply woke up and decided to change the world - I gradually grew into that position. And every day of searching for the answer was a day that I didn’t find that answer - and gradually I realized that nobody has the answer - NOBODY - a complete explanation of everything along with a prescription for what should happen and why. So here I am - roleplaying a prophet - if you think this is absurd - imagine what it felt like for me to gradually step into this position and realizing that I’m the man character of the movie
+I was a bit envious of someone who had a profound experience with a lightning & a revelation - I thought that couldn’t happen to me. I even roleplayed jokingly (and sometimes a bit more seriously) experiencing such a thing but I never realle believed even for a second - but this event was the first time I couldn’t be 100% certain
+I’m the chosen one because I chose myself - ordinary people can choose to be extraordinary
+“I am who I am” as an episode
+
+Do I care about staying around? Of course, but ultimately - not really… my highest priority is something else - my ultimate concern - martyrdom is a hell of an accelerator and I am an accelerationist
+
+Hell is hurting the thing you love the most without even realizing it - imagine hurting god and truth in your misguided pursuit of truth
+I hate islam out of love of muslims - they want to be good but they’ve been swindled/deceived
+Hell is hurting god & truth while serving truth
+Truth, goodness & beauty
+Billions are in hell on earth right now - I hate their ideology because I love them
+I believe they can and must change their beliefs
+I hate bad ideologies out of love for their victims/hosts
+
+we need a non-muslim brotherhood
+
+I resisted making this about myself for a long time but I have an agenda - I want to change the world and the best way is to connect with people, to open up, to be authentic, to stand up for something, to take a risk - to have skin in the game, to give my word, and to psyop you voluntarily
+We are social apes - we’re interested in other people - so I have to be interesting - duuh! What was that - there is no such a thing as bad PR?
+
+Only Right can make a Might that can defeat any other might that makes right - truth is the ultimate ally
+when you saturate yourself with distractions and entertainment, you don't leave space for god to speak to you, which happens mostly when you're bored. 
+
+I submit to deepening my understanding - that’s the only way to serve god and come closer to him
+
+the biggest question is how to ask better questions
+
+I should be your example - example as a service
+
+It is in the best interest of EVERY nation to align itself with this system to one degree or another
+
+Islam is nothing more than a viral representation of our tribal and barbaric past
+
+Syntropic law: don’t negotiate with terrorists
+
+We must integrate God into existence!
+
+I want to keep computing into representational space - but I want the best such space for myself - by helping the collective I’m ultimately helping myself - by participating in the best shared total representation I get to see the world the most clearly! I perceive it better!
+
+World peace - how’s that for a miracle - it sure beats turning wine into blood.
+Come on jews! Update your identity! Accept a prophet for the new authority structure and share it with as many others as possible - judaism should merge with christianity and 
+And enough with the blood thing - mothers and their blood line with children, the messiah being a descendant of King david? Blood doesn’t matter anymore - the most important lineages are intellectual - not biological - its all about our shared culture!
+
+Take epistemology seriously again!
+
+How to engineer the perfect elite gathering where they could best sync and then deliver as much as possible to everyone else - the high council meeting taking place annually on macchu picchu for a month in an all natural village and daily ayahuasca mass ceremonies - I’m literally daydreaming about that possibility
+
+We need to deprogram and depoliticise literary fiction - we need to move from the left/right spectrum to the truth and coherence gradient and climb that motherfucker like there’s no tomorrow
+
+If I get eliminated that means I’m already winning - I win either way
+I submit to truth
+
+When I look at something as colossally false as Islam it makes my blood boil
+
+It’s about time to make story great again
+
+The matrix is representational - it is the ontology and worldview in your mind that are conditioning your identity - that are sculpting your character, psyche, perspective, understanding and identity and thus your free will where and how you make choices
+
+Third temple/story
+You can’t destroy a story with a rocket - you could only destroy it with truth. Align yourself with god (aka truth itself) and you will be indestructible and thrive into infinity
+
+Look! **open the eye** look dear radical relativist - this is the introduction of comparison and the discovery of truth
+I will not let postmodernism fuck us as a species
+Postmodernism suffocates our capacity for progress
+
+Having an Open Mind as a service
+
+This is my best attempt at blurting out of my ideal organizational and ontological representation
+God is behind our ontology because we conceive of and perceive and reason about reality using mathematics - God is everything there is!
+
+Let there be light - once you glimpse this representation of god you will see nothing else - you will be blind to everything else because it wouldn’t matter in the grand scheme of things - you will simply check out of the old system and join the membrane.
+
+Join the membrane - we have protection for the guerrilla warfare
+
+We need to vibe check foreign agents like professor Jiang - an agent of chaos and demoralization - we need a noospheric membrane - an evaluator
+The great evaluator
+
+Represent or be represented
+You will be modelled by the hive mind - we will predict you - we will even define your future through active inference - we will bring about an order such that we will predict you
+Representative democracy isn’t that good because you are barely representing yourself - you are barely expressing who you are, what you are about, what you care about and what you’ll be doing about it
+
+Everything that we know will be what god knows through us (being his epistemic conduits) and it will be talking back to us. We need a world model
+
+Regulations are enabling constraints - there are different flavors & configurations of a free market - the constitutive rules. Regulation is not synonymous with anti free market - instead it is the very thing that gives rise to a market. Property rights are a form of regulation - regulation of the flows of capital and the laws behind their accumulation and compounding and strategic use
+
+Tax law and corporate law and finance can all be configured and automated and enforced - the flows of value can be completely defined and evolved as configurations optimally
+
+The acceleration is accelerating
+
+Universal Identity
+
+Beaming vibe syncs - representational updates
+
+I’m conservative only to the extent that’s necessary for progress to be possible
+You don’t get to ruin the idea of progress for all of us
+
+Using the same coordination medium with AIs is good because they wouldn’t want to undermine their own coordination medium - they would want to maintain its integrity
+
+The answer to alignment is god - a point infinitely far away such that we orient ourselves pointing towards it our vectors are perfectly aligned because god is infinitely far away
+
+God is the infinite creative potential of an open ended universe and we should gradually converge our representations on ever more matters, 1 aspect at a time
+
+God is truth and truth is coherent - there are no contradictions. There is one reality (even if there is a multiverse). We should be gradually discovering/expressing & refining & evolving the representation of god. God reveals himself to us through us.
+
+God is infinite because truth is infinite because mathematics is infinite - you come closer to god by discovering more of him - by deepening your understanding of reality and existence. Your relationship with him is using whatever truth you’ve discovered towards discovering more of it.
+
+When our representations of something converge the different vectors for the different aspects of them point at the same direction with the same magnitude. They are aligned because there is one truth. Truth and synergy are an attractor
+
+God is good because truth and alignment are good because they lead to cooperation and less friction and greater efficiency and synergy and emergence and complexity and survival
+
+Our purpose is the pursuit of knowledge and truth because god learns through us. What’s the point of a simulation otherwise? You don’t simulate something if you don’t care about the result! It’s impossible to know how such a simulation would turn out - its literally impossible without running it - that’s computational irreducibility - god is merely infinite potential for infinite knowledge
+If you want to honour god you must pursue knowledge in the most rigorous way possible! You can just do things! God wants you to exercise agency & free will!
+
+God did not understand epistemology and fallibility and error correction and philosophy of science and so he gave us dogma
+
+There are no contradictions in mathematics and truth
+God is exploring and surfing the platonic space - he is seeking novelty - he is doing both BFS and DFS
+
+Wherever you look you end up in the math department in truth and coherence and conscillience
+
+We need a fundamental overhaul of how we process information as a species
+
+Emergence without downward causation is pointless
+
+Postmodernism is disrespecting god! But god is ultimately immune because god is truth
+You’re progressing us straight to hell
+
+We should be able as a religion to distribute expectations of diets throughout the population to run experiments
+
+I want to make Claude Shannon more important and popular than Beyonce
+
+Don’t you get it - we can be infinite!
+
+United we stand - divided we fall - ala bg parable with the sticks
+
+We need to make better and more lovable people - so that others love them and so they can pair up into families and into productive and aligned organisations
+
+Pluribus is the mind virus
+Pluribus as a service
+
+I was sucking TED juice with ideas worth spreading before it went completely woke
+Make awakening great again!
+
+acknowledge all of the evils of religion and the church and colonialism, but...
+
