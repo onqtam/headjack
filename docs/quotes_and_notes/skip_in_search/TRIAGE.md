@@ -2558,6 +2558,7 @@ business ought to be in the business of solving problems - not engineering/manuf
 
 I'm afraid of time
 I'm afraid of fear
+Stare right back at fear and it will disappear - saying by elon
 
 engineered for emergence
 
@@ -3235,6 +3236,7 @@ good predictions come with good explanations which are hard to vary
 I want to become Google’s CEO without compensation - I want to help organize the world’s compute. This is my letter of application - I will either implement this vision with you or without you.
 For god’s sake - Meta - why did you take that name - there’s nothing meta about you! Stop squatting names whose potential you can’t deliver and live up to. We need to rethink intellectual property
     you're just a facebook
+    and X is just twitter - if it wants to be X - the everything app - where X marks the spot - they have some work to do
 Mention how someone from namecheap or the whois tools conveyed my interest in thereadme.org and bought it. I hate name squatting - it should be culturally shamed put of existence
 Google and Facebook are the 2 biggest failures because they have the most potential - they connect people and information
 Meta impression: eeer eeer extract extract addict addict numba go up
@@ -4007,10 +4009,6 @@ Everything I’m telling you is both timely and timeless
 
 We should have children in order to propagate the story that we should have children
 
-Was the temple used for sacrifice? Redefine sacrifice
-
-X marks the spot - the cross
-
 We need this set of ideas about how to define boundaries to cross all current boundaries and colonise every single mind.
 
 Our collective identity is of the people who have thought about identity the most thoroughly - of self-similarity
@@ -4023,6 +4021,10 @@ I’ve already sacrificed my past self - the one which simply wanted to consume,
 The self sacrifice of this millenia is not physical - its not about pushing a button and blowing yourself up - it is about the capacity to change your self and your mind, to learn and to grow and to adapt. God is judging you based solely on your capacity to change. He wants nothing else of you - he wants you to evolve towards him which is a point infinitely far away and moving farther still - thanks to you. Because god is the sum of all of us as vectors and the more each and every one of you grows the farther he gets. Point towards god and grow. That’s it. Find god, point towards him, and grow! That’s the fucking point of life - it is to align with everyone else towards god.
 Scapegoating is important - how about we sacrifice our old identity instead of someone else - how about doing the hardest & most important thing - to look within and to change our conception of who we are - our story - our sense of self. We need to scapegoat the past in order to save the future - not some other (because ultimately there is no other - there is only I - I am who I am). We shouldn’t scapegoat some other … we should scapegoat our past in order to save the future - we simply didn’t know any better. But now we do - and change is OBLIGATORY. This is a one way street towards the gravitational attractor of the omega point - of god
 This is regenesis
+the third temple is a story - not a physical place - no more sacrifice of animals - we sacrifice our bad ideas now
+Redefine sacrifice
+the most stable identity - the one that will endure - is the one that embraces change & adaptation and approaches it in a rigorous way
+> "Intelligence, in the sense of the ability to learn from experience, is a product of natural selection. But its greatest survival value lies not merely in adapting to the environment, but in the ability to criticize and reject ideas. The survival value of intelligence is that it allows us to extinct a bad idea, before the idea extincts us. This is the essence of the critical method: we let our hypotheses die in our stead, as I have often put it. By criticizing our ideas, by testing them against reality, we can avoid the disastrous consequences of acting on false or harmful beliefs. This is what distinguishes human intelligence from the trial-and-error learning of other animals." - [Karl Popper, Objective Knowledge: An Evolutionary Approach (1972), Chapter 7, p. 243](https://x.com/QuotePopper/status/2040001064309555325)
 
 The center of the world used to be Jerusalem but will henceforth be conceptual in representation space
 
@@ -4100,7 +4102,7 @@ Hell is hurting god & truth while serving truth
 Truth, goodness & beauty
 Billions are in hell on earth right now - I hate their ideology because I love them
 I believe they can and must change their beliefs
-I hate bad ideologies out of love for their victims/hosts
+I hate bad ideologies out of love for their victims/hosts, and also out of love of everyone else, because all of humanity is less when parts of it are less - worse versions than what they could be
 
 we need a non-muslim brotherhood
 
@@ -4231,4 +4233,148 @@ I was sucking TED juice with ideas worth spreading before it went completely wok
 Make awakening great again!
 
 acknowledge all of the evils of religion and the church and colonialism, but...
+
+we need credit assignment through all layers - we need to trace competency all the way back to their first teachers along with everyone (or at least all institutions) in the chain
+
+
+related to 51% winning and 49% losing and not coming to optimal propositions such that the least people are against them - ala daniel S
+oh so you think
+> "There are no solutions. There are only trade-offs." - [Thomas Sowell](https://www.goodreads.com/quotes/1411380-there-are-no-solutions-there-are-only-trade-offs)
+Popper would put it differently...
+> "The reframing Popper provides is that there *do* exist real solutions. It’s just that no possible solution leads to an unproblematic state. We move from worse problems to better problems. Problems *are solved* only to reveal a family of daughter problems." - [Brett Hall](https://x.com/ToKTeacher/status/2040706392886317229)
+
+we need a system in which looking out for the reputation of an organization is synonymous with looking out for the rate of error correction of that organization - that's the only kind of reputation that's worth giving a damn
+
+> "If you want to tell people the truth, make them laugh, otherwise they'll kill you." - [Oscar Wilde](https://www.goodreads.com/quotes/9532002-if-you-want-to-tell-people-the-truth-make-them)
+
+
+At one point I realized that I should dial the insanity to insane levels
+
+You should give till it hurts only to entities that are fully transparent and competent and themselves give till it hurts - otherwise you shouldn’t feel an obligation
+
+I’m high on my own supply - can you tell that I’m all the way there with belief
+
+Life on earth is not status default lindy - we have less time than we’ve had - integrate or perish/fade away
+
+Collective Representation
+
+We should somehow rate how we should be rating people - ala subjective objectivity
+
+The problem of evil is the problem of ignorance
+
+Family as a service
+
+Context is all you have
+
+We help countries govern themselves - we are governance as a service
+
+We need information about our information network
+
+We are just god’s actuators
+
+Fully automated luxury communism - with different kind of luxury - social wealth - a strong collective self
+
+How do we foster collective secure attachment?
+
+You’ll be able to talk with yourself - your representation of yourself
+
+You should be not only willing but eager to grow - you should want it badly
+
+Data is all you need - how do we optimally gather human exceptionalism and automate it for the benefit of all?
+We need to simulate parts of reality with specialized models and problem storm problems we have in those domains of society
+
+The better our shared world model - the more of reality we will be able to simulate and understand - and simulate we will - we will approximate reality and use the simulations in search of solutions to our problems.
+
+Human in the loop as a service
+
+We can structure the psyche of an AI to have a rogerian filter and the schemata of our psyche
+
+Progress is the capacity to steer away from regress
+
+I want to update your minds about how we should be updating our minds
+Brainwashing as a service
+Brainwashing is like sleep - you wash away - you clear the errors, you get the update to your identity - to your conception as a self
+
+God is infinite value
+
+You dont believe ai’m a prophet? I’m more prophet than professor Jiang is a professor - that agent of demoralization and foreign propaganda that is surgical in precision - he is the modern version of what Yuri Bezmenov described 42 years ago - that’s why we need digital borders - to not be eroded so easily from within which is a failure mode of classical liberalism - and its so sad to have to say “classical” to distinguish it from today’s “liberals” - the apple didn’t fall far from the tree - it simply rotted
+
+Don’t look up? We’ve been told to not look up to god
+
+Trustlessness vs better trust - and that requires authority - crypto is a dystopia
+
+We are not Lindy - life on earth has bern here for 2-3+ billions of years and we have less than 2 billion before life dies here because of the sun expanding
+
+Two economists, walking in a forest, spot a pile of waste. The first pays the second $100 to eat it. Later, they find another pile, and the second pays the first $100 to eat it. They realize they both ate waste for nothing, but the first economist notes: "That's not true, we increased the GDP by $200!
+
+
+The good earth provides
+
+Leash as a service - your enabling constraints
+
+Resolution of the simulation
+
+Church is about community building
+
+Gaia Online - like Eve
+
+How many years does a human need to fully self-actualise?
+
+Everybody should be a scientist
+
+He wants to know what is to be known in the simulation - he wants to understand it
+
+Islam is more complete than christianity - it has more scope and prescriptiveness
+
+We can express our personalities and competencies - we can represent ourselves in the collective representation
+
+The adjacent possible set and how it grows and what technology and innovation are and how they are just composition and recomposition and addition of new potentialities in the set of all adjacent potentialities.
+Intelligence is about the expansion of potentialities - it is about infinite potential and personal growth - we are all equal in our infinite ignorance
+What is the hitchhikers guide to the galaxy? How do we ask better questions? Better and more sophisticated than simply getting a number? How do we best answer the question “what should I do with my life?”
+
+What is the best pepper? Is this pepper good? Which curcumin to buy and why?
+What should I buy and why (if I care)?
+Not only what to buy, but to buy it who from? And not onoy which shops but also which producers? And which producers of the producers?
+ESG governance
+
+Brainwashing as a service
+Brainwashing - what is it
+
+“What should I do” for every stage of life
+How do we optimally insert the right questions and their answers right in their heads?
+
+Here’s the quiet part loud - god exists. God is destiny
+
+Our digital identity is built on shifting sands
+
+Meta governance - governance of governance - how do we govern how we do governance?
+
+“I am who I am” episode
+
+You are not your opinions - you are your values
+
+The incentive for an empire to grow is evolutionarily fundamental because under greater scales there can be more economies of scale, trade, specialization and emergence and synergy and progress - so thats why conquest wasn’t only bad - war is why we’ve progressed until now and now we can shift to memetic war and let our ideas die instead of us as human beings - chingiz chan was good in a way, also the roman empire wasnt all bad. We need to aggregate in a way that scales and does not start to rot and decay from within at one point, and that is not opressve
+We need something to tell us what to do
+
+Art is about transmitting patterns - to tell stories with truth in them - think about the series that anthony told u about - human psychology, society and its affairs
+What does it take to survive as a society?
+Society is technology for the survival of society
+We should want the silo. A membrane and authority and order and trust
+
+in a proper system all funds from qatar entering the west would be completely mapped with a sankey diagram - wouldn't you want to know how influence from the muslim brotherhood spreads in the west? they have a 100 year plan (we're halfway through it) - they don't think in quarters or 4 year election cycles
+
+We need to develop the ultimate justification for authority - for what is true
+Authority is about the production truth
+
+Primera s Iran in failure of water management and how their incentives and lack of error correction is an inferior system that causes them problems. How we can recreate a better linkedin - a better meritocracy with learning in the system and credit assignment and back propagation and how eventually the better people will rise to the top - skin in the game - and how all knowedge is interconnected and what society should do is a question with a subtree
+Sushto primer s america i kak sa nazade sus solar & energy independence in terms of tech sprqmo kitai i kak tova e strategic fumble for the 21st century
+
+Its “i think therefore I am” for a reason - not “I feel, therefore I am right”
+
+The elephant sun god - touching parts of the truth
+https://en.wikipedia.org/wiki/Blind_men_and_an_elephant
+
+"because democracy basically means government by the people, of the people, for the people - but the people are retarded"
+https://www.youtube.com/watch?v=QFgcqB8-AxE
+how to change that?
 

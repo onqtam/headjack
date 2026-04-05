@@ -576,7 +576,7 @@ Intelligence is the ability to model, predict, and influence one’s future; it 
 # truth
 ██████████████████████████████████████████████████████████████████
 
-The biggest truth is that truth is of infinite value
+The biggest truth is that truth is of infinite value - and everyone is claiming to be on its side
 
 where does truth come from? where does the epistemic authority come from?
 

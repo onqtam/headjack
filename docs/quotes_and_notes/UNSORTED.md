@@ -6,6 +6,9 @@ https://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_6.pdf
 The Cortical Conductor Theory: Towards Addressing Consciousness in AI Models
 http://bach.ai/pub/Bach%20-%20Cortical%20Conductor%20Theory%20(BICA%202018).pdf
 
+Universal moral certainties and the goodness of cooperation
+https://link.springer.com/article/10.1007/s11229-026-05514-z
+
 TESTING THE MACHINE CONSCIOUSNESS HYPOTHESIS
 https://arxiv.org/abs/2512.01081
 

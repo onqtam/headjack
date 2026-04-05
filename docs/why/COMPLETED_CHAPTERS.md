@@ -76,8 +76,6 @@ https://en.wikipedia.org/wiki/Kialo
 
 https://en.wikipedia.org/wiki/Flow_(policy_debate)
 
-> "There are no solutions. There are only trade-offs." - [Thomas Sowell](https://www.goodreads.com/quotes/1411380-there-are-no-solutions-there-are-only-trade-offs)
-
 we should be able to generate media from the debate map
 
 what we should minimize:
