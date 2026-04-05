@@ -4026,7 +4026,22 @@ Redefine sacrifice
 the most stable identity - the one that will endure - is the one that embraces change & adaptation and approaches it in a rigorous way
 > "Intelligence, in the sense of the ability to learn from experience, is a product of natural selection. But its greatest survival value lies not merely in adapting to the environment, but in the ability to criticize and reject ideas. The survival value of intelligence is that it allows us to extinct a bad idea, before the idea extincts us. This is the essence of the critical method: we let our hypotheses die in our stead, as I have often put it. By criticizing our ideas, by testing them against reality, we can avoid the disastrous consequences of acting on false or harmful beliefs. This is what distinguishes human intelligence from the trial-and-error learning of other animals." - [Karl Popper, Objective Knowledge: An Evolutionary Approach (1972), Chapter 7, p. 243](https://x.com/QuotePopper/status/2040001064309555325)
 
+Did christ say that the 2nd temple would be destroyed and that the third would be in our hearts?
+    Yes, Jesus explicitly predicted the destruction of the Second Temple (Herod's Temple), saying not one stone would be left upon another. While he did not use the phrase "third temple in our hearts," he indicated that his own body (and by extension, the believer) would be the new, spiritual temple.
+    Key Details regarding Jesus and the Temple:
+    - Destruction Prediction: Jesus prophesied that the Temple would be destroyed, which happened in 70 AD.
+    - "Destroy This Temple": In John 2:19-21, Jesus said, "Destroy this temple, and in three days I will raise it up," referring to his own body.
+    - The New Temple: The New Testament teaches that believers' bodies are temples of the Holy Spirit (1 Corinthians 6:19), shifting the focus from a physical building to a spiritual presence.
+    - Confusion with "Third Temple": While some interpretations focus on a future, literal, third physical temple, the New Testament emphasis is on the spiritual temple established by Jesus.
+perhaps he was right? Maybe there’s no place for a place where physical sacrifices happen anymore? The third temple is conceptual - its in our hearts and minds
+
 The center of the world used to be Jerusalem but will henceforth be conceptual in representation space
+
+What if you dont bash islam too much - any way to make it easier for muslims to convert and not offend them to begin with?
+
+Maybe a party in the us should form with such internal governance
+Whatever comes put of a politician’s mouth should be downstream from such a collective intelligence
+Within identity self governing politics
 
 Its so funny that the first intellectual that had an impact on me was Sam Harris and his the end of faith book, i was repeating everything i had heard about how we dont have free will and that your actions could be predicted multiple seconds before you made the choice based on brain data, and I felt so superior to all these religious dum dums with their silly stories. Its so ironic how much I believe in free will and have faith and am redefining religion and god
 
