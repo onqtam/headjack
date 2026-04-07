@@ -987,7 +987,8 @@ self vs other
 separateness, fragmentation
 one/benefitting at the expense of another
 
-dostoyevsky brothers karamazov - "where there is no god everything is permitted"
+> "If there is no God, everything is permitted." - Fyodor Dostoevsky, The Brothers Karamazov (1880)
+> "Where there is no God, everything is permitted." - Fyodor Dostoevsky, The Brothers Karamazov (1880)
 
 We don’t need to go beyond good and evil - they’re exactly what we need
 We've never gone beyond good and evil - because how could we - we need them more than ever!
@@ -1223,7 +1224,8 @@ no walls to keep people inside by force/coercion - apostasy is kosher - you can 
 Syntropic law: some forgiveness is good if entities confess and reform and align themselves
 Syntropic laws are fundamental parameters to the system configuration - good heuristics
 
-
+"Unlimited tolerance must lead to the disappearance of tolerance. If we extend unlimited tolerance even to those who are intolerant, if we are not prepared to defend a tolerant society against the onslaught of the intolerant, then the tolerant will be destroyed, and tolerance with them." — Karl Popper, The Open Society and Its Enemies, Volume 1, 1945.
+https://x.com/QuotePopper/status/2041222655664095664
 
 in regards to the tension between intolerance and non-coerciveness
     "Do I contradict myself? Very well then I contradict myself, I am large, I contain multitudes."
@@ -1449,5 +1451,4 @@ You're now a missionary
 The final shot - zoomed into the background and exploring it fully
 
 > "The secret to investing is to invest in unstoppable people building inevitable things." - [Naval](https://x.com/naval/status/1996774822949671416)
-
 

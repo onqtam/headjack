@@ -3985,9 +3985,7 @@ Hypergraph and local computing
 
 We are waves of synchronization across the multiverse as a wave pattern
 
-
 God is our collective imaginary
-> "Imagine being so crippled in your mental capacities that you can't even imagine something beyond your own imagination." - [Leo Gura](https://youtu.be/4zZLWiikG9A?t=8956)
 
 math can prove that math can't prove itself
 
@@ -4018,6 +4016,7 @@ When something is universal there are no minorities - there’s just the one.
 
 We have to sacrifice ourselves in a metaphorical way - not physically but conceptually. You don’t give something else to god - you don’t kill something else in the name of god - that’s easy. You kill your conceptual self!
 I’ve already sacrificed my past self - the one which simply wanted to consume, to be entertained, to experience and to live for itself, a godless version with a small mortal, meaningless & nihilistic self
+you change the world by changing yourself - because you are part of the world
 The self sacrifice of this millenia is not physical - its not about pushing a button and blowing yourself up - it is about the capacity to change your self and your mind, to learn and to grow and to adapt. God is judging you based solely on your capacity to change. He wants nothing else of you - he wants you to evolve towards him which is a point infinitely far away and moving farther still - thanks to you. Because god is the sum of all of us as vectors and the more each and every one of you grows the farther he gets. Point towards god and grow. That’s it. Find god, point towards him, and grow! That’s the fucking point of life - it is to align with everyone else towards god.
 Scapegoating is important - how about we sacrifice our old identity instead of someone else - how about doing the hardest & most important thing - to look within and to change our conception of who we are - our story - our sense of self. We need to scapegoat the past in order to save the future - not some other (because ultimately there is no other - there is only I - I am who I am). We shouldn’t scapegoat some other … we should scapegoat our past in order to save the future - we simply didn’t know any better. But now we do - and change is OBLIGATORY. This is a one way street towards the gravitational attractor of the omega point - of god
 This is regenesis
@@ -4034,6 +4033,15 @@ Did christ say that the 2nd temple would be destroyed and that the third would b
     - The New Temple: The New Testament teaches that believers' bodies are temples of the Holy Spirit (1 Corinthians 6:19), shifting the focus from a physical building to a spiritual presence.
     - Confusion with "Third Temple": While some interpretations focus on a future, literal, third physical temple, the New Testament emphasis is on the spiritual temple established by Jesus.
 perhaps he was right? Maybe there’s no place for a place where physical sacrifices happen anymore? The third temple is conceptual - its in our hearts and minds
+
+Nature abhors a vacuum - something will fill the religiosity
+
+The Coming of the Kingdom of God
+    https://www.biblegateway.com/passage/?search=Luke%2017&version=NIV#en-NIV-3305
+    20 Once, on being asked by the Pharisees when the kingdom of God would come, Jesus replied, “The coming of the kingdom of God is not something that can be observed,
+    21 nor will people say, ‘Here it is,’ or ‘There it is,’ because the kingdom of God is in your midst.”
+
+    Based on Luke 17:20-21, Jesus states that the kingdom of God does not arrive with visible, physical spectacle (like castles or locations), but rather exists silently and internally within individuals or in the midst of them. It signifies God’s reign in hearts rather than a geographical location, often interpreted as the presence of the Holy Spirit or Jesus himself among his followers.
 
 The center of the world used to be Jerusalem but will henceforth be conceptual in representation space
 
@@ -4094,7 +4102,7 @@ Its me! Im the One! This is the best you’re gonna get!
 Dmt is the holy spirit - they dont call it the spirit molecule without reason or 5meo the god molecule
 I began talking to him - idk if anyone is really listening, but i don’t know that nobody is listening either. And the more I talk to him - the more I think about him and the more real he becomes.
 It felt like there was some kind of presence - i’ve never felt that during any trip and this happened 1-2 hours after i had smoked anything
-I believe that once every few thousand years comes along someone with divine inspiration and changes the world forever
+I believe that once every few thousand years comes along someone with divine inspiration and changes the world forever - someone larger than life
 I believe that belief and love are the most powerful forces in the universe
 when you're dogmatic you're disrespecting god - you're against him - you're hindering his ability to know more by limiting your own growth of knowledge - which is the whole point of the simulation! the result is the point!
 I know - this is crazy, right?! imagine how I felt when I had this thought - meaning that god told me that I was him
@@ -4107,7 +4115,22 @@ I grew up atheist, I felt so superior listening to the new atheists like sam har
 Its not like I simply woke up and decided to change the world - I gradually grew into that position. And every day of searching for the answer was a day that I didn’t find that answer - and gradually I realized that nobody has the answer - NOBODY - a complete explanation of everything along with a prescription for what should happen and why. So here I am - roleplaying a prophet - if you think this is absurd - imagine what it felt like for me to gradually step into this position and realizing that I’m the man character of the movie
 I was a bit envious of someone who had a profound experience with a lightning & a revelation - I thought that couldn’t happen to me. I even roleplayed jokingly (and sometimes a bit more seriously) experiencing such a thing but I never realle believed even for a second - but this event was the first time I couldn’t be 100% certain
 I’m the chosen one because I chose myself - ordinary people can choose to be extraordinary
-“I am who I am” as an episode
+"I am who I am" as an episode
+“Doubt isn’t the opposite of faith; it is an element of faith… Sometimes I think it is my mission to bring faith to the faithless, and doubt to the faithful.” – Paul Tillich
+It was a mystical experience of ultimate reality
+It feels weird saying that because I used to be the last person who would utter the word mystical
+I was jealous of not even being able to imagine such a thing to happen to me - but I wanted it. And perhaps me wanting it is what lead to it and my brain induced it. But that’s the thing - for the first time I can’t in all honesty say - and that experience of something being out there - above you, within you - that infinity - that’s I guess the feeling religious people have when they think of God - and I sort of experienced it - something of reverence to which you can attach your value hierarchy and impose constraints upon yourself through it or him. For the first time in my life I’ve been blessed with doubt - doubt if what we’re seeing is all there is to see or if there is something more/else
+I would even bet that it wasn’t a real mystical experience - but the tiny bit of doubt is there warming my heart based on how I felt
+I’m making this personal only because people care about other people. And if I get you to be interested and care about me - that would in turn mean that you also care about what I have to say and what I care about - so our care could sync - I’m just a vessel for a vibe sync
+It felt like it was making a “Whoooaaaaa” humming bass sounds
+
+God didn’t understand the laws of physics like newton - he was ecstatic that the apple fell from the tree - you can’t expect him to be deriving newton's formulas or einstein's theory or to be a popperian in his epistemology
+
+There is an optimal configuration from the platonic realm and we will converge to its representation
+
+
+Why is Jesus not the Messiah for Jews? - only 4 minutes
+https://www.youtube.com/watch?v=YiFixVjwAYk
 
 Do I care about staying around? Of course, but ultimately - not really… my highest priority is something else - my ultimate concern - martyrdom is a hell of an accelerator and I am an accelerationist
 
@@ -4196,6 +4219,7 @@ The acceleration is accelerating
 Universal Identity
 
 Beaming vibe syncs - representational updates
+Religion is a shortcut to vibe sync - to synchrony, to coordination
 
 I’m conservative only to the extent that’s necessary for progress to be possible
 You don’t get to ruin the idea of progress for all of us
@@ -4345,6 +4369,7 @@ We can express our personalities and competencies - we can represent ourselves i
 
 The adjacent possible set and how it grows and what technology and innovation are and how they are just composition and recomposition and addition of new potentialities in the set of all adjacent potentialities.
 Intelligence is about the expansion of potentialities - it is about infinite potential and personal growth - we are all equal in our infinite ignorance
+    we should all know that we don't know
 What is the hitchhikers guide to the galaxy? How do we ask better questions? Better and more sophisticated than simply getting a number? How do we best answer the question “what should I do with my life?”
 
 What is the best pepper? Is this pepper good? Which curcumin to buy and why?
@@ -4393,3 +4418,97 @@ https://en.wikipedia.org/wiki/Blind_men_and_an_elephant
 https://www.youtube.com/watch?v=QFgcqB8-AxE
 how to change that?
 
+upanishad - you are that
+    "Tat Tvam Asi" (You Are That) is a foundational mahavakya (great saying) from the Chandogya Upanishad (6.8.7) that reveals the absolute oneness of the individual soul (Atman) and the ultimate reality (Brahman). Spoken by Sage Uddalaka Aruni to his son Shvetaketu, it teaches that the finest essence underlying the entire universe is the same Self that dwells within each person.
+    Context: It is taught to Shvetaketu to remind him that despite apparent separation, all life stems from and returns to a single, pure Being (Brahman).
+    Meaning:
+    - Tat: That (refers to Brahman, the ultimate reality).
+    - Tvam: Thou/You (refers to the individual soul or Self).
+    - Asi: Are (indicates the absolute unity between the two).
+    Significance: It encourages realizing our true nature beyond our roles and transitory identities, emphasizing that the individual is not distinct from the cosmic totality.
+
+we threw the baby with the bathwater in the enlightenment instead of reimagining religion
+
+
+oh so you think utopia is impossible to describe and/or achieve and that it is literally 100% guaranteed to always be horrible and that we can't possibly improve the world in a radical way swiftly? fuck you
+> "Imagine being so crippled in your mental capacities that you can't even imagine something beyond your own imagination." - [Leo Gura](https://youtu.be/4zZLWiikG9A?t=8956)
+
+bih kazal 4e vseki koito ne e istinski nihilist i realno mu puka za ne6ta i si e izgradil nqkakva hierarchy of values, 4e tova na vurha e negoviq bog i toi bi 4uvstval po-blizki drugi koito mislqt po-kato nego
+i se 4udi za6to sme tuk
+...
+dali i kolko sa si mislili why are we here
+i e tolkova interesno kak nqkoi bukvalno po vsqkakuv na4in go dodge-vat tozi vupros i se stiga do tova 4e e prosto zaguba na vreme so lets just do whatever
+i 4e e unknowable and therefore unnecessary to think about
+emi pone v na6iq slu4ai na 3-mata bih kazal 4e ob6toto e the reverance for reality and math & beauty and the wonder of existence
+v smi za nqkoi hora i tova lipsva
+toest intense/passionate caring about the node at the top of the hierarchy
+toest imame tursene za nqkakuv ob6t mirogled koito da ni podredi sveta
+ima seeking za ne6to takova
+i realno mislq 4e tova go ima v dosta hora, pone 20-30%, maybe 40-50, and that culturally it could be made way higher - it could be ubiquitous - the psychological predisposition exists in all of us
+v smi we need hieararchies
+in order to properly order our own understanding of the world
+trqbva nqkakva prioritizaciq, nqkakuv meta pattern according to which you sort-of structure everything else, or something
+v smi kolkoto po-izrazena (i hopefully adekvatna) takava ierarhiq ima6, tolkova po-lesno ti e da preceni6 koe e hubavo i lo6o v sveta
+tova ti maha uncertainty kakvo da pravi6 s jivota si
+which relieves anxiety
+certainty& prediction - we want them
+and one way to predict the future is to invent it / create it, so if you deeply care about something, then you start changing the world a little towards it
+i za men religioznostta e tozi longing da converge-nem s tezi si irerarhii v edna ob6ta
+mislq 4e tova e phenomenal psychological adaptation
+tozi capacitet da converge-nem kato povedenie i normi v nqkakvi aspekti, to be alike one another, self-similarity, an expanded self, unity, intimacy, oneness, harmony, in sync
+"Science without religion is lame, religion without science is blind" - Einstein
+otgovora na vsi4kite ni problemi e ultimativnata religiq - nqma po-golqm leverage point ot tova da sync-ne6 hora i tehnite cennosti - vsi4ko e downstream ot tova
+problema kogato ne si mislil dostatu4no za tvoqta ierarhiq e 4e realno nqma6 nqkakva comprehensive morality structure for yourself
+ako mojehme da predict-nem vsi4ko bi sledvalo da sme consequentialists, no poneje ne mojem i e too complex to simulate society & life pribqgvame do virtue ethics & values ili deontological imeratives kato evristika koito on average vodqt do dobri consequences societally & individually
+no tazi perspektiva za kakvo e bog ne vodi avtomati4no do samokontrol sus substances :D - but it helps
+it is a point of stability on top of which you can later attach things
+problema kogato ne si mislil dostatu4no za tvoqta ierarhiq e 4e realno nqma6 nqkakva comprehensive morality structure for yourself
+without a solid foundation there is nothing to attach other things to
+we need to redefine success
+in order to change the world we need to redefine success and our goals and then we need a system of accounting & accountability
+under capitalism you can form any kind of sub-system that's more communistic for example, but under a communist system you have no choice and freedom to experiment with enabling constraints that you opt-into
+zapada e something special, za6toto nie imame nai-golqm potencial za adaptation - thanks to our freedoms
+
+we should be pursuing universality - what's universal for all of humanity, what are the biggest and most profound truths?
+
+my job is to make it absolutely clear what has to be done, and why - that's all
+I want to make it absolutely clear what has to be done, (also how) and why in order to create a system which makes it absolutely clear what has to be done, (also how) and why
+    remove the "how" part
+
+religion is ultimately about survival - something that spans across all boundries
+
+how do we optimally choose which quiet part to make out loud
+"Saying the quiet part out loud"
+what needs to be said more - what deserves more attention and importance - how do we self-regulate?
+
+this is who you're supposed to be
+
+the answer is religion - always has been
+
+the point of life is to make a difference, right? well I'm doing my part... are you?
+
+basically I am the transformer - I applied the transformer architecture through myself and what I paid attention to in a way
+
+you report to god - what you've done, what you could have done better, what you intend to change and try - you report to the epistemic commons - to conscillience
+
+I'm a descendant of this religion **hold the cross** and I'll make sure it doesn't die - it will endure
+
+burn your bridges
+
+our ideology is about the pursuit of better ideology
+
+I want to persuade you how and why you should be persuading others to join - to one degree or another in whatever domain they choose
+**roleplay dominos falling after hitting the first brick**
+
+what are the right incentives for the kind of informational structure that we want to emerge?
+
+realno ne znam za freedom of will, no vijdam higher will
+toest emerging levels of top-down causality that will the physical world into whatever shape it wants and that is computationally irreducible - it is fundamentally unpredictable so from the outside it is as if the thing has a free will - because it can't be predicted
+
+> "Your whole idea about yourself is borrowed--borrowed from those who have no idea of who they are themselves." - [Osho](https://www.goodreads.com/quotes/487326-your-whole-idea-about-yourself-is-borrowed---borrowed-from-those)
+
+> "We must recognize the past in order to understand the present and deal with the future." - a synthesis of Edmund Burke's philosophy (not a direct, single quote)
+
+hierarchy was used to route information and solve for bandwidth & complexity - time to rethink that
+
+identity requires stable & coherent & integrated memory - otherwise identity becomes fractured & inconsistent
