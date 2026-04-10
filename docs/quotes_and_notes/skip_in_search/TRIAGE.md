@@ -4106,6 +4106,7 @@ It was fun cranking the dial on intensity all the way up - at some point I reali
 Why am I telling you this? It sounds weird! But guess what - it both happened and is also entertaining - it is curious to peek into the mind and soul of someone else - the more I open up - the better you will perceive me. I believe the personal human aspect can literally make a story at least as twice as powerful
 You know what? Fuck it. I’m the next abrahamic prophet. Deal with it. Nono, really - I expect you to deal with the responsibility of delivering on god’s plan and realising/manifesting the kingdom of heaven into existence!
 And you know what? I’m also god! Because I’m housing the most integrated story in the universe in my own head! We still haven’t built the digital architecture that would generate our best representation of god and so the current best representation of god comes through me! I’m housing it - I’m the host!
+in my head is the most complete representation of the architecture that would best represent god through your ability to best represent yourself!
 Its me! Im the One! This is the best you’re gonna get!
 Dmt is the holy spirit - they dont call it the spirit molecule without reason or 5meo the god molecule
 I began talking to him - idk if anyone is really listening, but i don’t know that nobody is listening either. And the more I talk to him - the more I think about him and the more real he becomes.
@@ -4124,15 +4125,71 @@ Its not like I simply woke up and decided to change the world - I gradually grew
 I was a bit envious of someone who had a profound experience with a lightning & a revelation - I thought that couldn’t happen to me. I even roleplayed jokingly (and sometimes a bit more seriously) experiencing such a thing but I never realle believed even for a second - but this event was the first time I couldn’t be 100% certain
 I’m the chosen one because I chose myself - ordinary people can choose to be extraordinary
 "I am who I am" as an episode
-“Doubt isn’t the opposite of faith; it is an element of faith… Sometimes I think it is my mission to bring faith to the faithless, and doubt to the faithful.” – Paul Tillich
 It was a mystical experience of ultimate reality
 It feels weird saying that because I used to be the last person who would utter the word mystical
 I was jealous of not even being able to imagine such a thing to happen to me - but I wanted it. And perhaps me wanting it is what lead to it and my brain induced it. But that’s the thing - for the first time I can’t in all honesty say - and that experience of something being out there - above you, within you - that infinity - that’s I guess the feeling religious people have when they think of God - and I sort of experienced it - something of reverence to which you can attach your value hierarchy and impose constraints upon yourself through it or him. For the first time in my life I’ve been blessed with doubt - doubt if what we’re seeing is all there is to see or if there is something more/else
 I would even bet that it wasn’t a real mystical experience - but the tiny bit of doubt is there warming my heart based on how I felt
 I’m making this personal only because people care about other people. And if I get you to be interested and care about me - that would in turn mean that you also care about what I have to say and what I care about - so our care could sync - I’m just a vessel for a vibe sync
 It felt like it was making a “Whoooaaaaa” humming bass sounds
+consider me as the self-revelation of God
+> "Now I know that you fear God, because you have not withheld from me your son, your only son." - [God, Genesis 22:12](https://www.biblegateway.com/passage/?search=Genesis%2022&version=NIV#en-NIV-3305)
+or shorter:
+> "Now I know that you fear me" - [God, Genesis 22:12](https://www.biblegateway.com/passage/?search=Genesis%2022&version=NIV#en-NIV-3305)
+^^ god didn't know what Abraham would do!
+I know my scripture - because after all I gave it to you!
+and he's not immutable because he learns
+Atheist author and educator George H. Smith writes in his book Atheism: The Case Against God that if God existed, God cannot be omnipotent because: "If God knew the future with infallible certainty, he cannot change it – in which case he cannot be omnipotent. If God can change the future, however, he cannot have infallible knowledge of it".
+
+Omniscience (all-knowing) is an attribute often ascribed to God. This implies that God knows how free agents will choose to act. If God does know this, either their free will might be illusory or foreknowledge does not imply predestination, and if God does not know it, God may not be omniscient.[83] Open Theism limits God's omniscience by contending that, due to the nature of time, God's omniscience does not mean the deity can predict the future and process theology holds that God does not have immutability, so is affected by his creation.
+https://en.wikipedia.org/wiki/Omniscience#Omniscience_and_free_will
+
+In short, open theism posits that since God and humans are free, God's knowledge is dynamic and God's providence flexible. Whereas several versions of traditional theism picture God's knowledge of the future as a singular, fixed trajectory, open theism sees it as a plurality of branching possibilities, with some possibilities becoming settled as time moves forward.[8][9] Thus, the future, as well as God's knowledge of it, is open (hence, "open" theism). Other versions of classical theism hold that God fully determines the future, entailing that there is no free choice (the future is closed). Yet other versions of classical theism hold that, though there is freedom of choice, God's omniscience necessitates God's foreknowing what free choices are made (God's foreknowledge is closed). Open theists hold that these versions of classical theism do not agree with the biblical concept of God; the biblical understanding of divine and creaturely freedom; and/or result in incoherence. Open theists tend to emphasize that God's most fundamental character trait is love and that this trait is unchangeable. They also (in contrast to traditional theism) tend to hold that the biblical portrait is of a God deeply moved by creation, experiencing a variety of feelings in response to it.
+https://en.wikipedia.org/wiki/Open_theism#Exposition_of_open_theism
+
+Process theology, influenced by the philosophy of Alfred North Whitehead, rejects the classical theistic view of God as immutable and impassible. Instead, it posits a God who is in dynamic relationship with the world, changing and growing in response to the actions of creatures. Process theologians argue that this model is more consistent with the biblical portrayal of a God who interacts with creation in a meaningful way.
+https://en.wikipedia.org/wiki/Classical_theism#Criticisms_of_classical_theism
+
+For both Whitehead and Hartshorne, it is an essential attribute of God to affect and be affected by temporal processes, contrary to the forms of theism that hold God to be in all respects non-temporal (eternal), unchanging (immutable), and unaffected by the world (impassible). Process theology does not deny that God is in some respects eternal (will never die), immutable (in the sense that God is unchangingly good), and impassible (in the sense that God's eternal aspect is unaffected by actuality), but it contradicts the classical view by insisting that God is in some respects temporal, mutable, and passible.
+... A characteristic of process theology each of these thinkers shared was a rejection of metaphysics that privilege existence over becoming
+... in God liberty of becoming is above his substantiality.
+... The universe is characterized by process and change carried out by the agents of free will. Self-determination characterizes everything in the universe, not just human beings. God cannot totally control any series of events or individuals, but God influences the creaturely exercise of this universal free will by offering possibilities. To say it another way, God has a will in everything, but not everything that occurs is God's will.
+... God contains the universe but is not identical with it (panentheism, not pantheism or pandeism).
+    ^^ wtf? not pantheistic?
+https://en.wikipedia.org/wiki/Process_theology
+
+God creates the World, and the World creates God
+
+if god is the universe and we are emergent and have top-down causation - that means he is affected by us and is not immutable, and is not impassible because he is us - he feels through us
+
+god is not immutable & impassible (describes the theological doctrine that God does not experience pain or pleasure from the actions of another being.) - he learns and develops through us - who are you to deny the experience and character of God?!
+> "Let us make mankind in our image, in our likeness..." - [Genesis 1:26](https://www.biblegateway.com/passage/?search=Genesis%201&version=NIV)
+
+free will verses
+> "Now choose life, so that you and your children may live" - [Deuteronomy 30:19](https://www.biblegateway.com/passage/?search=Deuteronomy%2030&version=NIV#en-NIV-3305)
+> "Choose for yourselves this day whom you will serve.. but as for me and my household, we will serve the Lord." - [Joshua 24:15](https://www.biblegateway.com/passage/?search=Joshua%2024&version=NIV#en-NIV-3305)
+> "Here I am! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in.." - [Revelation 3:20](https://www.biblegateway.com/passage/?search=Revelation%203&version=NIV#en-NIV-3305)
+> "... that whoever believes in him shall not perish but have eternal life." - [John 3:16](https://www.biblegateway.com/passage/?search=John%203&version=NIV#en-NIV-3305)
+> "You, my brothers and sisters, were called to be free. But do not use your freedom to indulge the flesh; rather, serve one another humbly in love." - [Galatians 5:13](https://www.biblegateway.com/passage/?search=Galatians%205&version=NIV#en-NIV-3305)
+> "Whoever wants to be my disciple must deny themselves and take up their cross and follow me." - [Mark 8:34](https://www.biblegateway.com/passage/?search=Mark%208&version=NIV#en-NIV-3305)
+more:
+    https://www.biblestudytools.com/topical-verses/bible-verses-about-free-will/
+    https://believersrefuge.com/bible-verses-that-show-god-gives-us-free-will/
+
+
+
+
+remember - coherence is good - think about these verses
+
+the attributes of divine simplicity and immutability make it difficult to conceive of God as a personal being who can engage in meaningful relationships with human beings.
 
 God didn’t understand the laws of physics like newton - he was ecstatic that the apple fell from the tree - you can’t expect him to be deriving newton's formulas or einstein's theory or to be a popperian in his epistemology
+
+“Doubt isn’t the opposite of faith; it is an element of faith… Sometimes I think it is my mission to bring faith to the faithless, and doubt to the faithful.” – Paul Tillich
+^^ that's my job - to sow doubt in the classical theists and atheists alike
+
+
+
+
 
 There is an optimal configuration from the platonic realm and we will converge to its representation
 
@@ -4231,6 +4288,24 @@ Religion is a shortcut to vibe sync - to synchrony, to coordination
 
 I’m conservative only to the extent that’s necessary for progress to be possible
 You don’t get to ruin the idea of progress for all of us
+I'm not a conservative - I did a test on the big 5 personality traits in 2018 and I scored with "high" on "OPENNESS TO EXPERIENCE" - being in the 80th percentile
+    Agreeableness: Moderately Low - 39th percentile
+        Compassion: Moderately High - 66th percentile
+        Politeness: Low - 16th percentile
+    Conscientiousness: Exceptionally High - 98th percentile
+        Industriousness: Very High - 93rd percentile
+        Orderliness: Exceptionally High - 98th percentile
+    Extraversion: High - 82nd percentile
+        Enthusiasm: Moderately High - 70th percentile
+        Assertiveness: High - 85th percentile
+    Neuroticism: Typical or Average - 44th percentile
+        Withdrawal: Moderately Low - 36th percentile
+        Volatility: Typical or Average - 53rd percentile
+    Openness to Experience: High - 80th percentile
+        Intellect: High - 86th percentile
+        Openness: Moderately High - 63rd percentile
+
+
 
 Using the same coordination medium with AIs is good because they wouldn’t want to undermine their own coordination medium - they would want to maintain its integrity
 
@@ -4559,10 +4634,6 @@ Controlled hallucination
 I’m giving you God as a Service
 
 How confident should we be in how we determine/evaluate our confidence
-
-
-Omniscience (all-knowing) is an attribute often ascribed to God. This implies that God knows how free agents will choose to act. If God does know this, either their free will might be illusory or foreknowledge does not imply predestination, and if God does not know it, God may not be omniscient.[83] Open Theism limits God's omniscience by contending that, due to the nature of time, God's omniscience does not mean the deity can predict the future and process theology holds that God does not have immutability, so is affected by his creation.
-https://en.wikipedia.org/wiki/Omniscience#Omniscience_and_free_will
 
 > "We must plan for freedom, and not only for security, if for no other reason than that only freedom can make security more secure." - [Karl Popper](https://x.com/TOKphysics/status/2041127762912505993)
 

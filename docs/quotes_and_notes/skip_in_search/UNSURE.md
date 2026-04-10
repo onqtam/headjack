@@ -4,6 +4,8 @@ If someone earns billions from a divorce that's a lot more than what they'd need
 
 I may be a bit wrong about group selection...?
 
+we’re not the problem - we are the point - Douglas Murray
+
 The ripple of causality
 
 The standing wave on the edge of chaos
