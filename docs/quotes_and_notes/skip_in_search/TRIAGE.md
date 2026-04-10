@@ -1325,7 +1325,14 @@ you can't have agitators in a digital protest
 The open transparency network/overlay of society
 Transparency as a service
 
+Eradicate hypocrisy & double standards
 No more frame control, no more double standards
+
+You don’t want to be a useful idiot
+
+O - O - deep voice => authority - like an ape
+
+“The polls say” - the news is fake, the history is fake, but the polls say…? Make polls great again!
 
 Its time to look at the most fundamental structural issues - and that is status
 
@@ -2472,9 +2479,9 @@ The 3 versions of the book and why u rushed this one
 
 Code based order is the only way towards a rules based order
 
-Witgenstein quote - to understand is to know what to do
+> "To understand is to know what to do." - [Ludwig Wittgenstein](https://www.goodreads.com/quotes/10113979-to-understand-is-to-know-what-to-do)
 
-Eradicate hypocrisy & double standards
+> "... only if you try to be helpful to other people will you in the end find your way to God." - [Ludwig Wittgenstein](https://www.goodreads.com/quotes/80925-if-you-and-i-are-to-live-religious-lives-it)
 
 Evil is selfishness - a small self
 
@@ -2586,6 +2593,7 @@ Qualified vote == not everybody can vote or have equal vote
 Captain obvious - make a shield out of cardboard
 
 Every single personal perspective is inherently wrong (and to different degrees in different aspects) - what we need to focus on is a process of cancelling the bias and aggregating as much information and context as possible with the aim of coming as close to the truth as possible. We need to move past specific biased and partial personalities and towards a process philosophy. And we can make talking heads great again - by conveying the result of the process. Statements from talking heads should be downstream from comprehensive debate maps with adequate processes & checks
+    Right now talking heads in podcastistan are sensemaking by themselves - what if they attached to a higher & shared sensemaking structure and simply retransmitted?
 
 People have a disincentive to speak against bad policies of their own party because that would give credence to the opposition that are against those same bad policies and thus the first party has less error correction feedback and is like a herd of sheep walking towards the cliff. People censor themselves to not critique their party as to not concede points to the other side
 
@@ -3471,7 +3479,6 @@ If we get the constraints and dynamics right its GG
 Everything above the base layer in maslow’s hierarchy is about identity
 
 By the end you and me will have taken over the world in the most literal sense
-Digital borders, openness, subversion, demoralization
 
 Most of us are wrong on most thing! Wrong to different degrees, but wrong nonetheless!
 
@@ -4022,6 +4029,7 @@ Scapegoating is important - how about we sacrifice our old identity instead of s
 This is regenesis
 the third temple is a story - not a physical place - no more sacrifice of animals - we sacrifice our bad ideas now
 Redefine sacrifice
+it is morally right to change your mind when presented with good arguments and evidence - even if uncomfortable
 the most stable identity - the one that will endure - is the one that embraces change & adaptation and approaches it in a rigorous way
 > "Intelligence, in the sense of the ability to learn from experience, is a product of natural selection. But its greatest survival value lies not merely in adapting to the environment, but in the ability to criticize and reject ideas. The survival value of intelligence is that it allows us to extinct a bad idea, before the idea extincts us. This is the essence of the critical method: we let our hypotheses die in our stead, as I have often put it. By criticizing our ideas, by testing them against reality, we can avoid the disastrous consequences of acting on false or harmful beliefs. This is what distinguishes human intelligence from the trial-and-error learning of other animals." - [Karl Popper, Objective Knowledge: An Evolutionary Approach (1972), Chapter 7, p. 243](https://x.com/QuotePopper/status/2040001064309555325)
 
@@ -4337,6 +4345,8 @@ Brainwashing is like sleep - you wash away - you clear the errors, you get the u
 God is infinite value
 
 You dont believe ai’m a prophet? I’m more prophet than professor Jiang is a professor - that agent of demoralization and foreign propaganda that is surgical in precision - he is the modern version of what Yuri Bezmenov described 42 years ago - that’s why we need digital borders - to not be eroded so easily from within which is a failure mode of classical liberalism - and its so sad to have to say “classical” to distinguish it from today’s “liberals” - the apple didn’t fall far from the tree - it simply rotted
+    Digital borders, openness, subversion, demoralization
+    ideological subversion
 
 Don’t look up? We’ve been told to not look up to god
 
@@ -4512,3 +4522,47 @@ toest emerging levels of top-down causality that will the physical world into wh
 hierarchy was used to route information and solve for bandwidth & complexity - time to rethink that
 
 identity requires stable & coherent & integrated memory - otherwise identity becomes fractured & inconsistent
+
+> "The enemy is that which divides to sow discord, the enemy is the pride and fear that stops us from lending a hand across the divide." - [Jordan Peterson](https://x.com/newstart_2024/status/2040486779174715741)
+
+this is a perspective on perspective taking
+
+when you're a lesser version of yourself you're not only taking potential away from yourself and god but also from everyone else in your life, which in turn takes away from everyone else in their life, ad infinitum
+which also takes away from god
+we are one - everything affects everything else
+
+Fairness requires proper accounting and accountability
+
+You can directly feel the rise of fuel prices, but not the compounding dysfunction, misalignment & inefficiency of your system, and how much more that affects you
+
+Ultimately, we are superior to any other group in only 1 way: epistemologically - everything else is downstream from that. And thanks to our epistemology we know how and why we should teach others and help them join us. It’s all about truth - always has been. The real us-vs-them is about those who are closer to truth vs those that could also be as close. And there is one truth because reality is one.
+God (truth) doesn’t choose people - people choose God (truth). There are no chosen ones besides those that have chosen themselves. There is no special bloodline or gene. By designating yourself as “chosen” you shit on your own capacity for choice and to exercise free will.
+^^ not sure about this - maybe structurally and not epistemologically?
+
+the more I know the more I know how much I dont know
+    the adjacent possible, the need for diversification & specialization & coordination & trust & delegation
+
+we offer security, status, friendship, family, community, meaning, purpose, financial support, spiritual connection, approval, love, feeling special, a sense of identity, legitimate wisdom
+we have a special place in history
+
+> "Religious societies eat secular societies for breakfast." - [Ali Tabrizi](https://youtu.be/xw6jQYyiEIY?t=2164)
+^^ not entirely sure, depends on the religion
+
+Le'om (לאום) is a Hebrew noun meaning "nation," "people," or "community," often denoting a group bound together, frequently used in the Bible to describe foreign nations or collectively assembled peoples. It implies a distinct, often large, organized group or polity.
+
+Balaji Srinivasan has a nice one-liner that resonates: Independent verification over prestigious citations
+
+Penalties have to scale with expected profits - that’s the way to deal with the "cost of doing business" problem
+
+Controlled hallucination
+
+I’m giving you God as a Service
+
+How confident should we be in how we determine/evaluate our confidence
+
+
+Omniscience (all-knowing) is an attribute often ascribed to God. This implies that God knows how free agents will choose to act. If God does know this, either their free will might be illusory or foreknowledge does not imply predestination, and if God does not know it, God may not be omniscient.[83] Open Theism limits God's omniscience by contending that, due to the nature of time, God's omniscience does not mean the deity can predict the future and process theology holds that God does not have immutability, so is affected by his creation.
+https://en.wikipedia.org/wiki/Omniscience#Omniscience_and_free_will
+
+> "We must plan for freedom, and not only for security, if for no other reason than that only freedom can make security more secure." - [Karl Popper](https://x.com/TOKphysics/status/2041127762912505993)
+

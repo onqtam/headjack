@@ -166,7 +166,7 @@ explainer for his tweet:
 https://x.com/CernBasher/status/1984286504596726061
 
 
-> "That the truth consists of hard to vary assertions about reality is the most important fact about the physical world." - [David Deutch](https://www.youtube.com/watch?v=folTvNDL08A&t=973s)
+> "That the truth consists of hard to vary assertions about reality is the most important fact about the physical world. It’s a fact that is itself unseen, yet impossible to vary." - [David Deutch](https://www.youtube.com/watch?v=folTvNDL08A&t=973s)
 
 
 
@@ -185,6 +185,27 @@ https://www.youtube.com/watch?v=C-Q2K0bLuSk
 > "The only way to test a hypothesis is to look for all the information that disagrees with it." - [Karl Popper](https://www.azquotes.com/quote/1407281)
 
 > "The growth of knowledge depends entirely upon disagreement." - [Karl Popper](https://www.azquotes.com/quote/1268891)
+
+
+> "The main instigation for the search of truth is really that we see new problems. The discovery of new problems can be more important than the solution of the problems. I think this is perhaps the most important thing in science and is the result of an attitude which does not go for certainty, but goes for where we fail for the uncertainty. There are the problems where we do not find satisfaction and certainty. There we should go on digging." - [Karl Popper](https://x.com/QuotePopper/status/2039124962091442293)
+
+> "Human mistakes are made because one can sometimes give good reasons for a thing to be true, and bad reasons for a thing to be true, but never conclusive reasons for a thing to be true. One cannot generally distinguish between truth and falsehood by a criterion." - [Karl Popper](https://x.com/QuotePopper/status/2042152268061872288)
+^^ a longer version of this quote:
+    https://x.com/QuotePopper/status/1930309428240138442
+
+> "We all have our philosophies, whether or not we are aware of this fact, and our philosophies are not worth very much. But the impact of our philosophies upon our actions and our lives is often devastating. This makes it necessary to try to improve our philosophies by criticism." - [Karl Popper](https://x.com/QuotePopper/status/2041464889600856171)
+
+> "State power must always remain a dangerous though necessary evil. But it should be a warning that if we relax in our watchfulness, and if we do not strengthen our democratic institutions while giving more power to the state by interventionist 'planning', then we may lose our freedom. And if freedom is lost, everything is lost, including 'planning'. For why should plans for the welfare of the people be carried out if the people have no power to enforce them?
+>
+> Only freedom can make security secured. We thus see that there is not only a paradox of freedom but also a paradox of state planning. If we plan too much, if we give too much power to the state, then freedom will be lost, and that will be the end of planning." - [Karl Popper](https://x.com/QuotePopper/status/1924223040646217993)
+
+> "We must plan for freedom, and not only for security, if for no other reason than that only freedom can make security more secure." - [Karl Popper](https://x.com/TOKphysics/status/2041127762912505993)
+
+> "For institutions, like levers, are needed if we want to achieve anything which goes beyond the power of our muscles. Like machines, institutions multiply our power for good or evil." - [Karl Popper](https://x.com/TOKphysics/status/2041673186496893325)
+
+> "The war of ideas is a Greek invention. It is one of the most important inventions ever made. Indeed, the possibility of fighting with words and ideas instead of fighting with swords is the very basis of our civilization." - [Karl Popper](https://x.com/TOKphysics/status/2040948275272896878)
+
+
 
 instead of creators monetizing attention and competing with one another to say the same things but in a better packaged way, we should be pooling money in a common pool and then redistributing it based on simply voting who contributed the most with their weights in sorting the signal from the noise, and then either incentivise content creators to make videos on those crowdsourced rankings, or even use AI
 
@@ -295,8 +316,7 @@ From capital formation to attentional formation/direction
 
 How do we better solicit relevant information at scale?
 
-What we need and what we want is to moralize politics, not to politicize morals. — Karl Popper
-https://x.com/TOKphysics/status/1958138147780415786
+> "**What we need and what we want is to moralize politics, not to politicize morals;** and this can be done only if we accept the idea that political institutions must be judged by the way in which they meet our critical standards." — [Karl Popper](https://x.com/QuotePopper/status/1923603794190909575)
 
 Behavioural investment theory == optimal foraging
 
@@ -1315,6 +1335,7 @@ https://www.noemamag.com/life-need-not-ever-end/
 
 > "This process need never come to an end. There are no inherent limits to the growth of knowledge and progress." - [David Deutsch](https://roadtoomega.substack.com/p/the-purposeful-universe-why-the-emergence#:~:text=This%20process%20need%20never%20come%20to%20an%20end.%20There%20are%20no%20inherent%20limits%20to%20the%C2%A0growth%20of%20knowledge%20and%20progress.)
 
+> "Knowledge is information that has causal power." - [David Deutsch](https://x.com/TOKphysics/status/2040313624095298006)
 
 
 > "Leadership is ... about being the most resonant node inside the most intelligent network." - [Hanzi Freinacht](https://x.com/HFreinacht/status/1998494980956885074)
@@ -5138,7 +5159,10 @@ How do we remove certain evolutionary niches of degeneracy and lack of values? H
 
 How do we add incentives and disincentives that aren’t dependent on the legislature?
 
-Here is why travel is good when done right - why everyone should have a right to visit other cultures
+> "It is morally bad to (privately) deviate from a coordinated equilibrium, but morally good to (publicly) deviate in pursuit of a superior equilibrium" - [Oliver Scott Curry](https://x.com/Oliver_S_Curry/status/2036021615280996545)
+^^ todo read the linked paper:
+Mutual observability determines when precedent is moralized in multi-agent coordination games
+https://osf.io/preprints/psyarxiv/b94np_v1
 
 Private sufficiency and public luxury
 

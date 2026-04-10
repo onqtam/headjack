@@ -368,7 +368,7 @@ we need to give scaffolding for people to express their causal model of the worl
 # understanding
 ██████████████████████████████████████████████████████████████████
 
-> "That the truth consists of hard to vary assertions about reality is the most important fact about the physical world." - [David Deutch](https://www.youtube.com/watch?v=folTvNDL08A&t=973s)
+> "That the truth consists of hard to vary assertions about reality is the most important fact about the physical world. It’s a fact that is itself unseen, yet impossible to vary." - [David Deutch](https://www.youtube.com/watch?v=folTvNDL08A&t=973s)
 
 How do we better understand what understanding even is?
 Foundational, firm, solid, dependable, necessary
@@ -402,6 +402,9 @@ explanation == an account of why rather than what, an account of what is really 
 Occam’s razor (My formulation) Do not complicate explanations beyond necessity, because if you do, the unnecessary complications themselves will remain unexplained. - by david
 
 
+> "Good explanations are hard to come by because every part of the explanation must have a functional role that cannot be easily swapped out for any other phenomena." - [Brett Hall](https://x.com/TOKphysics/status/2041218788213825626)
+
+
 a theory that ‘sticks its neck out’ by being more specific about more phenomena opens up itself and its rivals to more forms of criticism, and therefore has more chance of taking the problem-solving process forward.
 
 
@@ -413,6 +416,8 @@ Familiarity
 
 
 we seek explanations that remain robust when we test them against those flickers and shadows, and against each other, and against criteria of logic and reasonableness and everything else we can think of.
+
+https://nav.al/vary
 
 ## from AIs
 
@@ -1181,6 +1186,8 @@ Syntropy
     A tendency towards complexity, structure, order, and organization of ever more advantageous and orderly patterns. Originally coined as a synonym for negentropy (the opposite of entropy)
     often contrasted with the concept of entropy
 
+Syntropic laws are hyperparameters
+
 Syntropic laws - symmetry
 law #1: accountability shall scale with consequentiality
 
@@ -1216,6 +1223,8 @@ Syntropic law: make the omelette without breaking a few eggs
 Competence > loyalty
 Excessive unproductive rent seeking
 Intolerance only to the intolerant
+    freedom of religion and classical liberalism was conceived in a very different context where a clash of civilizations wasn't taking place from within
+    No more freedom of religion - only freedom of compatible religion
     don't be a doormat
     this rule overrides golden rule & others when they're in conflict
         or don't say this - this is messy - don't try to resolve these ambiguities in a simplistic way - leave ambiguity
