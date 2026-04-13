@@ -178,7 +178,7 @@ What is the single most important question for our species? On what does everyth
 
 What is the most important thing? Something everything good and worth caring for depends on? What is worth dying for? What is the great enabler?
 It is the ultimate system
-input bias early on - Im the #1 self proclaimed expert on the intersection of … and this is the culmination of the last 4 years of my life - obsession, Im the Architect of The Matrix
+input bias early on - Im a complete nobody and the #1 self proclaimed expert on the intersection of … and this is the culmination of the last 4 years of my life - obsession, Im the Architect of The Matrix
 So let me tell you why.
 We’ll cover collective intelligence and consciousness, incentives, digital ID, culture, causality, the meaning of life, social engineering, and a lot more.
     ... and - ding ding ding! - the meaning of life!

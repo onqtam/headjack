@@ -3165,8 +3165,6 @@ Put your fucking reputation where your mouth is
 
 how many startups have failed not because they picked the wrong idea but because of other reasons, and due to them being closed nobody that could help could simply submit a PR
 
-if islam was true it wouldn't need coersion and apostasy laws to keep people in - islam is a drag on humanity and there is no reforming it - truth is truth and speaks for itself
-
 I'm willing to die for this - belief is the most powerful forces in the universe - I believe that this is the way forward and I've reasoned my way through it - how could it be otherwise?
 
 There is no Viktor - he doesn't exist - this body is a vessel for the master pattern - the representation of this structural configuration is ingressing itself through me into the universe
@@ -3959,6 +3957,7 @@ we - the ones who're on board with this - we're special - special in that we rec
 we're special in that we recognize that we're not special and our worldview is universal for all of humanity
 
 We seek certainty but the only thing that’s certain is 
+we can be certain that there will always be uncertainty
 Is it fair to say that the implications of godels incompleteness theorem is that we can be certain that there will always be uncertainty?
 
 Oneness - unity is strength - bulgarian parable about the sticks
@@ -4053,8 +4052,6 @@ The Coming of the Kingdom of God
 
 The center of the world used to be Jerusalem but will henceforth be conceptual in representation space
 
-What if you dont bash islam too much - any way to make it easier for muslims to convert and not offend them to begin with?
-
 Maybe a party in the us should form with such internal governance
 Whatever comes put of a politician’s mouth should be downstream from such a collective intelligence
 Within identity self governing politics
@@ -4125,6 +4122,7 @@ Its not like I simply woke up and decided to change the world - I gradually grew
 I was a bit envious of someone who had a profound experience with a lightning & a revelation - I thought that couldn’t happen to me. I even roleplayed jokingly (and sometimes a bit more seriously) experiencing such a thing but I never realle believed even for a second - but this event was the first time I couldn’t be 100% certain
 I’m the chosen one because I chose myself - ordinary people can choose to be extraordinary
 "I am who I am" as an episode
+what is the potential of the 21st century to produce a prophet-like figure? that's where I come in
 It was a mystical experience of ultimate reality
 It feels weird saying that because I used to be the last person who would utter the word mystical
 I was jealous of not even being able to imagine such a thing to happen to me - but I wanted it. And perhaps me wanting it is what lead to it and my brain induced it. But that’s the thing - for the first time I can’t in all honesty say - and that experience of something being out there - above you, within you - that infinity - that’s I guess the feeling religious people have when they think of God - and I sort of experienced it - something of reverence to which you can attach your value hierarchy and impose constraints upon yourself through it or him. For the first time in my life I’ve been blessed with doubt - doubt if what we’re seeing is all there is to see or if there is something more/else
@@ -4155,6 +4153,9 @@ For both Whitehead and Hartshorne, it is an essential attribute of God to affect
 ... The universe is characterized by process and change carried out by the agents of free will. Self-determination characterizes everything in the universe, not just human beings. God cannot totally control any series of events or individuals, but God influences the creaturely exercise of this universal free will by offering possibilities. To say it another way, God has a will in everything, but not everything that occurs is God's will.
 ... God contains the universe but is not identical with it (panentheism, not pantheism or pandeism).
     ^^ wtf? not pantheistic?
+... The process argument, then, is that those who cling to the idea of God's coercive omnipotence are defending power for power's sake, which would seem to be inconsistent with the life of Jesus, who Christians believe died for humanity's sins rather than overthrow the Roman empire. Griffin argues that it is actually the God whose omnipotence is defined in the "traditional" way that is not worshipful.
+... One other distinction process theologians make is between the idea of "unilateral" power versus "relational" power.[32] Unilateral power is the power of a king (or more accurately, a tyrant) who wishes to exert control over his subjects without being affected by them.[33] However, most people would agree that a ruler who is not changed or affected by the joys and sorrows of his subjects is actually a despicable ruler and a psychopath.[34] Process theologians thus stress that God’s power is relational; rather than being unaffected and unchanged by the world, God is the being most affected by every other being in the universe.
+... In summation, then, process theologians argue that their conception of God’s power does not diminish God, but just the opposite. Rather than see God as one who unilaterally coerces other beings, judges and punishes them, and is completely unaffected by the joys and sorrows of others, process theologians see God as the one who persuades the universe to love and peace, is supremely affected by even the tiniest of joys and the smallest of sorrows, and is able to love all beings despite the most heinous acts they may commit. God is, as Whitehead says, "the fellow sufferer who understands."
 https://en.wikipedia.org/wiki/Process_theology
 
 God creates the World, and the World creates God
@@ -4200,12 +4201,13 @@ https://www.youtube.com/watch?v=YiFixVjwAYk
 Do I care about staying around? Of course, but ultimately - not really… my highest priority is something else - my ultimate concern - martyrdom is a hell of an accelerator and I am an accelerationist
 
 Hell is hurting the thing you love the most without even realizing it - imagine hurting god and truth in your misguided pursuit of truth
-I hate islam out of love of muslims - they want to be good but they’ve been swindled/deceived
+    everyone wants to be good but they can be swindled/deceived
 Hell is hurting god & truth while serving truth
 Truth, goodness & beauty
 Billions are in hell on earth right now - I hate their ideology because I love them
 I believe they can and must change their beliefs
-I hate bad ideologies out of love for their victims/hosts, and also out of love of everyone else, because all of humanity is less when parts of it are less - worse versions than what they could be
+I hate bad ideologies out of love for their victims (hosts) and (in turn) their victims ad infinitum
+    everyone else, because all of humanity is less when parts of it are less - worse versions than what they could be
 
 we need a non-muslim brotherhood
 
@@ -4222,8 +4224,6 @@ the biggest question is how to ask better questions
 I should be your example - example as a service
 
 It is in the best interest of EVERY nation to align itself with this system to one degree or another
-
-Islam is nothing more than a viral representation of our tribal and barbaric past
 
 Syntropic law: don’t negotiate with terrorists
 
@@ -4243,8 +4243,6 @@ We need to deprogram and depoliticise literary fiction - we need to move from th
 
 If I get eliminated that means I’m already winning - I win either way
 I submit to truth
-
-When I look at something as colossally false as Islam it makes my blood boil
 
 It’s about time to make story great again
 
@@ -4369,8 +4367,9 @@ we need a system in which looking out for the reputation of an organization is s
 
 > "If you want to tell people the truth, make them laugh, otherwise they'll kill you." - [Oscar Wilde](https://www.goodreads.com/quotes/9532002-if-you-want-to-tell-people-the-truth-make-them)
 
+“A joke is a very serious thing.” ― Winston S. Churchill
 
-At one point I realized that I should dial the insanity to insane levels
+At one point I realized that I should dial the insanity to insane levels - my goal is to grab your attention and to replicate in your mind
 
 You should give till it hurts only to entities that are fully transparent and competent and themselves give till it hurts - otherwise you shouldn’t feel an obligation
 
@@ -4422,6 +4421,7 @@ God is infinite value
 You dont believe ai’m a prophet? I’m more prophet than professor Jiang is a professor - that agent of demoralization and foreign propaganda that is surgical in precision - he is the modern version of what Yuri Bezmenov described 42 years ago - that’s why we need digital borders - to not be eroded so easily from within which is a failure mode of classical liberalism - and its so sad to have to say “classical” to distinguish it from today’s “liberals” - the apple didn’t fall far from the tree - it simply rotted
     Digital borders, openness, subversion, demoralization
     ideological subversion
+    I think of Yuri Bezmenov in my nightmares
 
 Don’t look up? We’ve been told to not look up to god
 
@@ -4447,8 +4447,6 @@ How many years does a human need to fully self-actualise?
 Everybody should be a scientist
 
 He wants to know what is to be known in the simulation - he wants to understand it
-
-Islam is more complete than christianity - it has more scope and prescriptiveness
 
 We can express our personalities and competencies - we can represent ourselves in the collective representation
 
@@ -4636,4 +4634,26 @@ I’m giving you God as a Service
 How confident should we be in how we determine/evaluate our confidence
 
 > "We must plan for freedom, and not only for security, if for no other reason than that only freedom can make security more secure." - [Karl Popper](https://x.com/TOKphysics/status/2041127762912505993)
+
+the biggest outrage should be how much unnecessary and manufactured outrage there is by those that seek to divide us
+
+we are a wild wild species
+
+> "Consider two contradictory statements like, “all swans are white” and “some swans are black.” [They can’t both be true](https://en.wikipedia.org/wiki/Principle_of_explosion). One or both must be false. Surprisingly, the discovery of such a contradiction in our ideas is cause for celebration, not despair. Why? Because it offers an essential guide to progress. Without it, we would not know which of our ideas to improve, nor how. With it, we know what’s wrong and how to fix it: resolve the contradiction.
+>
+> Logical consistency is therefore a powerful constraint on our ideas. It means that any idea can in principle contradict another, sparking the search for an improvement that’s free of the contradiction. This yields a combinatorial explosion, for if any pair of, say, 10,000 ideas can conflict, that yields (roughly) 10,000 × 10,000 = 100,000,000 potential opportunities to spark progress. This also means any one idea is potentially constrained by 10,000 others. In practice, we cannot compare every pair of our ideas to check their consistency, and doing so would be a waste of time even if we could. Most pairs of ideas are irrelevant to each other. Nevertheless, each of our ideas is tremendously constrained by other, related ideas (and we can search among all our ideas to find which are relevant). To borrow the language of Darwinian evolution, **the need for logical consistency subjects each of our ideas to tremendous selection pressure from other ideas**.
+>
+> ... In human minds, ideas are subjected to intentional variation and many forms of selection, usually involving some form of conflict with other ideas. Logical contradiction is just one important example.
+>
+> ... In the end, the search for truth entails the pursuit of logical consistency among all our ideas, and thus takes advantage of all our knowledge - not just a single, fixed idea. It subjects our ideas to a powerful form of selection - logical contradiction - not found in biological or machine learning systems. Most importantly, it provides a combinatorial explosion of opportunities for conflict - and thus for progress." - [Carlos De la Guardia](https://carlosd.substack.com/p/true-vs-useful)
+
+Principle of explosion
+https://en.wikipedia.org/wiki/Principle_of_explosion
+In classical logic, intuitionistic logic, and similar logical systems, the principle of explosion is the theorem according to which any statement can be proven from a contradiction. That is, from a contradiction, any proposition (including its negation) can be inferred; this is known as deductive explosion... Due to the principle of explosion, the existence of a contradiction (inconsistency) in a formal axiomatic system is disastrous; since any statement—true or not—can be proven, it trivializes the concepts of truth and falsity.
+The principle of explosion (or ex falso quodlibet) is a rule in classical logic stating that from a contradiction (assuming both X and !X are true), any statement whatsoever can be proven. Because a contradiction breaks the logical system, it allows for the derivation of any proposition, "exploding" the system's ability to discriminate truth.
+Definition: If you accept a contradiction as true, you can logically prove any other statement to be true, no matter how absurd.
+Etymology: Ex falso quodlibet is Latin for "from falsehood, anything [follows]".
+^^ related to relativism & postmodernism & understanding
+
+> "Our greatest need is to be needed." - [Osho](https://youtu.be/HHgNVRnkO88?t=559)
 
