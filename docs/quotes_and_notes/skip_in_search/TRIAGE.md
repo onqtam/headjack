@@ -1355,6 +1355,10 @@ How do we better bet on others? Surface signal? And be rewarded? What is the pre
 
 Fame as a service
 we can reinvent/re-engineer status and fame
+we should rethink fame and celebrity
+We need to redefine fame and status
+Imagine fame in turn for contribution in debate and seeking truth
+Claude Shannon is more important than Beyonce or Andrew Tate
 
 Shared culture as a service
 
@@ -2230,8 +2234,6 @@ Corruption can hide in the shadows only to the extent that they exist - without 
 Fractal description of the system - the deeper you go the more concepts open up that can be explored fractally in their own right
 
 I’m a fine-tuning worshiper - I worship whatever is the reason for these specific values of the constants
-
-We need to redefine fame and status
 
 We can render war obsolete
 Self-governance software as a service
@@ -3183,7 +3185,8 @@ central banks have no say how we devise non-monetary currencies - we can circumv
 I'm a man of my word - joker
 
 represent or be represented - no important entity will get to not participate
-    there is no alternative - you will be modelled ifmyou're deemed of importance to the collective
+    there is no alternative - you will be modelled if you're deemed of importance to the collective
+    there is no alternative - this is the best way to combat corruption - accountability
 If you’re important you don’t get to not participate - you will be represented and evaluated and ranked regardless - its inevitable
 If you are significant - you will be modelled - represent or be represented - there is no other choice for you - the more you’re causally relevant - the more you will exist as a model of an entity in the distributed theory of mind - causal patterns with behaviour need to be modelled and represented
 
@@ -3352,8 +3355,6 @@ We embrace fallibility
 Consciousness lives in the context window
 
 The greatest export of a nation should be ideological - what’s the gross domestic meme production
-
-Imagine fame in turn for contribution in debate and seeking truth
 
 I’m like a cultural compiler which applied whole program optimization by doing a very broad traversal of whatever is important and then integrated it into a coherent whole
 
@@ -4017,6 +4018,7 @@ We need this set of ideas about how to define boundaries to cross all current bo
 
 Our collective identity is of the people who have thought about identity the most thoroughly - of self-similarity
 We are the most collectively conscious and self-aware because we actually know what consciousness and collectivism are about and we are the most familiar with self-awareness and self-reference - so “being the most collectively conscious” is not just something that sounds good but is actually fundamentally true.
+our identity is big in that it tries to expand to as many people as possible, and it is small in that it tries to keep only a few core pillars stable - and even they aren't supposed to be dogmatic - we are flexible to change our minds - we don't identify with the majority of our opinions and ideas. We focus on the fundamental universals.
 
 When something is universal there are no minorities - there’s just the one.
 
@@ -4637,7 +4639,7 @@ How confident should we be in how we determine/evaluate our confidence
 
 the biggest outrage should be how much unnecessary and manufactured outrage there is by those that seek to divide us
 
-we are a wild wild species
+
 
 > "Consider two contradictory statements like, “all swans are white” and “some swans are black.” [They can’t both be true](https://en.wikipedia.org/wiki/Principle_of_explosion). One or both must be false. Surprisingly, the discovery of such a contradiction in our ideas is cause for celebration, not despair. Why? Because it offers an essential guide to progress. Without it, we would not know which of our ideas to improve, nor how. With it, we know what’s wrong and how to fix it: resolve the contradiction.
 >
@@ -4656,4 +4658,9 @@ Etymology: Ex falso quodlibet is Latin for "from falsehood, anything [follows]".
 ^^ related to relativism & postmodernism & understanding
 
 > "Our greatest need is to be needed." - [Osho](https://youtu.be/HHgNVRnkO88?t=559)
+^^ it means we are necessary, and a god that's composed of you truly needs you, and since he is helping his constituent parts, by helping him you help everyone else so everyone needs you because you are part of him
+
+we will be error correcting how we do error correction
+
+"When exposing a crime is treated as committing a crime, you are being ruled by criminals" - Edward Snowden
 

@@ -5,6 +5,8 @@ https://www.google.com/search?q=keiretsu
 > "The economy is (tacit) knowledge & knowhow in the brains of people about how to do things in the real world." - Ricardo Hausmann
 
 
+
+
 so much volatility stems from the separateness of liquidity and valuation
 > "The market is like a large movie theater with a small door." - [Skin in the Game - Hidden Asymmetries in Daily Life, by Nassim Nicholas Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 
@@ -382,6 +384,18 @@ Stagnation & optimizing for the wrong thing (GDP)
 What if radical transparency and cooperation for companies gave them an effectively free marketing budget (they'd be upregulated by the network) and also contributions from everywhere - like with open source? They still price in the labor and input costs, but there's no need for a marketing budget?
 
 What if we made advertising in its current form obsolete? What if false claims were not allowed? What if demand could not be manufactured? What if we had an immune system?
+
+## valuation, liquidity & volatility
+
+2.  SpaceX IPO collateral damage. There will be some investors who sell at least some of their $TSLA holdings to fund purchases of SpaceX shares. For example, net selling $25 billion of $TSLA stock (about 70 million shares) in a relatively short period could easily drop the price by 20% (a temporary $250 billion market-cap hit). 
+We may already be seeing that ownership reshuffle now. Conversely, will any SpaceX investors sell some of their SpaceX shares to buy more $TSLA? I think that could trigger the rebound if $TSLA drops sharply during or right after the SpaceX IPO.
+Emmet Peppers
+https://x.com/EmmetPeppers/status/2041978062708076557
+
+^^ zero sum, me thinking what others are thinking what I'm thinking - quant firms shouldn't exist maybe?
+just because someone is rebalancing because of a new opportunity doesn't mean that the valuation of what he is partially exiting should be any different necessarily
+we are doing valuation through markets and liquidity and bids & asks in a retarded way - we could eliminate volatility!
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: creative destruction
