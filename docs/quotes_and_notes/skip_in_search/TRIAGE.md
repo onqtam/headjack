@@ -1983,6 +1983,7 @@ divide and conquer
     what do you think the ultimate truth to power architecture that counters "divide and conquer" through coherence means?
     divide and conquer adds mistrust, friction, reduces economies of scale, reduces synergy
 
+alienation, disenfranchisement
 
 The only worthy war is with unaccountability and corruption
 
@@ -4686,10 +4687,22 @@ Etymology: Ex falso quodlibet is Latin for "from falsehood, anything [follows]".
 
 we will be error correcting how we do error correction
 
+you have to question how you question
+
+> "Think about what you'd think about." - Joe Biden on metacognition - metacognitive Joe Biden strikes again!
+https://x.com/NRO/status/1569780533885796363
+
 > "When exposing a crime is treated as committing a crime, you are being ruled by criminals" - Edward Snowden
 
 > "Intelligence is problem solving out of distribution." - [Joscha Bach](https://x.com/Plinz/status/2044453676623007880?s=20)
 
 artemis photos - look at earth - there are no borders - we are one species you dummies
+
+> "That's why they call it the American Dream, because you have to be asleep to believe it." - George Carlin
+
+> "It's a big club, and you ain't in it." – George Carlin
+
+> "... that soft language, that language that takes the life out of life." - [George Carlin](https://youtu.be/o25I2fzFGoY?t=155)
+^^ or from 2 sec later straight from "that language"
 
 
