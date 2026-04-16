@@ -397,6 +397,13 @@ just because someone is rebalancing because of a new opportunity doesn't mean th
 we are doing valuation through markets and liquidity and bids & asks in a retarded way - we could eliminate volatility!
 
 
+
+
+Insider trading - insiders can make less and followers could make more - its not a matter of insders simply adjusting the price but how long it takes for them to be right together with everyone else
+instead of only the insider benefitting - others can benefit by recognizing that the insider is a reliable source and "leeching" some of his spoils for them - making it more diffuse and the system learns which individuals reliably make information public
+
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: creative destruction
 ██████████████████████████████████████████████████████████████████

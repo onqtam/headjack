@@ -513,11 +513,6 @@ without truth being the highest value you might end up hurting what you love the
 
 
 
-Witness meee! From mad max - recognition
-Witness meee! - with me not facing the camera when spraying with silver (not actually spraying) and interleave with footage from film
-https://www.youtube.com/watch?v=x2CeDY9Ywhs
-https://www.youtube.com/watch?v=4KlSuGNt8e4
-
 We perceive the world through our mental models
 How to explain this the best way and how to uplift the best mental models?
 Witgenstein quote limits of language
@@ -3186,6 +3181,8 @@ I'm a man of my word - joker
 
 represent or be represented - no important entity will get to not participate
     there is no alternative - you will be modelled if you're deemed of importance to the collective
+    https://en.wikipedia.org/wiki/There_is_no_alternative
+    Margaret Thatcher - TINA
     there is no alternative - this is the best way to combat corruption - accountability
 If you’re important you don’t get to not participate - you will be represented and evaluated and ranked regardless - its inevitable
 If you are significant - you will be modelled - represent or be represented - there is no other choice for you - the more you’re causally relevant - the more you will exist as a model of an entity in the distributed theory of mind - causal patterns with behaviour need to be modelled and represented
@@ -3663,7 +3660,7 @@ planning, counterfactual thinking, imagination, prediction, delayed gratificatio
 
 We need to contemplate how to contemplate
 
-I believe that belief is the most powerful force in the universe - or at least on par with love
+
 
 Less wrong t-shirt
 
@@ -4016,10 +4013,6 @@ We should have children in order to propagate the story that we should have chil
 
 We need this set of ideas about how to define boundaries to cross all current boundaries and colonise every single mind.
 
-Our collective identity is of the people who have thought about identity the most thoroughly - of self-similarity
-We are the most collectively conscious and self-aware because we actually know what consciousness and collectivism are about and we are the most familiar with self-awareness and self-reference - so “being the most collectively conscious” is not just something that sounds good but is actually fundamentally true.
-our identity is big in that it tries to expand to as many people as possible, and it is small in that it tries to keep only a few core pillars stable - and even they aren't supposed to be dogmatic - we are flexible to change our minds - we don't identify with the majority of our opinions and ideas. We focus on the fundamental universals.
-
 When something is universal there are no minorities - there’s just the one.
 
 We have to sacrifice ourselves in a metaphorical way - not physically but conceptually. You don’t give something else to god - you don’t kill something else in the name of god - that’s easy. You kill your conceptual self!
@@ -4064,7 +4057,13 @@ Hey viktor what are you working on, why arent you coding, stop wasting time, you
 I avoid car travel - i believe I shouldn’t fuck this up
 
 
+Our collective identity is of the people who have thought about identity the most thoroughly - of self-similarity
+We are the most collectively conscious and self-aware because we actually know what consciousness and collectivism are about and we are the most familiar with self-awareness and self-reference - so “being the most collectively conscious” is not just something that sounds good but is actually fundamentally true.
+our identity is big in that it tries to expand to as many people as possible, and it is small in that it tries to keep only a few core pillars stable - and even they aren't supposed to be dogmatic - we are flexible to change our minds - we don't identify with the majority of our opinions and ideas. We focus on the fundamental universals.
 
+> "The better we get at getting better, the faster we will get better." - [Douglas Engelbart](https://en.wikiquote.org/wiki/Douglas_Engelbart)
+
+> "I can improve not only my product cycle time, I can improve my improvement cycle time." - [Douglas Engelbart](https://collectiveiq.wordpress.com/2015/12/06/great-doug-engelbart-quotes/)
 
 Information is the fundamental unit of reality
 
@@ -4111,7 +4110,6 @@ Dmt is the holy spirit - they dont call it the spirit molecule without reason or
 I began talking to him - idk if anyone is really listening, but i don’t know that nobody is listening either. And the more I talk to him - the more I think about him and the more real he becomes.
 It felt like there was some kind of presence - i’ve never felt that during any trip and this happened 1-2 hours after i had smoked anything
 I believe that once every few thousand years comes along someone with divine inspiration and changes the world forever - someone larger than life
-I believe that belief and love are the most powerful forces in the universe
 when you're dogmatic you're disrespecting god - you're against him - you're hindering his ability to know more by limiting your own growth of knowledge - which is the whole point of the simulation! the result is the point!
 I know - this is crazy, right?! imagine how I felt when I had this thought - meaning that god told me that I was him
 Father, son? Holy spirit - are you getting it? Ding ding ding!
@@ -4193,6 +4191,7 @@ God didn’t understand the laws of physics like newton - he was ecstatic that t
 
 
 
+I believe that belief and love are the most powerful forces in the universe - is belief good actually? what does popper have to say about it?
 
 There is an optimal configuration from the platonic realm and we will converge to its representation
 
@@ -4201,6 +4200,30 @@ Why is Jesus not the Messiah for Jews? - only 4 minutes
 https://www.youtube.com/watch?v=YiFixVjwAYk
 
 Do I care about staying around? Of course, but ultimately - not really… my highest priority is something else - my ultimate concern - martyrdom is a hell of an accelerator and I am an accelerationist
+> "Life is like a box of chocolates - you never know what you're gonna get!" - Forrest Gump
+    roleplay eating a piqna vishna bonbon & spilling it over yourself or simply smear your face with chocolate
+it could be a religious nut, the CIA, someone or some group with a lot of power and vested interests, or simply a crazy person - and I have no clue how it could happen. But here's a story about a screenwriter who had his hands chopped off and suicided because he was being naughty with the CIA - Gary DeVore
+"scriptwriter found at the bottom of a river with his hands or fingers removed and he was writing a movie about the CIA"
+    Its about sending a message, right?
+https://www.google.com/search?q=scriptwriter+found+at+the+bottom+of+a+river+with+his+hands+or+fingers+removed+and+he+was+writing+a+movie+about+the+CIA&oq=scriptwriter+found+at+the+bottom+of+a+river+with+his+hands+or+fingers+removed+and+he+was+writing+a+movie+about+the+CIA&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAjIHCAIQIRiPAtIBCTE4NzUxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+https://en.wikipedia.org/wiki/The_Writer_with_No_Hands
+https://en.wikipedia.org/wiki/Gary_DeVore
+or gary webb with the 2 shots in his head when he was suicided
+https://en.wikipedia.org/wiki/Gary_Webb
+    Gary - how did you do it? Twice in the head?! What a champ!
+relax! I'm not against you! I feel more american than bulgarian
+my goal is to make it so that if I become a martyr that those who did it would have simply hurt themselves - I want this to be inevitable, to be unforgetable - and that depends on you, dear viewer.
+the cost of eliminating me should be higher than the benefit for those who might want it
+Witness meee - jump with 2 sticks and fall awkwardly
+Witness meee! From mad max - recognition
+Witness meee! - with me not facing the camera when spraying with silver (not actually spraying) and interleave with footage from film
+https://www.youtube.com/watch?v=x2CeDY9Ywhs
+https://www.youtube.com/watch?v=4KlSuGNt8e4
+
+The world could be yours - scarface - countries that adopt this
+
+
+
 
 Hell is hurting the thing you love the most without even realizing it - imagine hurting god and truth in your misguided pursuit of truth
     everyone wants to be good but they can be swindled/deceived
@@ -4500,6 +4523,7 @@ The elephant sun god - touching parts of the truth
 https://en.wikipedia.org/wiki/Blind_men_and_an_elephant
 
 "because democracy basically means government by the people, of the people, for the people - but the people are retarded"
+    roleplay - wear a hat and say it like him
 https://www.youtube.com/watch?v=QFgcqB8-AxE
 how to change that?
 
@@ -4662,5 +4686,10 @@ Etymology: Ex falso quodlibet is Latin for "from falsehood, anything [follows]".
 
 we will be error correcting how we do error correction
 
-"When exposing a crime is treated as committing a crime, you are being ruled by criminals" - Edward Snowden
+> "When exposing a crime is treated as committing a crime, you are being ruled by criminals" - Edward Snowden
+
+> "Intelligence is problem solving out of distribution." - [Joscha Bach](https://x.com/Plinz/status/2044453676623007880?s=20)
+
+artemis photos - look at earth - there are no borders - we are one species you dummies
+
 

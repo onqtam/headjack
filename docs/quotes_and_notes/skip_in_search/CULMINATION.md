@@ -453,6 +453,8 @@ sharing is synergetic - it is more efficient for the whole
 # intelligence
 ██████████████████████████████████████████████████████████████████
 
+> "Intelligence is problem solving out of distribution." - [Joscha Bach](https://x.com/Plinz/status/2044453676623007880?s=20)
+
 Intelligence is the capacity to gain capacities. It is doing more with less. - synergy
 True intelligence is doing more with less. Solving problems without knowing everything.
 David Krakauer
