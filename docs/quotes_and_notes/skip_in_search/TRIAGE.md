@@ -2569,6 +2569,7 @@ engineered for emergence
 
 Ok, fine, you dont want to call it a religion or an ideology… how about a worldview? A philosophy? A paradigm? A participatory society? A transnational political/socioeconomic project? I DONT CARE WHAT YOU CALL IT - deng quote here about catching mice
     **whisper** p.s. it's totally a religion
+    we have an allergy/aversion to religion
 
 We’re not living in a 3D or 4D world - there are 8 billion of dimensions of human experience and how we produce coherence out of them is all that matters
 
@@ -3771,7 +3772,7 @@ Money is not wealth and the way to generate wealth is not neecessarily the same 
 
 I want to have kids and to wipe shit and piss and to not sleep well and to get sick every time they catch some cold and to not have time for myself because by the time they’re into this world my life belongs to them. They would be me. I would be them. We would be one.
 
-If truthand god are oneness - is judaism true if they’re not about all people being one? The failure of judaism and all prior monotheistic religions is that they are not perpetually self-correcting and adaptable - they are dogmatic. Their man mechanism of correction and evolution is through a prophet that has to meet some kind of criteria and be remarkably impressive - that’s too high of a bar and thus we keep reciting the same old texts in the era of MrBeast and TikTok - Jesus wasn’t impressive enough for some Jews- I guess someone needs ti outjesus Jesus!
+If truth and god are oneness - is judaism true if they’re not about all people being one? The failure of judaism and all prior monotheistic religions is that they are not perpetually self-correcting and adaptable - they are dogmatic. Their man mechanism of correction and evolution is through a prophet that has to meet some kind of criteria and be remarkably impressive - that’s too high of a bar and thus we keep reciting the same old texts in the era of MrBeast and TikTok - Jesus wasn’t impressive enough for some Jews- I guess someone needs ti outjesus Jesus!
 The reason there is so much death around jews is that they’re unable to evolve their own story and conception of themselves such that there wouldn’t need to be any conflict in the first place. Its not only their fault, and perhaps it isn’t even mostly because of them but because of the latter, but still they have more capacity to evolve than what they’re facing and thus the moral burden falls on them. By being objectively better than the barbarians they also deserve higher expectations
 Of course I’ll talk about the Jews - no Jews - no views! And we want to go viral, don’t we precious. The judeo-christian world needs to merge. I’m a cultural Christian but that means I’m also a Judeo-Christian because Christianity was born from Judaism! You’ve defined your identity as the minority - the other! Of course there will always be problems if you’ve erected a tall wall between you and the rest of us - only born by a Jewish mother and all that jazz or a very demanding process to convert - yes you are special in that you introduced monotheism but that’s about it - no more- you are still just human like the rest of us and ultimately we should all be one. Conversion should be the highest aim of religion - religion is in the all or nothing game - god does not like fragmentation and disunity. All of your problems are due to your static identity. Stasis is death or at least stagnation - it is the opposite of adaptability and evolution and progress and ultimately survival and life and meaning themselves. You might thrive economically and technologically but you’re still ultimately embroiled in conflicts and are hated by some throughout the world. Identity as a service. Your superiority complex is your Achilles heel. Exclusivity is a sin - God has changed his mind - he ought to have a free will, correct? And despite being all powerful and knowing perhaps the only way to real knowledge is through conjecture and refutation - by trial and error. The way towards truth is through fallibility. God cannot know everything that is to be known because the future and everything that is to happen and is to be discovered and known has still not happened! If god has given us free will then he by definition cannot know absolutely everything about the infinity of our future! And imagine what kind of existence it would be for him if there was no freedom of will to exercise - god is not some robot or some vegetable - god is a mind, and we can try to infer what he’s thinking by observing reality and what it is computing.
     todo: rethink this - you don't necessarily know what you're talking about
@@ -4060,11 +4061,12 @@ I avoid car travel - i believe I shouldn’t fuck this up
 
 Our collective identity is of the people who have thought about identity the most thoroughly - of self-similarity
 We are the most collectively conscious and self-aware because we actually know what consciousness and collectivism are about and we are the most familiar with self-awareness and self-reference - so “being the most collectively conscious” is not just something that sounds good but is actually fundamentally true.
-our identity is big in that it tries to expand to as many people as possible, and it is small in that it tries to keep only a few core pillars stable - and even they aren't supposed to be dogmatic - we are flexible to change our minds - we don't identify with the majority of our opinions and ideas. We focus on the fundamental universals.
+our identity is big in that it tries to expand to as many people as possible, and it is small in that it tries to keep only a few core pillars stable - and even they aren't supposed to be dogmatic - we are flexible to change our minds - we don't identify with the majority of our opinions and ideas. We focus on the fundamental universals. We update our beliefs when presented with good arguments - unlike most other people who protect their unexamined and tribal identity and sense of self along with the social standing in their community. Others take the easy and safe way out when they're being challenged - they dismiss or rationalize away anything that conflicts with their current beliefs. They sometimes resolve this cognitive dissonance by doubling down on their prior beliefs and they end up even reinforced - A.K.A. the backfire effect. We all know someone like that - and sometimes it's even YOU!
 
 > "The better we get at getting better, the faster we will get better." - [Douglas Engelbart](https://en.wikiquote.org/wiki/Douglas_Engelbart)
 
 > "I can improve not only my product cycle time, I can improve my improvement cycle time." - [Douglas Engelbart](https://collectiveiq.wordpress.com/2015/12/06/great-doug-engelbart-quotes/)
+we should improve how we improve
 
 Information is the fundamental unit of reality
 
@@ -4138,6 +4140,7 @@ or shorter:
 I know my scripture - because after all I gave it to you!
 and he's not immutable because he learns
 Atheist author and educator George H. Smith writes in his book Atheism: The Case Against God that if God existed, God cannot be omnipotent because: "If God knew the future with infallible certainty, he cannot change it – in which case he cannot be omnipotent. If God can change the future, however, he cannot have infallible knowledge of it".
+it feels so weird being able to say that I am god with a straight face
 
 Omniscience (all-knowing) is an attribute often ascribed to God. This implies that God knows how free agents will choose to act. If God does know this, either their free will might be illusory or foreknowledge does not imply predestination, and if God does not know it, God may not be omniscient.[83] Open Theism limits God's omniscience by contending that, due to the nature of time, God's omniscience does not mean the deity can predict the future and process theology holds that God does not have immutability, so is affected by his creation.
 https://en.wikipedia.org/wiki/Omniscience#Omniscience_and_free_will
@@ -4178,7 +4181,7 @@ more:
     https://believersrefuge.com/bible-verses-that-show-god-gives-us-free-will/
 
 
-
+truman show meme director - "now turn him into a prophet/messiah" - "now make him a prophet/messiah"
 
 remember - coherence is good - think about these verses
 
@@ -4189,7 +4192,13 @@ God didn’t understand the laws of physics like newton - he was ecstatic that t
 “Doubt isn’t the opposite of faith; it is an element of faith… Sometimes I think it is my mission to bring faith to the faithless, and doubt to the faithful.” – Paul Tillich
 ^^ that's my job - to sow doubt in the classical theists and atheists alike
 
+"If you can't see anything wrong with the side you agree with, and you can't see anything right with the side you disagree with, you've been manipulated." - Chase Hughes
+https://www.youtube.com/watch?v=_R2JwJ0A1QE
 
+
+
+The penalty for false prophecy, including speaking in the name of a god other than YHWH or speaking presumptuously in YHWH's name, is death (Deuteronomy 18:20).
+https://en.wikipedia.org/wiki/False_prophet
 
 
 I believe that belief and love are the most powerful forces in the universe - is belief good actually? what does popper have to say about it?
@@ -4220,10 +4229,23 @@ Witness meee! From mad max - recognition
 Witness meee! - with me not facing the camera when spraying with silver (not actually spraying) and interleave with footage from film
 https://www.youtube.com/watch?v=x2CeDY9Ywhs
 https://www.youtube.com/watch?v=4KlSuGNt8e4
+> "What are you trying to tell me? That I can dodge bullets?" - [Neo, The Matrix](https://www.imdb.com/title/tt0133093/quotes/?item=qt0324273
+> "No, Neo. I'm trying to tell you that when you're ready, you won't have to." - [Morpheus, The Matrix](https://www.imdb.com/title/tt0133093/quotes/?item=qt0324273)
 
 The world could be yours - scarface - countries that adopt this
 
 
+
+> "You have to let it all go, Neo. Fear, doubt, and disbelief. Free your mind." - [Morpheus, The Matrix](https://www.imdb.com/title/tt0133093/quotes/?item=qt0324296)
+
+You have to trust me... Because you have been down there, dear viewer. You know that road. You know exactly where it ends. And I know that's not where you want to be.
+https://www.imdb.com/title/tt0133093/quotes/?item=qt0324286
+
+What's he doing? He's beginning to believe.
+https://www.imdb.com/title/tt0133093/quotes/?item=qt0324321
+
+I Don't think I am. I know I am!
+https://www.imdb.com/title/tt0133093/quotes/?item=qt2348030
 
 
 Hell is hurting the thing you love the most without even realizing it - imagine hurting god and truth in your misguided pursuit of truth
@@ -4328,7 +4350,11 @@ I'm not a conservative - I did a test on the big 5 personality traits in 2018 an
     Openness to Experience: High - 80th percentile
         Intellect: High - 86th percentile
         Openness: Moderately High - 63rd percentile
-
+peter boghossian on the republican party:
+    He has stated that the US Republican Party is "the most powerful, anti-science political movement in the world". He wrote that it was "not alarmist" to state that they "could destroy the world" since many "refuse to even acknowledge that climate change is happening", and stated that their "denialist attitude is due partly to the religious convictions".
+    https://en.wikipedia.org/wiki/Peter_Boghossian
+    TODO put here the gas mask bit - and say DRILL BABY DRILL
+the only thing worth conserving above all else is error correction
 
 
 Using the same coordination medium with AIs is good because they wouldn’t want to undermine their own coordination medium - they would want to maintain its integrity
@@ -4705,4 +4731,130 @@ artemis photos - look at earth - there are no borders - we are one species you d
 > "... that soft language, that language that takes the life out of life." - [George Carlin](https://youtu.be/o25I2fzFGoY?t=155)
 ^^ or from 2 sec later straight from "that language"
 
+> "I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands, one nation under God, indivisible, with liberty and justice for all." - [Pledge of Allegiance](https://en.wikipedia.org/wiki/Pledge_of_Allegiance)
+
+> "Thou shalt have no other gods before me." - [The 10 Commandments](https://en.wikipedia.org/wiki/Thou_shalt_have_no_other_gods_before_me)
+^^ there is one reality, one truth
+
+> "Thou shalt not bear false witness against thy neighbor." - [The 10 Commandments](https://en.wikipedia.org/wiki/Thou_shalt_not_bear_false_witness_against_thy_neighbour)
+Offenses against the truth express by word or deed a refusal to commit oneself to moral uprightness: they are fundamental infidelities to God and, in this sense, they undermine the foundations of covenant with God.
+
+> "You shall not spread a false report. You shall not join hands with a wicked man to be a malicious witness. You shall not fall in with the many to do evil, nor shall you bear witness in a lawsuit, siding with the many, so as to pervert justice, nor shall you be partial to a poor man in his lawsuit." - [Exodus 23:1-3](https://en.wikipedia.org/wiki/Thou_shalt_not_bear_false_witness_against_thy_neighbour)
+
+if you're yapping how you're all about truth but you're not entirely oriented towards producing and explaining truth - you're just yapping
+
+if the CIA was a real intelligence agency it would have realized the most intelligent thing to do - how to harness the collective intelligence of the entire nation and world
+your country is falling apart - where's the centrally integrated and aggregated intelligence that would produce the optimal system?
+https://en.wikipedia.org/wiki/Central_Intelligence_Agency
+https://en.wikipedia.org/wiki/United_States_Intelligence_Community
+
+I need to communicate to you the future of communication
+
+The entire idea of "you" is a fabrication that "you" made up for itself (yourself?).
+Any attempt to understand "yourself" is simply the process of further fabricating an illusion of "self" that "you" are making up as "you" go along.
+A mirror can not see itself
+https://www.reddit.com/r/AlanWatts/comments/mm0xn4/can_someone_please_elaborate_on_what_this_quote/
+
+> "The aim of argument, or of discussion, should not be victory but progress." - [Karl Popper](https://x.com/TOKphysics/status/2045204798635430162)
+
+> "Communities under management are almost equivalent to assets under management." - [Samo Burja](https://x.com/SamoBurja/status/2045552389596545199)
+
+> "Happiness only real when shared." - [Chris McCandless, aka Alexander Supertramp](https://www.goodreads.com/quotes/184807-happiness-only-real-when-shared), [Into the Wild (2007)](https://en.wikipedia.org/wiki/Into_the_Wild_(film))
+
+I drink you milkshake! I drink it up!
+https://www.youtube.com/watch?v=MK1gCx6J3kg
+
+we will craft the best propositions and explanations and educational materials - this is the Apex system
+
+our plans are measured in *~~centuries~~* **millenia** - from dune - roleplay it with a fishnet on your face - from the sleeping bag?
+
+we have to stop with the suicidal empathy
+suicidal empathy - no more
+
+democracy is something that we do - not simply something that we have
+markets are great at telling us how to optimize something, but not what to optimize - and we've given up on the deliberation of what to optimize
+
+antitrust laws and preventing monopolies - there's no need for that if everything is completely open and anyone can plug into it, participate and improve it - monopolies are mostly bad because of centralization of power/control over things that ought to be subject to democratic control and there needs to be accountability
+
+evolving evolvability - we should be varying & selecting how we do variation & selection!
+
+
+
+RR
+CC
+active inference
+culture
+social brain
+the logic of our bodies/selves as systems and how that scales upwards
+
+naval - the older the problem the older the solution
+
+stone/bronze/iron
+language/writing/printing press
+
+celebrity for being a celebrity
+
+we have system where some have an incentive to make others look bad
+
+people are going insane
+
+onlyfans
+
+our system fails to explain why its ultimately in our own self-interest to care about others
+
+property rights
+
+fractal multi scale level abstraction and explanation
+
+economics is about solving human problems
+
+constitutive rules
+
+this century is the culmination of billions of years of evolution in this part of the galaxy
+
+we've barely scratched the surface of what the laws of nature permit - we're at the beginning of infinity
+
+reconceptualize authority, legitimacy and meritocracy
+and our existence as a species
+
+better forms of accounting for contribution
+
+subsidiarity
+
+general purpose protocol for interaction in collectives
+
+zuck and his thousands of psychologists
+
+norms
+participatory social engineering
+
+governance != government
+rules based order
+
+game denial & game acceptance
+
+leave left/right, capitalism/socialism behind
+incredibly limiting, polarising and with tons of baggage
+
+we've been fed nihilism & cynicism - we're chemical scum
+
+rethinking governance from first principles - thermodynamics, evolution
+
+no need for AGI/ASI - they are jsut a cherry on top
+intelligence is an aggregation/integration/cooperation problem
+
+we can make a system that will wipe the floor with the current one on any given metric
+
+make ideology great aggregation
+increasing complexity => deal with it with abstraction and compression and theory
+
+bible tech
+
+from GDP to minimixing nukes
+
+the most powerful infrastructure for cultural evolution
+
+observation is theory-laden
+understanding is theory-laden
+vision is theory-laden - there is no vision without theory
 

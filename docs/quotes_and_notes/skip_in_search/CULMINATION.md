@@ -15,6 +15,9 @@ do it in separate episodes instead of 1 single 8 hour video - it will wreck the 
 - 8 entry points for viewers
 
 
+make the last episode the personal one (I am who I am) and the one before that with the call to action?
+
+
 ██████████████████████████████████████████████████████████████████
 # ideas
 ██████████████████████████████████████████████████████████████████
@@ -613,7 +616,6 @@ We need to reward truth more than anything else
 
 > "Remember... all I'm offering is the truth. Nothing more." - [Morpheus, The Matrix](https://www.imdb.com/title/tt0133093/quotes/?item=qt0324337&ref_=ext_shr_lnk)
 ^^ not truth but solution
-> "Remember, all I'm offering is *~~the truth~~* **a competitive advantage for collectives** – nothing more." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/1158642-this-is-your-last-chance-after-this-there-is-no), probably
 
 
 ██████████████████████████████████████████████████████████████████
@@ -816,6 +818,10 @@ Your personality and beliefs
 Your sense of continuity (feeling like the same person yesterday and today)
 
 Philosophers debate whether identity comes from memory, the body, or something deeper like consciousness.
+
+
+identity is the source of all our problems and is also their solution
+everyone needs to change and come under a common umbrella identity, including the jews
 
 2. Social identity
 

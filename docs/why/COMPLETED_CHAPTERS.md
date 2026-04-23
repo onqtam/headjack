@@ -616,6 +616,7 @@ When these principles are applied, they ensure that whatever structures are deve
 # SECTION: Subsidiarity / Hierarchy / holacracy
 ██████████████████████████████████████████████████████████████████
 
+Subsidiarity - similar to localism & federalism?
 
 > "In other words, the web of life consists of networks within networks. At each scale, under closer scrutiny, the nodes of the network reveal themselves as smaller networks. We tend to arrange these systems, all nesting within larger systems, in a hierarchical scheme by placing the larger systems above the smaller ones in pyramid fashion. But this is a human projection. In nature there is no ‘above’ or ‘below’, and there are no hierarchies. There are only networks nesting within other networks." - [The Systems View of Life: A Unifying Vision, by Fritjof Capra](https://www.goodreads.com/book/show/18554985-the-systems-view-of-life)
 

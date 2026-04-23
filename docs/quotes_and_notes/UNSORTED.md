@@ -205,6 +205,8 @@ https://www.youtube.com/watch?v=C-Q2K0bLuSk
 
 > "The war of ideas is a Greek invention. It is one of the most important inventions ever made. Indeed, the possibility of fighting with words and ideas instead of fighting with swords is the very basis of our civilization." - [Karl Popper](https://x.com/TOKphysics/status/2040948275272896878)
 
+> "The unknown, the uncertain, the problematic is what drives us forward; certainty is the enemy of progress." - [Karl Popper, The Myth of the Framework, 1994](https://x.com/QuotePopper/status/2045544852448747564)
+
 
 
 instead of creators monetizing attention and competing with one another to say the same things but in a better packaged way, we should be pooling money in a common pool and then redistributing it based on simply voting who contributed the most with their weights in sorting the signal from the noise, and then either incentivise content creators to make videos on those crowdsourced rankings, or even use AI

@@ -35,3 +35,191 @@ availability cascades
 incentives & collective programming
 
 
+
+
+
+
+
+
+
+
+# stuff from the 3 hour podcast:
+
+
+
+
+
+
+NEW OFFSET: 5:15
+
+00:00:00 Preview
+00:04:22 Intro & personal message
+00:05:15 START HERE - Digital Identity & Social Media on Open Protocols
+00:08:39 Multiple accounts, credentials, KYC & privacy
+00:15:22 A new social operating system
+00:18:54 Foundation: identity, blockchain, keys, names, hosting
+00:28:47 Deleting content & the right to be forgotten
+00:34:15 How the whole thing would get created
+00:36:05 Black markets, censorship, sovereignty & other
+00:41:00 Backbone architecture & web2 UX in crypto
+00:44:20 Event/signal types, extending & evolving the system, self-organization
+00:50:11 Reputation, bottom-up social credit score, inequality, democracy
+00:59:20 Deep democracy, subjective objectivity, voting on rules, ranking things
+01:06:19 alignment & incentives for institutions
+01:10:34 liquid democracy
+01:14:22 expressing and aggregating goals & values
+01:16:21 blockchain vs current state, different competing views, constitutions
+01:23:16 collective incentives & intelligence, error-correction, cultural evolution
+01:30:39 contracts with yourself - regulating porn and social media use with zero knowledge
+01:35:04 deduplication, giant global graph, filtering, weights, ontology, expressions
+01:47:42 incentivising altruism, multiperspectivalism, inheriting settings
+01:53:28 computing reputation, prediction, representation, self-moderation
+02:00:42 LLM evaluation, style vs substance, optimistic evaluation, bot protection
+02:13:11 recognition & awards, self-organizing hierarchies, roadmap, MVP
+02:16:05 relevance realization, honeypots, security, distributed clouds, ephemerality
+02:27:42 subreddits, YouTube, UX, user activity, data-oriented
+02:31:33 anonymity, preference falsification, surfacing signal, centralization of the Internet
+02:38:29 coherence, a new authority structure, systemic error-correction
+02:39:16 freedom of interpretation & visualization of data, fighting clickbait & fragmentation
+02:42:50 argument maps, integration, causal graph, frame control, digital twins, Palantir Foundry
+02:50:56 structured debate, a new power & incentive structure, human identity
+02:59:05 visibility/relevance templates, positional scarcity, reorienting the economy around problems
+
+clip to cut out:
+00:15:40 A New Social Operating System on Internet 2.0 & Digital Identity
+00:59:20 - 01:05:15 - Deep Democracy, Subjective Objectivity, Voting on Rules, Ranking Things
+01:10:35 - 01:14:23 - Liquid Democracy
+02:16:05 - 01:19:45 - Relevance Realization
+02:42:50 - 02:50:55 - Argument Maps, Integration, Causal Graphs, Digital Twins, Palantir Foundry
+
+
+
+
+
+
+
+OLD TIMEPOINTS - before the addition of 05:28 !!!
+
+
+00:00:00 START HERE - Digital Identity & Social Media on Open Protocols
+00:03:24 Multiple accounts, credentials, KYC & privacy
+00:10:07 A new social operating system
+00:13:39 Foundation: identity, blockchain, keys, names, hosting
+00:23:32 Deleting content & the right to be forgotten
+00:29:00 How the whole thing would get created
+00:30:50 Black markets, censorship, sovereignty & other
+00:35:45 Backbone architecture & web2 UX in crypto
+00:39:05 Event/signal types, extending & evolving the system, self-organization
+00:44:56 Reputation, bottom-up social credit score, inequality, democracy
+00:54:05 Deep democracy, subjective objectivity, voting on rules, ranking things
+01:01:04 alignment & incentives for institutions
+01:05:19 liquid democracy
+01:09:07 expressing and aggregating goals & values
+01:11:06 blockchain vs current state, different competing views, constitutions
+01:18:01 collective incentives & intelligence, error-correction, cultural evolution
+01:25:24 contracts with yourself - regulating porn and social media use with zero knowledge
+01:29:49 deduplication, giant global graph, filtering, weights, ontology, expressions
+01:42:27 incentivising altruism, multiperspectivalism, inheriting settings
+01:48:13 computing reputation, prediction, representation, self-moderation
+01:55:27 LLM evaluation, separating style from substance, optimistic evaluation, bot protection
+02:07:56 recognition & awards, self-organizing hierarchies, roadmap, MVP
+02:10:50 relevance realization, honeypots, security, distributed clouds, ephemerality
+02:22:27 subreddits, YouTube, UX, user activity, data-oriented
+02:26:18 anonymity, preference falsification, surfacing signal, centralization of the Internet
+02:33:14 coherence, a new authority structure, systemic error-correction
+02:34:01 freedom of interpretation & visualization of data, fighting clickbait & fragmentation
+02:37:35 argument maps, integration, complete causal graph, valence, frame control, digital twins, Palantir Foundry
+02:45:41 structured debate, a new power & incentive structure, human identity
+02:53:50 visibility/relevance templates, positional scarcity, reorienting the economy around solving problems
+
+
+
+!!! SHORTS !!!
+14  00:11:32 - 00:11:46 - nobody has actually...
+20  00:12:14 - 00:12:34 - I think every aspect of how we live our lives...
+11  00:12:57 - 00:13:08 - we can start engineering barriers and things...
+6   00:15:01 - 00:15:07 - so this whole system will replace DNS & the certificate authorities
+7   00:20:36 - 00:20:43 - they literally own you...
+5   00:41:40 - 00:41:45 - the ultimate product is the ultimate system...
+6   00:46:01 - 00:46:07 - you can take the monkey out of the status seeking...
+33  00:46:48 - 00:47:21 - so what i'm proposing is literally the opposite of that...
+20  00:47:23 - 00:47:43 - so wouldn't this mean that...
+16  00:48:37 - 00:48:53 - i have no clue myself but...
+10  00:50:09 - 00:50:19 - what I'm proposing is
+14  00:51:30 - 00:51:44 - you can have higher voting power...
+21  00:52:50 - 00:53:11 - we might vote on how much decay there should be...
+133 00:54:05 - 00:56:18 - one way I call this system is deep democracy...
+47  00:57:05 - 00:57:52 - one way I like to describe... subjectively objective...
+76  00:58:44 - 01:00:00 - whatever aspect you care about... !!!!!! REMOVE THIS - about Trump
+5   01:03:31 - 01:03:36 - sounds like initially some sort of...
+13  01:04:30 - 01:04:43 - and suddenly we...
+10  01:18:01 - 01:18:11 - how in this system the collective...
+44  01:18:53 - 01:19:37 - in this system...
+5   01:24:34 - 01:24:39 - this thing can replace...
+6   01:26:26 - 01:26:32 - so like with ZK ...
+3   01:28:21 - 01:28:24 - you can step in...
+15  01:34:47 - 01:35:02 - if somebody is a flat earther...
+5   01:35:15 - 01:35:20 - and you can dismiss...
+8   01:57:29 - 01:57:37 - and I don't want to see slurs - I want to see only the argument...
+10  02:07:13 - 02:07:23 - any query - whatever I want...
+3   02:09:57 - 02:10:00 - literally anything you want...
+3   02:33:22 - 02:33:25 - we're trying to create a new source of authority
+23  02:33:35 - 02:33:58 - we should be able to identify problems...
+35  02:39:20 - 02:39:55 - and so one thing we should do actually...
+8   02:40:13 - 02:40:21 - that's called frame control...
+14  02:40:56 - 02:41:10 - and so imagine like...
+30  02:43:15 - 02:43:45 - and so imagine like everybody having...
+8   02:45:57 - 02:46:05 - we can structure people...
+11  02:50:55 - 02:51:06 - but this would create a new power structure...
+9   02:51:21 - 02:51:30 - I have faith that the current system...
+17  02:51:45 - 02:52:02 - we're effectively trying to create...
+10  02:52:08 - 02:52:18 - but one thing that is not incompetent are the intelligence services...
+8   02:52:45 - 02:52:53 - perfectly legal...
+15  02:52:57 - 02:53:12 - yeah that's something that needs to be eliminated
+15  02:53:30 - 02:53:45 - I guess we'll see...
+40  02:57:07 - 02:57:47 - whenever a thing exists in...
+
+!!!
+
+
+clips to cut out:
+00:10:25 A new social operating system on Internet 2.0 & Digital Identity, engineered scarcity
+00:54:05 - 01:00:00 - one way I call this system is...                  deep democracy, subjective objectivity, voting on the rules of the game, ranking people
+01:05:20 - 01:09:08 - liquid democracy on Google+
+02:10:51 - 01:14:30 - relevance realization
+02:37:35 - 02:45:41 - argument maps, integration, complete causal graph, valence, frame control, digital twins, Palantir Foundry
+
+
+
+
+██████████████████████████████████████████████████████████████████
+# TOPICS NOT COVERED YET
+██████████████████████████████████████████████████████████████████
+
+- many feeds, ways to subscribe to different event types from sources
+- Oracles & fact databases
+- comments turned off
+- how to disincentivise irrelevant comments & engagement farming and live stream spam
+- How to punish misbehaving apps and entities in this ecosystem
+- Distributed and democratic ESG-like ratings, the checkout & candy & misalignment
+- Guilt by association
+- The way to deal with complexity
+- Self justifying system
+- A game-like interface to the real world
+- Group affiliation & penalties, + retroactive, if you vote or delegate badly - that should reflect badly on you
+- Coherence
+- Compression & fractal-likeness - from a single sentence ally the way to a full descr
+- Common knowedge
+- Mobilizing people
+- What is Culture and how it emerged and why, together with language
+- Follow/inherit settings
+
+- ESG??? or covered?
+- Every problem would benefit from integration
+- Consciousness & attention
+- E gov & civic platforms
+- solve intelligence
+- A new opt-in game
+- Alienation
+- Incentive to lie and hide and attack the others
+
