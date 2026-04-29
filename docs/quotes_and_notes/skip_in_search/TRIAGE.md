@@ -4476,8 +4476,6 @@ We need to simulate parts of reality with specialized models and problem storm p
 
 The better our shared world model - the more of reality we will be able to simulate and understand - and simulate we will - we will approximate reality and use the simulations in search of solutions to our problems.
 
-Human in the loop as a service
-
 We can structure the psyche of an AI to have a rogerian filter and the schemata of our psyche
 
 Progress is the capacity to steer away from regress
@@ -5059,6 +5057,7 @@ Joseph Goebbels
 “Wealth consists not in having great possessions, but in having few wants.” – Epictetus
 
 “For the simplicity on this side of complexity, I wouldn't give you a fig. But for the simplicity on the other side of complexity, for that I would give you anything I have.” — Oliver Wendell Holmes
+Why work on the story - Clarity and brevity are priceless
 
 "Individualism is a formidable lie." - Rene Girard
 
@@ -5203,7 +5202,8 @@ Representational democracy
 
 Bias removal - recursive & collective
 
-Human in the loop
+Human in the loop - build on top of Human in the Loop
+Human in the loop as a service
 
 Any aspect of reality can be a parameter - what traits you like in other people? What are you attracted to? What do you like? How do we like what we should like?
 
@@ -5559,3 +5559,88 @@ You are witnessing your predictions realized
 michael ima edna negova “teorema”: any being that arises under resource constraint is going to believe in free will
 You are a self-referential superstition - thinking that you are the author of your actions but you’re simply witnessing your body in motion
 
+
+
+
+Educational madrassas - where we collectively pool money for the education of our children
+
+How to optimally change your behaviour - individually and collectively?
+
+You as a simulation need to continually prove your worth because if you’re not discovering enough and creating knowledge for god - he could turn off your simulation and give the compute resources to other instances and experiments. You could be an evolutionarily dead end. Don’t be that. Grow.
+
+Show me what you’ve goooot
+
+Adaptive alignment in the simulation - p
+
+
+Collective morphology - how to develop based on the genome?
+
+
+I want you to never forget how far someone is willing to go just to entertain you just so that he could communicate how important something is to them and that others should care too
+
+
+
+> "Beneath this mask is more than flesh, beneath this mask is an idea." - [V for Vendetta, by Alan Moore](https://www.goodreads.com/author/quotes/6217739.Allan_F_Moore)
+
+
+Whats possible vs whats available
+
+We should be able to write to the global brain - freedom of expression is freedom of weights
+
+If i see what will happen in the future then I am from the future
+
+Better job market
+The ultimate product is the ultimate job marjet
+
+All I’m offering is complete integration in the deepest possible level
+
+We will be able to simulate parts of the past when we get to the omega point
+And we will be able to branch. And send Jesus from the future
+A prophet can be sent from the future back in time to tell the world what will happen
+
+
+
+Vow to take a public test with a brain device for lie detection on a public questionnaire with video recording of you doing it
+
+The drive not to want to be deceived is fundamental
+
+Imagine being so limited in your imagination that you can’t imagine anything beyond your imagination!
+
+And we should prioritize what’s most important in determining how to prioritize what’s most important!
+And that includes how we determine what’s most relevant/important
+
+Appeal to dynamic stability and talk about death
+
+Vote with a weight depending on your contribution to gdp
+
+README - This could also be my tombstone lol
+
+The capacity for Comparison should be a fundamental human right
+
+We must fact-check the fact-checkers
+
+Backtrack and retroactively judge which was the best approach
+
+Multi scale communism - hierarchical comunism
+I am the most capitalistic communist
+I can deliver fully automated luxury communism
+
+We need co-living flats for communities with specific purposes
+
+We need to take transformative communal practices seriously
+
+I’m your joker - I’m here to make you laugh
+Ot better yet - your fool - your friendly neighbourhood fool
+
+Information tracking - eggs - consumption, chain of production, etc.
+
+I want to be the pope
+
+Bojo i negoviq contrbution za anticorruption in gov
+
+What am I doing? I’m telling you what we should build so that I can express in the system that I’ve also expressed in here in terms of specific opinions
+
+Clear thinking as a service - truthful, consistent, coherent, complete, rational, meritocratic, with proper credit assignment & backprop - so that it can learn
+
+Food delivered in metal containers in your neighbourhood - we need similar diets
+15 minute cities
