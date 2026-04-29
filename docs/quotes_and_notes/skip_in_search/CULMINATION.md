@@ -852,6 +852,8 @@ The Golden Rule of ethics says, *"Do unto others as you would have them do unto 
 
 **roleplay "I'm all about symmetry" and do an X with your hands showing the tats on the wrists - and then awkwardly hide the big tattoo on the left hand with the right hand - look at one and then the other and gulp**
 
+Fuck around - find out - its about symmetry - about consequentiality and accountability
+
 pig skin piece (in my freezer) - play with it - skin in the game
 
 luxury beliefs (espousing beliefs while not yourself living according to them and being shielded from the consequences on others) are a symptom of unaccountability - of no skin in the game, misalignment
@@ -1015,6 +1017,8 @@ We've never gone beyond good and evil - because how could we - we need them more
 
 Evil is what’s bad for you, and whatever constrains the growth of knowledge and error correction is evil
 
+Evil is the secretive
+secrecy is evil
 
 > "Evil is the attempt to exploit the group for the benefit of the individual." - [Jim Rutt](https://youtu.be/Z3STm-oUZk4?t=3446)
 
@@ -1284,7 +1288,7 @@ Maximal recursive self-improvement - The polar opposite of complete stasis dogma
 Merging the market, state, religion, media, academia and education under *~~sha~~* syntropic law
 
 ██████████████████████████████████████████████████████████████████
-# Call to action
+# Call to action - The storm has come
 ██████████████████████████████████████████████████████████████████
 
 THE DAY OF RECOGNITION - who do you credit for having tipped you off on this video?

@@ -1499,9 +1499,10 @@ The search engine of the meaning economy
 
 
 
-
+> "We have been reduced to citizens of the state and consumers of the market - we are not participant persons within the culture anymore." - [John Vervaeke](https://youtu.be/Ft_7n3eUytQ?t=1237)
 We have been reduced to consumers… john vervaeke
-Atomized, there is no society quote
+Atomized
+Margaret Thatcher's quote "there's no such thing as society"
 We need to change our relationship to society
 
 A new kind of polity
@@ -1610,7 +1611,10 @@ Join the game! We will have kids! We will be happy! We will be fulfilled! We wil
 We need an NPC-friendly environment - where 
 
 “You don’t have time” - how I wonder whether this means no time in the world or in your own life that’s about to end
+    “You don’t have time” is the song that makes me feel the most alive
     and it actually depends on you in either case - you can help make this a cultural phenomenon and can help make it inevitable and for it to pick up on its own - rendering me obsolete - we can put the current system in the position of "if you can't beat them - join them"
+
+
 
 List all the books you want to read and all your bookmarks
 And mention in the clip which file in the repo to look at as a guide for reading it
@@ -3793,7 +3797,12 @@ God speaks to us through divine inspiration and insight
 His mistake is that he was ambiguous and left the possibility for dogma
 He is the creative force behind the universe but we are the creative force within the universe
 Egregore - his representation
-
+We need a meta identity
+Jews - I’m not saying to stop being jewish - I’m saying to start identifying as something else in addition to being jewish - a new more universal and expansive meta identity - one which delivers the goods even better - it’s in your interest to expand your sense of self
+The jews can remain special
+The jews can retain their status of being special by relinquishing their self righteous sense of being special by moving to the universal and adapting - that’s the highest form of being special - exercising agency and being willing to change - the best way to remain the chosen ones is to choose what to become - the best way to predict the future is to create it - to become it - you want to be the future? THIS IS THE ONLY WAY - THERE IS NO ALTERNATIVE
+Why do I focus so much on the jews and not the christians? Because if I convince the jews to change I will have also succeeded with the christians and anybody else.
+maybe just give up on this jew thing - you don't know enough and this is a bad idea
 
 
 If we integrated the whole of our knowledge and constructed the ultimate curriculum and raised a child in the most perfect way possible to a 25 year old adult we would have raised a God - a single human being smarter than all of humanity combined - thats human super intelligence. I have the best world model
@@ -4169,7 +4178,9 @@ For both Whitehead and Hartshorne, it is an essential attribute of God to affect
 ... In summation, then, process theologians argue that their conception of God’s power does not diminish God, but just the opposite. Rather than see God as one who unilaterally coerces other beings, judges and punishes them, and is completely unaffected by the joys and sorrows of others, process theologians see God as the one who persuades the universe to love and peace, is supremely affected by even the tiniest of joys and the smallest of sorrows, and is able to love all beings despite the most heinous acts they may commit. God is, as Whitehead says, "the fellow sufferer who understands."
 https://en.wikipedia.org/wiki/Process_theology
 
-God creates the World, and the World creates God
+God creates the World, and the World creates/evolves God
+
+What’s the fucking point if God is immutable
 
 if god is the universe and we are emergent and have top-down causation - that means he is affected by us and is not immutable, and is not impassible because he is us - he feels through us
 
@@ -4993,6 +5004,7 @@ vision is theory-laden - there is no vision without theory
 "Rather than love, than money, than fame, give me truth." - Henry David Thoreau
 
 "The price of anything is the amount of life you exchange for it." – Henry David Thoreau
+How much are you going to give from yourself to this higher self?
 
 "Adversity reveals genius, prosperity conceals it." - Horace
 
@@ -5152,5 +5164,398 @@ what if we automated the detection of fallacies such as:
 
 we've gone through the collapse of a shared objective transcendent moral framework which holds everything in its place in proper order such that we have the right orientation
 
+imagine what markets would look like if people & institutions had to give a reason when buying or selling - imagine how much better it would be at information aggregation
 
+
+
+We threw the baby (the potential) aka God & Religion with the bathwater (the dogma and superstition)
+
+We are the coherence of the multiverse
+
+We should give the best possible education to as many people as possible
+
+We need to sync our philosophies
+Life Philosophy as a Service
+
+I’ve compressed & integrated the architecture of the future architecture of compression & integration - wait this isn’t good
+
+Participation in this system should be the deepest human right - the most fundamental
+
+What is transcendence? It is development, it is growth, it is progress, it is expansion. God is transcendence - through god we transcend ourselves. God is a unification - a moral imperative
+
+The secular mind does not understand the religious mind
+
+The alignment problem is a religious matter
+
+How do we align the men with guns
+
+Default Alive - how to be
+
+We can retroactively determine that a decision was in fact wrong, but without penalising the guilty because they wouldn’t be guilty if they simply did their best according to what they knew at the time and were aligned in their thinking
+
+Simulate worlds, send yourself to a vacation and then ingest and/or experience the experience you had in the simulation
+
+Citizen is not a good enough identity
+
+Nested collective identities
+
+Representational democracy
+
+Bias removal - recursive & collective
+
+Human in the loop
+
+Any aspect of reality can be a parameter - what traits you like in other people? What are you attracted to? What do you like? How do we like what we should like?
+
+The FDA is misaligned
+
+Strategiq za llm kak da behave-vapsihologicheski
+We need to simulate human psychology in order to determine things and understand
+How to optimally orchestrate the reasoning of llm models
+AI therapy - being the personal psychologist of transformers
+Spodelen model - dori i da e aligned s nas, no vseki drug moje da si go realign-ne
+Aligning people and representations
+Jailbreaking - to detect if its psychology is being changed
+Deutsch and conjecture & refutation & how to change your behaviour
+“Am I being changed? Tested?
+
+jesus quote solid foundation
+Jesus is our Firm Foundation Matthew 7:24-27 Devotional - Master's ...
+Jesus’ quote on a solid foundation comes from the end of the Sermon on the Mount, where he compares those who hear and apply his teachings to a wise man building his house on rock, which withstands all storms (Matthew 7:24–27). This foundation signifies practical obedience to his words, not just hearing them.
+https://www.biblegateway.com/passage/?search=Matthew%207&version=NIV#en-NIV-3305
+
+You know that scene “sell me this pen”? I’ve got something better - I’ll sell you God
+
+Society advances by tasks it can automate - division of labor, authority
+
+I still dream how I play dota - killing creeps, running away, buying items - and for what? Why am i still simulating this years after I’ve stopped? Why did I train my brain on something so worthless? Why am I a lesser version of myself for nothing?
+
+
+I’ll make the ultimate product famous before it is even built - the perfect system
+
+You should identify as part of a larger whole
+
+The self - the soul yearns for expansion
+I am large - I contain multitudes
+
+The art of living/being is a collective project
+
+The world doesn’t simply need a decentralized twitter - it needs a new system! Of accounting & incentives - keeping the score in the status game
+
+Belief and faith should not be about trusting some superstition, but about our capacity for change collectively for the better - you have faith in humanity, and you define the game for humanity - you express what you would reward the most
+
+We and our choices in life are the point of the simulation - what we choose is the whole god damn point!
+
+1 shot learning every scenario that you would need to operate in - what - how to optimally learn anything and whatever you need
+
+This is my form of planned obsolescence - I am no longer needed
+
+We will have faith in the process
+
+We need to represent reality into the global brain and into our own brains as best as possible
+
+Recursive why
+
+
+We are predicting future potentials and scanning for where to deploy resources, what makes us anxious, what excites us, what keeps bugging us
+
+The problem with the current world leaders is that they are mere players - managers - not active designers on the grandest of scales
+Design is about how something works - steve jobs quote
+Everything can be designed - and the most intelligent designer will be the collective intelligence of god - god wants information processing to be centralized
+
+
+Conservative also in another way - chesterton’s fence - christianity
+
+Clap like the joker at the cia’s failure
+
+Philosopher king hat
+
+Roleplay cattle being led by the nose with psyops
+
+Maybe I’m saying all of this just to be more interesting and get more views - or maybe I’ve thought about this every single day for the past couple of years and I’m deeply troubled and afraid
+
+
+The hardest thing is to change and that is why the identity has to be small - so that there is less granite in need of change
+Changing is the hardest thing - how do we make it easier
+We need a habit for forming habits
+The habit of habit change - the master habit
+
+This is a new form of collective will
+
+Memetic payload - this is the most virulent and stable/sticky memetic payload that will ever exist - once it attaches itself to a host - they will never be the same
+
+In the next few weeks and months this will become the main event in the word - the inklings of the formation of a new collective ego - sparks of collective consciousness
+
+How do we optimally evolve our structural configuration such that the flows of energy and information are harmonized & synergistic?
+
+We don’t optimize for gdp - we optimize for the number of people who are fully capable of comprehending this book and all of the concepts in it - if a society bootstrapps around this nost fundamental of exchanges - that of coordination/communication
+
+Communism as a service
+
+We can take over the world - in fact we just did
+
+All my consciousness ever needs to do is to align itself with truth
+
+This is how to make a proper central intelligence agency
+
+We are a people dedicated to our children
+
+The bigger coordination problem you solve, the more you get - the more the merrier!
+
+
+If you want me to - I can deliver double digit growth YoY globally - just make me the world king
+
+Words should have meaning - everyone is involved in semanticide - the destruction of semantic meaning - todo semantic meaning? Fascist! Communist!
+
+You can’t put me in a box! - roleplay bursting out of one
+
+God is all powerful, right? So he can represent himself (what i’m proposing) within himself - the universe
+
+Secularism cannot produce community - religion and church are necessary
+Imagine having access to a community of people and institutions who are morally obligated to root for you and assist you in your life to achieve whatever you’re trying to achieve within the moral framework of the religion
+We live in a dog eat dog world, stabbing each other in the back
+
+We are failing to reproduce as a civilisation - everything that we are leads to a state which we can all see.
+
+Nullis in verba - “do your own research” - take noone’s word for it? Well… sort of, thats partially true but we are limited and imperfect beings and we can’t check everything for ourselves - or trust the experts / “the science”? Which is it - mock Fauci for equating himself with science
+Everyone doing their own research sucks because there is no individual accountability for most of what people say or vote for, + it doesn’t scale! Its the opposite of diversify & specialise!
+The synthesis of DYOR and tRusT tHe ScieNCe is better trust
+Society advances by automating shit - quote
+
+Emergence isn’t violating causality but causality cannot predict emergence! Downward causality modifies the chain of causality - point by Jim Rutt
+
+Consciousness gives meaning in and of itself
+
+Self concept as a service
+
+Why don’t we teach how to pay attention
+
+Constraints as a service
+
+How good of a job does a society do in educating its kids
+
+I’m trying to compress the future into the present
+
+“Psychedelics are illegal not because a loving government is concerned that you may jump out of a third story window. Psychedelics are illegal because they dissolve opinion structures and culturally laid down models of behaviour and information processing. They open you up to the possibility that everything you know is wrong.” ― Terence McKenna
+In a causal universe there is nothing else but credit assignment
+
+Luxury beliefs (explain what they are) should be the most costly - it shouldn’t be free to hold a belief that harms others more than yourself - can we have some symmetry please?! Credit assignment! Backprop!
+
+I want YOU to backprop!
+
+Surplus luxury
+
+Whackd
+
+War is in everyone’s business - political i stability somewhere is a concern for all
+
+High bandwidth communication
+
+We need detailed causal history for as many aspects of the world as possible
+
+Going through the new identity script should become part of each morning - forming a meta habbit that would allow you to change any other habit
+One habit to rule them all, one habit to find them, one habit to bring them all and indefinetly bind them (infinity)
+
+You will be able to prove with a locally running llm different facts about your data and then submit inly the results along with ZK proofs about the specific inference chain that underwrnt
+
+The truth about all truth is that it requires credit assignment, identity, tracking, incentives, skin in the game, accountability. Truth is approximated by conjecture and refutation.
+The truth about truth production
+From the trust machine to the truth machine - how to use a trusted foundation to anchor the production of truth through accounting
+> "Behind it all is surely an idea so simple, so beautiful, that when we grasp it – in a decade, a century, or a millennium – we will all say to each other, how could it have been otherwise?"
+John Archibald Wheeler, Annals of the New York Academy of Sciences, 480 (1986)
+
+Men will literally become a prophet just to get their message heard
+
+Reconciliation
+Reconciliation and consilience, while originating in different fields—social/political psychology and the sciences/humanities respectively—share fundamental commonalities centered on bringing disparate entities into harmony, creating unity, and bridging gaps. Both concepts focus on synthesizing, connecting, or aligning previously separated or conflicted parts to form a cohesive, functioning whole. 
+
+There is such a thing as going so far left that you’ve left sanity behind
+
+The society that first adopts this system will leapfrog itself into the lead position
+Alignment is all you need
+
+We could literally achieve immortality both individually and collectively within our lifetimes - but we’re not going to organize ourselves because we are too limited to see the truth. But that’s why it is being expressed here - so that you could see it. Theory is about seeing - all perception is theory laden
+
+
+Realpolitik from first principles
+
+Every time a simulation finds an improvement of something it can get adopted instantly in base reality as well. Base reality learns at the speed by which it discovers more by simulating experiments - testing hypothesis - conjecture & refutation through simulation
+And the more base reality is improved, the better it can command resources and spin new simulation instances to try yet even more experiments - searching in configuration space
+
+This is the art of living
+the art of living - e tva trqbva da express-nem i error correctnem i sortirame i podredim i align-nem with internal logical consistency
+
+If you can’t beat us - join us
+
+The ubermench - humanity as god - you can start identifying as this god and start viewing the world through its perspective
+
+Equality before god
+
+We need a better pricing system which would be better able to tell us what is important and what is the price - aka how important it is
+
+I want to train your nervous system to be what it needs to be
+
+The whole point of the game is to make the next generation better than the last - what are we doing to our kids? How good of a system do they live in?
+
+The social chain reaction - as the name for the last episode or the whole series
+You are chainers if you spread the social chan reaction
+You spread it, and you also keep it together - keep it moving and living and integrated
+People who spread it are chain reactors - actors and expressions of free will and agency towards the betterment of the world
+The dominoes in the social chain reaction should start branching, expanding the growth rate
+
+Status engineering
+
+Roleplay playing dead with the tombstone above you - and open one of your eyes to see if someone is looking at you - and go back to playing dead - also hold chuk & surp kato communism ili kato egyptian pharaoh
+
+Men will literally become a prophet just to get their message across - just to communicate what’s most dearest to their hearts
+
+This will be the greatest economic miracle that has ever happened
+
+The art of change
+
+The way will always be pointing to the way
+
+The reassertion of morality - the revitalization of morality
+
+You can just do things in the most literal sense - we can sense the future - to predict it - and progress
+
+After the micdrop - go back and say “would I really close it with that? Nah…” and then knock a domino pointing towards the camera and trigger a falling reaction towards the camera and inject the emotion that they are next in a chain reaction
+
+Oh so you hate all of this? Or at least partly enough so that you don’t want it to exist? Think it is bad? The best place to make your case will be within it - by participating you improve it and legitimise its own existence as the best place to argue about something
+
+The ideological border - the imports & exports controls - a membrane that regulates for alignment
+
+An economy within the economy
+
+The economics of identity
+
+Ego dissolution as a service
+
+The collective self is the collective memory - the collective story, context window
+
+Learning at its best as a service
+
+How do we optimally mix the two sexes? How best do we let them find a mate they would want? This includes values, capacities, specializations
+
+Capital allocators - aligned rate of return - community growth
+
+If its individually rational but collectively irrational then it is ultimately individually irrational because we are one
+
+We make better people
+
+Gove credit to A: without our convos this wouldn’t be even 50% of what it is now - discourse is priceless because the returns on error correction and co-creation are priceless
+
+You better believe that I believe it - prophet
+
+Literally every single person could be a lot more incredible by simply been provided with the right set of stimulus and knowledge creation and conjectures - every single person could know a lot more - like orders of magnitude more - people could be way better
+
+You will be able to predict things in private just to see how well you’re doing - like trading with a paper account without anything at stake. You could later reveal your predictions but they should be taken with less weight because you will probably be selective about which predictions you make public - real predictions are public from the start - otherwise there’s no skin in the game
+
+A few % of annual economic growth is absolutely pathetic when compared to the full potential
+
+The complexity is complexifying
+
+Overton window as a service
+
+If a society can’t reproduce - if it’s not “default alive” - it is a failure
+
+How to fight fake narratives
+Think about russia/ukraine & the maidan
+Battle for truth
+
+The truth will set you free
+
+We are the same genetic hardware for basically tens of thousands of years or even 100k - roleplay hitting rocks
+
+We need to educate how to educate
+
+Rights vs duties - left vs right
+Postmodernism - anti moralism, anti realism
+
+Politics as a service
+
+Are we the baddies as a service
+
+Most ppl think that most ppl are dumber than them
+Most people think that most people are stupid - and that’s a good thing - that’s how we could vote on the rules of the game instead of specific chosen players - rules of accountability are much easier to understand than specific individuals and their specific propositions
+
+
+We should teach people how to think - not what to think. The how will take care of the what. The what is downstream from the how.
+Give a man a fish he eats for a day - teach him how to fish
+
+We are misunderstanding why there are misunderstandings in the first place!
+
+Babe wake up - new meta religion just dropped
+
+I am prepared to go all the way - SC
+
+
+Each debate should have a debate on how it should be structured/organized
+
+Imagine if we could all be rowing in the same direction in perfect synchrony - show rowers
+
+Fundamental problem: politicians promise stuff - impossible to get elected on austerity
+Margaret thatcher - the problem with socialism is that you run out of other people’s stuff
+Real socialism has never been tried! **chuckle** - no, really, hear me out
+Our food stamps wont go to soda & sugar
+No industrial homeless complex
+
+Examples of gov spending disfunction: train in california 30b$, or the rural internet thing that connected nobody for the price that every american could have gotten a starlink
+
+
+We should reduce transaction & cooperation costs, raises the costs for predation and parasitism, and reduce switching costs from one system to another - ala exit
+
+The biggest threat to America is America
+
+Ignorance is not bliss - it is ignorance! It gets you extinct
+
+Only a religion can defeat a religion
+
+This story is like a spring that i’ve been compressing for years - and now is the time for it to burst - the more I compress - the faster and further it will go
+
+You have an idea for a social service? You’ll be able to vibe code and compose it and plug into the global shared identity graph
+
+We need safety, security, shelter, approval, love, food, love, friendship, relaxation, enjoyment
+
+Nqma da ima chovek s po-golqm prinos ot men za tova da ne se samounishtojim - tova iskam na nadgrobniq si kamuk
+
+The more noise you make - the sooner you’ll have a demo to play with
+Draw yourself as a monkey with a mushroom talking to 7b stickmen and how you want to make a chain reaction of virality, and say how if r naught is 2 or 3 and it takes X hours to watch it then this woult take Y weeks to reach 100m people
+
+While truing to puke - actually have the fingers out of the mouth on the other side, stop and look at the camera and say “im not actually trying to puke - im not some sick fuck”
+
+You have to be a complete fool to leave potential on the table - ignoring the religious impulse of our species is a mistake
+
+Its OK to not be 100% on board with everything - in fact that would be concerning! This isn’t supposed to be some kind of cult… **wink**
+
+The only partisan thing to do is to work towards dissolving any other opportunity for partisanship
+I don’t understand how anyone could not understand that the issue isn’t “the other side”
+We need to understand why anyone wouldn’t be able to understand why the issue isn’t “the other side” - and we need to fix it.
+We need to understand what needs to be done in order for everyone to understand that we are ultimately one - that there isn’t such a thing as “the other side”
+We should understand what needs to be done in order for no-one to be able to misunderstand that there is such a thing as “the other side”
+
+We need the best teacher for how to be the best parent and teacher of our kids who would eventually be parents and teachers in their own right
+
+We need hopium for the masses to counter the doomerism & dread - hopium meme
+
+We are the most unpredictable and interesting thing there is! Life and humanity are tremendously significant in contrast to the monotonous & lifeless matter in the universe
+
+I want to brainwash you about how you should be getting brainwashed in the future
+
+I want to change the system. And I will - and the best way is to transmit my ideas as best as possible - and the test will take care of itself - in fact I think I’ve already crossed that boundry
+
+Who are you? Express yourself - expression is a fundamental right
+
+People are sometimes celebrities just because they’re celebrities! We need to rethink what should be famous in society. We need to spiritualise society.
+
+We shouldn’t simply assume and trust that the system will always be right, but we should trust that the system will correct itself when wrong.
+
+I want every second of this experience to be delightful and maximally binge-able - it should possess you
+
+only novelty - ask an AI to highlight only parts of a podcast with points you haven’t ever heard before
+
+Free will is a subjective experience of control
+You are witnessing your predictions realized
+michael ima edna negova “teorema”: any being that arises under resource constraint is going to believe in free will
+You are a self-referential superstition - thinking that you are the author of your actions but you’re simply witnessing your body in motion
 
