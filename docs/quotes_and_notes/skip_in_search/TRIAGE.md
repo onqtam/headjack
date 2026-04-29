@@ -311,7 +311,6 @@ The culture that we cultuvate
 
 Where life has reached is extraordinary
 
-We are here to put a dent in the universe
 
 The fact that we still kill each other is absurd
 The universe is literally ours - all we have to do is simply not squander it
@@ -1030,6 +1029,9 @@ Reverse panopticon
 striking the right ballance in the generative tension between individualism & collectivism
 
 this is how we make A Dent in the Universe
+We are here to put a dent in the universe
+“We’re here to put a dent in the universe. Otherwise why else even be here?” — Steve Jobs
+
 
 we need cognitive elite superproduction paired with alignment & proper utilization/mobilization
 
@@ -1636,6 +1638,7 @@ I am ready to be Streisand’ed if necessary
 We need a shared and open trust layer in society
 
 The sheldom solomon quote about coming to terms with death
+"Come to terms with death. Thereafter anything is possible." - Sheldon Solomon
 
 Imagine a global slider “public truth” - imagine being able to crank it higher
 
@@ -2602,8 +2605,7 @@ If businesses were ran entirely open and transparent it would be self-evident if
 So what - god created the universe and now what - he’s eating popcorn ?! **stuff my face with popcorn and point at something and smile in disbelief** I serve a god that actually needs me and serves me in return - now that’s a real relationship with god
     God - popcorn - start slappig your leg
     “The Son of God shares our nature so we can share His; as He has us in Him, so we have Him in us.”—Chrysostom
-
-
+if god created the universe for a purpose, and he created mankind in his image - then he also must have a purpose - he actually cares what's going to happen just like we care in our lives
 
 
 
@@ -3681,6 +3683,10 @@ Spit on radical relativism - remember I’m spitting not on a person, not on an 
 
 Creation is the highest act/form/state of being
 
+we've passed the event horizon and the potential that we can barely glimpse through imagination is beautiful - **roleplay say beautiful in a very slow and passionate way**
+
+why are precious/noble metals what they are? because we value what doesn't degrade - they don't rust like iron - temporal stability is important for a store of value/wealth
+
 You can be a main character in the manifestation of the end game - we’ve already passed the event horizon and can glimpse the singularity
 Glimpse the social/relational singularity - stare at it and eventually it will stare back at you once its self-awareness is booted up
 I realno tova e singularity in both senses - both in being unpredictable what it will lead to and in the sense that it is singular - its monotheistic - its ultimate order and THE gradient
@@ -4124,6 +4130,7 @@ I grew up atheist, I felt so superior listening to the new atheists like sam har
 Its not like I simply woke up and decided to change the world - I gradually grew into that position. And every day of searching for the answer was a day that I didn’t find that answer - and gradually I realized that nobody has the answer - NOBODY - a complete explanation of everything along with a prescription for what should happen and why. So here I am - roleplaying a prophet - if you think this is absurd - imagine what it felt like for me to gradually step into this position and realizing that I’m the man character of the movie
 I was a bit envious of someone who had a profound experience with a lightning & a revelation - I thought that couldn’t happen to me. I even roleplayed jokingly (and sometimes a bit more seriously) experiencing such a thing but I never realle believed even for a second - but this event was the first time I couldn’t be 100% certain
 I’m the chosen one because I chose myself - ordinary people can choose to be extraordinary
+    “It is possible for ordinary people to choose to be extraordinary.” ― Elon Musk
 "I am who I am" as an episode
 what is the potential of the 21st century to produce a prophet-like figure? that's where I come in
 It was a mystical experience of ultimate reality
@@ -4554,6 +4561,8 @@ https://en.wikipedia.org/wiki/Blind_men_and_an_elephant
 https://www.youtube.com/watch?v=QFgcqB8-AxE
 how to change that?
 
+
+
 upanishad - you are that
     "Tat Tvam Asi" (You Are That) is a foundational mahavakya (great saying) from the Chandogya Upanishad (6.8.7) that reveals the absolute oneness of the individual soul (Atman) and the ultimate reality (Brahman). Spoken by Sage Uddalaka Aruni to his son Shvetaketu, it teaches that the finest essence underlying the entire universe is the same Self that dwells within each person.
     Context: It is taught to Shvetaketu to remind him that despite apparent separation, all life stems from and returns to a single, pure Being (Brahman).
@@ -4562,6 +4571,43 @@ upanishad - you are that
     - Tvam: Thou/You (refers to the individual soul or Self).
     - Asi: Are (indicates the absolute unity between the two).
     Significance: It encourages realizing our true nature beyond our roles and transitory identities, emphasizing that the individual is not distinct from the cosmic totality.
+
+> "You are not a drop in the ocean. You are the entire ocean in a drop." - [Rumi](https://www.goodreads.com/quotes/848553-you-are-not-a-drop-in-the-ocean-you-are)
+
+== chase hughes:
+the universe is one field, fragmented by perception
+there is no you vs the world - there is only this one universe experiencing itself from your point of view
+You are the divine wearing this human costume
+separation and being divided is a hallucination - a glitch
+isolation is not really real
+you are not actually a thing - you're the universe expressing itself for a brief moment in a temporary form - you never stop being the ocean
+you being separate is a misunderstanding
+fear shrinks the self, love expands the self
+love is oneness, alignment
+your mind is not a camera, it is a projector
+> "What you think, you become. What you feel, you attract. What you imagine, you create." - [Gautama Buddha](https://www.goodreads.com/quotes/6990654-what-you-think-you-become-what-you-feel-you-attract)
+you can't be infinite if you identify with a small, vulnerable, limited and impermanent self
+
+> "Then you will know the truth, and the truth will set you free." - [John 8:32](https://www.biblegateway.com/passage/?search=John%208&version=NIV)
+
+
+
+
+joker
+> "All you care about is money. This town deserves a better class of criminals - and I'm gonna give it to them. Tell your men they work for me now. This is my city... It's not about money - it's about sending a message. Everything burns!" - [Joker]()
+All you care about is money. This *~~town~~* **world** deserves a better class of *~~criminals~~* **capitalists** - and I'm gonna give it to them. Tell your men they work for me now. This is my *~~city~~* **planet**... It's not about money - it's about sending a message **into space**. Everything *~~burns~~* **lives**!
+https://x.com/BestMovieMom/status/2047623332972142922
+
+
+
+roleplay: ripping off a script - say that the old script that civilization has been running on is dated! imperfect! weak! unconscious!
+    we're going off script! buckle up! - roleplay being in a buggy while everything is shaking and you're holding on for dear life to the seat
+
+
+
+we should prioritize what's most important, and in turn prioritize what's most important for every part of what's most important - ad infinitum
+
+
 
 we threw the baby with the bathwater in the enlightenment instead of reimagining religion
 
@@ -4857,4 +4903,254 @@ the most powerful infrastructure for cultural evolution
 observation is theory-laden
 understanding is theory-laden
 vision is theory-laden - there is no vision without theory
+
+
+
+"A man is about as big as the things that make him angry." - Winston Churchill
+
+“Imagination is the highest form of research.” ― Albert Einstein
+
+“Only those who attempt the absurd can achieve the impossible.” ― Albert Einstein
+
+“I have no special talents. I am only passionately curious.” ― Albert Einstein
+
+“It is not that I'm so smart. But I stay with the questions much longer.” ― Albert Einstein
+"It's not that I'm so smart, it's just that I stay with problems longer." – Einstein
+
+“You need a story to displace a story.” ― Nassim Nicholas Taleb
+
+“When everything seem to be going against you, remember that the airplane takes off against the wind, not with it ....” ― Henry Ford
+
+"The child who is not embraced by the village will burn it down to feel its warmth" - African proverb
+
+"The best thing that can happen to a human being is to find a problem, to fall in love with that problem, and to live trying to solve that problem, unless another problem even more lovable appears." - Karl Popper
+
+"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart." - Steve Jobs
+
+"You can kill the dreamer, but you can't kill the dream." - Martin Luther King, Jr.
+
+“Seek freedom and become captive of your desires. Seek discipline and find your liberty.” ― Frank Herbert, Chapterhouse: Dune
+
+“Those who do not weep, do not see.” ― Victor Hugo, Les Misérables
+
+“I have offended God and mankind because my work didn't reach the quality it should have.” ― Leonardo Da Vinci
+
+"The idea does not belong to the soul; it is the soul that belongs to the idea." -  Charles Sanders Peirce
+
+“The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.” - George Bernard Shaw
+
+“It's weird not to be weird.” ― John Lennon
+
+“My tastes are simple: I am easily satisfied with the best.” ― Winston Churchill
+
+"If you find a job you love, you'll never work again." - Winston Churchill
+
+“I ask you to judge me by the enemies I have made.” ― Franklin D. Roosevelt
+
+“Never underestimate a man who overestimates himself.” ― Franklin D. Roosevelt
+
+“And in the end, it's not the years in your life that count. It's the life in your years.” ― Abraham Lincoln
+
+"Great men are ordinary men with extra ordinary determination." - Abraham Lincoln
+
+"Nothing is more damaging to you than to do something that you believe is wrong." - Abraham Lincoln
+
+“The artist is… one who allows art to realize its purposes through him.” - Carl Jung
+
+“Reduction explains something about almost everything, but everything about almost nothing.” — Lawrence Cahoone
+
+“If a man will begin with certainties, he shall end in doubts; but if he will be content to begin with doubts, he shall end in certainties.” ― Francis Bacon
+
+"Unless you stake your life, life will not be won." - Werner Heisenberg
+
+"The tyrant dies and his rule is over, the martyr dies and his rule begins." - Soren Kierkegaard
+
+“I'm not trying to be anyone's savior. I'm just trying to think about the future and not be sad.” ― Elon Musk
+^^ well I'm trying both
+
+“Thinking small is a self-fulfilling prophecy” - Jeff Bezos
+
+“Do not pray for easy lives. Pray to be stronger men.” - JFK
+
+“The less people know, the more stubbornly they know it.” ― Osho
+
+“The real question is not whether life exists after death. The real question is whether you are alive before death.” ― Osho
+
+“The rate at which a person can mature is directly proportional to the embarrassment he can tolerate” — Douglas Engelbart
+"Silence will save me from being wrong (and foolish), but it will also deprive me of the possibility of being right." - Igor Stravinsky
+
+"Patriotism means unqualified and unwavering love for the nation, which implies not uncritical eagerness to serve, not support for unjust claims, but frank assessment of its vices and sins, and penitence for them." — Aleksandr Solzhenitsyn
+
+“If you don't read the newspaper, you're uninformed. If you read the newspaper, you're mis-informed.”
+― Mark Twain
+
+"It's easier to fool people than it is to convince them they have been fooled" -Mark Twain
+
+"no army can stop an idea whose time has come" - victor hugo
+
+"the first responsibility of every citizen is to question authority" - benjamin franklin
+
+"Rather than love, than money, than fame, give me truth." - Henry David Thoreau
+
+"The price of anything is the amount of life you exchange for it." – Henry David Thoreau
+
+"Adversity reveals genius, prosperity conceals it." - Horace
+
+“It is difficult to get a man to understand something, when his salary depends upon his not understanding it!” - Upton Sinclair
+
+“Until they became conscious they will never rebel and until after they have rebelled they cannot become conscious.” — George Orwell (1984)
+
+"We have art so that we don't die from the truth." Friedrich Nietzsche.
+
+"the obedient always think of themselves as virtuous rather than cowardly" - Robert Anton Wilson
+
+It is so easy to be wrong—and to persist in being wrong—when the costs of being wrong are paid by others.
+https://twitter.com/ThomasSowell/status/1475910807405924354
+
+“Your beliefs become your thoughts, 
+Your thoughts become your words, 
+Your words become your actions, 
+Your actions become your habits, 
+Your habits become your values, 
+Your values become your destiny.”
+— Gandhi
+
+"Think of the press as a great keyboard on which the government can play"
+Joseph Goebbels
+
+"all the world's a stage" - William Shakespeare
+"All the world's a stage" is a famous monologue from Shakespeare’s As You Like It (Act 2, Scene 7), spoken by Jaques. It means life is a performance where humans are actors, playing various roles—from infant to elderly—throughout their lives (entrances/exits). It compares human life to a play, emphasizing that roles change and identity is not fixed
+
+"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart." - Steve Jobs
+
+"The highest use of capital is not to make more money, but to make money do more for the betterment of life." — Henry Ford
+
+“The people who can destroy a thing, they control it.” - Frank Herbert, Dune
+
+“Everyone wants to live at the expense of the state. They forget that the state lives at the expense of everyone.” ― Frederick Bastiat
+
+“To be America’s enemy is dangerous, but to be America’s friend is Fatal” - Henry Kissinger
+
+“The idea is not to live forever, it is to create something that will.” - Andy Warhol
+
+"He who has a why to live for can bear almost any how." - Friedrich Nietzsche
+"The day a man becomes superior to pleasure, he will also be superior to pain." — Seneca
+
+"Politicians should wear sponsor jackets like Nascar drivers then we know who owns them" - Robin Williams
+
+"The greatest deception men suffer is from their own opinions." - Leonardo da Vinci, c. 1500
+
+"If the path before you is clear, you're probably on someone else's." – Joseph Campbell
+
+"Hope has two beautiful daughters - Anger and Courage. Anger at the way things are, and Courage to see that they do not remain as they are." - St. Augustine
+
+“Wealth consists not in having great possessions, but in having few wants.” – Epictetus
+
+“For the simplicity on this side of complexity, I wouldn't give you a fig. But for the simplicity on the other side of complexity, for that I would give you anything I have.” — Oliver Wendell Holmes
+
+"Individualism is a formidable lie." - Rene Girard
+
+"There is but one choice: to rise to the task of the age.” - Solzhenitsyn
+
+“Most men die at 27, we just bury them at 72” ― Mark Twain
+
+In a gentle way, you can shake the world. - Mahatma Gandhi
+
+"When one teaches, two learn" - Robert Heinlein
+
+"People don't have ideas. Ideas have people." - Carl Jung
+
+"It is difficult to free fools from the chains they revere" - Voltaire
+
+“The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.” (Dijkstra, 1972)
+
+"Impossible is just a big word thrown around by small men who find it easier to live in the world they've been given than to explore the power they have to change it. Impossible is not a fact. It's an opinion. Impossible is not a declaration. It's a dare." - Muhammad Ali
+
+The establishment defends itself by complicating everything to the point of incomprehensibility - Fred Hoyle
+
+"I would rather have questions that can't be answered than answers that can't be questioned." - Richard Feynman
+
+“No one is smart enough to be wrong all the time.” - Ken Wilber
+
+"It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so." - Mark Twain
+
+"What is an entrepreneur? Someone who jumps off a cliff and builds a plane on the way down." - Reid Hoffman
+
+“No man should escape our universities without knowing how little he knows.” ― J. Robert Oppenheimer
+
+"If your life doesn't end in failure, you haven't reached high enough. So it was failure I had to achieve." - H. G. Wells
+
+"The secret of genius is to carry the spirit of childhood into maturity." - Thomas Huxley
+
+"Art is a delivery system for worldviews." - Alex Grey
+
+“Don't wish it were easier. Wish you were better.” ― Jim Rohn
+
+"The only worthwhile achievements of man are those which are socially useful." - Alfred Adler
+
+"Great minds discuss ideas. Average minds discuss events. Small minds discuss people." - Eleanor Roosevelt
+
+“I know of no better life purpose than to perish in attempting the great and the impossible.” ― Friedrich Wilhelm Nietzsche
+
+"Learn not to pay too much for money." — Abraham Maslow
+
+“It requires a very unusual mind to undertake the analysis of the obvious.” ― Alfred North Whitehead
+
+“Find what you love and let it kill you.” — Charles Bukowski
+
+“You're only as young as the last time you changed your mind” ― Timothy Leary
+
+“Psychedelics are illegal not because a loving government is concerned that you may jump out of a third story window. Psychedelics are illegal because they dissolve opinion structures and culturally laid down models of behaviour and information processing. They open you up to the possibility that everything you know is wrong.” ― Terence McKenna
+“I think of going to the grave without having a psychedelic experience like going to the grave without ever having sex. It means that you never figured out what it is all about. The mystery is in the body and the way the body works itself into nature.” - Terence Mckenna
+“Part of what psychedelics do is they decondition you from cultural values. This is what makes it such a political hot potato. Since all culture is a kind of con game, the most dangerous candy you can hand out is one which causes people to start questioning the rules of the game.” ― Terence McKenna
+
+"People are strange: They are constantly angered by trivial things, but on a major matter like totally wasting their lives, they hardly seem to notice." - Charles Bukowski
+
+“You will either step forward into growth, or you will step back into safety.” - Abraham Maslow
+
+“There is almost a sensual longing for communion with others who have a large vision. The immense fulfilment of the friendship between those engaged in furthering the evolution of consciousness has a quality impossible to describe.” ― Pierre Teilhard de Chardin
+
+“The future belongs to those who give the next generation reason for hope.” ― Pierre Teilhard de Chardin
+
+“Finite players play within boundaries; infinite players play with boundaries.” ― James Carse
+
+“No one really knows why they are alive until they know what they'd die for.” ― Martin Luther King Jr.
+
+there's a problem with democracy that it can be ended with democracy
+
+> "If you want to change the world to a better place, the best way to do it is a for-profit because for-profits have to take feedback from reality." - [Naval](https://x.com/TOKphysics/status/2047472715267703075)
+^^ how do we make non-profits take feedback from reality?
+
+absolute power corrupts absolutely
+
+
+
+fragmentation across platforms - YouTube doesn't know what I listened on spotify and so I cannot help my favourite creator on YT if I listen to him on Spotify - or I have to go out of my way to like & rewatch the same thing entirely on YT as well?!
+
+
+
+people seek freedom, recognition, connection, growth, experiences, information
+acceptance, belonging, novelty
+
+will to power
+
+be so good they can't ignore you
+https://www.goodreads.com/book/show/38478222-so-good-they-can-t-ignore-you
+
+
+what if we automated the detection of fallacies such as:
+- appeal to emotion
+- strawman argument
+- bandwagon fallacy
+- false dilemma
+- ad hominem
+- appeals to authority
+- slippery slope
+- hasty generalization
+- red herring
+- false equivalence
+
+we've gone through the collapse of a shared objective transcendent moral framework which holds everything in its place in proper order such that we have the right orientation
+
+
 

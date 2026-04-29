@@ -373,6 +373,8 @@ we need to give scaffolding for people to express their causal model of the worl
 
 > "That the truth consists of hard to vary assertions about reality is the most important fact about the physical world. It’s a fact that is itself unseen, yet impossible to vary." - [David Deutch](https://www.youtube.com/watch?v=folTvNDL08A&t=973s)
 
+"Any fool can know. The point is to understand." -- A. Einstein (1879 - 1955)
+
 How do we better understand what understanding even is?
 Foundational, firm, solid, dependable, necessary
     Everything depends on it and builds on top
@@ -473,6 +475,7 @@ the opposite: in capitalism we do less with more -
 coherence = resolution of contradictions
 consistency
 
+> "Coherence cannot establish truth, but incoherence and inconsistency do establish falsehood." - [Karl Popper, Conjectures and Refutations (Routledge, 5th edition, 1989)](https://x.com/QuotePopper/status/2046366448419737929)
 
 ## from AIs
 
@@ -586,6 +589,7 @@ Intelligence is the ability to model, predict, and influence one’s future; it 
 # truth
 ██████████████████████████████████████████████████████████████████
 
+“All you have to do is write one true sentence. Write the truest sentence that you know.” – Ernest Hemingway
 The biggest truth is that truth is of infinite value - and everyone is claiming to be on its side
 
 where does truth come from? where does the epistemic authority come from?
@@ -746,6 +750,9 @@ government is not supposed to manage the populace but to uplift it!
 ██████████████████████████████████████████████████████████████████
 
 consciousness & awareness are second-order perception - perception of perception
+
+joscha bach 50 sec clip
+https://x.com/JoschaBachBits/status/2047349159720583259
 
 ██████████████████████████████████████████████████████████████████
 # common knowledge

@@ -166,7 +166,7 @@ explainer for his tweet:
 https://x.com/CernBasher/status/1984286504596726061
 
 
-> "That the truth consists of hard to vary assertions about reality is the most important fact about the physical world. It’s a fact that is itself unseen, yet impossible to vary." - [David Deutch](https://www.youtube.com/watch?v=folTvNDL08A&t=973s)
+> "That the truth consists of hard to vary assertions about reality is the most important fact about the physical world. It’s a fact that is itself unseen, yet impossible to vary." - [David Deutsch](https://www.youtube.com/watch?v=folTvNDL08A&t=973s)
 
 
 
@@ -206,6 +206,21 @@ https://www.youtube.com/watch?v=C-Q2K0bLuSk
 > "The war of ideas is a Greek invention. It is one of the most important inventions ever made. Indeed, the possibility of fighting with words and ideas instead of fighting with swords is the very basis of our civilization." - [Karl Popper](https://x.com/TOKphysics/status/2040948275272896878)
 
 > "The unknown, the uncertain, the problematic is what drives us forward; certainty is the enemy of progress." - [Karl Popper, The Myth of the Framework, 1994](https://x.com/QuotePopper/status/2045544852448747564)
+
+> "The main source of our ignorance lies in the fact that our knowledge can only be finite, while our ignorance must necessarily be infinite. We can never know how much we do not know; and it is this which makes our ignorance so dangerous and so difficult to overcome." - [Karl Popper, Conjectures and Refutations (1963), p. 28](https://x.com/QuotePopper/status/2046491954125451505)
+
+> "Every step in knowledge reveals more of what lies beyond. The unknown grows with every answer. We do not conquer ignorance; we stretch its borders." - [Karl Popper, The Myth of the Framework (1994), p. 7](https://x.com/QuotePopper/status/1908486745454166508)
+
+> "Fallibilism is the view that all our knowledge is conjectural, and that we must always be ready to revise it in the light of new evidence; it is the recognition that we are all fallible, and that our best theories may be mistaken. This attitude is essential for the advancement of science, for it encourages a spirit of openness and criticism, rather than dogmatism." - [Karl Popper, Conjectures and Refutations, p. 132–133 (1963)](https://x.com/QuotePopper/status/2047972582612205665)
+
+> "The child does not wait to be taught but learns by inventing and testing its own theories about the world; education should build on this natural curiosity rather than suppress it." - [Karl Popper, Objective Knowledge: An Evolutionary Approach, 1972, p. 346](https://x.com/QuotePopper/status/2048009910038766022)
+
+
+
+
+
+> "A prediction, or any assertion, that cannot be defended might still be true, but an explanation that cannot be defended is not an explanation." - [David Deutsch](https://x.com/TOKphysics/status/2047110430443659734)
+
 
 
 
