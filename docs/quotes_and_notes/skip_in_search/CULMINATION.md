@@ -1405,6 +1405,8 @@ Hey boys, how’s the paradigm? - wear swimming goggles
 
 come work your ass off for this religion and you will have community, family (you will be able to reproduce and not ruin your relationships out of immaturity), peace, prosperity
 
+there was a process that got us here... and THIS IS THE EVENT!
+
 if you're one of the top 10000 (or 0.01%) software engineers on this planet and you want to build the future - find me!
 and actually almost anyone could contribute one way or another - I just want the most hardcore engineers on the planet for the absolute core of the system - namely the blockchain and the core that will house the state graph that will compute all of the views, but there will be plenty to do by plenty of people and companies. We need to get the core design right. there'll be a lot of work around content, marketing, project management and whatever - get involved.
 
@@ -1475,6 +1477,8 @@ We will change the world! Oh - you don't believe me?! LOOK! I have the ENTIRE pl
     on the t-shirt
 
 Help me build a better system
+
+I rest my case - roleplay resting a case
 
 Welcome to the end of money
 

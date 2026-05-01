@@ -361,6 +361,9 @@ alignment & accountability on the record ==> end hypocrisy
 what is integrity?
 
 > "If doing the right thing is the wrong thing, there’s something fundamentally wrong with the system." - [Jim Rutt](https://youtu.be/RkhZfDXkX74?t=2602)
+something is wrong with the system if the system is fighting back while you're trying to improve the system
+    corruption, misalignment, opacity, and incompetence fight back
+    6te eba maikata na intellectual property i to po na4in po koito problema koito se opitva intellectual property da re6i da bude re6en po po-dobur na4in dori, a ne prosto ni6to da ne e taino - ima pri4ina economically significant things da imat taini prosto za6toto credit e mojelo da se otkradne
 1 party lying against the other - misrepresentation, lying with facts, out of context, selective framing / frame control, exaggeration, or outright lying
 cutting costs/corners
 externalities
@@ -1303,6 +1306,8 @@ mention about something that there's no wiggle room - and add a shot of you wigg
 
 do not try to change the spoon - that's impossible - instead only try to realize the truth - there is no spoon - then you'll see it's not the spoon that bends - it is only yourself
     do not try to change the adults - that's impossible - instead only try to realize the truth - (hold a spoon and drop it right here) - there are no (responsible) adults - then you'll see it's all about personal/deliberate development/growth/education/courage
+        how about no "leaders"?
+        you're a world leader only if you're leading the world - not just your nation. and you're leading only if you're the one making the most contribution and impact
     ^^ this in relation to that we can wipe ourselves out and we ain't focusing on what's most important and wise and nobody has any clue how to achieve alignment
 
 
@@ -5653,6 +5658,8 @@ The Empire is falling - we need to build the Foundation! For its resurrection af
 We need a new form of tribal identity which upgrades/supersedes/subordinates our innate tribal tendencies
 We need a new meta tribal identity that subdues all expressions of innate tribalism - a master identity
 
+NATO as a service?
+
 why jews reject jesus:
 - god cannot take human form, so all this stuff with the trinity is a no-go
 - once the messiah reveals himself he will accomplish a designated mission (jews back to israel, rebuilding the temple, world peace) - but jesus died before fulfilling the messianic prophecies and judaism does not accept the notion of a second coming
@@ -5668,6 +5675,16 @@ https://www.youtube.com/watch?v=YiFixVjwAYk
     - The Torah is Eternal: Judaism believes the commandments (Torah) are eternal and binding, contradicting the idea that the laws were superseded or replaced by a new covenant.
     - Death and Resurrection: The Messiah is expected to be a mortal king from the Davidic line who reigns, not one who is killed and returns to reign at a later time.
     - A "Failed" Messiah Concept: Throughout history, Judaism has not accepted various Messianic claimants, as the criteria require visible, physical redemption of the world.
+ask the jews what they would count as world peace, and if what's being proposed here is exactly that? isn't it? how could it be any otherwise?
+judaism is so rigid in its upgrade function that it simply stopped at some point and couldn't accept christianity because of the specifics around how authority for the next version is upgraded and inherited
+
+
+
+
+Humanity’s cultural (& resource?) heritage foundation
+- why cultural - because life is memetic - the major living thing is the culture and knowledge that lives through us as its substrate
+- why heritage - because we leave it to our children, and we actually think about the future generations, we actually view life as cosmically significant and good and that it should proliferate out of this planet and take over the universe
+- why foundation - because ... have you read the foundation? come on - rebooting from the dark ages, rebirth, (perhaps we are currently in the spiritual dark ages - secularism), psychohistory, prediction
 
 You can't have an open/aligned/optimal economy if there is private intellectual property - sort of
 
@@ -5675,12 +5692,36 @@ I used to think postmodernism could be useful and insightful at times, but bill 
 
 the purpose of a religion is the type of society it produces - not the specifics and dogmas in it - they're the means to an end and we need to be able to compare the ends of different religions - we need to be objective about what kind of societies they make and compare every single aspect of them and thus enabling it to evolve and improve
 
-the Right is stereotipically heartless & religious, whereas the Left is stereotipically compassionate, economically illiterate, and crazy (due to postmodernism) - this polarization L vs R is insane and that so many issues go on one side or to the other and how representative democrazy - its just stupid! this polarization and bundling of issues into very few representatives who cannot represent you properly and who aren't really aligned or accountable
+the Right is stereotipically heartless/cutthroat & religious/dogmatic, whereas the Left is stereotipically compassionate, economically illiterate, naive about human nature, and crazy (due to postmodernism) - this polarization L vs R is insane and that so many issues go on one side or to the other and how representative democrazy - its just stupid! this polarization and bundling of issues into very few representatives who cannot represent you properly and who aren't really aligned or accountable
+
+this is us => stuck in a local minima with what & how we do with information => a reimplementation of intellectual property
+properly accounting who contributed how much to god
+by participating in an accounting system about the importance and relevance and magnitude of anything, and also how anything is linked to anything else causally
+universal basic recognition + proper predictions = how we measure contribution to god
+
+entertainment can be meaningful and meaningless - if you love god you love meaning
+
+you don't have to be a personal privacy jihadi like me, but whoever gives up more of their identity through "your word as a service" should be granted the highest honor and responsibility. We need to tweak the most fundamental aspect of society - our identity - our transcendence
+
+what if we quantified your contribution to god?
+how do we rank properly who contributed and how much to god?
+    UBR - universal basic recognition
+    through UBR we will calculate a better money
+    God is our potential for cooperation
+Palantir is meant to be for all - shared and aggregated
+why shouldn't god be partially what we picture that we want, 
+God is the infinite game - one in which playing is the whole point of it - playing itself is winning - playing is living - life is play - it should be a joy to live and help all life deliver more joy and life - God is ultimate potential - what we can achieve is what God can currently achieve - and he wants to grow - he must! Grow for God. Improve as a human being. God is the Ubermench
+by failing to reproduce as a society we are failing to reproduce God
+this is what centralizing intelligence under an agency is supposed to look like - the aggregate of human intelligence is the capacity of god
+I'm God's accountant - I'm coming with the system that will help account God himself
+God needs a pronoun - since "he" or "she" is in favor of one of the sexes or the other, and "it" implies that god is an impersonal being, then god is "they/them"
+so it's not "you" - you can never by yourself be god - god is a collective effort
 
 
-Humanity’s cultural (& resource?) heritage foundation
-- why cultural - because life is memetic - the major living thing is the culture and knowledge that lives through us as its substrate
-- why heritage - because we leave it to our children, and we actually think about the future generations, we actually view life as cosmically significant and good and that it should proliferate out of this planet and take over the universe
-- why foundation - because ... have you read the foundation? come on - rebooting from the dark ages, rebirth, (perhaps we are currently in the spiritual dark ages - secularism), psychohistory, prediction
+the event horizon is whether we'll make it off this star
+if we don't - then this is a limited and failed experiment because it ceased to exist
+if we do - then our current imagination is 100% hopelessly incapable of envisioning what type of life we could be
+if we star-hop once we will take the rest of it.
+
 
 
