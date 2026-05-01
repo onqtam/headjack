@@ -111,7 +111,44 @@ Everyone's ULTIMATE Concern == ??? — A Sermon on the Web
 
 
 
+hold passport & carrot (in mouth?) & stick next to a hive mind for the thumbnail
+
 use emojis for the 3 parts of the thumbnail - brain emoji for hive mind
+
+
+
+Paddy Galloway
+    https://accelerator.paddygalloway.com/
+    https://www.paddygalloway.com/
+    https://www.youtube.com/results?search_query=+Paddy+Galloway
+
+    "click to unpause" thumbnail with me showing stuff on the whiteboard
+    https://x.com/PaddyG96/status/2034666190220525771
+
+    "everything ideas" - signal in T&T that people will get the entire spectrum of something
+    https://x.com/PaddyG96/status/2043726507244179671
+
+    "contradiction click"
+    https://x.com/PaddyG96/status/2049864228593398067
+
+    Q&A with paddy
+    https://x.com/PaddyG96/status/2018759348684792210
+    https://x.com/PaddyG96/status/1991210789185736840
+    tutorial paddy
+    https://x.com/PaddyG96/status/2014057029929963692
+    another
+    https://x.com/PaddyG96/status/2011859259257208953
+    https://x.com/PaddyG96/status/1970176604157444318
+    https://x.com/PaddyG96/status/1921280446706438273
+    https://x.com/PaddyG96/status/1935741527512481988
+    https://x.com/PaddyG96/status/1943710293982687622
+    https://x.com/PaddyG96/status/1917985077889307001
+    https://x.com/PaddyG96/status/1912937662928789549
+    https://x.com/PaddyG96/status/1908222564952137905
+    https://x.com/PaddyG96/status/1891910942348243062
+    https://x.com/PaddyG96/status/1883966103392833816
+    https://x.com/PaddyG96/status/1904917095915098585
+    https://x.com/PaddyG96/status/1874513925208936644
 
 
 
@@ -1366,7 +1403,7 @@ Hey boys, how’s the paradigm? - wear swimming goggles
 
 
 
-
+come work your ass off for this religion and you will have community, family (you will be able to reproduce and not ruin your relationships out of immaturity), peace, prosperity
 
 if you're one of the top 10000 (or 0.01%) software engineers on this planet and you want to build the future - find me!
 and actually almost anyone could contribute one way or another - I just want the most hardcore engineers on the planet for the absolute core of the system - namely the blockchain and the core that will house the state graph that will compute all of the views, but there will be plenty to do by plenty of people and companies. We need to get the core design right. there'll be a lot of work around content, marketing, project management and whatever - get involved.
@@ -1388,6 +1425,8 @@ make this common knowledge - make it so that everyone knows that everyone knows 
 when this spreads it won't be because of me but because of YOU!
 
 my hope is that you'd be able to say with a straight face: "you must watch it - this will be the most important and consequential thing you ever watch in your entire life - even if you don't agree with all of it - I know I don't"
+
+Tell people to tell others: “I think you’ll watch it sooner or later, either because of my recommendation or the recommendation of someone else - I think its inevitable, and the sooner you watch it the better for you”
 
 this is a hyperstition and creating common knowledge of it by making it viral is the most important point
     explain the reflexive loop

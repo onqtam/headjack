@@ -2189,6 +2189,8 @@ We need a competing signal to the money-on-money return paradigm
 
 We need a distributed system that fact-checks the fact-checkers
 
+> "[In 2016](https://en.wikipedia.org/wiki/List_of_countries_by_charitable_donation), 1.44% of U.S. GDP was donated to nonprofit organizations, more than any other country and nearly twice as much as New Zealand, the runner up. An incredible 38 of the [54 largest private foundations](https://en.wikipedia.org/wiki/List_of_wealthiest_charitable_foundations) in the world by endowment value are based in the U.S., while Canada has only one. Simply put, the scale of U.S. private philanthropy is unlike anything in the world." - [Think Tanks Have Defeated Democracy, Palladium Magazine](https://www.palladiummag.com/2026/04/02/think-tanks-have-defeated-democracy/)
+
 We need to convert status-seeking through excessive consumption to recognition for contribution - we need to reward the contributors - the altruists
 
 If we crowdsource the collective intelligence for every aspect of a problem along with their relations - well we have solved the problem

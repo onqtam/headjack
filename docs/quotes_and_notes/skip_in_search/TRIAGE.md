@@ -3676,6 +3676,7 @@ We must seize the means of connection/relation - the collective story!!! The mem
 
 
 Anyone can try - I want to succeed - to be victorious!
+"You’re not talking to someone who woke up a loser. That loser attitude, that loser premise makes no sense to me." - Jensen Huang
 Step 1) dispatch cron job to the cluster
 Step 2) cluster does distributed cognition
 And the hive mind scans for interesting new representations and when it finds some kind of match or fittedness between some set, then it can pair up the cows together in a group chat to coordinate further
@@ -4076,7 +4077,7 @@ I avoid car travel - i believe I shouldn’t fuck this up
 
 Our collective identity is of the people who have thought about identity the most thoroughly - of self-similarity
 We are the most collectively conscious and self-aware because we actually know what consciousness and collectivism are about and we are the most familiar with self-awareness and self-reference - so “being the most collectively conscious” is not just something that sounds good but is actually fundamentally true.
-our identity is big in that it tries to expand to as many people as possible, and it is small in that it tries to keep only a few core pillars stable - and even they aren't supposed to be dogmatic - we are flexible to change our minds - we don't identify with the majority of our opinions and ideas. We focus on the fundamental universals. We update our beliefs when presented with good arguments - unlike most other people who protect their unexamined and tribal identity and sense of self along with the social standing in their community. Others take the easy and safe way out when they're being challenged - they dismiss or rationalize away anything that conflicts with their current beliefs. They sometimes resolve this cognitive dissonance by doubling down on their prior beliefs and they end up even reinforced - A.K.A. the backfire effect. We all know someone like that - and sometimes it's even YOU!
+our identity is big in that it tries to expand to as many people as possible, and it is small in that it tries to keep only a few core pillars stable - and even they aren't supposed to be dogmatic - we are flexible to change our minds - we don't identify with the majority of our opinions/beliefs/ideas. We focus on the fundamental universals. We update our beliefs when presented with good arguments - unlike most other people who protect their unexamined and tribal identity and sense of self along with the social standing in their community. Others take the easy and safe way out when they're being challenged - they dismiss or rationalize away anything that conflicts with their current beliefs. They sometimes resolve this cognitive dissonance by doubling down on their prior beliefs and they end up even reinforced - A.K.A. the backfire effect. We all know someone like that - and sometimes it's even YOU!
 
 > "The better we get at getting better, the faster we will get better." - [Douglas Engelbart](https://en.wikiquote.org/wiki/Douglas_Engelbart)
 
@@ -5334,7 +5335,7 @@ Constraints as a service
 
 How good of a job does a society do in educating its kids
 
-I’m trying to compress the future into the present
+I’m compressing the future and pulling it into the present
 
 “Psychedelics are illegal not because a loving government is concerned that you may jump out of a third story window. Psychedelics are illegal because they dissolve opinion structures and culturally laid down models of behaviour and information processing. They open you up to the possibility that everything you know is wrong.” ― Terence McKenna
 In a causal universe there is nothing else but credit assignment
@@ -5636,11 +5637,50 @@ Information tracking - eggs - consumption, chain of production, etc.
 
 I want to be the pope
 
-Bojo i negoviq contrbution za anticorruption in gov
-
 What am I doing? I’m telling you what we should build so that I can express in the system that I’ve also expressed in here in terms of specific opinions
 
 Clear thinking as a service - truthful, consistent, coherent, complete, rational, meritocratic, with proper credit assignment & backprop - so that it can learn
 
 Food delivered in metal containers in your neighbourhood - we need similar diets
 15 minute cities
+
+Cui Bono as a service
+
+Roleplay intense shlurping/sucking tedX juice
+
+The Empire is falling - we need to build the Foundation! For its resurrection after the dark ages that are to come
+
+We need a new form of tribal identity which upgrades/supersedes/subordinates our innate tribal tendencies
+We need a new meta tribal identity that subdues all expressions of innate tribalism - a master identity
+
+why jews reject jesus:
+- god cannot take human form, so all this stuff with the trinity is a no-go
+- once the messiah reveals himself he will accomplish a designated mission (jews back to israel, rebuilding the temple, world peace) - but jesus died before fulfilling the messianic prophecies and judaism does not accept the notion of a second coming
+    but world peace can't happen quickly - it will take decades - what if the messiah dies or is killed? impossible? what if what he's saying comes true after his death - does that not make him the messiah? what's the timeframe?
+- the new testament says that God has abrogated (repealed, abolished, annulled, voided) his covenant with israel and that God has replaced the Sinaitic Revelation with the Justification by Faith (Paul's innovation) - one gets redemption not by works but by faith - that theological postulate is absolutely inconsistent with the eternity of the Torah. Even the messiah is not going to abrogate/replace the Torah
+https://www.youtube.com/watch?v=YiFixVjwAYk
+"why don't jews accept jesus as the messiah"
+    https://share.google/aimode/2d7CQ5ULjJZXpQXsu
+    Jews do not accept Jesus as the Messiah because he did not fulfill specific Hebrew Bible prophecies, such as rebuilding the Temple, bringing world peace, or gathering all Jews to Israel. Judaism defines the Messiah as a human leader who brings a tangible, peaceful Messianic Age, not a divine figure requiring faith for salvation.
+    Key reasons include:
+    - Prophecy Fulfillment: The Messiah is expected to bring universal peace and knowledge of God. As these events did not occur in Jesus' lifetime, he is not considered to have fulfilled the requirements.
+    - Definition of God: The Jewish concept of God is strictly monotheistic (one, indivisible), making the Christian belief in the Trinity and the divinity of Jesus (God in human form) contradictory to Jewish law and considered idolatry.
+    - The Torah is Eternal: Judaism believes the commandments (Torah) are eternal and binding, contradicting the idea that the laws were superseded or replaced by a new covenant.
+    - Death and Resurrection: The Messiah is expected to be a mortal king from the Davidic line who reigns, not one who is killed and returns to reign at a later time.
+    - A "Failed" Messiah Concept: Throughout history, Judaism has not accepted various Messianic claimants, as the criteria require visible, physical redemption of the world.
+
+You can't have an open/aligned/optimal economy if there is private intellectual property - sort of
+
+I used to think postmodernism could be useful and insightful at times, but bill hicks dispenses with that idea - it is 
+
+the purpose of a religion is the type of society it produces - not the specifics and dogmas in it - they're the means to an end and we need to be able to compare the ends of different religions - we need to be objective about what kind of societies they make and compare every single aspect of them and thus enabling it to evolve and improve
+
+the Right is stereotipically heartless & religious, whereas the Left is stereotipically compassionate, economically illiterate, and crazy (due to postmodernism) - this polarization L vs R is insane and that so many issues go on one side or to the other and how representative democrazy - its just stupid! this polarization and bundling of issues into very few representatives who cannot represent you properly and who aren't really aligned or accountable
+
+
+Humanity’s cultural (& resource?) heritage foundation
+- why cultural - because life is memetic - the major living thing is the culture and knowledge that lives through us as its substrate
+- why heritage - because we leave it to our children, and we actually think about the future generations, we actually view life as cosmically significant and good and that it should proliferate out of this planet and take over the universe
+- why foundation - because ... have you read the foundation? come on - rebooting from the dark ages, rebirth, (perhaps we are currently in the spiritual dark ages - secularism), psychohistory, prediction
+
+
