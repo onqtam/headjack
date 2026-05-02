@@ -494,6 +494,7 @@ I used to think postmodernism could be useful and insightful at times, but bill 
 postmodernism isn't like it's trying to build upon it - no - it is "post" - it is meant to reject it entirely - it is not a continuation of development and complexification like metamodernism which is exactly a complexification and sophistication of modernism - metamodernism is improvement - postmodernism is self-suicidal - it only tears down and doesn't know when to stop with its deconstructive apparatus - and thus it trends towards rock bottom - a postmodern civilization is a sinking civilization because civilization requires modernism - if you "post" modernism you "post" our engine of progress - meta builds & improves - it transcends (not in facebook meta's case) - post destroys
     if postmodernism goes too far in 90%+ of cases and can't stop going straight for the abyss - then it's net negative - then it is false.
 Most postmodernism goes off the rails - and not just by a bit but by a lot
+the metamodern guys are too much into progressive stage theory and thus they try to integrate postmodernism when in fact the insights from postmodernism are present in modernism - metamodern ppl simply don't get that postmodernism is overall a regress - not a stage in development
 
 
 This is the end of postmodernism and radical relativism
@@ -801,6 +802,9 @@ The Third Temple IS our third story - a universal one that houses all of humanit
 The way to commune/interface with the creator is to commune with the synergistic aggregate of human creativity, the source of which is the universe. God's way of participating in the world is through us and our choices and
 A creator doesn't create just once - he never stops, and in fact his epistemological creativity should only accelerate
 If there's a creator, surely he wants us to continue creating - the most creative thing to do is to create a sandbox for open-ended creativity!
+
+Third (universal) story - thesis, antithesis, synthesis
+Nullis in verba & DYOR, vs trust authority
 
 The creator created the universe which created us through evolution such that we can continue the acts of creation - creation is the only way to honor a creator
 creation creates the possibility of further creation by expanding the adjacent possible - it's open ended - it's infinite

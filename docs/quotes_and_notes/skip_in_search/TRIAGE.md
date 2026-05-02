@@ -1301,9 +1301,6 @@ do not try to change the spoon - that's impossible - instead only try to realize
     ^^ this in relation to that we can wipe ourselves out and we ain't focusing on what's most important and wise and nobody has any clue how to achieve alignment
 
 
-Metaverse - bridging/extending the real world with the virtual - virtualizing the real world
-you want any more buzzwords? I've got plenty! Singularity! Decentralization! Augmented Reality!
-
 despite Goodhart's Law - this will be a system that is constantly self-correcting its reward mechanism - whatever it is - always error-correcting - in pursuit of error
 
 
@@ -1325,6 +1322,8 @@ You don’t want to be a useful idiot
 O - O - deep voice => authority - like an ape
 
 “The polls say” - the news is fake, the history is fake, but the polls say…? Make polls great again!
+fake history - also revisionist
+fake news are ephemeral - fake history is more timeless - has a deeper kind of impact
 
 Its time to look at the most fundamental structural issues - and that is status
 
@@ -1467,6 +1466,9 @@ god is one, undivided, eternal - god is the attractor of collective unification 
 
 How do we become as impactful as possible in affecting the most number of people the furthest forward
 
+Metaverse - bridging/extending the real world with the virtual - virtualizing the real world
+you want any more buzzwords? I've got plenty! Singularity! Decentralization! Augmented Reality!
+    mention roblox, an actual metaverse can be build on top of an open identity protocol - in fact that's the only way a true metaverse could be built!
 Mention augmented reality - the metaverse
 the metaverse is not about a complete disconnect from the real world - it is the ultimate interface to the real world
 not this metaverse: show polygon zuck
@@ -3770,7 +3772,7 @@ Money is not wealth and the way to generate wealth is not neecessarily the same 
 
 I want to have kids and to wipe shit and piss and to not sleep well and to get sick every time they catch some cold and to not have time for myself because by the time they’re into this world my life belongs to them. They would be me. I would be them. We would be one.
 
-If truth and god are oneness - is judaism true if they’re not about all people being one? The failure of judaism and all prior monotheistic religions is that they are not perpetually self-correcting and adaptable - they are dogmatic. Their man mechanism of correction and evolution is through a prophet that has to meet some kind of criteria and be remarkably impressive - that’s too high of a bar and thus we keep reciting the same old texts in the era of MrBeast and TikTok - Jesus wasn’t impressive enough for some Jews- I guess someone needs ti outjesus Jesus!
+If truth and god are oneness - is judaism true if they’re not about all people being one? The failure of judaism and all prior monotheistic religions is that they are not perpetually self-correcting and adaptable - they are dogmatic. Their man mechanism of correction and evolution is through a prophet that has to meet some kind of criteria and be remarkably impressive - that’s too high of a bar and thus we keep reciting the same old texts in the era of MrBeast (roleplay: salute him - print his face) and TikTok - Jesus wasn’t impressive enough for some Jews- I guess someone needs ti outjesus Jesus!
 The reason there is so much death around jews is that they’re unable to evolve their own story and conception of themselves such that there wouldn’t need to be any conflict in the first place. Its not only their fault, and perhaps it isn’t even mostly because of them but because of the latter, but still they have more capacity to evolve than what they’re facing and thus the moral burden falls on them. By being objectively better than the barbarians they also deserve higher expectations
 Of course I’ll talk about the Jews - no Jews - no views! And we want to go viral, don’t we precious. The judeo-christian world needs to merge. I’m a cultural Christian but that means I’m also a Judeo-Christian because Christianity was born from Judaism! You’ve defined your identity as the minority - the other! Of course there will always be problems if you’ve erected a tall wall between you and the rest of us - only born by a Jewish mother and all that jazz or a very demanding process to convert - yes you are special in that you introduced monotheism but that’s about it - no more- you are still just human like the rest of us and ultimately we should all be one. Conversion should be the highest aim of religion - religion is in the all or nothing game - god does not like fragmentation and disunity. All of your problems are due to your static identity. Stasis is death or at least stagnation - it is the opposite of adaptability and evolution and progress and ultimately survival and life and meaning themselves. You might thrive economically and technologically but you’re still ultimately embroiled in conflicts and are hated by some throughout the world. Identity as a service. Your superiority complex is your Achilles heel. Exclusivity is a sin - God has changed his mind - he ought to have a free will, correct? And despite being all powerful and knowing perhaps the only way to real knowledge is through conjecture and refutation - by trial and error. The way towards truth is through fallibility. God cannot know everything that is to be known because the future and everything that is to happen and is to be discovered and known has still not happened! If god has given us free will then he by definition cannot know absolutely everything about the infinity of our future! And imagine what kind of existence it would be for him if there was no freedom of will to exercise - god is not some robot or some vegetable - god is a mind, and we can try to infer what he’s thinking by observing reality and what it is computing.
     todo: rethink this - you don't necessarily know what you're talking about
@@ -4063,6 +4065,7 @@ I avoid car travel - i believe I shouldn’t fuck this up
 Our collective identity is of the people who have thought about identity the most thoroughly - of self-similarity
 We are the most collectively conscious and self-aware because we actually know what consciousness and collectivism are about and we are the most familiar with self-awareness and self-reference - so “being the most collectively conscious” is not just something that sounds good but is actually fundamentally true.
 our identity is big in that it tries to expand to as many people as possible, and it is small in that it tries to keep only a few core pillars stable - and even they aren't supposed to be dogmatic - we are flexible to change our minds - we don't identify with the majority of our opinions/beliefs/ideas. We focus on the fundamental universals. We update our beliefs when presented with good arguments - unlike most other people who protect their unexamined and tribal identity and sense of self along with the social standing in their community. Others take the easy and safe way out when they're being challenged - they dismiss or rationalize away anything that conflicts with their current beliefs. They sometimes resolve this cognitive dissonance by doubling down on their prior beliefs and they end up even reinforced - A.K.A. the backfire effect. We all know someone like that - and sometimes it's even YOU!
+being wrong is not bad and to be avoided - in fact it's great! it's an opportunity for growth!
 
 > "The better we get at getting better, the faster we will get better." - [Douglas Engelbart](https://en.wikiquote.org/wiki/Douglas_Engelbart)
 
@@ -5255,7 +5258,7 @@ If you want me to - I can deliver double digit growth YoY globally - just make m
 
 Words should have meaning - everyone is involved in semanticide - the destruction of semantic meaning - todo semantic meaning? Fascist! Communist!
 
-You can’t put me in a box! - roleplay bursting out of one - am I left wing? or right wing? centrist? a communist? a fascist? a christian? agnostic? a zionist? or an antisemite? a mossad agent?!?! how about a prophet/messiah
+You can’t put me in a box! - roleplay bursting out of one - am I left wing? or right wing? centrist? a communist? Collectivist? Marxist? (I’ve never read him! I value my time)a fascist? a christian? agnostic? a zionist? or an antisemite? a mossad agent?!?! how about a prophet/messiah
 the moment you try to put me in a box you've put yourself in the box of someone eagerly putting others in a box in a simplistic way
 the moment you try to put me in a box you've put yourself in the box of someone eagerly & oversimplisticly putting others in a box
 
@@ -5286,7 +5289,6 @@ How good of a job does a society do in educating its kids
 
 I’m compressing the future and pulling it into the present
 
-“Psychedelics are illegal not because a loving government is concerned that you may jump out of a third story window. Psychedelics are illegal because they dissolve opinion structures and culturally laid down models of behaviour and information processing. They open you up to the possibility that everything you know is wrong.” ― Terence McKenna
 In a causal universe there is nothing else but credit assignment
 
 Luxury beliefs (explain what they are) should be the most costly - it shouldn’t be free to hold a belief that harms others more than yourself - can we have some symmetry please?! Credit assignment! Backprop!
@@ -5620,7 +5622,8 @@ https://www.youtube.com/watch?v=YiFixVjwAYk
     - A "Failed" Messiah Concept: Throughout history, Judaism has not accepted various Messianic claimants, as the criteria require visible, physical redemption of the world.
 ask the jews what they would count as world peace, and if what's being proposed here is exactly that? isn't it? how could it be any otherwise?
 judaism is so rigid in its upgrade function that it simply stopped at some point and couldn't accept christianity because of the specifics around how authority for the next version is upgraded and inherited
-the point of religion is not what's being said but what is being produced - and based on the produce and behavior you can see which are more similar to each other beyond the technicalities and into the fundamentals
+the point of religion is not what's being said or practiced daily but what is being produced - and based on the produce and behavior you can see which are more similar to each other beyond the technicalities and into the fundamentals - how they deal with the "other", how expansionist they are, etc.
+    not sure if I should be saying this
 if it's so hard to explain the trinity then there's probably something problematic with it lol
 
 > "God is the ground of awareness itself. God is not what consciousness knows - God is what consciousness is, before it knows anything at all." - [Eckhart Tolle](https://youtu.be/doGqkdr4MF0?t=29)
@@ -5695,5 +5698,7 @@ Release a separate video not on YT with all of the bleeped out naughty words and
 “What should I do with my life” as a service
 
 > "I can do nothing for you but work on myself...you can do nothing for me but work on yourself!" - [Ram Dass, Be Here Now](https://www.goodreads.com/quotes/862838-i-can-do-nothing-for-you-but-work-on-myself-you)
+
+
 
 
