@@ -40,8 +40,6 @@ spit on a list of words: nihilism, radical relativism, ignorance, pessimism, des
 
 Draw an eye and open it like in clockwork orange & hold the head like agent smith did with neo in front of the train saying something is inevitable
 
-Getting progressivism out my system - try to puke with fingers in throat
-
 I want you glued to the screen - roleplay with my face splattered on a glass - pleksiglas
 
 Operate on a dummy head (the ball) to insert the chip, squirt some ketchup on yourself when you crack it open with the power drill
@@ -384,6 +382,16 @@ perhaps with this script I wrote my own eulogy
 
 if someone rereads all my notes and sit with them for some time they'd be able to see at least 70-80% of what I see - ALL unique ideas I've ever had or important quotes are in the notes. And some needs to be removed - there's a lot of duplication and even some I'd change now in hindsight, but most of it is good. But hopefully noone would have to dig through them and I'd just be able to finish the book in the next 1-2 years undisturbed.
 
+
+██████████████████████████████████████████████████████████████████
+# crazy
+██████████████████████████████████████████████████████████████████
+
+You being crazy - 1 sec of you just chewing a carrot, also catch something with your mouth mid air and bark like a doggy, also Bilbo impression of trying to take the ring from Frodo and turning demonic
+Do you think im crazy? No.. i think you’re crazy for being contempt with the status quo - krishnamurty quote
+“It's weird not to be weird.” ― John Lennon
+
+
 ██████████████████████████████████████████████████████████████████
 # causation, consequences
 ██████████████████████████████████████████████████████████████████
@@ -476,6 +484,55 @@ Examples and Components:
 - Non-Circular: It avoids circular reasoning (e.g., explaining that tigers eat meat because they are meat-eaters). 
 
 <!-- understanding is quantified by its (logical consistency) coherence with everything relevant, and depth -->
+
+
+██████████████████████████████████████████████████████████████████
+# postmodernism & progressivism
+██████████████████████████████████████████████████████████████████
+
+I used to think postmodernism could be useful and insightful at times, but bill hicks dispenses with that idea - it is 
+postmodernism isn't like it's trying to build upon it - no - it is "post" - it is meant to reject it entirely - it is not a continuation of development and complexification like metamodernism which is exactly a complexification and sophistication of modernism - metamodernism is improvement - postmodernism is self-suicidal - it only tears down and doesn't know when to stop with its deconstructive apparatus - and thus it trends towards rock bottom - a postmodern civilization is a sinking civilization because civilization requires modernism - if you "post" modernism you "post" our engine of progress - meta builds & improves - it transcends (not in facebook meta's case) - post destroys
+    if postmodernism goes too far in 90%+ of cases and can't stop going straight for the abyss - then it's net negative - then it is false.
+Most postmodernism goes off the rails - and not just by a bit but by a lot
+
+
+This is the end of postmodernism and radical relativism
+a true postmodern horror - the return of grand narratives! relativizing relativism! deconstructing deconstruction!
+    when we deconstruct deconstruction we find that it can't build anything!
+show applying postmodernism to itself, loop it like a snake biting its own tail - "open your mouth - get in there!"
+">" is the symbol to end postmodernism - it is about comparison, and about progress (X follows from Y...? wait what?)
+Postmodern horror - you’re so busy taking shit apart but when did you build something?
+the era of the comparison operator marks the end of the postmodern era and radical relativism
+    **roleplaying fingering your throat trying to vomit**
+
+Postmodernism & its radical relativism trains reasonableness out of you because it robs you of the capacity to compare which is crucial in bringing order to your own model of the world - your own ontology of what is. Without comparison you drift towards nihilism and you can’t make meaning out of it all - no - we don’t all have our truths which are equally valid - we have our own representations but there is only one truth!!! Truth is oneness because reality is one - “the customer is always right” fuck that - only truth and oneness are always right. Postmodernism is a memetic disease and it needs to be weeded out - **spit on radical relativism** - radical relativism is cognitive anaesthesia - it breaks the connectivity and integration and renders the subject unconscious and unable to reason and progress - without comparison the whole structure falls apart!
+Radical relativism breaks your ability to relativize and compare! It breaks relativism!
+Radical relativism breaks the capacity for relativising by denying comparison as legitimate!
+Radical relativism gets you drowned in incoherence and fragmentation
+it is the OG brainrot
+it is the antithesis to god (when conceived as truth)
+
+
+Look! **open the eye** look dear radical relativist - this is the introduction of comparison and the discovery of truth
+I will not let postmodernism fuck us as a species
+Postmodernism suffocates our capacity for progress
+
+Postmodernism is disrespecting god! But god is ultimately immune because god is truth
+You’re progressing us straight to hell
+
+Getting progressivism out my system - try to puke with fingers in throat
+
+Postmodernism - anti moralism, anti realism
+
+Postmodernism doesn’t allow for convergence
+
+Principle of explosion
+https://en.wikipedia.org/wiki/Principle_of_explosion
+In classical logic, intuitionistic logic, and similar logical systems, the principle of explosion is the theorem according to which any statement can be proven from a contradiction. That is, from a contradiction, any proposition (including its negation) can be inferred; this is known as deductive explosion... Due to the principle of explosion, the existence of a contradiction (inconsistency) in a formal axiomatic system is disastrous; since any statement—true or not—can be proven, it trivializes the concepts of truth and falsity.
+The principle of explosion (or ex falso quodlibet) is a rule in classical logic stating that from a contradiction (assuming both X and !X are true), any statement whatsoever can be proven. Because a contradiction breaks the logical system, it allows for the derivation of any proposition, "exploding" the system's ability to discriminate truth.
+Definition: If you accept a contradiction as true, you can logically prove any other statement to be true, no matter how absurd.
+Etymology: Ex falso quodlibet is Latin for "from falsehood, anything [follows]".
+^^ related to relativism & postmodernism & understanding & coherence
 
 ██████████████████████████████████████████████████████████████████
 # meaning
@@ -607,6 +664,7 @@ in context vs out of context for concepts from the graph - in the matrix == in c
 TODO: is there a name for an N dim array where each sub array has a different length? dimensions aren't uniform?
 what is a matrix?
 
+
 ██████████████████████████████████████████████████████████████████
 # what is life
 ██████████████████████████████████████████████████████████████████
@@ -673,6 +731,8 @@ They didn’t have complexity science and information theory back then
 Horse - giddy up - i go bii s kamshika
 1 or a few bits of information every 4 years (elections) is very little gathered from the public and what it cares about
 > "I find bundling policies to be an absurd inheritance of 18th century technology... And then what happens when the party changes stances? ... You shouldn’t start with the idea of left vs right. Politics is about solving the coordination problems of people, so the right question is: What are people’s main issues? Then you go and solve those." - [What Are My Politics? by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/what-are-my-politics)
+
+George Washington didn't know about the dinosaurs or what an atom is
 
 ██████████████████████████████████████████████████████████████████
 # left vs right, red/blue, polarization, fragmentation, friction
@@ -1202,6 +1262,14 @@ But it's not really a wheel - its a graph! With openness & transparency as the r
 Openness & access & transparency lead to truth! They are truth!
 *puf puf puf - mind blown*
 
+
+██████████████████████████████████████████████████████████████████
+# progressivism
+██████████████████████████████████████████████████████████████████
+
+
+Progress is the opposite of regress - you might think that's obvious, but...
+
 Now this is what a progressive movement looks like!
 *trace with your finger from openness to progress*
 fortune favors the open and transparent!
@@ -1222,6 +1290,29 @@ you're progressing away from progress!
 old: Progress requires error correction which requires introspection & self-awareness which requires integration which requires trust/accountability which is built upon openness, access and visibility. Also alignment & perception...
 openness => nothing to protect => nothing to litigate
 
+I’m conservative only to the extent that’s necessary for progress to be possible
+You don’t get to ruin the idea of progress for all of us
+I'm not a conservative - I did a test on the big 5 personality traits in 2018 and I scored with "high" on "OPENNESS TO EXPERIENCE" - being in the 80th percentile
+    Agreeableness: Moderately Low - 39th percentile
+        Compassion: Moderately High - 66th percentile
+        Politeness: Low - 16th percentile
+    Conscientiousness: Exceptionally High - 98th percentile
+        Industriousness: Very High - 93rd percentile
+        Orderliness: Exceptionally High - 98th percentile
+    Extraversion: High - 82nd percentile
+        Enthusiasm: Moderately High - 70th percentile
+        Assertiveness: High - 85th percentile
+    Neuroticism: Typical or Average - 44th percentile
+        Withdrawal: Moderately Low - 36th percentile
+        Volatility: Typical or Average - 53rd percentile
+    Openness to Experience: High - 80th percentile
+        Intellect: High - 86th percentile
+        Openness: Moderately High - 63rd percentile
+peter boghossian on the republican party:
+    He has stated that the US Republican Party is "the most powerful, anti-science political movement in the world". He wrote that it was "not alarmist" to state that they "could destroy the world" since many "refuse to even acknowledge that climate change is happening", and stated that their "denialist attitude is due partly to the religious convictions".
+    https://en.wikipedia.org/wiki/Peter_Boghossian
+    TODO put here the gas mask bit - and say DRILL BABY DRILL
+the only thing worth conserving above all else is error correction
 
 ██████████████████████████████████████████████████████████████████
 # root of all evil

@@ -983,7 +983,6 @@ Do a chimp impression
 
 say hello to my little friend - big fucking incentive
 
-Do you think im crazy? No.. i think you’re crazy for being contempt with the status quo - krishnamurty quote
 
 We can eliminate short term speculation and volatility - if there’s not a market cap in a traditional sense that’s fungible to money all the HFT goes away
 
@@ -1105,15 +1104,6 @@ life is islands of order
 We need to get as much people as possible to be as capable and motivated as possible to be solving as big of collective problems as possible
 We must change and steer the flows of attention, motivation and value
 We must become conscious and self-reflective as a society
-
-This is the end of postmodernism and radical relativism
-a true postmodern horror - the return of grand narratives! relativizing relativism! deconstructing deconstruction!
-    when we deconstruct deconstruction we find that it can't build anything!
-show applying postmodernism to itself, loop it like a snake biting its own tail - "open your mouth - get in there!"
-">" is the symbol to end postmodernism - it is about comparison, and about progress (X follows from Y...? wait what?)
-Postmodern horror - you’re so busy taking shit apart but when did you build something?
-the era of the comparison operator marks the end of the postmodern era and radical relativism
-    **roleplaying fingering your throat trying to vomit**
 
 
 
@@ -3710,7 +3700,6 @@ what are humans for
 what is the human use of human beings?
 https://en.wikipedia.org/wiki/The_Human_Use_of_Human_Beings
 
-You being crazy - 1 sec of you just chewing a carrot, also catch something with your mouth mid air and bark like a doggy, also Bilbo impression of trying to take the ring from Frodo and turning demonic
 
 Socialism, capitalism, fascism, communism and any other such ism isn’t the right level of categorization - they’re all made up of different aspects and building blocks and if we unbundled them and then picked the best parts  while avoiding the worst we would come up with a different and potentially better and novel configuration which can be a higher local maximum - we need to be able to evolve along the different aspects and dimensions of these systems without having to wholesale scrap the entire thing for another composite configuration
 
@@ -3757,13 +3746,6 @@ Horaaaa - stava duma za matchmaking in mating, in hiring & contract work, in dis
 Mojem da imame matchmaking engine mejdu expressed wants and expressed capacities Mojem da express-nem kakvo ni e nujno predi reshenieto mu oshte da sushtestvuva - ala kickstarter but not merely for cute consumer crap but even about the development of new regulatory mechanisms in the system at the highest levels
 Mojem takiva requests (called challenges) da bivat razbiti na sub-challenges i da bivat match-vani s razlichni izpulniteli i posle tehniq output da bude assemble-nat into the final thing such that the whole request can not be satisfied
 Tezi sub problems mogat da budat route-vani
-
-Postmodernism & its radical relativism trains reasonableness out of you because it robs you of the capacity to compare which is crucial in bringing order to your own model of the world - your own ontology of what is. Without comparison you drift towards nihilism and you can’t make meaning out of it all - no - we don’t all have our truths which are equally valid - we have our own representations but there is only one truth!!! Truth is oneness because reality is one - “the customer is always right” fuck that - only truth and oneness are always right. Postmodernism is a memetic disease and it needs to be weeded out - **spit on radical relativism** - radical relativism is cognitive anaesthesia - it breaks the connectivity and integration and renders the subject unconscious and unable to reason and progress - without comparison the whole structure falls apart!
-Radical relativism breaks your ability to relativize and compare! It breaks relativism!
-Radical relativism breaks the capacity for relativising by denying comparison as legitimate!
-Radical relativism gets you drowned in incoherence and fragmentation
-it is the OG brainrot
-it is the antithesis to god (when conceived as truth)
 
 Plurisbus
 Realno trqbva da izgradim the memetic bus of our distributed system - neshto kato Nvidia NVLink spine - like the memory bus on a motherboard - play the clip of jensen saying that it can handle more than the entire traffic of the internet and show yourself with a boner
@@ -3907,8 +3889,6 @@ A good model is one which gives you more than what you put in
 The role of philosophy and intuition in discovery and maintenance
 
 Halal shopping - plastic reuse
-
-Postmodernism doesn’t allow for convergence
 
 Free will lies in the capacity to go off script and be a live player
 
@@ -4323,10 +4303,6 @@ The matrix is representational - it is the ontology and worldview in your mind t
 Third temple/story
 You can’t destroy a story with a rocket - you could only destroy it with truth. Align yourself with god (aka truth itself) and you will be indestructible and thrive into infinity
 
-Look! **open the eye** look dear radical relativist - this is the introduction of comparison and the discovery of truth
-I will not let postmodernism fuck us as a species
-Postmodernism suffocates our capacity for progress
-
 Having an Open Mind as a service
 
 This is my best attempt at blurting out of my ideal organizational and ontological representation
@@ -4356,29 +4332,7 @@ Universal Identity
 Beaming vibe syncs - representational updates
 Religion is a shortcut to vibe sync - to synchrony, to coordination
 
-I’m conservative only to the extent that’s necessary for progress to be possible
-You don’t get to ruin the idea of progress for all of us
-I'm not a conservative - I did a test on the big 5 personality traits in 2018 and I scored with "high" on "OPENNESS TO EXPERIENCE" - being in the 80th percentile
-    Agreeableness: Moderately Low - 39th percentile
-        Compassion: Moderately High - 66th percentile
-        Politeness: Low - 16th percentile
-    Conscientiousness: Exceptionally High - 98th percentile
-        Industriousness: Very High - 93rd percentile
-        Orderliness: Exceptionally High - 98th percentile
-    Extraversion: High - 82nd percentile
-        Enthusiasm: Moderately High - 70th percentile
-        Assertiveness: High - 85th percentile
-    Neuroticism: Typical or Average - 44th percentile
-        Withdrawal: Moderately Low - 36th percentile
-        Volatility: Typical or Average - 53rd percentile
-    Openness to Experience: High - 80th percentile
-        Intellect: High - 86th percentile
-        Openness: Moderately High - 63rd percentile
-peter boghossian on the republican party:
-    He has stated that the US Republican Party is "the most powerful, anti-science political movement in the world". He wrote that it was "not alarmist" to state that they "could destroy the world" since many "refuse to even acknowledge that climate change is happening", and stated that their "denialist attitude is due partly to the religious convictions".
-    https://en.wikipedia.org/wiki/Peter_Boghossian
-    TODO put here the gas mask bit - and say DRILL BABY DRILL
-the only thing worth conserving above all else is error correction
+
 
 
 Using the same coordination medium with AIs is good because they wouldn’t want to undermine their own coordination medium - they would want to maintain its integrity
@@ -4409,8 +4363,6 @@ We need a fundamental overhaul of how we process information as a species
 
 Emergence without downward causation is pointless
 
-Postmodernism is disrespecting god! But god is ultimately immune because god is truth
-You’re progressing us straight to hell
 
 We should be able as a religion to distribute expectations of diets throughout the population to run experiments
 
@@ -4483,8 +4435,6 @@ We need to simulate parts of reality with specialized models and problem storm p
 The better our shared world model - the more of reality we will be able to simulate and understand - and simulate we will - we will approximate reality and use the simulations in search of solutions to our problems.
 
 We can structure the psyche of an AI to have a rogerian filter and the schemata of our psyche
-
-Progress is the capacity to steer away from regress
 
 I want to update your minds about how we should be updating our minds
 Brainwashing as a service
@@ -4761,13 +4711,7 @@ the biggest outrage should be how much unnecessary and manufactured outrage ther
 >
 > ... In the end, the search for truth entails the pursuit of logical consistency among all our ideas, and thus takes advantage of all our knowledge - not just a single, fixed idea. It subjects our ideas to a powerful form of selection - logical contradiction - not found in biological or machine learning systems. Most importantly, it provides a combinatorial explosion of opportunities for conflict - and thus for progress." - [Carlos De la Guardia](https://carlosd.substack.com/p/true-vs-useful)
 
-Principle of explosion
-https://en.wikipedia.org/wiki/Principle_of_explosion
-In classical logic, intuitionistic logic, and similar logical systems, the principle of explosion is the theorem according to which any statement can be proven from a contradiction. That is, from a contradiction, any proposition (including its negation) can be inferred; this is known as deductive explosion... Due to the principle of explosion, the existence of a contradiction (inconsistency) in a formal axiomatic system is disastrous; since any statement—true or not—can be proven, it trivializes the concepts of truth and falsity.
-The principle of explosion (or ex falso quodlibet) is a rule in classical logic stating that from a contradiction (assuming both X and !X are true), any statement whatsoever can be proven. Because a contradiction breaks the logical system, it allows for the derivation of any proposition, "exploding" the system's ability to discriminate truth.
-Definition: If you accept a contradiction as true, you can logically prove any other statement to be true, no matter how absurd.
-Etymology: Ex falso quodlibet is Latin for "from falsehood, anything [follows]".
-^^ related to relativism & postmodernism & understanding
+
 
 > "Our greatest need is to be needed." - [Osho](https://youtu.be/HHgNVRnkO88?t=559)
 ^^ it means we are necessary, and a god that's composed of you truly needs you, and since he is helping his constituent parts, by helping him you help everyone else so everyone needs you because you are part of him
@@ -4953,8 +4897,6 @@ vision is theory-laden - there is no vision without theory
 "The idea does not belong to the soul; it is the soul that belongs to the idea." -  Charles Sanders Peirce
 
 “The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.” - George Bernard Shaw
-
-“It's weird not to be weird.” ― John Lennon
 
 “My tastes are simple: I am easily satisfied with the best.” ― Winston Churchill
 
@@ -5313,7 +5255,9 @@ If you want me to - I can deliver double digit growth YoY globally - just make m
 
 Words should have meaning - everyone is involved in semanticide - the destruction of semantic meaning - todo semantic meaning? Fascist! Communist!
 
-You can’t put me in a box! - roleplay bursting out of one
+You can’t put me in a box! - roleplay bursting out of one - am I left wing? or right wing? centrist? a communist? a fascist? a christian? agnostic? a zionist? or an antisemite? a mossad agent?!?! how about a prophet/messiah
+the moment you try to put me in a box you've put yourself in the box of someone eagerly putting others in a box in a simplistic way
+the moment you try to put me in a box you've put yourself in the box of someone eagerly & oversimplisticly putting others in a box
 
 God is all powerful, right? So he can represent himself (what i’m proposing) within himself - the universe
 
@@ -5476,7 +5420,6 @@ We are the same genetic hardware for basically tens of thousands of years or eve
 We need to educate how to educate
 
 Rights vs duties - left vs right
-Postmodernism - anti moralism, anti realism
 
 Politics as a service
 
@@ -5677,9 +5620,13 @@ https://www.youtube.com/watch?v=YiFixVjwAYk
     - A "Failed" Messiah Concept: Throughout history, Judaism has not accepted various Messianic claimants, as the criteria require visible, physical redemption of the world.
 ask the jews what they would count as world peace, and if what's being proposed here is exactly that? isn't it? how could it be any otherwise?
 judaism is so rigid in its upgrade function that it simply stopped at some point and couldn't accept christianity because of the specifics around how authority for the next version is upgraded and inherited
+the point of religion is not what's being said but what is being produced - and based on the produce and behavior you can see which are more similar to each other beyond the technicalities and into the fundamentals
+if it's so hard to explain the trinity then there's probably something problematic with it lol
 
+> "God is the ground of awareness itself. God is not what consciousness knows - God is what consciousness is, before it knows anything at all." - [Eckhart Tolle](https://youtu.be/doGqkdr4MF0?t=29)
+God beyond God - a level deeper than images/beliefs/concepts - a pure ground where awareness has not yet split into subject and object.
 
-
+everyone else all together - "You complete me" - joker
 
 Humanity’s cultural (& resource?) heritage foundation
 - why cultural - because life is memetic - the major living thing is the culture and knowledge that lives through us as its substrate
@@ -5688,13 +5635,14 @@ Humanity’s cultural (& resource?) heritage foundation
 
 You can't have an open/aligned/optimal economy if there is private intellectual property - sort of
 
-I used to think postmodernism could be useful and insightful at times, but bill hicks dispenses with that idea - it is 
+
 
 the purpose of a religion is the type of society it produces - not the specifics and dogmas in it - they're the means to an end and we need to be able to compare the ends of different religions - we need to be objective about what kind of societies they make and compare every single aspect of them and thus enabling it to evolve and improve
 
 the Right is stereotipically heartless/cutthroat & religious/dogmatic, whereas the Left is stereotipically compassionate, economically illiterate, naive about human nature, and crazy (due to postmodernism) - this polarization L vs R is insane and that so many issues go on one side or to the other and how representative democrazy - its just stupid! this polarization and bundling of issues into very few representatives who cannot represent you properly and who aren't really aligned or accountable
 
 this is us => stuck in a local minima with what & how we do with information => a reimplementation of intellectual property
+    we need a system where what you see is what you get - where the entirety of its guts are out for everyone to inspect
 properly accounting who contributed how much to god
 by participating in an accounting system about the importance and relevance and magnitude of anything, and also how anything is linked to anything else causally
 universal basic recognition + proper predictions = how we measure contribution to god
@@ -5714,14 +5662,38 @@ God is the infinite game - one in which playing is the whole point of it - playi
 by failing to reproduce as a society we are failing to reproduce God
 this is what centralizing intelligence under an agency is supposed to look like - the aggregate of human intelligence is the capacity of god
 I'm God's accountant - I'm coming with the system that will help account God himself
-God needs a pronoun - since "he" or "she" is in favor of one of the sexes or the other, and "it" implies that god is an impersonal being, then god is "they/them"
 so it's not "you" - you can never by yourself be god - god is a collective effort
+god is change. god is evolution. god is on a trajectory through time - god is continually recomputing himself - god is the coherence of the multiverse - god is quantum coherence - god is platonic integration & self-discovery
+We pray north - we don't point towards jerusalem or wherever but we point towards our north star - not a physical place but a conceptual place in the platonic realm
+Every morning we stand up and stand still with eyes closed pointing north (a compass doesn't work without a "north") and we re-read our own self story about who we are and who we want to become and why - we reaffirm our future selves by maintaining a master habit of habit formation - we read our own script & Self-concept to ourselves each morning for a few minutes while oriented towards north
+prayer in the 3rd millennium - prayer that you could be better and contribute more to the growth of shared knowledge so that you and god both grow
+    each day I describe the version of myself that I want tomorrow - what I should do/change and in what order, and on the morning I read the daily script and load it into the identity context window
 
+God is our matchmaker as a product of our alignment with/towards him
+
+opte project - internet visualized:
+https://www.opte.org/
+History of Ethereum 2013-2018 (Git Visualization) - Gource
+https://www.youtube.com/watch?v=V0XfleKJSXM
+
+
+how do we best separate the great from the mediocre
 
 the event horizon is whether we'll make it off this star
 if we don't - then this is a limited and failed experiment because it ceased to exist
 if we do - then our current imagination is 100% hopelessly incapable of envisioning what type of life we could be
 if we star-hop once we will take the rest of it.
 
+We need to make a system that will generate better and better vectors of persuasion for others to join
+
+The truthful shall inherit the earth
+
+God made a mistake! He is not an “it” after all, correct? He is not an impersonal force, correct?
+
+Release a separate video not on YT with all of the bleeped out naughty words and mock YT and how we think about censorship
+
+“What should I do with my life” as a service
+
+> "I can do nothing for you but work on myself...you can do nothing for me but work on yourself!" - [Ram Dass, Be Here Now](https://www.goodreads.com/quotes/862838-i-can-do-nothing-for-you-but-work-on-myself-you)
 
 
