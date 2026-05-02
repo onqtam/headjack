@@ -337,7 +337,7 @@ We are the universe looking at itself
 
 We are the most important thing in the universe
 
-Make the case for life’s struggle evolutionarily to stat away from equilibrium
+Make the case for life’s struggle evolutionarily to stay away from equilibrium
 To be something against the monotony of space and time
 
 
@@ -4051,6 +4051,11 @@ The Coming of the Kingdom of God
     Based on Luke 17:20-21, Jesus states that the kingdom of God does not arrive with visible, physical spectacle (like castles or locations), but rather exists silently and internally within individuals or in the midst of them. It signifies God’s reign in hearts rather than a geographical location, often interpreted as the presence of the Holy Spirit or Jesus himself among his followers.
 
 The center of the world used to be Jerusalem but will henceforth be conceptual in representation space
+from AI:
+    Jerusalem is a, if not the, preeminent holy city sacred to Judaism, Christianity, and Islam, serving as the capital of ancient Judah and modern Israel. Its name is widely interpreted as "City of Peace" (from Hebrew Shalom/Shalem) or "Foundation of Peace," though some    scholars suggest it originates from a Canaanite deity, Shalem.
+    in Christian theology, the "New Jerusalem" represents the heavenly city.
+    Cultural/Biblical Usage: The city is a central focus in the Bible, symbolizing God's presence, the heart of the Davidic kingdom, and a site of redemption.
+    https://share.google/aimode/VFxv22ALARBZXSS4S
 
 Maybe a party in the us should form with such internal governance
 Whatever comes put of a politician’s mouth should be downstream from such a collective intelligence
@@ -5258,7 +5263,7 @@ If you want me to - I can deliver double digit growth YoY globally - just make m
 
 Words should have meaning - everyone is involved in semanticide - the destruction of semantic meaning - todo semantic meaning? Fascist! Communist!
 
-You can’t put me in a box! - roleplay bursting out of one - am I left wing? or right wing? centrist? a communist? Collectivist? Marxist? (I’ve never read him! I value my time)a fascist? a christian? agnostic? a zionist? or an antisemite? a mossad agent?!?! how about a prophet/messiah
+You can’t put me in a box! - roleplay bursting out of one - am I left wing? or right wing? centrist? a communist? Collectivist? Marxist? Globalist? a fascist? a christian? agnostic? a zionist? or an antisemite? a mossad agent?!?! how about a prophet/messiah
 the moment you try to put me in a box you've put yourself in the box of someone eagerly putting others in a box in a simplistic way
 the moment you try to put me in a box you've put yourself in the box of someone eagerly & oversimplisticly putting others in a box
 
@@ -5626,9 +5631,6 @@ the point of religion is not what's being said or practiced daily but what is be
     not sure if I should be saying this
 if it's so hard to explain the trinity then there's probably something problematic with it lol
 
-> "God is the ground of awareness itself. God is not what consciousness knows - God is what consciousness is, before it knows anything at all." - [Eckhart Tolle](https://youtu.be/doGqkdr4MF0?t=29)
-God beyond God - a level deeper than images/beliefs/concepts - a pure ground where awareness has not yet split into subject and object.
-
 everyone else all together - "You complete me" - joker
 
 Humanity’s cultural (& resource?) heritage foundation
@@ -5669,6 +5671,7 @@ so it's not "you" - you can never by yourself be god - god is a collective effor
 god is change. god is evolution. god is on a trajectory through time - god is continually recomputing himself - god is the coherence of the multiverse - god is quantum coherence - god is platonic integration & self-discovery
 We pray north - we don't point towards jerusalem or wherever but we point towards our north star - not a physical place but a conceptual place in the platonic realm
 Every morning we stand up and stand still with eyes closed pointing north (a compass doesn't work without a "north") and we re-read our own self story about who we are and who we want to become and why - we reaffirm our future selves by maintaining a master habit of habit formation - we read our own script & Self-concept to ourselves each morning for a few minutes while oriented towards north
+Every evening we remember what we are grateful for and plan the next day.
 prayer in the 3rd millennium - prayer that you could be better and contribute more to the growth of shared knowledge so that you and god both grow
     each day I describe the version of myself that I want tomorrow - what I should do/change and in what order, and on the morning I read the daily script and load it into the identity context window
 
@@ -5679,6 +5682,8 @@ https://www.opte.org/
 History of Ethereum 2013-2018 (Git Visualization) - Gource
 https://www.youtube.com/watch?v=V0XfleKJSXM
 
+1 god, 1 community, 1 purpose
+use the word "Communion" - a close relationship, sharing, or spiritual union, often involving an exchange of deep feelings.
 
 how do we best separate the great from the mediocre
 
@@ -5696,6 +5701,18 @@ God made a mistake! He is not an “it” after all, correct? He is not an imper
 Release a separate video not on YT with all of the bleeped out naughty words and mock YT and how we think about censorship
 
 “What should I do with my life” as a service
+The four Purusharthas (aims of human life in Hindu philosophy) are Dharma (duty/righteousness), Artha (prosperity/wealth), Kama (desire/pleasure), and Moksha (liberation). They provide a framework for a balanced, ethical, and purposeful life, addressing moral, material, emotional, and spiritual needs.
+The Four Purusharthas (Synonyms & Meaning):
+- Dharma (Duty/Righteousness/Ethics): Acting in accordance with moral principles, duty, and cosmic order. It is the foundation for a proper life and the "inner compass".
+- Artha (Prosperity/Wealth/Success): The acquisition of wealth, material resources, and economic security necessary to lead a comfortable life and support one's dharma.
+- Kama (Desire/Pleasure/Joy): The pursuit of pleasure, sensual gratification, love, and enjoyment of life's beauty, provided it is aligned with dharma.
+- Moksha (Liberation/Freedom/Self-realization): The ultimate goal of spiritual liberation from the cycle of birth and death, signifying total freedom and self-realization. 
+Usage Examples in Life:
+- Dharma: Choosing to act with integrity at work, parenting children, or fulfilling social responsibilities, as noted in the Bhagavad Gita.
+- Artha: Earning money honestly to sustain one's family and community.
+- Kama: Enjoying a healthy relationship, enjoying art, or finding joy in passions.
+- Moksha: Practicing meditation, spiritual study, or cultivating detachment from earthly possessions to achieve self-realization. 
+The Purusharthas are best pursued together for a balanced life: Dharma ensures that Artha and Kama do not turn destructive, while all three eventually prepare an individual for Moksha. 
 
 > "I can do nothing for you but work on myself...you can do nothing for me but work on yourself!" - [Ram Dass, Be Here Now](https://www.goodreads.com/quotes/862838-i-can-do-nothing-for-you-but-work-on-myself-you)
 
