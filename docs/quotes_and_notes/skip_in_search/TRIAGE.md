@@ -455,6 +455,11 @@ It aint easy to bootstrap a network effect and reach billions and
 Nobody has ever made something bigger than money
 
 We need to reinvent how we do debate in the digital age - in a structured and explicit way
+in the way we currently do debates:
+- how many points remain unadressed? the other side is taking notes but they're not 100% listening while taking notes and those notes aren't always full and sometimes the debate ends and there's simply not enough time to address everything?!
+- how many points are strawmanned and left forgotten or addressed only partially?
+- how many points could be refuted but the other side simply doesn't have the time to research it?
+simply state what will no longer happen - make it short
 
 There absolutely are ways of redistributing wealth in a way that doesn’t make the receivers ungrateful and lazy and entitled - we just havent figured out how to do it yet
 And also how to compensate those that generate the extra surplus that doesn’t go all to them and have them be not simply willing but genuinely eager to participate in something greater than themselves
@@ -1090,7 +1095,14 @@ so am I a hard line consequentialist? a utilitarian? no! I'm not going to kidnap
     Consequentialism is the broad ethical theory that the morality of an action is judged solely by its consequences, while utilitarianism is a specific, popular type of consequentialism that defines the best consequence as maximizing overall happiness or "utility" (pleasure minus pain). All utilitarians are consequentialists, but not all consequentialists are utilitarians.
     In short, if you are a consequentialist, you care about the results. If you are a utilitarian, you specifically care about maximizing total happiness as the result.
 
+    am I a consequentialist with extra steps when I am party deontological or virtue ethical?
+    The Impossible Choice: Why Ethics Are Harder Than We Think
+    https://www.youtube.com/watch?v=bRY1Q2ebR5U
+    > "Every ethical system humanity has developed fails somewhere. Consequentialism produces repugnant conclusions and requires impossible calculations. Deontology gives you absolute rules that conflict. Virtue ethics doesn't resolve disagreements between virtuous people. Maybe that's just the nature of ethics. Not a system that generates right answers, but the permanent condition of being responsible for choices you can't fully justify. Not certainty, but the ongoing negotiation between competing values, incompatible principles, irresolvable tensions. You're still in that car. The child is still in the road. You have one second to decide. And you now know that whatever philosophical framework you reach for, it will break down somewhere. that certainty is impossible, but choice is unavoidable. That ethics isn't about finding the right answer. It's about learning to live with the weight of decisions that matter more than any theory can explain or any principle can justify. The impossible choice remains impossible, and you still have to choose." - [Forbidden Gnosis](https://youtu.be/bRY1Q2ebR5U?t=418)
+
 Self-other, evil, unaccountability, CC - all related
+
+I'm not excusing any of the evils done in the name of religion and god - of which there are plenty - I'm simply helping explain what the core of religion actually is
 
 market vs company boundry - theory of the firm
 theory of the firm, ronald coase
@@ -3787,13 +3799,30 @@ God speaks to us through divine inspiration and insight
 His mistake is that he was ambiguous and left the possibility for dogma
 He is the creative force behind the universe but we are the creative force within the universe
 Egregore - his representation
-We need a meta identity
+We need a meta identity - you don't need to renounce your other identities for this
 Jews - I’m not saying to stop being jewish - I’m saying to start identifying as something else in addition to being jewish - a new more universal and expansive meta identity - one which delivers the goods even better - it’s in your interest to expand your sense of self
 The jews can remain special
 The jews can retain their status of being special by relinquishing their self righteous sense of being special by moving to the universal and adapting - that’s the highest form of being special - exercising agency and being willing to change - the best way to remain the chosen ones is to choose what to become - the best way to predict the future is to create it - to become it - you want to be the future? THIS IS THE ONLY WAY - THERE IS NO ALTERNATIVE
 Why do I focus so much on the jews and not the christians? Because if I convince the jews to change I will have also succeeded with the christians and anybody else.
-maybe just give up on this jew thing - you don't know enough and this is a bad idea
+We are all wrestling with god if god is the truth - whether we realize it or not.
+    https://share.google/aimode/2RTW1AH8a7knbITgq
+    https://www.biblegateway.com/passage/?search=Genesis%2032%3A22-32&version=NIV
+    https://en.wikipedia.org/wiki/Jacob_wrestling_with_the_angel
+jews see themselves not as having made the choice - they had no choice - God chose them
+maybe just give up on this jew thing - you don't know enough and this is a bad idea - or not?
+A "Closed" Covenant: Judaism is considered an ethno-religious, tribal identity. It is a covenant intended specifically for the Jewish people.
 
+
+Tikkun Olam (Hebrew for "repairing the world") is a foundational Jewish concept emphasizing humanity's shared responsibility to heal, fix, and perfect the world through social action, justice, and good deeds. It is commonly understood today as a commitment to social justice, environmentalism, and acts of loving-kindness (chesed) to improve society.
+Literal Meaning: Tikkun means repair or improvement, while Olam means world.
+
+Tzedakah is a Hebrew term frequently translated as charity, but it literally means "justice" or "righteousness". It is a mandatory Jewish obligation (mitzvah) to give 10% to 20% of one's income to those in need, rather than a voluntary act of kindness. It is considered a fundamental, continuous act of fairness aimed at repairing the world.
+    Mitzvah: A commandment or religious duty.
+    Tikkun Olam: Often linked, it means "repairing the world".
+
+
+
+the best way to reveal god is to represent him (aka truth) as fully/completely/comprehensively as possible
 
 If we integrated the whole of our knowledge and constructed the ultimate curriculum and raised a child in the most perfect way possible to a 25 year old adult we would have raised a God - a single human being smarter than all of humanity combined - thats human super intelligence. I have the best world model
 
@@ -4547,6 +4576,9 @@ upanishad - you are that
 
 > "You are not a drop in the ocean. You are the entire ocean in a drop." - [Rumi](https://www.goodreads.com/quotes/848553-you-are-not-a-drop-in-the-ocean-you-are)
 
+> "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself." - [Rumi](https://www.goodreads.com/quotes/551027-yesterday-i-was-clever-so-i-wanted-to-change-the)
+
+
 == chase hughes:
 the universe is one field, fragmented by perception
 there is no you vs the world - there is only this one universe experiencing itself from your point of view
@@ -4689,6 +4721,7 @@ the more I know the more I know how much I dont know
 
 we offer security, status, friendship, family, community, meaning, purpose, financial support, spiritual connection, approval, love, feeling special, a sense of identity, legitimate wisdom
 we have a special place in history
+we are all brothers and sisters
 
 > "Religious societies eat secular societies for breakfast." - [Ali Tabrizi](https://youtu.be/xw6jQYyiEIY?t=2164)
 ^^ not entirely sure, depends on the religion
@@ -4723,6 +4756,8 @@ the biggest outrage should be how much unnecessary and manufactured outrage ther
 
 > "Our greatest need is to be needed." - [Osho](https://youtu.be/HHgNVRnkO88?t=559)
 ^^ it means we are necessary, and a god that's composed of you truly needs you, and since he is helping his constituent parts, by helping him you help everyone else so everyone needs you because you are part of him
+> "Man naturally desires not only to be loved, but to be lovely." - [Adam Smith, The Theory of Moral Sentiments](https://www.goodreads.com/quotes/8701577-man-naturally-desires-not-only-to-be-loved-but-to)
+
 
 we will be error correcting how we do error correction
 
@@ -5015,6 +5050,13 @@ Joseph Goebbels
 “For the simplicity on this side of complexity, I wouldn't give you a fig. But for the simplicity on the other side of complexity, for that I would give you anything I have.” — Oliver Wendell Holmes
 Why work on the story - Clarity and brevity are priceless
 
+> "You become what you think about all day long." - [Ralph Waldo Emerson](https://www.goodreads.com/quotes/114540-you-become-what-you-think-about-all-day-long)
+
+
+> "The mind, once stretched by a new idea, never returns to its original dimensions." - [Ralph Waldo Emerson](https://www.goodreads.com/quotes/37815-the-mind-once-stretched-by-a-new-idea-never-returns)
+
+> "Ask not what your *~~country~~* **collective identity** can do for you; ask what you can do for your *~~country~~* **collective identity**." - [John F. Kennedy](https://www.goodreads.com/quotes/53-ask-not-what-your-country-can-do-for-you-ask), probably
+
 "Individualism is a formidable lie." - Rene Girard
 
 "There is but one choice: to rise to the task of the age.” - Solzhenitsyn
@@ -5022,6 +5064,8 @@ Why work on the story - Clarity and brevity are priceless
 “Most men die at 27, we just bury them at 72” ― Mark Twain
 
 In a gentle way, you can shake the world. - Mahatma Gandhi
+
+> "What you do speaks so loudly that I cannot hear what you say." - [Ralph Waldo Emerson](https://www.goodreads.com/quotes/11079-what-you-do-speaks-so-loudly-that-i-cannot-hear)
 
 "When one teaches, two learn" - Robert Heinlein
 
@@ -5263,7 +5307,7 @@ If you want me to - I can deliver double digit growth YoY globally - just make m
 
 Words should have meaning - everyone is involved in semanticide - the destruction of semantic meaning - todo semantic meaning? Fascist! Communist!
 
-You can’t put me in a box! - roleplay bursting out of one - am I left wing? or right wing? centrist? a communist? Collectivist? Marxist? Globalist? a fascist? a christian? agnostic? a zionist? or an antisemite? a mossad agent?!?! how about a prophet/messiah
+You can’t put me in a box! - roleplay bursting out of one - am I left wing? or right wing? centrist? a communist? Collectivist? Marxist? Globalist? a fascist? Degrowther? Transhumanist? a christian? agnostic? a zionist? or an antisemite? a mossad agent?!?! how about a prophet/messiah
 the moment you try to put me in a box you've put yourself in the box of someone eagerly putting others in a box in a simplistic way
 the moment you try to put me in a box you've put yourself in the box of someone eagerly & oversimplisticly putting others in a box
 
@@ -5475,9 +5519,6 @@ We need safety, security, shelter, approval, love, food, love, friendship, relax
 
 Nqma da ima chovek s po-golqm prinos ot men za tova da ne se samounishtojim - tova iskam na nadgrobniq si kamuk
 
-The more noise you make - the sooner you’ll have a demo to play with
-Draw yourself as a monkey with a mushroom talking to 7b stickmen and how you want to make a chain reaction of virality, and say how if r naught is 2 or 3 and it takes X hours to watch it then this woult take Y weeks to reach 100m people
-
 While truing to puke - actually have the fingers out of the mouth on the other side, stop and look at the camera and say “im not actually trying to puke - im not some sick fuck”
 
 You have to be a complete fool to leave potential on the table - ignoring the religious impulse of our species is a mistake
@@ -5607,6 +5648,7 @@ The Empire is falling - we need to build the Foundation! For its resurrection af
 
 We need a new form of tribal identity which upgrades/supersedes/subordinates our innate tribal tendencies
 We need a new meta tribal identity that subdues all expressions of innate tribalism - a master identity
+our identity is one of change and adaptation - and change is the hardest thing
 
 NATO as a service?
 
@@ -5716,6 +5758,125 @@ The Purusharthas are best pursued together for a balanced life: Dharma ensures t
 
 > "I can do nothing for you but work on myself...you can do nothing for me but work on yourself!" - [Ram Dass, Be Here Now](https://www.goodreads.com/quotes/862838-i-can-do-nothing-for-you-but-work-on-myself-you)
 
+> "The Lord our God, the Lord is one. Love the Lord your God with all your heart and with all your soul and with all your strength." - [Deuteronomy 6:4-5](https://www.biblegateway.com/passage/?search=Deuteronomy%206&version=NIV#en-NIV-3305)
+
+we need to call a spade a spade
+
+Kurzgesagt is a German phrase meaning "shortly said," "in brief," or "in a nutshell"
+Kurzgesagt as a Service
+
+> "Advertising has us chasing cars and clothes, working jobs we hate so we can buy shit we don't need. We're the middle children of history. No purpose or place. We have no Great War, No Great Depression. Our great war is a spiritual war. Our great depression is our lives." - [Tyler Durden, Fight Club](https://www.goodreads.com/quotes/747996-advertising-has-us-chasing-cars-and-clothes-working-jobs-we)
+
+
+Going through public lie detection is purification in the eyes of others
+
+Its incredible how much we vote for one side just because we dislike the other side even more - that’s an absurd situation for an intelligent civilization to put itself if
+
+Co-prediction is all you need for 2-way trust and the only complete way is through identity and skin in the game
+
+Roleplay holding Palantir - the ball as the seeing stone - and how it should be collectivised
+
+The only metric to pursue is the number of people who see and understand God
+
+Postmodernism - academia is the place of infection
+
+The economy of meaning
+Define the top 20 roles in this new economy of meaning
+
+Social Media as a Service is supposed to be Governance as a Service
+
+Babe wake up, new world order just dropped
+
+Replication is secondary to metabolism
+
+Think about our understanding as a graph which has potential for further deeper integration - the potential to integrate disparate models and gain deeper understanding 
+
+The greatest PsyOp can be - and should be - democratic and bonding and community/identity building
+
+Proximate vs ultimate explanations
+Proximate = how and what of a phenomenon, ultimate = the why - evolutionary, causal explanation
+Why do we have sex? Proximate: because it feels good. Ultimate: because we’ve evolved that way and only what reproduced exists
+
+We have deep structural problems where we’re seeing institutional failure at profound levels - why? How is power functioning and flowing through the regime in ways that systematically mess things up?
+From “why study greek philosophy” from the students
+https://open.spotify.com/episode/3zwpKzZVJBwOxT5IrPS8gV?si=ALXSvgCkTGiSiAGEUWRz2A&pi=Ejzgiu0XTWa8i&t=824
+
+Both the left & right are anti science in different ways - left: ev psych, right: climate
+
+Cowardice, apathy, diffusion of responsibility - the 3 horsemen of decay
+
+Ask yourselves - how much do you think I believe what I’m saying - roleplay 5 sec silently staring into the camera
+
+If you eventually become convinced that truth eventually prevails on most issues and comes with accountability then that would eventually start preempting a lot of deliberate/wilful untruths
+
+The judiciary/court is a special case of an argument map where there could be coercion to resolve the dispute, but many other matters can be handled culturally without involving the iron hand of the state
+
+Roleplay: hold a sign saying “religious nut” like in a convict photo
+
+It doesn’t matter where you’re on the IQ spectrum - there is the immense potential for everyone to be developed much further in every possible way
+
+I’m tired and depressed by the disfunction of our species
+
+Life is not for us - it is fornothers
+
+The less the vision is developed - the more time will be spent on the wrong things and putting out fires and backtracking and wondering and wasting resources - and the less there would be time to develop the vision. That’s why the story is the highest leverage point and second place isn’t even close - the most relevant thing to do was to figure out how to think about relevance once and for all
+
+True political correctness is alignment with truth - not avoiding rocking the boat
+Political is not supposed to mean “a fucked up process” but how we solve collective problems
+
+Roleplay: me looking at y’all trying to do politics with centuries old tech - gibbon with nail and saw and David Attenborough looming at it
+
+Context/Overton window as a service
+
+Ultimately, all I want is to learn and to teach.
+
+Adjacent possible/likely/desirable - 3 different sets? 2nd & 3rd are subsets of 1st
+
+The world model is the God model
+
+I think I can be finally happy - at least to some extent - publishing this brings me hope - I no longer cry when I think about the future of the world - whatever happens to me I think the world will be in good hands now
+
+I am just an idea and your minds are my substrate - I’ve already replicated
+
+
+Manifesting God - predicting the future into the present
+
+I want scientists to rule
+
+Most on ethics should be consequentialist - not all but most - the rest would be virtue and deontological ethics that would define our soul and humanity - how we constrain the utility calculus to avoid horrors
+
+The CIA have missed the point of centralizing intelligence
+
+We need to decide as a society what to do with our individual and collective attention - attention is the scarcest of resources - the direction of consciousness and learning and changing and adapting
+
+Our culture is the collective unconscious
+
+“Cross observation symmetry”
+
+Functionalism is all you need
+
+The more you cooperate, the more you’re subjected to publicly in the lie detector - the higher the weight - BCI lie detector
+
+We have to increase the cost of lying
+
+How do we deliberately evolve the overton window on anything  and define/infer/derive gradients about anything - approach and avoid - good and bad, along with our reasoning about how and why we are approaching that problem as a hard-to-variety explanation
+
+We are the present witnesses of ourselves
+
+Your understanding of anything is literally just a hyper-graph - your entire character, personality, tendencies, quirks, knowledge, understanding, world model, models of others - even the embedded intelligence of a neuron can be modelled as a graph, nested in a graph of neurons. Its logic gates and delays based on the length of axons, which form all kinds of loops and collective patterns of activation. Your experience is the point of the most self-reflective point of information integration.
+Hey - hey you - the little ghost in the machine - the spirit - the self - im talking to you
+You are pure consciousness - a witness - a moment of coherence
+Higher consciousness is being able to affect the world in greater ways - you identify with the world and you make a mark
+You are a structural pattern
+
+
+What is attention and the cursor of consciousness and experiencr and learning and ingraining in neurons in a graph
+
+You are a wave - a computational pattern unfolding itself - witnessing the unfolding your yourself. Free will lies in the direction of attention which is what filters what goes through consciousness and gets processed and then it changes the weights in memory a bit - something is learned and your behavior will therefore change in some way
+
+Trust is of the highest value - we must make an incorruptible trust
+
+We’ll be able to grant access for others to extract queries out of us and this can be protected with zk and homomorphic encryption and shit
 
 
 

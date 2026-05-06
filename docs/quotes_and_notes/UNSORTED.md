@@ -6815,8 +6815,14 @@ Applied RR
 
 
 
-
-
+> "We’ll call whatever method/tool is used for translating between structures an interface. Creating good methods/tools for translating between structures, then, is interface design.
+>
+> " - [Interfaces as a Scarce Resource](https://www.lesswrong.com/posts/hyShz2ABiKX56j5tJ/interfaces-as-a-scarce-resource)
+^^ TODO continue
+From AI:
+    Interfaces act as a scarce, high-value resource in organizations, system design, and user experience, representing the limited, critical points where components or people connect and exchange value. They define "corridors of interaction," enforcing standards and power dynamics while governing system compatibility, often dictating efficiency and limiting user choices.
+    In summary, treating interfaces as a scarce resource means recognizing them as critical, limited, and high-stakes connection points that require careful management to ensure effective operation
+    https://share.google/aimode/MO2V9dqtyRr6RmWqb
 
 
 

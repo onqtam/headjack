@@ -657,6 +657,8 @@ https://meltingasphalt.com/wp-content/uploads/2016/06/high_vs_low_meaning.png
 "Where has God gone?... We have killed him... Who gave us the sponge to wipe away the entire horizon? What did we do when we unchained the earth from its sun?... Are we not perpetually falling? Backward, sideward, forward, in all directions? Is there any up or down left?... God is dead... And we have killed him... Must we not ourselves become gods simply to be worthy of it?" - [Friedrich Nietzsche](https://www.age-of-the-sage.org/philosophy/friedrich_nietzsche_quotes.html#:~:text=%22Where%20has%20God,all%20history%20hitherto.%22)
 Nietzsche's Wake-Up Call | John Vervaeke & Theo Von
 https://www.youtube.com/watch?v=uysmjkuP58U
+also
+https://www.goodreads.com/quotes/22827-god-is-dead-god-remains-dead-and-we-have-killed
 
 > "No economic system, however productive and however judiciously distributive can do its job of providing for our wellbeing if we are unable to accurately and consistently identify and share our real needs." - [The Wellbeing Economy, by Jordan Hall](https://medium.com/emergent-culture/the-wellbeing-economy-89c67b625ac2#.gp23w8db2:~:text=No%20economic%20system%2C%20however%20productive%20and%20however%20judiciously%20distributive%20can%20do%20its%20job%20of%20providing%20for%20our%20wellbeing%20if%20we%20are%20unable%20to%20accurately%20and%20consistently%20identify%20and%20share%20our%20real%20needs.)
 

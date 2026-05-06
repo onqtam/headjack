@@ -928,8 +928,12 @@ Your sense of continuity (feeling like the same person yesterday and today)
 Philosophers debate whether identity comes from memory, the body, or something deeper like consciousness.
 
 
+
 identity is the source of all our problems and is also their solution
 everyone needs to change and come under a common umbrella identity, including the jews
+
+what's the answer to the tension between boomers & younger generations? Identity. To the male vs female divide? Identity. Immigration & assimilation? Identity.
+demographic decline in a democracy is a feedback loop
 
 2. Social identity
 
@@ -1420,7 +1424,7 @@ Maximal recursive self-improvement - The polar opposite of complete stasis dogma
 Merging the market, state, religion, media, academia and education under *~~sha~~* syntropic law
 
 ██████████████████████████████████████████████████████████████████
-# Call to action - The storm has come
+# Call to action - The storm has come - achieving criticality
 ██████████████████████████████████████████████████████████████████
 
 THE DAY OF RECOGNITION - who do you credit for having tipped you off on this video?
@@ -1444,6 +1448,12 @@ viral lineage
 the viral lineage
 r-naught factor
 you get bragging rights and nothing else! plus you help spur the development of this system by showing demand
+
+The more noise you make - the sooner you’ll have a demo to play with
+Draw yourself as a monkey with a mushroom talking to 7b stickmen and how you want to make a chain reaction of virality, and say how if r naught is 2 or 3 and it takes X hours to watch it then this woult take Y weeks to reach 100m people
+    r naught > 1 means achieving criticality in a chain reaction, correct?
+        AI: Not quite. While the concept of a chain reaction multiplying is correct, R > 1 (Basic Reproduction Number) specifically refers to the spread of infectious disease, whereas K > 1 (Effective Multiplication Factor) refers to achieving supercriticality in a nuclear chain reaction.
+        R > 1 means an outbreak grows, but the technical term for "achieving criticality" (a steady, self-sustaining reaction) is K = 1
 
 say that you can just register and help up the counter & generate demand and you don't need to credit someone else for inviting you or to invite others - even just 1 signup matters
 
@@ -1517,6 +1527,11 @@ when people register they have the option to participate in genesis with their a
 TODO: think about registering and the future privacy of accounts
 
 ## convert others - spread the word
+
+
+> "All authority in heaven and on earth has been given to me. Therefore go and make disciples of all nations, baptizing them...  and teaching them to obey everything I have commanded you." [Matthew 28:18-20](https://www.biblegateway.com/passage/?search=Matthew%2028&version=NIV#en-NIV-3305)
+
+
 
 make this common knowledge - make it so that everyone knows that everyone knows it
 when this spreads it won't be because of me but because of YOU!
