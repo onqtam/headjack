@@ -465,9 +465,25 @@ Coarse grained, enough for control
 Familiarity
 
 
+
+
+
 we seek explanations that remain robust when we test them against those flickers and shadows, and against each other, and against criteria of logic and reasonableness and everything else we can think of.
 
 https://nav.al/vary
+
+
+> "Consider two contradictory statements like, “all swans are white” and “some swans are black.” [They can’t both be true](https://en.wikipedia.org/wiki/Principle_of_explosion). One or both must be false. Surprisingly, the discovery of such a contradiction in our ideas is cause for celebration, not despair. Why? Because it offers an essential guide to progress. Without it, we would not know which of our ideas to improve, nor how. With it, we know what’s wrong and how to fix it: resolve the contradiction.
+>
+> Logical consistency is therefore a powerful constraint on our ideas. It means that any idea can in principle contradict another, sparking the search for an improvement that’s free of the contradiction. This yields a combinatorial explosion, for if any pair of, say, 10,000 ideas can conflict, that yields (roughly) 10,000 × 10,000 = 100,000,000 potential opportunities to spark progress. This also means any one idea is potentially constrained by 10,000 others. In practice, we cannot compare every pair of our ideas to check their consistency, and doing so would be a waste of time even if we could. Most pairs of ideas are irrelevant to each other. Nevertheless, each of our ideas is tremendously constrained by other, related ideas (and we can search among all our ideas to find which are relevant). To borrow the language of Darwinian evolution, **the need for logical consistency subjects each of our ideas to tremendous selection pressure from other ideas**.
+>
+> ... In human minds, ideas are subjected to intentional variation and many forms of selection, usually involving some form of conflict with other ideas. Logical contradiction is just one important example.
+>
+> ... In the end, the search for truth entails the pursuit of logical consistency among all our ideas, and thus takes advantage of all our knowledge - not just a single, fixed idea. It subjects our ideas to a powerful form of selection - logical contradiction - not found in biological or machine learning systems. Most importantly, it provides a combinatorial explosion of opportunities for conflict - and thus for progress." - [Conflicting ideas are the engines of thought, by Carlos De la Guardia](https://carlosd.substack.com/p/true-vs-useful)
+^^ constraints for logical consistency - the puzzle pieces have to fit together!
+
+
+> "... what makes explanations so hard to create? One idea, as Deutsch argues, is that good explanations are “hard to vary,” meaning that most modifications not only make them worse, but completely non-functional - unable to explain anything at all. This makes them hard to reach in a way much like “all or nothing” ideas like the wheel-and-axle. To visualize this property, imagine a vast cube representing the space of all ideas, where the best - the most true and useful - ideas are bright points of light while the worst ideas are invisible. In this space, good explanations are solitary, bright points. They are rare, sparse, and disconnected from other bright regions... finding a good explanation is... difficult, for it is hidden in a vast space, and you might pass within a short distance of it without ever seeing it. Stumbling and looking around isn’t enough. You need something more like high-powered telescopes and ultra-accurate, long-distance teleportation in the space of ideas." - [A Few Questions on AGI, by Carlos De la Guardia](https://carlosd.substack.com/p/6-a-few-questions-on-agi)
 
 ## from AIs
 
@@ -696,6 +712,7 @@ Worship truth !!!
 Might makes right is suboptimal
 right makes might!
 > "Right makes might because the truth is a mighty ally." - [Hanzi Freinacht](https://x.com/HFreinacht/status/2030727046490394844)
+> "Belief can be manipulated. Only knowledge is dangerous." - [Frank Herbert](https://www.goodreads.com/quotes/384225-belief-can-be-manipulated-only-knowledge-is-dangerous)
 
 
 truth must subjugate/conquer non-truth
@@ -790,6 +807,8 @@ https://newrepublic.com/article/115821/einsteins-famous-quote-science-religion-d
 
 The temple mount is your mind - mounted on your body! That’s where the holy war has always been fought - in the minds of people
 
+the temple is the story that could house all people
+
 The Third Temple IS our third story - a universal one that houses all of humanity
     third time's a charm!
     the first temple of god was for the few chosen ones
@@ -851,6 +870,9 @@ government is not supposed to manage the populace but to uplift it!
 ██████████████████████████████████████████████████████████████████
 
 consciousness & awareness are second-order perception - perception of perception
+
+consciousness has a context window (memory?) - how much thoughts can fit at the same time in the global workspace - and that window can be expanded
+global workspace == context window
 
 joscha bach 50 sec clip
 https://x.com/JoschaBachBits/status/2047349159720583259
@@ -1354,6 +1376,8 @@ Thou shalt ... not ...
 
 persuasion vs compulsion
 
+
+
 law #2: subsidiarity?
 law #3: cooperation? non-coercive expansion of self? seduction & persuasion over/instead of coercion, also prestige (respect, admiration, praise) > dominance & coercion (force, fear), honesty > deception - no taqiyya !!!
     choice! no coercion
@@ -1361,10 +1385,25 @@ law #4: all evils are due to lack of knowledge and knowledge is created by seeki
 law # : problems are inevitable, problems are soluble - from beginning of infinity chapter 3 <== NOT REALLY A RULE but a maxim?
 law # : the truth consists of hard to vary assertions about reality
 law # : you can fight incentives only with incentives - incentives determine behavior - behavior is driven by incentives
+law # : call a spade a spade
+law # : give till it hurts
+
+hypocricy is incoherent, not coming out of integrity
+
+Don't profit off information asymmetry
+
+Courage over cowardice
 
 don't keep people in by force
 
+civility, respect, no ad hominems, no name calling - it's incredible that this has to be said
+do not commit semanticide
+Words should have meaning - everyone is involved in semanticide - the destruction of semantic meaning - todo semantic meaning? Fascist! Communist!
+
 voluntary - non-coercive
+
+modesty is good - not greed
+*~~greed~~* **modesty** is good
 
 > "If it's wrong when they do it, it's wrong when we do it." - [Noam Chomsky](https://www.goodreads.com/quotes/599016-if-it-s-wrong-when-they-do-it-it-s-wrong-when)
 

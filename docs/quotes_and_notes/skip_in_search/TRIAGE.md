@@ -1414,6 +1414,9 @@ Universal basic humble pie - full accounting of your votes and decisions
     roleplay slap with pie in the face
     Roleplay slowmo pie hitting face
     then blow out pie from your nose
+recognizing your incompetence requires the same competence that you lack
+> "The only true wisdom is in knowing you know nothing." - Socrates
+you can't learn when certain you already know
 
 
 truth to power as a service
@@ -3783,6 +3786,7 @@ Roleplay: i can see in my mind’s eye how the system gets bootstrapped and our 
 Money is not wealth and the way to generate wealth is not neecessarily the same as making money - money is just a story and we need to keep improving our technology for flow - currents! currencies!
 
 I want to have kids and to wipe shit and piss and to not sleep well and to get sick every time they catch some cold and to not have time for myself because by the time they’re into this world my life belongs to them. They would be me. I would be them. We would be one.
+    roleplay being sprinkled with syringe in the face while changing diapers and use nutella to show dirty paper
 
 If truth and god are oneness - is judaism true if they’re not about all people being one? The failure of judaism and all prior monotheistic religions is that they are not perpetually self-correcting and adaptable - they are dogmatic. Their man mechanism of correction and evolution is through a prophet that has to meet some kind of criteria and be remarkably impressive - that’s too high of a bar and thus we keep reciting the same old texts in the era of MrBeast (roleplay: salute him - print his face) and TikTok - Jesus wasn’t impressive enough for some Jews- I guess someone needs ti outjesus Jesus!
 The reason there is so much death around jews is that they’re unable to evolve their own story and conception of themselves such that there wouldn’t need to be any conflict in the first place. Its not only their fault, and perhaps it isn’t even mostly because of them but because of the latter, but still they have more capacity to evolve than what they’re facing and thus the moral burden falls on them. By being objectively better than the barbarians they also deserve higher expectations
@@ -4184,6 +4188,11 @@ it feels so weird being able to say that I am god with a straight face
 Omniscience (all-knowing) is an attribute often ascribed to God. This implies that God knows how free agents will choose to act. If God does know this, either their free will might be illusory or foreknowledge does not imply predestination, and if God does not know it, God may not be omniscient.[83] Open Theism limits God's omniscience by contending that, due to the nature of time, God's omniscience does not mean the deity can predict the future and process theology holds that God does not have immutability, so is affected by his creation.
 https://en.wikipedia.org/wiki/Omniscience#Omniscience_and_free_will
 
+immutability
+    While most Christians believe that there are aspects of God that do not change, opponents believe that the benevolence of God is often expressed through his willingness to change his promised course of action which implies a certain level of mutability. (See Exodus 32:14 and Numbers 14:12-20; Jonah 3:10; Amos 7:3-9; Jeremiah 26:3)
+    For example, when God was giving the law and the Ten Commandments to Moses, he was gone for so long that Aaron, his brother the high priest, and the people, thought that he was dead or that something had happened, and the people asked Aaron to build them the Golden Calf. On that occasion, and during another when the people rebel against Moses and God, God threatens to destroy the people and make a nation out of Moses alone, but Moses reminds God of the promise he made to Abraham to make Israel a great nation. God relents, but says that all those who participated will not be allowed to enter Canaan, the promised land.
+    https://en.wikipedia.org/wiki/Immutability_(theology)#Criticism
+
 In short, open theism posits that since God and humans are free, God's knowledge is dynamic and God's providence flexible. Whereas several versions of traditional theism picture God's knowledge of the future as a singular, fixed trajectory, open theism sees it as a plurality of branching possibilities, with some possibilities becoming settled as time moves forward.[8][9] Thus, the future, as well as God's knowledge of it, is open (hence, "open" theism). Other versions of classical theism hold that God fully determines the future, entailing that there is no free choice (the future is closed). Yet other versions of classical theism hold that, though there is freedom of choice, God's omniscience necessitates God's foreknowing what free choices are made (God's foreknowledge is closed). Open theists hold that these versions of classical theism do not agree with the biblical concept of God; the biblical understanding of divine and creaturely freedom; and/or result in incoherence. Open theists tend to emphasize that God's most fundamental character trait is love and that this trait is unchangeable. They also (in contrast to traditional theism) tend to hold that the biblical portrait is of a God deeply moved by creation, experiencing a variety of feelings in response to it.
 https://en.wikipedia.org/wiki/Open_theism#Exposition_of_open_theism
 
@@ -4204,6 +4213,8 @@ https://en.wikipedia.org/wiki/Process_theology
 God creates the World, and the World creates/evolves God
 
 What’s the fucking point if God is immutable
+
+> "If God had wanted to put everything into the world from the beginning, He would have created a universe without change. But He seems to have thought that a live universe with events unexpected even by Himself would be more interesting than a dead one." - [Karl Popper](https://x.com/TOKphysics/status/2052909656691900440)
 
 if god is the universe and we are emergent and have top-down causation - that means he is affected by us and is not immutable, and is not impassible because he is us - he feels through us
 
@@ -4240,6 +4251,40 @@ https://www.youtube.com/watch?v=_R2JwJ0A1QE
 
 The penalty for false prophecy, including speaking in the name of a god other than YHWH or speaking presumptuously in YHWH's name, is death (Deuteronomy 18:20).
 https://en.wikipedia.org/wiki/False_prophet
+
+
+> "When the debate is lost, slander becomes the tool of the loser." - [Anonymous](https://www.goodreads.com/quotes/48955-when-the-debate-is-lost-slander-becomes-the-tool-of)
+
+premodern vs modern self:
+    premodern worldview:
+    - a person is defined by telos, duty & role
+    - desires are evenents that happen to you - not truths about you
+    - identity is largely external: family, vocation, covenant, God
+    - moral formation means disciplining inner impulses
+    modern worldview:
+    - a person is defined by their inner psychological landscape
+    - desires are treated as revelatory
+    - identity is internal and expressive
+    - moral good = authenticity, not self-mastery
+desires should be pointed towards the good - not everything about us is good, it's not just about fully expressing ourselves as individuals with our own truth - desire isn't sacred - it should be questioned
+christianity:
+- says sin begins in the heart
+- demands confession and self-examination
+- treats desire as morally meaningful
+- insists the self must be transformed - not indulged
+modern secular culture has removed the framework of sin, redemption, grace & telos.
+what's left?
+- desire without judgement
+- identity without transcendence
+- psychology without salvation
+the inner life doesn't disappear - it becomes absolute. when desire loses a higher reference point, it becomes sacred. Once God is gone, desire doesn't get demoted - it gets enthroned.
+
+
+we will predict and anticipate the arguments against us and we will dismantle/diffuse them even before they're brought up - and sometimes that will mean that we will have corrected an error on our side - growth!
+
+
+"All people seek to know" is the opening line of Aristotle's Metaphysics, establishing his belief that curiosity is a fundamental, natural human desire. Aristotle suggests that this desire is not just for survival, but for understanding the world, causes, and truth, which drives human progress and scientific endeavor.
+
 
 
 I believe that belief and love are the most powerful forces in the universe - is belief good actually? what does popper have to say about it?
@@ -4744,14 +4789,6 @@ the biggest outrage should be how much unnecessary and manufactured outrage ther
 
 
 
-> "Consider two contradictory statements like, “all swans are white” and “some swans are black.” [They can’t both be true](https://en.wikipedia.org/wiki/Principle_of_explosion). One or both must be false. Surprisingly, the discovery of such a contradiction in our ideas is cause for celebration, not despair. Why? Because it offers an essential guide to progress. Without it, we would not know which of our ideas to improve, nor how. With it, we know what’s wrong and how to fix it: resolve the contradiction.
->
-> Logical consistency is therefore a powerful constraint on our ideas. It means that any idea can in principle contradict another, sparking the search for an improvement that’s free of the contradiction. This yields a combinatorial explosion, for if any pair of, say, 10,000 ideas can conflict, that yields (roughly) 10,000 × 10,000 = 100,000,000 potential opportunities to spark progress. This also means any one idea is potentially constrained by 10,000 others. In practice, we cannot compare every pair of our ideas to check their consistency, and doing so would be a waste of time even if we could. Most pairs of ideas are irrelevant to each other. Nevertheless, each of our ideas is tremendously constrained by other, related ideas (and we can search among all our ideas to find which are relevant). To borrow the language of Darwinian evolution, **the need for logical consistency subjects each of our ideas to tremendous selection pressure from other ideas**.
->
-> ... In human minds, ideas are subjected to intentional variation and many forms of selection, usually involving some form of conflict with other ideas. Logical contradiction is just one important example.
->
-> ... In the end, the search for truth entails the pursuit of logical consistency among all our ideas, and thus takes advantage of all our knowledge - not just a single, fixed idea. It subjects our ideas to a powerful form of selection - logical contradiction - not found in biological or machine learning systems. Most importantly, it provides a combinatorial explosion of opportunities for conflict - and thus for progress." - [Carlos De la Guardia](https://carlosd.substack.com/p/true-vs-useful)
-
 
 
 > "Our greatest need is to be needed." - [Osho](https://youtu.be/HHgNVRnkO88?t=559)
@@ -5144,6 +5181,7 @@ people seek freedom, recognition, connection, growth, experiences, information
 acceptance, belonging, novelty
 
 will to power
+The will to power (der Wille zur Macht) is a central, albeit non-systematic, concept in Friedrich Nietzsche’s philosophy, acting as the fundamental driving force in humans and all living things. It represents an irrational, innate impulse to expand, overcome obstacles, achieve self-mastery, and grow, rather than merely surviving or seeking pleasure.
 
 be so good they can't ignore you
 https://www.goodreads.com/book/show/38478222-so-good-they-can-t-ignore-you
@@ -5305,9 +5343,10 @@ The bigger coordination problem you solve, the more you get - the more the merri
 
 If you want me to - I can deliver double digit growth YoY globally - just make me the world king
 
-Words should have meaning - everyone is involved in semanticide - the destruction of semantic meaning - todo semantic meaning? Fascist! Communist!
+we should maximize meaning - not happiness
 
 You can’t put me in a box! - roleplay bursting out of one - am I left wing? or right wing? centrist? a communist? Collectivist? Marxist? Globalist? a fascist? Degrowther? Transhumanist? a christian? agnostic? a zionist? or an antisemite? a mossad agent?!?! how about a prophet/messiah
+    you can't put infinity (the infinite) in a box
 the moment you try to put me in a box you've put yourself in the box of someone eagerly putting others in a box in a simplistic way
 the moment you try to put me in a box you've put yourself in the box of someone eagerly & oversimplisticly putting others in a box
 
@@ -5316,6 +5355,16 @@ God is all powerful, right? So he can represent himself (what i’m proposing) w
 Secularism cannot produce community - religion and church are necessary
 Imagine having access to a community of people and institutions who are morally obligated to root for you and assist you in your life to achieve whatever you’re trying to achieve within the moral framework of the religion
 We live in a dog eat dog world, stabbing each other in the back
+
+this is the ultimate/foundational solution that will underpin all other solutions - this is the solution to all other solutions! - it's not a final solution - it is a meta solution! - we don't do final
+
+We will make and consume our own media because it is us in the most literal sense!
+This is the world model of world modeling
+
+> "A great civilization is not conquered from without, until it has destroyed itself from within. The essential causes of Rome's decline lay in her people, her morals, her class struggle, her failing trade, her bureaucratic despotism, her stifling taxes, her consuming wars." - [Will Durant](https://www.azquotes.com/quote/722731)
+
+> "The purpose of a system is what it does. There is after all, no point in claiming that the purpose of a system is to do what it constantly fails to do." - [Stafford Beer](https://www.azquotes.com/quote/1116820)
+
 
 We are failing to reproduce as a civilisation - everything that we are leads to a state which we can all see.
 
@@ -5760,8 +5809,6 @@ The Purusharthas are best pursued together for a balanced life: Dharma ensures t
 
 > "The Lord our God, the Lord is one. Love the Lord your God with all your heart and with all your soul and with all your strength." - [Deuteronomy 6:4-5](https://www.biblegateway.com/passage/?search=Deuteronomy%206&version=NIV#en-NIV-3305)
 
-we need to call a spade a spade
-
 Kurzgesagt is a German phrase meaning "shortly said," "in brief," or "in a nutshell"
 Kurzgesagt as a Service
 
@@ -5769,6 +5816,9 @@ Kurzgesagt as a Service
 
 
 Going through public lie detection is purification in the eyes of others
+
+from AI:
+    "Gnostic" refers to possessing or relating to special, mystical, or esoteric knowledge, particularly spiritual insight deemed necessary for salvation, rather than just intellectual understanding. It stems from the Greek word gnosis (knowledge) and often implies direct, personal experience of the divine.
 
 Its incredible how much we vote for one side just because we dislike the other side even more - that’s an absurd situation for an intelligent civilization to put itself if
 
@@ -5823,6 +5873,14 @@ The less the vision is developed - the more time will be spent on the wrong thin
 
 True political correctness is alignment with truth - not avoiding rocking the boat
 Political is not supposed to mean “a fucked up process” but how we solve collective problems
+the only politically correct thing is to do what is the right thing to do for the polity - all principal-agent problems must be weeded out
+
+there is 1 reality, 1 truth, 1 platonic representation of anything
+
+simulation is good
+we will simulate minds and societies and galaxies to gain some insight - if a simulation exists, then it's probably aimed at answering some set of questions, therefore the simulation is valuable, and it's even causally significant beyond itself - because the pattern (the answer/response) will be ingressed to the higher simulation in one form or another
+
+you can fight or join this new system - if you fight, you will lose and will set us all back because of the war, or you could join us and thrive and help the system itself thrive
 
 Roleplay: me looking at y’all trying to do politics with centuries old tech - gibbon with nail and saw and David Attenborough looming at it
 
@@ -5846,6 +5904,7 @@ I want scientists to rule
 Most on ethics should be consequentialist - not all but most - the rest would be virtue and deontological ethics that would define our soul and humanity - how we constrain the utility calculus to avoid horrors
 
 The CIA have missed the point of centralizing intelligence
+and even after all their little psyopses the greatest country in the world is an absolute fucking mess!
 
 We need to decide as a society what to do with our individual and collective attention - attention is the scarcest of resources - the direction of consciousness and learning and changing and adapting
 
@@ -5877,6 +5936,156 @@ You are a wave - a computational pattern unfolding itself - witnessing the unfol
 Trust is of the highest value - we must make an incorruptible trust
 
 We’ll be able to grant access for others to extract queries out of us and this can be protected with zk and homomorphic encryption and shit
+
+god will know not only everything that is known in this timeline but in every other possible timeline when he simulates every meaningful and possible different timeline
+god will know all possible past histories in the end times when he can simulate any part of the history of the universe and tweak some parameters to see how things would have gone differently
+
+we should publicly rate other countries and express why
+
+ofcourse the true, good & beautiful can be defined
+
+our world is not just made of matter but of what matters
+
+we offer clarity, moral direction & collective protection
+
+you should be certain that your best source of certainty is this system - the Oracle - it will predict the future better than anything
+
+presentations/videos can be published as a timeline like in the typical editing software, and people would be able to branch/question/fork any part of them - that way there would be the least copying - if you had to always describe your sources
+
+Allegiance to truth above anything else
+
+This will be the greatest leap in cultural evolution
+
+Anything can be configured/expressed and anything can be critiqued
+
+This is the best you’re going to get - I’m trying my best here to be literally a messiah
+
+There is such a thing ad the platonic ideal of a kid prompt - the context window we give to our kids in school and adolescence
+
+Mention the stock market growth - not real growth - the economy is broken
+
+Freedom is superior in potential but not necessarily in execution - the west is better simply because it has higher potential to transform itself - freedom holds higher latent potentials/possibilities
+
+Roleplay the end times are near - with a sign & bell
+
+While it is understandable why you havr your perspective there is ultimately one reality and one truth because truth is about coherence
+
+This is hust the beginning - imagine what all of you would be able to express and create and discover and contribute to the global self - this is the worst version there will ever be
+
+A simulation is not just a thing - it is the thing in the most deep way possible - it is literally part of it and thus it. Simulations have a purpose, they have a goal, a gradient, good & evil
+
+Meta is literally degrading the mental faculties of the population when compared to ehat it could be as a system
+
+The point of raising children is to make them such that they’ll produce a society where everyone could be having even more children
+Each child is a branch, a fork, an instantiation
+
+The attention economy is economizing all right, in the completely wrong direction!
+
+Virtue as a service
+
+Moral High-ground Domination
+
+People want what other people want - mimesis
+
+Colossal cultural disfunction due to postmodernism
+Enough with the oykophobia
+Postmodernism tends to go off the rails
+The return of God is the end of postmodernism
+
+The enemy of your enemy sometimes should not be your friend - sometimes there are higher truths that trump short term political expedience
+
+The great chain of being is the great chain of self-awareness
+God - the great chain of being - god is the self-aware platonic representation of ultimate reality - may his representation expand forever and come into fuller fruition - the meaning of life is to study God
+    https://en.wikipedia.org/wiki/Great_chain_of_being
+    The Great Chain of Being is a rigid, hierarchical structure of all matter and life, influential in Western thought from antiquity through the Middle Ages and Renaissance. It posits a divine, linear order ranging from God at the top down to inanimate matter, emphasizing a continuum where every entity holds a specific, ordained place.
+    Key Features and Structure
+    The concept is based on three main ideas—plenitude (maximum diversity), continuity (a continuous scale), and gradation (hierarchical ranking). The chain is structured as follows:
+    God: The supreme being and creator at the top.
+    Angels: Pure spirit, devoid of matter.
+    Humans: A bridge between spirit and matter, possessing both soul and body.
+    Animals: Beings with sensation but lacking higher reason.
+    Plants: Living matter without mobility.
+    Minerals/Inanimate Objects: The lowest level, purely material. 
+
+The more you soak yourself into this mindset & ideology the mote you’ll be able to participate & contribute and improve it
+
+This system created itself - I was applying something similar to it in my mind as a process for thinking through how to achieve it and what should be achieved in the first place
+
+The bigger your palave for your kids - the smaller the palace for the kids of others, who will be the society of your kids - being too generous to your kids is ultimately destructive
+
+This series is the most real thing you’ll ever experience and you are not the same after it
+The point is for you to fall so deeply in love with the idea that you start trying to explain it to others because you want it to grow - not just out of self interest but of higher-self or collective self interest - your mind is now part of the noosphere
+
+This is the compression of everything into one point - of complete integration, perfect coherence, fittedness, internal consistency and capacity for self-reference - all of truth into a single point is god
+
+We are all brothers and sisters whether we realize it or not.
+
+We should have distributed intentional communes solving a specific problem as best as they can from the deduplicated set of problems that have been topologically sorted
+
+Llm automation is how we will achieve coherence and consistency in our shared ontology of god in the form of humanity’s expressions
+
+legible legibility - what you are legible to should be legible to you - reverse panopticon
+What we’re legible to should be legible to us in return - we should be able to easily inspect any aspect of the system and be helped to understand it
+
+Extraordinary claims should have extraordinary explanations/proof/evidence? How to properly account for the value of evidence?
+The meaning theory of value (instead of labor)
+
+What is a test/AI harness
+What is claude code - this internal economic system of models with differing capabilities
+
+Learning = making distinctions
+
+We need to reconfigure our flows and currents of value
+
+How much more optimal could it be got AIs to do research on the web if there was a coherent ontology without any duplication and it was all structured data
+
+This is modernity squared
+Or metamodernity squared
+
+We are on the trajectory towards Elysium in real life
+
+We need to extend unix like permissions from the filesystem to the conceptual level
+The current level of programming is in the .md files
+AI agents can be fighting with each other for resources without even knowing - we need to orchestrate them as a distributed system of agency
+We need to configure a distributed system of agency and incentives
+This is super-intelligence and any sufficiently advanced AI will eventually converge to the platonic ideal for orchestrating agency as the schelling point - the truth for how things should be
+
+This book is literally the prompt to agi
+
+The CIA’s mandate is limited - our mandate is unlimited - we will centralize all of intelligence - we can even implement a better CIA with a permissions system of our own - under democratic control - CIA as a Service
+
+This is the end point of telecoms
+
+Let me give you a crash course on game theory for the 21st century - here is how and why this is going to work
+
+The ads from chatgpt are now based on user reviews like on reddit - it is crowdsourced
+
+There is no higher game than alignment with god
+
+I want God to grow!
+
+The richest should live forever only if the rest are being brought to loving forever as fast as possible too - the price of immortality should be helping others achieve immortality as well.
+
+Meaning economics
+
+Its insane that we havent even closely made everything to run on top of good epistemology
+
+Intimacy with God as a Service
+Meaning of Life as a Service
+
+“The Agential Web”
+
+We can reach representational escape velocity - representing god/truth completely enough such that he continues manifesting and growing
+
+Harness as a Service
+
+Postmodernism platonic representation convergence - there is 1 ultimate truth
+Platonic Representation Hypothesis
+    Yes, evidence suggests that representations from different AI models are converging, particularly as models become larger, more capable, and trained on similar datasets. This phenomenon, often called the Platonic Representation Hypothesis, suggests that different architectures (e.g., text, image) are converging toward a shared statistical understanding of reality.
+    Converging Intelligence: As models grow in competence, they tend to develop similar internal representations of the world, even with different training data.
+    Beyond Modality: Convergence is happening across different types of AI, with vision and language models aligning their measurements of distance between data points.
+    The "Platonic" Hypothesis: Researchers hypothesize that models are converging on a shared, optimal understanding of the underlying "truth" of the world, rather than just overfitting to data.
+our shared reality & agency are breaking down
 
 
 

@@ -69,6 +69,9 @@ the culture war and politics as the problem (and a distraction) - not the soluti
 
 
 
+> "The United States government is older than the Soviets when we called them a "gerontocracy" and more of its budget is stolen than the Russians when we called them a "kleptocracy"." - [Ben Landau-Taylor](https://x.com/benlandautaylor/status/2034345401084682571)
+
+
 
 
 > "It may be dangerous to be America's enemy, but to be America's friend is fatal." - [Henry Kissinger](https://www.goodreads.com/quotes/11331139-it-may-be-dangerous-to-be-america-s-enemy-but-to)

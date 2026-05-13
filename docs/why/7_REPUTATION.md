@@ -952,6 +952,9 @@ if we're incentivised to go on the record for all of our predictions along with 
 
 # Prediction Markets
 
+> "the next social network is a prediction market where your feed is ranked by accuracy not engagement. the person who is right 80% of the time gets seen while the person who is loud gets buried" - [@thenarrator](https://x.com/thenarrator/status/2052509960227979773)
+
+
 we can even give more weight to recent successful predictions and discount the earliest ones - when someone was still learning to think probabilistically and knew little about the world
 > "Love truth, but pardon error." - [Voltaire](https://www.goodreads.com/quotes/248-love-truth-but-pardon-error)
 > "Perfect is the enemy of good." - [Voltaire](https://www.goodreads.com/quotes/108491-perfect-is-the-enemy-of-good)

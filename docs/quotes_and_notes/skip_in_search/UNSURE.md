@@ -378,5 +378,5 @@ the exciting times we are going through... agree, but not sure where to put it
 
 > "What a luxury––to use the experiences of another to update my real-time world model!" - [Matthew Pirkowski](https://x.com/MattPirkowski/status/2015949932226871510)
 
-> "The United States government is older than the Soviets when we called them a "gerontocracy" and more of its budget is stolen than the Russians when we called them a "kleptocracy"." - [Ben Landau-Taylor](https://x.com/benlandautaylor/status/2034345401084682571)
+> "Beauty is that which is perfected in being." - Charlie Kirk, aligns with the classical, metaphysical view (particularly Aquinas) that beauty is a "transcendental"—a property of being that brings pleasure upon being seen, or id quod visum placet. It represents the perfection or completeness of an entity’s form and essence.
 

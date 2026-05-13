@@ -12,6 +12,9 @@ https://link.springer.com/article/10.1007/s11229-026-05514-z
 TESTING THE MACHINE CONSCIOUSNESS HYPOTHESIS
 https://arxiv.org/abs/2512.01081
 
+Opportunities and Risks of LLMs for Scalable Deliberation with Polis
+https://arxiv.org/abs/2306.11932
+
 The explanatory nature of constraints: Law-based, mathematical, and causal
 https://philsci-archive.pitt.edu/18504/
 https://philsci-archive.pitt.edu/18504/1/Constraints_Ross.pdf
@@ -215,13 +218,21 @@ https://www.youtube.com/watch?v=C-Q2K0bLuSk
 
 > "The child does not wait to be taught but learns by inventing and testing its own theories about the world; education should build on this natural curiosity rather than suppress it." - [Karl Popper, Objective Knowledge: An Evolutionary Approach, 1972, p. 346](https://x.com/QuotePopper/status/2048009910038766022)
 
+> "In science, we aim at explanations; that is to say, at theories which are not only true (or at least approximately true) but which also have a high explanatory power. Now a theory has explanatory power if it is able to explain a large number of facts, and especially facts which were previously unexplained or which seemed to contradict earlier theories. But explanatory power is closely connected with what I have called the ‘content’ of a theory—its informative content.
+>
+> A theory with a high informative content is one which says a great deal about the world; that is to say, it excludes a great many possible states of affairs. Such a theory is, in a sense, highly improbable, because it asserts so much that it runs a great risk of being falsified." - [Karl Popper, Conjectures and Refutations (1963, pp. 216–218)](https://x.com/QuotePopper/status/2046914381393330607)
 
+> "We advance not by agreement but by disagreement, not by acceptance but by questioning. Criticism is the lifeblood of all rational thought. It is through the clash of ideas, through the willingness to expose our theories to refutation, that we move closer to truth—however imperfectly." - [Karl Popper, All Life is Problem Solving (1999), p. 23](https://x.com/QuotePopper/status/2047117311274872849)
+
+> "It is wrong to think that the task of criticism is to expose the weaknesses of those in power; its real task is to help us all to understand better the problems which we face." - [Karl Popper, The Open Society and Its Enemies, Volume 2, Chapter 23](https://x.com/QuotePopper/status/2053400617788322156)
+
+> "If I thought of a future, I dreamt of one day founding a school in which young people could learn without boredom, and would be stimulated to pose problems and discuss them; a school in which no unwanted answers to unasked questions would have to be listened to; in which one did not study for the sake of passing examinations." - [Karl Popper, Unended Quest, 1979.](https://x.com/QuotePopper/status/2052478586419057086)
 
 
 
 > "A prediction, or any assertion, that cannot be defended might still be true, but an explanation that cannot be defended is not an explanation." - [David Deutsch](https://x.com/TOKphysics/status/2047110430443659734)
 
-
+> "Gaining or losing interest in particular problems or sub-problems is part of the creative process and itself constitutes problem-solving." - [David Deutsch](https://x.com/TOKphysics/status/2052456560392085808)
 
 
 instead of creators monetizing attention and competing with one another to say the same things but in a better packaged way, we should be pooling money in a common pool and then redistributing it based on simply voting who contributed the most with their weights in sorting the signal from the noise, and then either incentivise content creators to make videos on those crowdsourced rankings, or even use AI
@@ -6812,6 +6823,13 @@ Our current civilizational stack should be an open source protocol
 
 What happens if we found the most relevant/important ideas and aspects of the world and we then combined them in the most relevant and synergistic way? This book
 Applied RR
+
+
+> "“Compression” of information is never just a reduction or loss. It’s creation and discovery. You construct an alternative way to represent or approximate a thing, often using new building blocks that aren’t even in it... when we “compress” the complexities of the world, we aren’t just throwing out large parts of it because it’s too much to handle. We are introducing new, powerful ideas it never contained." - [Carlos De la Guardia](https://carlosd.substack.com/p/compression)
+
+> "" - [Carlos De la Guardia]()
+
+> "" - [Carlos De la Guardia]()
 
 
 

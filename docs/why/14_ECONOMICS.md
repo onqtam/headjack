@@ -105,6 +105,18 @@ Traits of property rights:
 >
 > We should temper our enthusiasm for intense political and economic competition and instead develop a greater appreciation for the importance of successful succession. This change would go far in remedying contemporary institutional sclerosis and stagnation." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
 
+## On the importance of assembling an institution properly from the start
+
+> "In my research, I found something that puzzled me: in any given type of institution, be it state or church, for profit or non-profit, there are some organizations that outperform all others by orders of magnitude. This is true in terms of their ability to reshape the world in service of their formal purpose, their informal purpose, or their self-perpetuation, even when comparing only among institutions that have similar material wealth, human capital, and formal structures. Regardless of the particular measure we use, exceptional institutions do exist, but they are rare.
+>
+> An elegant explanation for this phenomenon is that everything is broken. When something works the way it should, it appears exceptional. It’s not that a particular institution started off with more material wealth or higher quality people than its competitors. Rather, it is simply put together properly; the cogs and gears fit. And just as a tornado cannot assemble a Boeing 747 by passing through a junkyard, functional institutions are not spontaneously generated. The machinery, if it functions, was assembled by someone with good judgment: the institution’s founder.
+>
+> The institution was also probably assembled properly from the start, rather than made functional over time. It is much more difficult to make a dysfunctional institution functional than to create a functional institution from scratch; institutions will nearly always have internal forces that resist change, and diagnosing institutional dysfunction in the first place is challenging. If an institution is broken, it’s usually broken in many ways, not just one, and so discerning what’s going wrong in order to fix it is quite difficult. This explains Thiel’s law: a founder’s best shot at creating a functional institution is to get it right from the start.
+>
+> This is not to say, however, that fixing dysfunctional institutions is impossible. A talented founder can do it, but it is hard. It is difficult enough to found a functional institution in the first place; to refound one, a founder must first defeat those opposing him in such a one-sided way that he establishes peace—a peace in which he can build—and then he must build well.
+
+" - [Functional Institutions are the Exception, by Samo Burja](https://samoburja.com/functional-institutions-are-the-exception/)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Capitalism
