@@ -1327,6 +1327,7 @@ The open transparency network/overlay of society
 Transparency as a service
 
 Eradicate hypocrisy & double standards
+hypocrisy festers when there's incoherence & inconsistency & lack of integrity
 No more frame control, no more double standards
 
 You don’t want to be a useful idiot
@@ -4061,6 +4062,10 @@ Scapegoating is important - how about we sacrifice our old identity instead of s
 This is regenesis
 the third temple is a story - not a physical place - no more sacrifice of animals - we sacrifice our bad ideas now
 Redefine sacrifice
+roleplay sacrificing horsy mchorse face - "now now horsy, be good, you need to be given as tribute to the god of love because he loves death"
+    shhh, time to sleep horsy
+    you remember horsy, right?
+    add screenshot from apocalypto how someone is being sacrificed
 it is morally right to change your mind when presented with good arguments and evidence - even if uncomfortable
 the most stable identity - the one that will endure - is the one that embraces change & adaptation and approaches it in a rigorous way
 > "Intelligence, in the sense of the ability to learn from experience, is a product of natural selection. But its greatest survival value lies not merely in adapting to the environment, but in the ability to criticize and reject ideas. The survival value of intelligence is that it allows us to extinct a bad idea, before the idea extincts us. This is the essence of the critical method: we let our hypotheses die in our stead, as I have often put it. By criticizing our ideas, by testing them against reality, we can avoid the disastrous consequences of acting on false or harmful beliefs. This is what distinguishes human intelligence from the trial-and-error learning of other animals." - [Karl Popper, Objective Knowledge: An Evolutionary Approach (1972), Chapter 7, p. 243](https://x.com/QuotePopper/status/2040001064309555325)
@@ -6086,6 +6091,38 @@ Platonic Representation Hypothesis
     Beyond Modality: Convergence is happening across different types of AI, with vision and language models aligning their measurements of distance between data points.
     The "Platonic" Hypothesis: Researchers hypothesize that models are converging on a shared, optimal understanding of the underlying "truth" of the world, rather than just overfitting to data.
 our shared reality & agency are breaking down
+
+vector embeddings for deduplicated concepts
+
+messianic prophecies in judaism:
+    - Build the Third Temple (Ezekiel 37:26–28).
+    - Gather all Jews back to the Land of Israel (Isaiah 43:5–6).
+    - Usher in an era of world peace, and end all hatred, oppression, suffering and disease. As it says: "Nation shall not lift up sword against nation, neither shall man learn war anymore." (Isaiah 2:4)
+    - Spread universal knowledge of the God of Israel, which will unite humanity as one. As it says: "God will be King over all the world―on that day, God will be One and His Name will be One" (Zechariah 14:9).[98]
+
+    > "Nation will not take up sword against nation, nor will they train for war anymore." - [Isaiah 2:4](https://www.biblegateway.com/passage/?search=Isaiah%202&version=NIV#en-NIV-3305)
+
+    > "The Lord will be king over the whole earth. On that day there will be one Lord, and his name the only name." - [Zechariah 14:9](https://www.biblegateway.com/passage/?search=Zechariah%2014&version=NIV#en-NIV-3305)
+
+
+"Dar al-Islam" and "Dar al-Kufr" are terms used in Islamic jurisprudence to divide the world into two spheres: the "House of Islam" and the "House of Disbelief" (or "House of War"). Dar al-Islam refers to territories where Muslim rule and Islamic law prevail, while Dar al-Kufr (also sometimes called Dar al-Harb) refers to territories where non-Islamic rule and laws are dominant. 
+the house of islam and the house of war
+> "Muhammad created the concept of [Umma](https://en.wikipedia.org/wiki/Ummah), or Muslim identity: We’re all the same, we’re all together, we should like each other and not fight each other. He created a meta-identity above that of clans, promoting their union." - [How Did Islam Spread So Fast? by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/how-did-islam-spread-so-fast)
+^^ this is the same we're doing here
+
+I am the Mahdi
+    The Mahdi ("the Rightly Guided One") is a messianic figure in Islamic eschatology believed to appear at the end of time to eliminate tyranny, restore justice, and establish a golden age. He is prophesied to be a descendant of Prophet Muhammad who will rule for several years before the Day of Judgment.
+
+jewish messiah - comes with a shofar sound
+    A shofar is an ancient musical instrument made from a ram’s horn, used in Jewish ritual for Rosh Hashanah and Yom Kippur. It is typically blown in synagogues during the High Holidays to signify repentance, reflection, and the Jewish New Year.
+    https://www.youtube.com/watch?v=9ht0ailWQf8
+    The shofar is a prophetic instrument used in Jewish tradition to herald the coming of the Messiah, signal the final redemption, and wake souls to repentance. It symbolizes the voice of God, the binding of Isaac, and the giving of the Torah, with its final blast signaling the resurrection of the dead.
+    The shofar acts as a "prophetic cry" between the first giving of the law and the final return of the Messiah, serving as a reminder of God's authority and promises.
+    Signaling Arrival: The sound of the shofar is expected to herald the arrival and coronation of the Messiah, marking the start of his kingdom.
+    The "Great Shofar" (Shofar HaGadol): Referenced in Isaiah 27:13, this is interpreted as the final trumpet blast that will gather the exiles of Israel and signal the end of the age.
+
+our current system requires competence to elect competence - but the people are retarded
+
 
 
 

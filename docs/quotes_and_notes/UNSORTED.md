@@ -235,6 +235,10 @@ https://www.youtube.com/watch?v=C-Q2K0bLuSk
 > "Gaining or losing interest in particular problems or sub-problems is part of the creative process and itself constitutes problem-solving." - [David Deutsch](https://x.com/TOKphysics/status/2052456560392085808)
 
 
+> "If values are truly arbitrary, if any configuration of norms and commitments is as good as any other, then we should expect to find cultures scattered randomly across the space of possible value systems. We don’t. We find something much more interesting: enormous variation in content, but strong convergence on certain structural features. Nearly all functioning cultures develop reciprocity norms, status hierarchies, kinship systems, and mechanisms for managing intra-group conflict. The content of these structures varies wildly. The presence of these structures does not... The space of all possible value configurations is astronomically large. The space of functional value configurations is vanishingly small." - [Values Are Neither Universal Nor Arbitrary: An Adjacent Possible alternative, by Jim Rutt](https://jimrutt.substack.com/p/values-are-neither-universal-nor)
+
+
+
 instead of creators monetizing attention and competing with one another to say the same things but in a better packaged way, we should be pooling money in a common pool and then redistributing it based on simply voting who contributed the most with their weights in sorting the signal from the noise, and then either incentivise content creators to make videos on those crowdsourced rankings, or even use AI
 
 Reputationalizing expertise instead of simply monetizing
@@ -3536,8 +3540,6 @@ If we get the truth machine right everything else will fall into its place
 Each and everyone of us is a wave of experience and a perspective of integration - how do we sync up and enter into resonance better?
 
 What if consequences for being wrong scales with influence?
-
-"Dar al-Islam" and "Dar al-Kufr" are terms used in Islamic jurisprudence to divide the world into two spheres: the "House of Islam" and the "House of Disbelief" (or "House of War"). Dar al-Islam refers to territories where Muslim rule and Islamic law prevail, while Dar al-Kufr (also sometimes called Dar al-Harb) refers to territories where non-Islamic rule and laws are dominant. 
 
 Voluntary/invitation leadership
 
