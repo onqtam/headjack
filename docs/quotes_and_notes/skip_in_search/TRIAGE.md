@@ -1604,11 +1604,6 @@ My life is not mine - it's yours, and you are me - you and me are the same
 
 Coherence around truth - that’s collective consciousness
 
-I’ve come to terms with death, although I do have hope
-TODO use the quote from Sheldon
-
-“The farewell”
-
 not all dollars in the GDP are of equal value - we ought to prioritize sectors strategically
 
 we've forced explainers (aka youtubers) to also try to become viral because otherwise they wouldn't reach anybody much lest who they ought to, and we rank them based on virality instead of truthfulness
@@ -1654,7 +1649,6 @@ I am ready to be Streisand’ed if necessary
 
 We need a shared and open trust layer in society
 
-The sheldom solomon quote about coming to terms with death
 "Come to terms with death. Thereafter anything is possible." - Sheldon Solomon
 
 Imagine a global slider “public truth” - imagine being able to crank it higher
@@ -3813,6 +3807,7 @@ We are all wrestling with god if god is the truth - whether we realize it or not
     https://share.google/aimode/2RTW1AH8a7knbITgq
     https://www.biblegateway.com/passage/?search=Genesis%2032%3A22-32&version=NIV
     https://en.wikipedia.org/wiki/Jacob_wrestling_with_the_angel
+    Struggling with God (or "wrestling with God") refers to a deep, active, and often difficult personal engagement with faith, characterized by questioning God, grappling with doubts, or protesting life's challenges. Far from being a sign of weak faith, it is viewed as a honest, transformative, and often necessary process of spiritual maturity that mirrors the biblical story of Jacob, who was renamed Israel—meaning "one who struggles with God". 
 jews see themselves not as having made the choice - they had no choice - God chose them
 maybe just give up on this jew thing - you don't know enough and this is a bad idea - or not?
 A "Closed" Covenant: Judaism is considered an ethno-religious, tribal identity. It is a covenant intended specifically for the Jewish people.
@@ -3824,8 +3819,6 @@ Literal Meaning: Tikkun means repair or improvement, while Olam means world.
 Tzedakah is a Hebrew term frequently translated as charity, but it literally means "justice" or "righteousness". It is a mandatory Jewish obligation (mitzvah) to give 10% to 20% of one's income to those in need, rather than a voluntary act of kindness. It is considered a fundamental, continuous act of fairness aimed at repairing the world.
     Mitzvah: A commandment or religious duty.
     Tikkun Olam: Often linked, it means "repairing the world".
-
-
 
 the best way to reveal god is to represent him (aka truth) as fully/completely/comprehensively as possible
 
@@ -4085,6 +4078,7 @@ The Coming of the Kingdom of God
     https://www.biblegateway.com/passage/?search=Luke%2017&version=NIV#en-NIV-3305
     20 Once, on being asked by the Pharisees when the kingdom of God would come, Jesus replied, “The coming of the kingdom of God is not something that can be observed,
     21 nor will people say, ‘Here it is,’ or ‘There it is,’ because the kingdom of God is in your midst.”
+    Luke 17:21
 
     Based on Luke 17:20-21, Jesus states that the kingdom of God does not arrive with visible, physical spectacle (like castles or locations), but rather exists silently and internally within individuals or in the midst of them. It signifies God’s reign in hearts rather than a geographical location, often interpreted as the presence of the Holy Spirit or Jesus himself among his followers.
 
@@ -4095,7 +4089,7 @@ from AI:
     Cultural/Biblical Usage: The city is a central focus in the Bible, symbolizing God's presence, the heart of the Davidic kingdom, and a site of redemption.
     https://share.google/aimode/VFxv22ALARBZXSS4S
 
-Maybe a party in the us should form with such internal governance
+Maybe a party in the US should form with such internal governance
 Whatever comes put of a politician’s mouth should be downstream from such a collective intelligence
 Within identity self governing politics
 
@@ -4109,6 +4103,8 @@ Our collective identity is of the people who have thought about identity the mos
 We are the most collectively conscious and self-aware because we actually know what consciousness and collectivism are about and we are the most familiar with self-awareness and self-reference - so “being the most collectively conscious” is not just something that sounds good but is actually fundamentally true.
 our identity is big in that it tries to expand to as many people as possible, and it is small in that it tries to keep only a few core pillars stable - and even they aren't supposed to be dogmatic - we are flexible to change our minds - we don't identify with the majority of our opinions/beliefs/ideas. We focus on the fundamental universals. We update our beliefs when presented with good arguments - unlike most other people who protect their unexamined and tribal identity and sense of self along with the social standing in their community. Others take the easy and safe way out when they're being challenged - they dismiss or rationalize away anything that conflicts with their current beliefs. They sometimes resolve this cognitive dissonance by doubling down on their prior beliefs and they end up even reinforced - A.K.A. the backfire effect. We all know someone like that - and sometimes it's even YOU!
 being wrong is not bad and to be avoided - in fact it's great! it's an opportunity for growth!
+our tribal identity is one of constructively critiquing ourselves
+    constructive self critique
 
 > "The better we get at getting better, the faster we will get better." - [Douglas Engelbart](https://en.wikiquote.org/wiki/Douglas_Engelbart)
 
@@ -4116,6 +4112,8 @@ being wrong is not bad and to be avoided - in fact it's great! it's an opportuni
 we should improve how we improve
 
 Information is the fundamental unit of reality
+
+have you ever witnessed a trainwreck without any accountability? bad policies sometimes for multiple decades before any concerns start getting addressed? show of hands - also covid-like failure without naming it, and other collosal failures
 
 Are we the baddies?
 
@@ -4157,6 +4155,7 @@ And you know what? I’m also god! Because I’m housing the most integrated sto
 in my head is the most complete representation of the architecture that would best represent god through your ability to best represent yourself!
 Its me! Im the One! This is the best you’re gonna get!
 Dmt is the holy spirit - they dont call it the spirit molecule without reason or 5meo the god molecule
+    I've made 0 supernatural claims and this is the only thing about which I don't know what to think
 I began talking to him - idk if anyone is really listening, but i don’t know that nobody is listening either. And the more I talk to him - the more I think about him and the more real he becomes.
 It felt like there was some kind of presence - i’ve never felt that during any trip and this happened 1-2 hours after i had smoked anything
 I believe that once every few thousand years comes along someone with divine inspiration and changes the world forever - someone larger than life
@@ -4342,6 +4341,7 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt2348030
 Hell is hurting the thing you love the most without even realizing it - imagine hurting god and truth in your misguided pursuit of truth
     everyone wants to be good but they can be swindled/deceived
 Hell is hurting god & truth while serving truth
+hell is being a useful idiot - being taken advantage of
 Truth, goodness & beauty
 Billions are in hell on earth right now - I hate their ideology because I love them
 I believe they can and must change their beliefs
@@ -4357,8 +4357,6 @@ Only Right can make a Might that can defeat any other might that makes right - t
 when you saturate yourself with distractions and entertainment, you don't leave space for god to speak to you, which happens mostly when you're bored. 
 
 I submit to deepening my understanding - that’s the only way to serve god and come closer to him
-
-the biggest question is how to ask better questions
 
 I should be your example - example as a service
 
@@ -4485,6 +4483,9 @@ we need a system in which looking out for the reputation of an organization is s
 “A joke is a very serious thing.” ― Winston S. Churchill
 
 At one point I realized that I should dial the insanity to insane levels - my goal is to grab your attention and to replicate in your mind
+    let's go off the rails - this episode is different
+    we're going off the rails - this episode is different
+        "Going off the rails" means to lose control, behave in an erratic or unacceptable manner, or for a plan/project to go disastrously wrong, akin to a train leaving its tracks. It implies a significant, chaotic deviation from the expected path.
 
 You should give till it hurts only to entities that are fully transparent and competent and themselves give till it hurts - otherwise you shouldn’t feel an obligation
 
@@ -5307,8 +5308,6 @@ Design is about how something works - steve jobs quote
 Everything can be designed - and the most intelligent designer will be the collective intelligence of god - god wants information processing to be centralized
 
 
-Conservative also in another way - chesterton’s fence - christianity
-
 Clap like the joker at the cia’s failure
 
 Philosopher king hat
@@ -5665,6 +5664,7 @@ Appeal to dynamic stability and talk about death
 Vote with a weight depending on your contribution to gdp
 
 README - This could also be my tombstone lol
+> "They will condemn him to death..." - [Mark 10:33](https://www.biblegateway.com/passage/?search=Mark%2010)
 
 The capacity for Comparison should be a fundamental human right
 
@@ -6093,36 +6093,79 @@ Platonic Representation Hypothesis
 our shared reality & agency are breaking down
 
 vector embeddings for deduplicated concepts
+this is the most important problem in the world - it is the prerequisite to everything else - the conscillience of god
+I don't know how exactly to solve it - IEML, semantic web (it mostly failed), neural nets, formal logic - and it can be solved partially or in different ways - but this is THE SINGLE MOST IMPORTANT PROBLEM in the world - the prerequisite to cosmic order
 
-messianic prophecies in judaism:
-    - Build the Third Temple (Ezekiel 37:26–28).
-    - Gather all Jews back to the Land of Israel (Isaiah 43:5–6).
-    - Usher in an era of world peace, and end all hatred, oppression, suffering and disease. As it says: "Nation shall not lift up sword against nation, neither shall man learn war anymore." (Isaiah 2:4)
-    - Spread universal knowledge of the God of Israel, which will unite humanity as one. As it says: "God will be King over all the world―on that day, God will be One and His Name will be One" (Zechariah 14:9).[98]
-
-    > "Nation will not take up sword against nation, nor will they train for war anymore." - [Isaiah 2:4](https://www.biblegateway.com/passage/?search=Isaiah%202&version=NIV#en-NIV-3305)
-
-    > "The Lord will be king over the whole earth. On that day there will be one Lord, and his name the only name." - [Zechariah 14:9](https://www.biblegateway.com/passage/?search=Zechariah%2014&version=NIV#en-NIV-3305)
-
+our current system requires competence to elect competence - but the people are retarded
 
 "Dar al-Islam" and "Dar al-Kufr" are terms used in Islamic jurisprudence to divide the world into two spheres: the "House of Islam" and the "House of Disbelief" (or "House of War"). Dar al-Islam refers to territories where Muslim rule and Islamic law prevail, while Dar al-Kufr (also sometimes called Dar al-Harb) refers to territories where non-Islamic rule and laws are dominant. 
 the house of islam and the house of war
 > "Muhammad created the concept of [Umma](https://en.wikipedia.org/wiki/Ummah), or Muslim identity: We’re all the same, we’re all together, we should like each other and not fight each other. He created a meta-identity above that of clans, promoting their union." - [How Did Islam Spread So Fast? by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/how-did-islam-spread-so-fast)
 ^^ this is the same we're doing here
 
-I am the Mahdi
-    The Mahdi ("the Rightly Guided One") is a messianic figure in Islamic eschatology believed to appear at the end of time to eliminate tyranny, restore justice, and establish a golden age. He is prophesied to be a descendant of Prophet Muhammad who will rule for several years before the Day of Judgment.
+"All is One"
+    In Hermetic philosophy, the concept that "All is One" signifies that ultimate reality—often referred to as THE ALL, God, the Mind, or the One—is a single, unified, and divine consciousness that constitutes everything that exists. This philosophy is both monistic (all is one substance) and often panentheistic (all is in God, but God also transcends the universe)
+    - THE ALL is Mind: As stated in The Kybalion, "The All is Mind; the Universe is Mental". This implies that all existence is a mental creation of the Absolute.
+    - Immanence and Transcendance: God is both the Creator of the All and the All itself—the substance of the cosmos and the governing principle. While the All is in everything, it is equally true that everything is in the All.
+    - The Universe as a Mental Image: The Divine creates the universe internally through its Mind, similar to how humans create mental images.
+    - As Above, So Below: This famous axiom from The Emerald Tablet dictates that the macrocosm (universe) and microcosm (humanity) are interconnected, reflecting the same unified laws.
+    - Oneness of Good: The Corpus Hermeticum highlights that God is the same as the "Good" and is the source of all things, stating that God gives all things and receives nothing.
+    - The Illusion of Separation: While separation seems real to human perception, Hermeticism teaches that, in the mind of the All, this separation is an illusion.
+    https://en.wikipedia.org/wiki/The_Kybalion
 
-jewish messiah - comes with a shofar sound
-    A shofar is an ancient musical instrument made from a ram’s horn, used in Jewish ritual for Rosh Hashanah and Yom Kippur. It is typically blown in synagogues during the High Holidays to signify repentance, reflection, and the Jewish New Year.
-    https://www.youtube.com/watch?v=9ht0ailWQf8
-    The shofar is a prophetic instrument used in Jewish tradition to herald the coming of the Messiah, signal the final redemption, and wake souls to repentance. It symbolizes the voice of God, the binding of Isaac, and the giving of the Torah, with its final blast signaling the resurrection of the dead.
-    The shofar acts as a "prophetic cry" between the first giving of the law and the final return of the Messiah, serving as a reminder of God's authority and promises.
-    Signaling Arrival: The sound of the shofar is expected to herald the arrival and coronation of the Messiah, marking the start of his kingdom.
-    The "Great Shofar" (Shofar HaGadol): Referenced in Isaiah 27:13, this is interpreted as the final trumpet blast that will gather the exiles of Israel and signal the end of the age.
+As above, so below
+That which is above is like to that which is below, and that which is below is like to that which is above.
+https://en.wikipedia.org/wiki/As_above,_so_below
+"As above, so below" is an ancient Hermetic aphorism meaning the spiritual/heavenly realm ("above") mirrors the physical/earthly realm ("below"), and vice versa.
+!!! my twist: the similarities between different levels of self-organization & complexification
+II. The Principle of Correspondence.
+"As above, so below; as below, so above"– The Kybalion.
+This Principle embodies the truth that there is always a Correspondence between the laws and phenomena of the various planes of Being and Life.
 
-our current system requires competence to elect competence - but the people are retarded
+I swear that I'm telling the truth, the whole truth, and nothing but the truth.
+    hold your hand - take oath
+
+the barbarians are within the gates
+
+We must unite the secular with the judeo-christian world and any other culture that is compatible and then help all others to see the light - there's no need for reeducation/extermination camps and organ harvesting if people can convert to your side on their own accord through persuasion
+    this system will pull to the surface all of the ugliness for the world to see - and it will dissipate
 
 
+> "... many who are first will be last, and the last first." - [Mark 10:31](https://www.biblegateway.com/passage/?search=Mark%2010)
+
+> "The only salvation for civilization and the human race lies in the creation of a world government, with security of nations founded upon law." — Albert Einstein (1945)
+We'll finish Einstein's work - he unified mass and energy (with e=mc^2) and died trying to unify humanity through world governance. When you break the atom, you must integrate the nations. We are completing that equation - taking Einstein’s science to its final, logical political conclusion. Mass and energy are one, and so are we. [One World or None](https://en.wikipedia.org/wiki/One_World_or_None#One_World_or_None_(book)). He unlocked the power of the universe and we're going to tame it. Remember your humanity, and forget the rest. Look at this pale blue dot all alone in the vastness of space - all the petty infighting has to end. And I'm not talking about the UN.
+"Federal Constitution of the World"
+^^ TODO: Clarify the unity of matter & energy
+
+the biggest question is how to ask better questions
+The greatest question is how and which questions to ask
+The greatest question is which questions to ask
+
+the most progressive thing is to understand what progress is
+
+any of our problems can be traced to ignorance and/or lies
+
+most religions suffer from being hostage to dogmatism
+
+markets = prices (information) + profits (incentives) + capital markets (resource mobilization)
+
+kids are not supposed to memorize facts like a fucking punchcard
+
+
+
+
+
+We are dreaming "the person" we Believe ourselves to be!..
+Slowly open your minds eye and see yourself, and then you can control the dream! 
+
+we don't have souls - souls have us
+
+I'm in the business of connecting dots
+    show infographic with information/knowledge/wisdom/etc.
+
+"the system wants to teach you about itself"
+
+the universe pretending to be individuals
 
 

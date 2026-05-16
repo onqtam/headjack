@@ -15,6 +15,22 @@ https://arxiv.org/abs/2512.01081
 Opportunities and Risks of LLMs for Scalable Deliberation with Polis
 https://arxiv.org/abs/2306.11932
 
+Cognitive glues are shared models of relative scarcities: the economics of collective intelligence Open Access
+https://royalsocietypublishing.org/rsta/article/384/2320/20240528/481688/Cognitive-glues-are-shared-models-of-relative
+
+Topological constraints on self-organization in locally interacting systems
+https://royalsocietypublishing.org/rsta/article/384/2320/20250011/481703/Topological-constraints-on-self-organization-in
+
+Brains and where else? Mapping theories of consciousness to unconventional embodiments
+https://royalsocietypublishing.org/rsta/article/384/2320/20250082/481686/Brains-and-where-else-Mapping-theories-of
+
+The Causally Emergent Alignment Hypothesis: Causal Emergence Aligns with and Predicts Final Reward in Reinforcement Learning Agents
+https://arxiv.org/abs/2605.06746
+
+COLLECTIVE INTELLIGENCE: Creating a Prosperous World at Peace
+https://libros.metabiblioteca.org/server/api/core/bitstreams/d8bc08aa-c0c8-420b-9d20-95c0ffefe6b3/content
+https://cdn.ymaws.com/www.scip.org/resource/resmgr/White_Papers/tovey-collective-intelligenc.pdf
+
 The explanatory nature of constraints: Law-based, mathematical, and causal
 https://philsci-archive.pitt.edu/18504/
 https://philsci-archive.pitt.edu/18504/1/Constraints_Ross.pdf
@@ -173,6 +189,8 @@ https://x.com/CernBasher/status/1984286504596726061
 
 
 
+> "Without error-correction all information processing, and hence all knowledge-creation, is necessarily bounded. Error-correction is the beginning of infinity." - [David Deutsch](https://x.com/TOKphysics/status/2054359652935028825)
+
 
 Realizing the Potential of Community-led, Science-driven Participatory Complex Systems Modeling
 https://www.youtube.com/watch?v=C-Q2K0bLuSk
@@ -189,6 +207,7 @@ https://www.youtube.com/watch?v=C-Q2K0bLuSk
 
 > "The growth of knowledge depends entirely upon disagreement." - [Karl Popper](https://www.azquotes.com/quote/1268891)
 
+> "Theories are nets cast to catch what we call ‘the world’: to rationalize, to explain, and to master it. We endeavor to make the mesh ever finer and finer." - [Karl Popper](https://x.com/TOKphysics/status/2054093447892492577)
 
 > "The main instigation for the search of truth is really that we see new problems. The discovery of new problems can be more important than the solution of the problems. I think this is perhaps the most important thing in science and is the result of an attitude which does not go for certainty, but goes for where we fail for the uncertainty. There are the problems where we do not find satisfaction and certainty. There we should go on digging." - [Karl Popper](https://x.com/QuotePopper/status/2039124962091442293)
 
@@ -6022,9 +6041,9 @@ Use the NPC meme where someone is installing new mental OS and how we should do 
 
 
 We are more justifying than rational - we are motivated reasoners
-
 All reasoning is motivated
 Motivation is energised by particular values
+> "The enemy of truth is motivated reasoning." - [Naval](https://x.com/naval/status/2054511429336601043)
 
 
 

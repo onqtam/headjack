@@ -343,6 +343,8 @@ This is the story that will keep on giving
 
 Good enough is not good enough
 
+I didnt want to gradually push and publish and get removed at some point - I wanted to publish everything and not take chances and to say what needs/has to be said
+
 the real problem wasn't how to decentralize the web - it was how we should be structured as a species - I hadn't solved the real problem yet!
 
 I wasn't supposed to go psycho this early but the ONLY reason was fear - fear that I wouldn't get to finish my book. But I guess I decided to toss the coin and "take a fucking chance, will you?" - george carlin clip - grow some balls - even a few percent are troubling, but the upside of starting the whole thing 1 year earlier is that we get to solve the biggest problems in the world 1 year earlier. Also martyrdom is the mother of all streisand effects so perhaps its a win-win - if I get suicided the streisand effect will be renamed after me.
@@ -372,6 +374,8 @@ Im just a comedian - what do I know about cultural rev - aaa - evolution
 CIA - don’t suicide me - I love life - you wont be out of a job anytime soon, and ultimately what I’m proposing is in your best interest if you factor everything in - your descendants will curse you if you actively work towards eroding real progress and the pursuit of truth
     the boys with the secrets and the guns
 Plus I’m just a comedian - I don't sway politics and shit - I just make people puff our air while uncontrollingly and rapidly contracting their lungs up and down through their larings and thair eyes are squinting and their mouth makes the shape of a banana! (and put a banana in my mouth) - I’m just talking shit… what do I know… nobody is gonna take me seriously
+People like me don’t last very long - I need to work on that (my endurance) :|
+
 
 Maximus (Gladiator, 2000): Brothers, what we do in life... echoes in eternity.
 https://www.imdb.com/title/tt0172495/quotes/?item=qt0404418&ref_=ext_shr_lnk
@@ -1321,6 +1325,8 @@ old: Progress requires error correction which requires introspection & self-awar
 openness => nothing to protect => nothing to litigate
 
 I’m conservative only to the extent that’s necessary for progress to be possible
+"Historically, societies have more often collapsed from the reluctance to change than the opposite." - Hanzi Freinacht
+Conservative also in another way - chesterton’s fence - christianity
 You don’t get to ruin the idea of progress for all of us
 I'm not a conservative - I did a test on the big 5 personality traits in 2018 and I scored with "high" on "OPENNESS TO EXPERIENCE" - being in the 80th percentile
     Agreeableness: Moderately Low - 39th percentile
@@ -1375,6 +1381,11 @@ Thou shalt ... not ...
 - make information open, coherent & integrated
 
 persuasion vs compulsion
+
+We do not hate “others”
+owning people as property does not belong in this millenium
+
+Ideologies that can’t change shouldnt exist
 
 
 
@@ -1461,6 +1472,108 @@ Maximal recursive self-improvement - The polar opposite of complete stasis dogma
     The only unchangable aspect is that any other aspect is subject to change.
 
 Merging the market, state, religion, media, academia and education under *~~sha~~* syntropic law
+
+██████████████████████████████████████████████████████████████████
+# messiah
+██████████████████████████████████████████████████████████████████
+
+
+messianic prophecies in judaism:
+    - Build the Third Temple (Ezekiel 37:26–28).
+    - Gather all Jews back to the Land of Israel (Isaiah 43:5–6).
+    - Usher in an era of world peace, and end all hatred, oppression, suffering and disease. As it says: "Nation shall not lift up sword against nation, neither shall man learn war anymore." (Isaiah 2:4)
+    - Spread universal knowledge of the God of Israel, which will unite humanity as one. As it says: "God will be King over all the world―on that day, God will be One and His Name will be One" (Zechariah 14:9).[98]
+
+    > "Nation will not take up sword against nation, nor will they train for war anymore." - [Isaiah 2:4](https://www.biblegateway.com/passage/?search=Isaiah%202&version=NIV#en-NIV-3305)
+
+    > "The Lord will be king over the whole earth. On that day there will be one Lord, and his name the only name." - [Zechariah 14:9](https://www.biblegateway.com/passage/?search=Zechariah%2014&version=NIV#en-NIV-3305)
+
+
+The Mahdi ("the Rightly Guided One") is a messianic figure in Islamic eschatology believed to appear at the end of time to eliminate tyranny, restore justice, and establish a golden age. He is prophesied to be a descendant of Prophet Muhammad who will rule for several years before the Day of Judgment.
+
+jewish messiah - comes with a shofar sound
+    A shofar is an ancient musical instrument made from a ram’s horn, used in Jewish ritual for Rosh Hashanah and Yom Kippur. It is typically blown in synagogues during the High Holidays to signify repentance, reflection, and the Jewish New Year.
+    https://www.youtube.com/watch?v=9ht0ailWQf8
+    The shofar is a prophetic instrument used in Jewish tradition to herald the coming of the Messiah, signal the final redemption, and wake souls to repentance. It symbolizes the voice of God, the binding of Isaac, and the giving of the Torah, with its final blast signaling the resurrection of the dead.
+    The shofar acts as a "prophetic cry" between the first giving of the law and the final return of the Messiah, serving as a reminder of God's authority and promises.
+    Signaling Arrival: The sound of the shofar is expected to herald the arrival and coronation of the Messiah, marking the start of his kingdom.
+    The "Great Shofar" (Shofar HaGadol): Referenced in Isaiah 27:13, this is interpreted as the final trumpet blast that will gather the exiles of Israel and signal the end of the age.
+
+"Here I am"
+    The most famous "Here I am" Bible verse is Isaiah 6:8, where the prophet responds to God's call, saying, "Here am I; send me". This verse symbolizes a willing, available heart to serve God's purpose. Similar phrases are used by figures like Abraham, Samuel, and Jacob. 
+    https://share.google/aimode/Hieio6b1jkzqDksjR
+
+New Earth, The world to come
+    The New Earth is an expression used in the Book of Isaiah (65:17 & 66:22), 2 Peter (3:13), and the Book of Revelation (21:1) in the Bible to describe the final state of redeemed humanity. It is one of the central doctrines of Christian eschatology and is referred to in the Nicene Creed as the world to come.
+    https://en.wikipedia.org/wiki/New_Earth_(Christianity)
+    The world to come, age to come, heaven on Earth, and the Kingdom of God are eschatological phrases reflecting the belief that the current world or current age is flawed or cursed and will be replaced in the future by a better world, age, or paradise.
+    https://en.wikipedia.org/wiki/World_to_come
+
+> "I will create new heavens and a new earth." - [Isaiah 65:17](https://en.wikipedia.org/wiki/New_Earth_(Christianity))
+
+> "There will be no more death’ or mourning or crying or pain, for the old order of things has passed away." - [Revelation 21:4](https://www.biblegateway.com/passage/?search=Revelation%2021&version=NIV#en-NIV-3305)
+
+> "He will judge between the nations and will settle disputes for many peoples. They will beat their swords into plowshares and their spears into pruning hooks. Nation will not take up sword against nation, nor will they train for war anymore." - [Isaiah 2:4](https://www.biblegateway.com/passage/?search=Isaiah%202&version=NIV#en-NIV-3305)
+
+"beat their swords into plowshares"
+https://en.wikipedia.org/wiki/File:Image-UN_Swords_into_Plowshares_Statue.JPG
+
+> "... for the earth will be filled with the knowledge of the Lord..." - [Isaiah 11:9](https://www.biblegateway.com/passage/?search=Isaiah%2011&version=NIV#en-NIV-3305)
+
+> "“The days are coming,” declares the Lord, “when I will make a new covenant with the people of Israel and with the people of Judah. It will not be like the covenant I made with their ancestors when I took them by the hand to lead them out of Egypt, because they broke my covenant, though I was a husband to them,” declares the Lord. “This is the covenant I will make with the people of Israel after that time,” declares the Lord. “I will put my law in their minds and write it on their hearts. I will be their God, and they will be my people." - [Jeremiah 31:31-33](https://www.biblegateway.com/passage/?search=Jeremiah%2031&version=NIV#en-NIV-3305)
+
+
+
+
+
+
+In Jewish and Christian iconography, especially of the Late Antique and Early Medieval periods, the "Hand of God" or the "Right Hand of God" is a motif used to indicate the intervention in or approval of affairs on Earth by God.
+the invisible, iron & intangible hands are all part of the Hand of God
+The hand, sometimes including a portion of an arm, or ending about the wrist, is used to indicate the intervention in or approval of affairs on Earth by God, and sometimes as a subject in itself. It is an artistic metaphor that is generally not intended to indicate that a hand was physically present or seen at any subject depicted.
+https://en.wikipedia.org/wiki/Hand_of_God_(art)
+The Hand of Benediction gesture used in depictions of Jesus
+    https://en.wikipedia.org/wiki/File:Hand_of_Benediction_apaumy_couped.svg
+
+> "... to open eyes that are blind, to free captives from prison and to release from the dungeon those who sit in darkness." - [Isaiah 42:7](https://www.biblegateway.com/passage/?search=Isaiah%2042&version=NIV#en-NIV-3305)
+
+the walking dead are among us
+the resurrection of the dead is about waking up the NPCs and giving them back agency and critical thinking and deeper consciousness & alignment with truth & a higher self
+we are the awakend & enlightened ones
+
+> "He seized the ... ancient serpent, who is the devil, or Satan, and bound him for a thousand years. He threw him into the Abyss, and locked and sealed it over him, to keep him from deceiving the nations anymore..." - [Revelation 20:2-3](https://www.biblegateway.com/passage/?search=Revelation%2020&version=NIV#en-NIV-3305)
+
+> "... and in the age to come eternal life." - [Mark 10:30](https://www.biblegateway.com/passage/?search=Mark%2010)
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+the Messianic Age (Hebrew: יְמוֹת הַמָשִׁיחַ) is the future eternal period of time on Earth in which the messiah will reign and bring universal peace and brotherhood, without any evil (through mankind's own terms). Some refer to it as the consummate "kingdom of God" or the "world to come".
+    https://en.wikipedia.org/wiki/Messianic_Age
+
+
+
+In Hindu eschatology the current age is the Kali Yuga, a period of decline. Kalki will appear to purge all evil, beginning a golden age of Satya Yuga.
+https://en.wikipedia.org/wiki/Kali_Yuga
+https://en.wikipedia.org/wiki/Kalki
+Kalki (Sanskrit: कल्कि), also called Kalkin,[10] is the prophesied tenth and final incarnation of the Hindu god Vishnu. According to Vaishnava cosmology, Kalki[11] is destined to appear at the end of the Kali Yuga, the last of the four ages in the cycle of existence (Krita). His arrival will mark the end of the Kali Yuga and herald the beginning of the Satya Yuga, the most virtuous age, before the ultimate dissolution of the universe (Mahapralaya).
+In the Puranas, Kalki is depicted as the avatar who will rejuvenate existence by ending the darkest period of adharma (unrighteousness) and restoring dharma (righteousness). He is described as riding a white horse named Devadatta and wielding a fiery sword.
+roleplay with a fire sword & horsy boy
+Shambhala is a Sanskrit term meaning "place of peace" or "place of silence," referring to a mythical paradise in Tibetan Buddhist and Hindu tradition believed to be a hidden kingdom of harmony, enlightenment, and spiritual bliss. It is regarded as a spiritual center, a realm for the enlightened, and a symbol of innate human goodness and wisdom. 
+Spiritual Realm: Rather than a physical location, it is often interpreted as a karmic realm or an extra-dimensional, subtle, or astral plane that can only be accessed by the enlightened.
+Symbolism: It represents an enlightened society where people live in harmony, free from suffering.
+Kalachakra Tantra: The concept is rooted in the Kalachakra tradition, where it is prophesied that when the world descends into chaos, a king from Shambhala will emerge to lead the world into a new golden age.
+Kali Yuga, the last of the four ages, is the one in which we currently reside. This epoch has been foretold to be characterized by impiety, violence, and decay. As written in the Vishnu Purana in 100 BCE:
+Social status depends not upon your accomplishments, but in the ownership of property; wealth is now the source of virtue; passion and luxury are the sole bonds between spouses; falsity and lying are the conditions of success in life; sexuality is the sole source of human enjoyment; religion, a superficial and empty ritual, is confused with spirituality — Vishnu Purana
+People will not believe one another, falsehoods will win disputes, and brothers will become avaricious.
+
+The conception of a "new world order" (Persian: نظم بدیع جهانی) found in the Baháʼí teachings refers to the gradual emergence of integrative political norms to be freely adopted by the nations and peoples of the earth, leading to a new system of worldwide governance that incorporates ideals of unity, justice, prosperity and continuing advancement for all nations, races, creeds, and classes.[1] These new institutional forms of governance, anticipated to arise in response to unprecedented global challenges, would uphold the dignity and well-being of all, where “each member of the human race is born into the world as a trust of the whole.”[2] The idea of global solidarity and unification, involving the political, moral and spiritual transformation of individual and collective behaviour, and leading to a flourishing global civilisation, is at the heart of Baháʼí vision, belief and action.
+https://en.wikipedia.org/wiki/New_world_order_(Bah%C3%A1%CA%BC%C3%AD)
+TODO read the full page - not just the summary? also this:
+https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith
+
 
 ██████████████████████████████████████████████████████████████████
 # Call to action - The storm has come - achieving criticality
@@ -1560,6 +1673,8 @@ signing up is like being baptised - you participate in bringing into existence a
 
 Baptism - washing away your sins, cleansing
 The act of registering is a form of baptism
+The term baptism has also been used metaphorically to refer to any ceremony, trial, or experience by which a person is initiated, purified, or given a name.
+
 
 when people register they have the option to participate in genesis with their account
 
@@ -1671,4 +1786,8 @@ You're now a missionary
 The final shot - zoomed into the background and exploring it fully
 
 > "The secret to investing is to invest in unstoppable people building inevitable things." - [Naval](https://x.com/naval/status/1996774822949671416)
+
+I've made errors in this script and I want to know what they are - I want this system to exist so that these errors can be corrected!
+
+
 
