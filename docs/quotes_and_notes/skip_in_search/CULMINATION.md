@@ -505,6 +505,12 @@ Examples and Components:
 
 <!-- understanding is quantified by its (logical consistency) coherence with everything relevant, and depth -->
 
+██████████████████████████████████████████████████████████████████
+# self
+██████████████████████████████████████████████████████████████████
+
+We are dreaming "the person" we believe ourselves to be
+we don't have souls - souls have us
 
 ██████████████████████████████████████████████████████████████████
 # postmodernism & progressivism

@@ -1920,7 +1920,7 @@ I am no man - i am dynamite
 
 Justice as a service
 
-This is the greatest truth ever told
+This is the greatest truth/story ever told
 
 This mr andersen is inevitability
 
@@ -6152,20 +6152,69 @@ markets = prices (information) + profits (incentives) + capital markets (resourc
 
 kids are not supposed to memorize facts like a fucking punchcard
 
+content vs structure
+you're so focused on the content that you've missed the structure! the medium is the message!
+you've missed the forrest for the trees!
 
+roleplay asking a mac mini - hey claude are you conscious? are you intelligent?
 
+a totalitarian surveillance state the likes of which we've never seen is coming - unless we change course / do this
 
+There is such a thing as an ideal platonic personality (which will be different depending on the times we live in) that we should all aspire to find and become
 
-We are dreaming "the person" we Believe ourselves to be!..
-Slowly open your minds eye and see yourself, and then you can control the dream! 
+Self-control - individual and collective - that's the game
 
-we don't have souls - souls have us
+We need to redefine the flows of value
+
+If you think you’re on the side of truth - then you’re on our side and (maybe) we are on yours
+
+MrBeast is the GOAT of attention - even if everything he does is maybe net negative - perhaps his real contribution is teaching us about attention
+Roleplay show a goat picture
+
+We will moralize moralization/moralizing
+
+Significance as a service
+
+Extraordinary claims require extraordinary evidence - symmetry!!!
+
+Representational escape velocity
+
+How to make it more relevant to people to be more relevant as people?
+
+“Platonic Journey”
+Platonic compression/integration
+
+Roleplay - as you’re reading from the script on camera gradually start looking at the camera while talking and continue your lines and say “did you really think I’m just going to continue reading and not go the extra mile?!”
+
+Please - not the head - I want my grey matter intact in a jar - you’re gonna go for the head now, aren’t you :/ FUCK !!!
+
+Welcome to the end game and the beginning of infinity
+
+Goodness is about right action and thus cowardice can’t be good - it’s not cowardice to convert under gunpoint but it is cowardice if the consequences to telling or doing the right thing aren’t existential - I’m not saying its easy to determine where that line is
+And I know you don’t want to be a bad person.
+If you’re a coward you are a bad person - and you don’t want to be bad, correct?
+TODO cowardice definition
+
+I hate bad ideologies more than I love my own life - all because of my love of their victims and life in general - God is the greatest
+This is my 80/20 - 80% of my contribution/impact to life in this part of the galaxy is already in the bag and the other potential 20%  would take me decades and so releasing this now instead of after 1-2 more years is the right call. I economized my life
+
+Seize the means of indoctrination
+
+A society that can’t reproduce itself is a capital F Failure
+
+This will takeover the world - this is true even if only time will prove it - this is the only thing you should believe
+
+YHWH (Yahweh) is the greatest!
+Prophet Muhammad did not rename Yahweh to Allah. "Allah" is not a name exclusive to Islam; it is the standard Arabic word for "God". Arabic-speaking Jews, Christians, and Muslims all use "Allah" when referring to the Creator.
+
+Does the USA want me? Can I get an H1B? Do I qualify as high-skilled immigration? Balaji has written off the disunited states as doomed - I haven’t.
 
 I'm in the business of connecting dots
     show infographic with information/knowledge/wisdom/etc.
 
-"the system wants to teach you about itself"
+the system wants to teach you about itself
+
+Our minds & consciousness are localized coherence and recombination reactors and the culture/noosphere is the grid of integration
 
 the universe pretending to be individuals
-
 
