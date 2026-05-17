@@ -3558,7 +3558,7 @@ The best way for your in group to grow is to align itself with truth - to worshi
 representational injection/transmission in a lossless way
 
 Sock-puppet accounts - roleplay cutting the socks with scissors
-Sock puppet - go ape shitnkn them - torch/cut/piss
+Sock puppet - go ape shit on them - torch/cut/piss
 We’ll be able to prove the nationality of most/all members of a media organization - so no Qataris making YouTube videos with their YT account saying they’re based in the USA
 
 Submission to error correction - what is error correction but simply recognizing which path was wrong and where t backtrack? Isn’t that motivated exploration and intelligence?
@@ -3781,7 +3781,7 @@ Roleplay: i can see in my mind’s eye how the system gets bootstrapped and our 
 Money is not wealth and the way to generate wealth is not neecessarily the same as making money - money is just a story and we need to keep improving our technology for flow - currents! currencies!
 
 I want to have kids and to wipe shit and piss and to not sleep well and to get sick every time they catch some cold and to not have time for myself because by the time they’re into this world my life belongs to them. They would be me. I would be them. We would be one.
-    roleplay being sprinkled with syringe in the face while changing diapers and use nutella to show dirty paper
+    roleplay being sprinkled with syringe in the face while changing diapers and use nutella to show dirty paper - "you little bastard!"
 
 If truth and god are oneness - is judaism true if they’re not about all people being one? The failure of judaism and all prior monotheistic religions is that they are not perpetually self-correcting and adaptable - they are dogmatic. Their man mechanism of correction and evolution is through a prophet that has to meet some kind of criteria and be remarkably impressive - that’s too high of a bar and thus we keep reciting the same old texts in the era of MrBeast (roleplay: salute him - print his face) and TikTok - Jesus wasn’t impressive enough for some Jews- I guess someone needs ti outjesus Jesus!
 The reason there is so much death around jews is that they’re unable to evolve their own story and conception of themselves such that there wouldn’t need to be any conflict in the first place. Its not only their fault, and perhaps it isn’t even mostly because of them but because of the latter, but still they have more capacity to evolve than what they’re facing and thus the moral burden falls on them. By being objectively better than the barbarians they also deserve higher expectations
@@ -5353,6 +5353,7 @@ You can’t put me in a box! - roleplay bursting out of one - am I left wing? or
     you can't put infinity (the infinite) in a box
 the moment you try to put me in a box you've put yourself in the box of someone eagerly putting others in a box in a simplistic way
 the moment you try to put me in a box you've put yourself in the box of someone eagerly & oversimplisticly putting others in a box
+you're a boxhead!
 
 God is all powerful, right? So he can represent himself (what i’m proposing) within himself - the universe
 
@@ -6166,7 +6167,7 @@ Self-control - individual and collective - that's the game
 
 We need to redefine the flows of value
 
-If you think you’re on the side of truth - then you’re on our side and (maybe) we are on yours
+If you’re on the side of truth - then you’re on our side
 
 MrBeast is the GOAT of attention - even if everything he does is maybe net negative - perhaps his real contribution is teaching us about attention
 Roleplay show a goat picture
@@ -6207,14 +6208,18 @@ This will takeover the world - this is true even if only time will prove it - th
 YHWH (Yahweh) is the greatest!
 Prophet Muhammad did not rename Yahweh to Allah. "Allah" is not a name exclusive to Islam; it is the standard Arabic word for "God". Arabic-speaking Jews, Christians, and Muslims all use "Allah" when referring to the Creator.
 
-Does the USA want me? Can I get an H1B? Do I qualify as high-skilled immigration? Balaji has written off the disunited states as doomed - I haven’t.
+Does the USA want me? Can I get an H1B visa? please? pretty please? Do I qualify as high-skilled immigration? Balaji has written off the disunited states as doomed - I haven’t. America HAS to survive.
 
 I'm in the business of connecting dots
     show infographic with information/knowledge/wisdom/etc.
 
 the system wants to teach you about itself
 
-Our minds & consciousness are localized coherence and recombination reactors and the culture/noosphere is the grid of integration
+diversity is our strenght ONLY if we're also coherent and compatible on our most fundamental values and when the diversity can be harnessed in collective intelligence
+Unity is our greatest strength
+also not all traits in which we can be diverse matter that much - diversity in some traits is neutral and provides no benefit and could even cause problems
 
-the universe pretending to be individuals
+
+
+
 
